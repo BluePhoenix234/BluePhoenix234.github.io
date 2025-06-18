@@ -1,0 +1,1896 @@
+[CustomCards]
+	[
+		{
+			"name": "Agronak gro-Malog",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/64_Agronak gro-Malog.jpg"
+			}
+		},
+		{
+			"name": "Gortwog gro-Nagorm",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Orc Warrior Noble",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/93_Gortwog gro-Nagorm.jpg"
+			}
+		},
+		{
+			"name": "Abbot Durak",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Orc Cleric",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/63_Abbot Durak.jpg"
+			}
+		},
+		{
+			"name": "Atub, Largashbur Wise-Woman",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Orc Shaman",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/66_Atub, Largashbur Wise-Woman.jpg"
+			}
+		},
+		{
+			"name": "Aid of the Seventh and Fifteenth",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/65_Aid of the Seventh and Fifteenth.jpg"
+			}
+		},
+		{
+			"name": "Balagog gro-Nolob",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Orc Citizen",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/67_Balagog gro-Nolob.jpg"
+			}
+		},
+		{
+			"name": "Baloth Bloodtusk",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/68_Baloth Bloodtusk.jpg"
+			}
+		},
+		{
+			"name": "Barkbite Champion",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/69_Barkbite Champion.jpg"
+			}
+		},
+		{
+			"name": "Bazrag gro-Fharun",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Creature — Orc Warrior Noble",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/70_Bazrag gro-Fharun.jpg"
+			}
+		},
+		{
+			"name": "Bazul, the River Snake",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Orc Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/71_Bazul, the River Snake.jpg"
+			}
+		},
+		{
+			"name": "Bear Rider Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/72_Bear Rider Vanguard.jpg"
+			}
+		},
+		{
+			"name": "Chief Yamarz",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/75_Chief Yamarz.jpg"
+			}
+		},
+		{
+			"name": "Clan Shaman",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Orc Shaman",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/76_Clan Shaman.jpg"
+			}
+		},
+		{
+			"name": "Coldwind, Might of Wrothgar",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Legendary Snow Creature — Bear Noble",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/77_Coldwind, Might of Wrothgar.jpg"
+			}
+		},
+		{
+			"name": "Courageous Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/80_Courageous Champion.jpg"
+			}
+		},
+		{
+			"name": "Covenant Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/81_Covenant Captain.jpg"
+			}
+		},
+		{
+			"name": "Curator Umutha",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Orc Wizard",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/82_Curator Umutha.jpg"
+			}
+		},
+		{
+			"name": "Determined Initiate",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Orc Wizard",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/83_Determined Initiate.jpg"
+			}
+		},
+		{
+			"name": "Eager Commis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Orc Citizen",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/84_Eager Commis.jpg"
+			}
+		},
+		{
+			"name": "Emmeg gro-Kayra",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Orc Demigod",
+			"collector_number": "85",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/85_Emmeg gro-Kayra_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/85_Emmeg gro-Kayra_front.jpg"
+			}
+		},
+		{
+			"name": "Exarch Braadoth",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/86_Exarch Braadoth.jpg"
+			}
+		},
+		{
+			"name": "Forge-Mother Alga",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Orc Advisor",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/87_Forge-Mother Alga.jpg"
+			}
+		},
+		{
+			"name": "Forge-Wife Nuzava",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Orc Artificer",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/88_Forge-Wife Nuzava.jpg"
+			}
+		},
+		{
+			"name": "Garnag, Brotherhood Survivor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Orc Assassin",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/91_Garnag, Brotherhood Survivor.jpg"
+			}
+		},
+		{
+			"name": "Golkar gro-Igrun",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Orc Noble",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/92_Golkar gro-Igrun.jpg"
+			}
+		},
+		{
+			"name": "Guthrag Stone-Talker",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Orc Advisor",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/94_Guthrag Stone-Talker.jpg"
+			}
+		},
+		{
+			"name": "High Priestess Solgra",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Orc Cleric",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/96_High Priestess Solgra.jpg"
+			}
+		},
+		{
+			"name": "Iron-Orc Beast Tamer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Orc Druid",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/97_Iron-Orc Beast Tamer.jpg"
+			}
+		},
+		{
+			"name": "Iron-Orc Thundermaul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/98_Iron-Orc Thundermaul.jpg"
+			}
+		},
+		{
+			"name": "Kepkajna gra-Minfang",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Orc Rogue",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/99_Kepkajna gra-Minfang.jpg"
+			}
+		},
+		{
+			"name": "Kepkajna's Wedding Dowry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "100",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/100_Kepkajna's Wedding Dowry_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/100_Kepkajna's Wedding Dowry_front.jpg"
+			}
+		},
+		{
+			"name": "Khargol gro-Boguk",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Orc Monk",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/101_Khargol gro-Boguk.jpg"
+			}
+		},
+		{
+			"name": "Khralek gro-Vortag",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Orc Warlock",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/103_Khralek gro-Vortag.jpg"
+			}
+		},
+		{
+			"name": "Khartag, Freedom Smuggler",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Orc Warrior Soldier",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/102_Khartag, Freedom Smuggler.jpg"
+			}
+		},
+		{
+			"name": "King Durak gro-Batul",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Orc Soldier Noble",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/104_King Durak gro-Batul.jpg"
+			}
+		},
+		{
+			"name": "King Kurog gro-Bagrakh",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Orc Warrior Noble",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/105_King Kurog gro-Bagrakh.jpg"
+			}
+		},
+		{
+			"name": "Lambur, Seamount Sailor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Orc Pirate",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/106_Lambur, Seamount Sailor.jpg"
+			}
+		},
+		{
+			"name": "Luzrah gro-Shar",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Orc Bard",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/107_Luzrah gro-Shar.jpg"
+			}
+		},
+		{
+			"name": "Mask of the Stone-Talker",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/108_Mask of the Stone-Talker.jpg"
+			}
+		},
+		{
+			"name": "Maugh, Loyal Oaf",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Orc Advisor",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/109_Maugh, Loyal Oaf.jpg"
+			}
+		},
+		{
+			"name": "Morkul Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/110_Morkul Enforcer.jpg"
+			}
+		},
+		{
+			"name": "Orsinium Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/112_Orsinium Captain.jpg"
+			}
+		},
+		{
+			"name": "Orsinium Joins the Covenant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/113_Orsinium Joins the Covenant.jpg"
+			}
+		},
+		{
+			"name": "Priest of Trinimac",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Orc Cleric",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/114_Priest of Trinimac.jpg"
+			}
+		},
+		{
+			"name": "Raucous Noble",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Orc Noble",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/115_Raucous Noble.jpg"
+			}
+		},
+		{
+			"name": "Razotha Tale-Teller",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Legendary Creature — Orc Bard",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/116_Razotha Tale-Teller.jpg"
+			}
+		},
+		{
+			"name": "Relentless Marauder",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/117_Relentless Marauder.jpg"
+			}
+		},
+		{
+			"name": "Rugged Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Orc Rogue Advisor",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/118_Rugged Operative.jpg"
+			}
+		},
+		{
+			"name": "Seamount Chief",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/119_Seamount Chief.jpg"
+			}
+		},
+		{
+			"name": "Shatul Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Snow Creature — Orc Shaman",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/120_Shatul Shaman.jpg"
+			}
+		},
+		{
+			"name": "Skordo the Knife",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/122_Skordo the Knife.jpg"
+			}
+		},
+		{
+			"name": "The Birth of Malacath",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "73",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/73_The Birth of Malacath_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/73_The Birth of Malacath_front.jpg"
+			}
+		},
+		{
+			"name": "The Blood Price",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/74_The Blood Price.jpg"
+			}
+		},
+		{
+			"name": "The Conquering of Betnikh",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/78_The Conquering of Betnikh.jpg"
+			}
+		},
+		{
+			"name": "The Corruption of the Stones",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/79_The Corruption of the Stones.jpg"
+			}
+		},
+		{
+			"name": "The Founding of Orsinium",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/89_The Founding of Orsinium.jpg"
+			}
+		},
+		{
+			"name": "The Funeral of Kurog",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/90_The Funeral of Kurog.jpg"
+			}
+		},
+		{
+			"name": "The Helm of Uzdabikh",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/95_The Helm of Uzdabikh.jpg"
+			}
+		},
+		{
+			"name": "The One Who Wields Umbra",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Creature — Orc Warrior Knight",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/111_The One Who Wields Umbra.jpg"
+			}
+		},
+		{
+			"name": "The Siege of Orsinium",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Battle — Siege",
+			"collector_number": "121",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/121_The Siege of Orsinium_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/121_The Siege of Orsinium_front.jpg"
+			}
+		},
+		{
+			"name": "Thulgeg's Exodus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/124_Thulgeg's Exodus.jpg"
+			}
+		},
+		{
+			"name": "Thulgeg, Exodus Warlord",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/123_Thulgeg, Exodus Warlord.jpg"
+			}
+		},
+		{
+			"name": "Torug gro-Igron",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Orc Warrior Noble",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/125_Torug gro-Igron.jpg"
+			}
+		},
+		{
+			"name": "Tusked Cutthroat",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Orc Pirate",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/126_Tusked Cutthroat.jpg"
+			}
+		},
+		{
+			"name": "Ulliceta gra-Kogg",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Orc Wizard",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/127_Ulliceta gra-Kogg.jpg"
+			}
+		},
+		{
+			"name": "Unyielding Legate",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/128_Unyielding Legate.jpg"
+			}
+		},
+		{
+			"name": "Urag gro-Shub",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Orc Wizard",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/129_Urag gro-Shub.jpg"
+			}
+		},
+		{
+			"name": "Urzoga gra-Batul",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Orc Warrior Noble",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/130_Urzoga gra-Batul.jpg"
+			}
+		},
+		{
+			"name": "Usunok, Enraged Hunter",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/131_Usunok, Enraged Hunter.jpg"
+			}
+		},
+		{
+			"name": "Uzdabikh, Relentless Defender",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/132_Uzdabikh, Relentless Defender.jpg"
+			}
+		},
+		{
+			"name": "Vaia's Golden Ash",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/134_Vaia's Golden Ash.jpg"
+			}
+		},
+		{
+			"name": "Vaia, Courageous Shield",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/133_Vaia, Courageous Shield.jpg"
+			}
+		},
+		{
+			"name": "Vosh Rakh Taskmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Orc Cleric",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/135_Vosh Rakh Taskmaster.jpg"
+			}
+		},
+		{
+			"name": "Wulfharth Requests Aid",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/136_Wulfharth Requests Aid.jpg"
+			}
+		},
+		{
+			"name": "Yagak gro-Gluk",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Orc Artificer",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/137_Yagak gro-Gluk.jpg"
+			}
+		},
+		{
+			"name": "Yashnag Carves a Kingdom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/138_Yashnag Carves a Kingdom.jpg"
+			}
+		},
+		{
+			"name": "Yashnag gro-Yazgu",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/139_Yashnag gro-Yazgu.jpg"
+			}
+		},
+		{
+			"name": "Zumog Phoom",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Orc Warlock",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/140_Zumog Phoom.jpg"
+			}
+		},
+		{
+			"name": "Hammer, Middle Gate of Orsinium",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Wall",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/143_Hammer, Middle Gate of Orsinium.jpg"
+			}
+		},
+		{
+			"name": "Orc Stronghold",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Fortification",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/144_Orc Stronghold.jpg"
+			}
+		},
+		{
+			"name": "Orcish Forge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/145_Orcish Forge.jpg"
+			}
+		},
+		{
+			"name": "Smelter, Outer Gate of Orsinium",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Wall",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/146_Smelter, Outer Gate of Orsinium.jpg"
+			}
+		},
+		{
+			"name": "Temper, Inner Gate of Orsinium",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Wall",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/147_Temper, Inner Gate of Orsinium.jpg"
+			}
+		},
+		{
+			"name": "The Armlet of Torug",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/141_The Armlet of Torug.jpg"
+			}
+		},
+		{
+			"name": "The Black Quill",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/142_The Black Quill.jpg"
+			}
+		},
+		{
+			"name": "The Vengeful Eye",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/149_The Vengeful Eye.jpg"
+			}
+		},
+		{
+			"name": "Uncommon Taste",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Tome",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/148_Uncommon Taste.jpg"
+			}
+		},
+		{
+			"name": "Coastal Stronghold",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/150_Coastal Stronghold.jpg"
+			}
+		},
+		{
+			"name": "Steppe Stronghold",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/153_Steppe Stronghold.jpg"
+			}
+		},
+		{
+			"name": "Mangrove Stronghold",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/151_Mangrove Stronghold.jpg"
+			}
+		},
+		{
+			"name": "Valley Stronghold",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/154_Valley Stronghold.jpg"
+			}
+		},
+		{
+			"name": "Woodland Stronghold",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/155_Woodland Stronghold.jpg"
+			}
+		},
+		{
+			"name": "Orsinium",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/152_Orsinium.jpg"
+			}
+		},
+		{
+			"name": "Blood-kin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura Title",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/2_Blood-kin.jpg"
+			}
+		},
+		{
+			"name": "Blessings of the Forge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/1_Blessings of the Forge.jpg"
+			}
+		},
+		{
+			"name": "Brave the Sands",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/3_Brave the Sands.jpg"
+			}
+		},
+		{
+			"name": "Covenant Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Orc Knight",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/4_Covenant Guardian.jpg"
+			}
+		},
+		{
+			"name": "Devoted Paladin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Orc Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/5_Devoted Paladin.jpg"
+			}
+		},
+		{
+			"name": "Durak, Dawnguard Avenger",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/6_Durak, Dawnguard Avenger.jpg"
+			}
+		},
+		{
+			"name": "Legion Bulwark",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/7_Legion Bulwark.jpg"
+			}
+		},
+		{
+			"name": "Lord Rugdumph gro-Shurgak",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Orc Noble",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/8_Lord Rugdumph gro-Shurgak.jpg"
+			}
+		},
+		{
+			"name": "Murtag Officer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/9_Murtag Officer.jpg"
+			}
+		},
+		{
+			"name": "Orcish Craftsmanship",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/10_Orcish Craftsmanship.jpg"
+			}
+		},
+		{
+			"name": "Orsinium Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/11_Orsinium Guard.jpg"
+			}
+		},
+		{
+			"name": "Path to Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/12_Path to Exile.jpg"
+			}
+		},
+		{
+			"name": "Proud Crafter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Orc Artificer",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/13_Proud Crafter.jpg"
+			}
+		},
+		{
+			"name": "Shurgak Noble",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Orc Noble",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/14_Shurgak Noble.jpg"
+			}
+		},
+		{
+			"name": "Urzoga's Investigation",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/15_Urzoga's Investigation.jpg"
+			}
+		},
+		{
+			"name": "Vosh-Rakh Penitent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Orc Knight",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/16_Vosh-Rakh Penitent.jpg"
+			}
+		},
+		{
+			"name": "Witness Our Deeds",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/17_Witness Our Deeds.jpg"
+			}
+		},
+		{
+			"name": "Brainstorm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/18_Brainstorm.jpg"
+			}
+		},
+		{
+			"name": "Brawny Fisher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Orc Peasant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/19_Brawny Fisher.jpg"
+			}
+		},
+		{
+			"name": "Dedicated Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Orc Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/20_Dedicated Scholar.jpg"
+			}
+		},
+		{
+			"name": "Gruff Barrelman",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Orc Pirate",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/21_Gruff Barrelman.jpg"
+			}
+		},
+		{
+			"name": "Guild Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Orc Rogue",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/22_Guild Thief.jpg"
+			}
+		},
+		{
+			"name": "Hearty Historian",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Orc Wizard",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/23_Hearty Historian.jpg"
+			}
+		},
+		{
+			"name": "Iron Orc Runescriber",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Orc Shaman",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/24_Iron Orc Runescriber.jpg"
+			}
+		},
+		{
+			"name": "Nazdura, Star-gazer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Orc Wizard",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/25_Nazdura, Star-gazer.jpg"
+			}
+		},
+		{
+			"name": "Priest Uugus",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Orc Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/26_Priest Uugus.jpg"
+			}
+		},
+		{
+			"name": "Seamount Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Orc Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/27_Seamount Scout.jpg"
+			}
+		},
+		{
+			"name": "Wrothgar Field Scholar",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Creature — Orc Wizard Scout",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/28_Wrothgar Field Scholar.jpg"
+			}
+		},
+		{
+			"name": "Agganor, Scaled Shaman",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Orc Shaman",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/29_Agganor, Scaled Shaman.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Venegeance",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/30_Ancestral Venegeance.jpg"
+			}
+		},
+		{
+			"name": "Battle Brawler",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/31_Battle Brawler.jpg"
+			}
+		},
+		{
+			"name": "Cut Down",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/32_Cut Down.jpg"
+			}
+		},
+		{
+			"name": "Gogron, Brutish Assassin",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Orc Assassin",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/33_Gogron, Brutish Assassin.jpg"
+			}
+		},
+		{
+			"name": "Greedy Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/34_Greedy Marauder.jpg"
+			}
+		},
+		{
+			"name": "Iron Orc Slaughterer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Orc Berserker",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/35_Iron Orc Slaughterer.jpg"
+			}
+		},
+		{
+			"name": "Malacath's Ire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/36_Malacath's Ire.jpg"
+			}
+		},
+		{
+			"name": "Mauloch's Scorn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/37_Mauloch's Scorn.jpg"
+			}
+		},
+		{
+			"name": "Merciless Marauder",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Orc Berserker",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/38_Merciless Marauder.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Warchief",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/39_Vengeful Warchief.jpg"
+			}
+		},
+		{
+			"name": "Armory Veteran",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/40_Armory Veteran.jpg"
+			}
+		},
+		{
+			"name": "Blessings of Malacath",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/41_Blessings of Malacath.jpg"
+			}
+		},
+		{
+			"name": "Daring Delver",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Scout",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/42_Daring Delver.jpg"
+			}
+		},
+		{
+			"name": "Fireball",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/43_Fireball.jpg"
+			}
+		},
+		{
+			"name": "Flash Fry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/44_Flash Fry.jpg"
+			}
+		},
+		{
+			"name": "Hungry Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/45_Hungry Marauder.jpg"
+			}
+		},
+		{
+			"name": "Lion-Guard Charger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Knight",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/46_Lion-Guard Charger.jpg"
+			}
+		},
+		{
+			"name": "Mazoga the Orc",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Orc Knight",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/47_Mazoga the Orc.jpg"
+			}
+		},
+		{
+			"name": "Mighty Mordra, Undaunted",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/48_Mighty Mordra, Undaunted.jpg"
+			}
+		},
+		{
+			"name": "Murtag Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Berserker",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/49_Murtag Bruiser.jpg"
+			}
+		},
+		{
+			"name": "Rugged Dungeoneer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/50_Rugged Dungeoneer.jpg"
+			}
+		},
+		{
+			"name": "Seafaring Fire-Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Pirate Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/51_Seafaring Fire-Mage.jpg"
+			}
+		},
+		{
+			"name": "Warbringer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Berserker",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/52_Warbringer.jpg"
+			}
+		},
+		{
+			"name": "Bear Rider Heavy",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Orc Bear Warrior",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/53_Bear Rider Heavy.jpg"
+			}
+		},
+		{
+			"name": "Burly Herder",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Orc Peasant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/54_Burly Herder.jpg"
+			}
+		},
+		{
+			"name": "Elsarel, Colossal Slayer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Orc Archer",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/55_Elsarel, Colossal Slayer.jpg"
+			}
+		},
+		{
+			"name": "Intrepid Outlander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Orc Ranger",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/56_Intrepid Outlander.jpg"
+			}
+		},
+		{
+			"name": "Narzulbur Hunters",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Orc Ranger",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/57_Narzulbur Hunters.jpg"
+			}
+		},
+		{
+			"name": "No One Bests an Orc",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/58_No One Bests an Orc.jpg"
+			}
+		},
+		{
+			"name": "Orcish Guide",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Orc Scout",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/59_Orcish Guide.jpg"
+			}
+		},
+		{
+			"name": "Orzorga, Traditional Chef",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Orc Citizen",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/60_Orzorga, Traditional Chef.jpg"
+			}
+		},
+		{
+			"name": "Ram Through",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/61_Ram Through.jpg"
+			}
+		},
+		{
+			"name": "Vitalize",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/62_Vitalize.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+	1 Agronak gro-Malog
+	1 Gortwog gro-Nagorm
+	1 Abbot Durak
+	2 Atub, Largashbur Wise-Woman
+	1 Balagog gro-Nolob
+	1 Baloth Bloodtusk
+	2 Barkbite Champion
+	2 Bazrag gro-Fharun
+	1 Bazul, the River Snake
+	2 Chief Yamarz
+	2 Clan Shaman
+	2 Coldwind, Might of Wrothgar
+	1 Curator Umutha
+	2 Determined Initiate
+	1 Emmeg gro-Kayra
+	2 Exarch Braadoth
+	2 Forge-Mother Alga
+	2 Forge-Wife Nuzava
+	2 Garnag, Brotherhood Survivor
+	1 Golkar gro-Igrun
+	1 Guthrag Stone-Talker
+	1 High Priestess Solgra
+	2 Kepkajna gra-Minfang
+	2 Khargol gro-Boguk
+	1 Khralek gro-Vortag
+	1 Khartag, Freedom Smuggler
+	2 King Durak gro-Batul
+	2 King Kurog gro-Bagrakh
+	2 Lambur, Seamount Sailor
+	2 Luzrah gro-Shar
+	2 Mask of the Stone-Talker
+	1 Maugh, Loyal Oaf
+	2 Orsinium Captain
+	2 Priest of Trinimac
+	2 Raucous Noble
+	2 Razotha Tale-Teller
+	2 Relentless Marauder
+	2 Seamount Chief
+	1 Skordo the Knife
+	1 The Birth of Malacath
+	2 The Blood Price
+	2 The Helm of Uzdabikh
+	2 The One Who Wields Umbra
+	2 The Siege of Orsinium
+	1 Thulgeg, Exodus Warlord
+	1 Torug gro-Igron
+	2 Tusked Cutthroat
+	1 Ulliceta gra-Kogg
+	2 Unyielding Legate
+	1 Urag gro-Shub
+	2 Urzoga gra-Batul
+	2 Usunok, Enraged Hunter
+	1 Uzdabikh, Relentless Defender
+	2 Vaia's Golden Ash
+	1 Vaia, Courageous Shield
+	2 Yagak gro-Gluk
+	2 Yashnag gro-Yazgu
+	1 Zumog Phoom
+	2 Hammer, Middle Gate of Orsinium
+	2 Smelter, Outer Gate of Orsinium
+	2 Temper, Inner Gate of Orsinium
+	1 The Armlet of Torug
+	2 The Black Quill
+	1 The Vengeful Eye
+	2 Uncommon Taste
+	1 Orsinium
+	2 Durak, Dawnguard Avenger
+	1 Lord Rugdumph gro-Shurgak
+	2 Proud Crafter
+	2 Hearty Historian
+	2 Nazdura, Star-gazer
+	1 Priest Uugus
+	1 Agganor, Scaled Shaman
+	2 Gogron, Brutish Assassin
+	2 Merciless Marauder
+	2 Daring Delver
+	1 Mazoga the Orc
+	2 Mighty Mordra, Undaunted
+	2 Burly Herder
+	2 Elsarel, Colossal Slayer
+	1 Orzorga, Traditional Chef
+[uncommon(4)]
+	4 Aid of the Seventh and Fifteenth
+	4 Bear Rider Vanguard
+	4 Courageous Champion
+	4 Covenant Captain
+	4 Eager Commis
+	4 Iron-Orc Beast Tamer
+	4 Iron-Orc Thundermaul
+	4 Kepkajna's Wedding Dowry
+	4 Morkul Enforcer
+	4 Orsinium Joins the Covenant
+	4 Rugged Operative
+	4 Shatul Shaman
+	4 The Conquering of Betnikh
+	4 The Corruption of the Stones
+	4 The Founding of Orsinium
+	4 The Funeral of Kurog
+	4 Thulgeg's Exodus
+	4 Vosh Rakh Taskmaster
+	4 Wulfharth Requests Aid
+	4 Yashnag Carves a Kingdom
+	4 Orc Stronghold
+	4 Orcish Forge
+	4 Coastal Stronghold
+	4 Steppe Stronghold
+	4 Mangrove Stronghold
+	4 Valley Stronghold
+	4 Woodland Stronghold
+	4 Blood-kin
+	4 Blessings of the Forge
+	4 Brave the Sands
+	4 Covenant Guardian
+	4 Legion Bulwark
+	4 Murtag Officer
+	4 Orcish Craftsmanship
+	4 Path to Exile
+	4 Shurgak Noble
+	4 Vosh-Rakh Penitent
+	4 Witness Our Deeds
+	4 Brainstorm
+	4 Brawny Fisher
+	4 Dedicated Scholar
+	4 Guild Thief
+	4 Iron Orc Runescriber
+	4 Seamount Scout
+	4 Cut Down
+	4 Greedy Marauder
+	4 Iron Orc Slaughterer
+	4 Malacath's Ire
+	4 Mauloch's Scorn
+	4 Vengeful Warchief
+	4 Blessings of Malacath
+	4 Fireball
+	4 Flash Fry
+	4 Hungry Marauder
+	4 Lion-Guard Charger
+	4 Murtag Bruiser
+	4 Seafaring Fire-Mage
+	4 Warbringer
+	4 Intrepid Outlander
+[common(7)]
+	8 Devoted Paladin
+	8 Orsinium Guard
+	8 Urzoga's Investigation
+	8 Gruff Barrelman
+	8 Wrothgar Field Scholar
+	8 Ancestral Venegeance
+	8 Battle Brawler
+	8 Armory Veteran
+	8 Rugged Dungeoneer
+	8 Bear Rider Heavy
+	8 Narzulbur Hunters
+	8 No One Bests an Orc
+	8 Orcish Guide
+	8 Ram Through
+	8 Vitalize
+[wildcard(2)]
+	4 Agronak gro-Malog
+	4 Gortwog gro-Nagorm
+	4 Abbot Durak
+	7 Atub, Largashbur Wise-Woman
+	15 Aid of the Seventh and Fifteenth
+	4 Balagog gro-Nolob
+	4 Baloth Bloodtusk
+	7 Barkbite Champion
+	7 Bazrag gro-Fharun
+	4 Bazul, the River Snake
+	15 Bear Rider Vanguard
+	7 Chief Yamarz
+	7 Clan Shaman
+	7 Coldwind, Might of Wrothgar
+	15 Courageous Champion
+	15 Covenant Captain
+	4 Curator Umutha
+	7 Determined Initiate
+	15 Eager Commis
+	4 Emmeg gro-Kayra
+	7 Exarch Braadoth
+	7 Forge-Mother Alga
+	7 Forge-Wife Nuzava
+	7 Garnag, Brotherhood Survivor
+	4 Golkar gro-Igrun
+	4 Guthrag Stone-Talker
+	4 High Priestess Solgra
+	15 Iron-Orc Beast Tamer
+	15 Iron-Orc Thundermaul
+	7 Kepkajna gra-Minfang
+	15 Kepkajna's Wedding Dowry
+	7 Khargol gro-Boguk
+	4 Khralek gro-Vortag
+	4 Khartag, Freedom Smuggler
+	7 King Durak gro-Batul
+	7 King Kurog gro-Bagrakh
+	7 Lambur, Seamount Sailor
+	7 Luzrah gro-Shar
+	7 Mask of the Stone-Talker
+	4 Maugh, Loyal Oaf
+	15 Morkul Enforcer
+	7 Orsinium Captain
+	15 Orsinium Joins the Covenant
+	7 Priest of Trinimac
+	7 Raucous Noble
+	7 Razotha Tale-Teller
+	7 Relentless Marauder
+	15 Rugged Operative
+	7 Seamount Chief
+	15 Shatul Shaman
+	4 Skordo the Knife
+	4 The Birth of Malacath
+	7 The Blood Price
+	15 The Conquering of Betnikh
+	15 The Corruption of the Stones
+	15 The Founding of Orsinium
+	15 The Funeral of Kurog
+	7 The Helm of Uzdabikh
+	7 The One Who Wields Umbra
+	7 The Siege of Orsinium
+	15 Thulgeg's Exodus
+	4 Thulgeg, Exodus Warlord
+	4 Torug gro-Igron
+	7 Tusked Cutthroat
+	4 Ulliceta gra-Kogg
+	7 Unyielding Legate
+	4 Urag gro-Shub
+	7 Urzoga gra-Batul
+	7 Usunok, Enraged Hunter
+	4 Uzdabikh, Relentless Defender
+	7 Vaia's Golden Ash
+	4 Vaia, Courageous Shield
+	15 Vosh Rakh Taskmaster
+	15 Wulfharth Requests Aid
+	7 Yagak gro-Gluk
+	15 Yashnag Carves a Kingdom
+	7 Yashnag gro-Yazgu
+	4 Zumog Phoom
+	7 Hammer, Middle Gate of Orsinium
+	15 Orc Stronghold
+	15 Orcish Forge
+	7 Smelter, Outer Gate of Orsinium
+	7 Temper, Inner Gate of Orsinium
+	4 The Armlet of Torug
+	7 The Black Quill
+	4 The Vengeful Eye
+	7 Uncommon Taste
+	15 Coastal Stronghold
+	15 Steppe Stronghold
+	15 Mangrove Stronghold
+	15 Valley Stronghold
+	15 Woodland Stronghold
+	4 Orsinium
+	15 Blood-kin
+	15 Blessings of the Forge
+	15 Brave the Sands
+	15 Covenant Guardian
+	6 Devoted Paladin
+	7 Durak, Dawnguard Avenger
+	15 Legion Bulwark
+	4 Lord Rugdumph gro-Shurgak
+	15 Murtag Officer
+	15 Orcish Craftsmanship
+	6 Orsinium Guard
+	15 Path to Exile
+	7 Proud Crafter
+	15 Shurgak Noble
+	6 Urzoga's Investigation
+	15 Vosh-Rakh Penitent
+	15 Witness Our Deeds
+	15 Brainstorm
+	15 Brawny Fisher
+	15 Dedicated Scholar
+	6 Gruff Barrelman
+	15 Guild Thief
+	7 Hearty Historian
+	15 Iron Orc Runescriber
+	7 Nazdura, Star-gazer
+	4 Priest Uugus
+	15 Seamount Scout
+	6 Wrothgar Field Scholar
+	4 Agganor, Scaled Shaman
+	6 Ancestral Venegeance
+	6 Battle Brawler
+	15 Cut Down
+	7 Gogron, Brutish Assassin
+	15 Greedy Marauder
+	15 Iron Orc Slaughterer
+	15 Malacath's Ire
+	15 Mauloch's Scorn
+	7 Merciless Marauder
+	15 Vengeful Warchief
+	6 Armory Veteran
+	15 Blessings of Malacath
+	7 Daring Delver
+	15 Fireball
+	15 Flash Fry
+	15 Hungry Marauder
+	15 Lion-Guard Charger
+	4 Mazoga the Orc
+	7 Mighty Mordra, Undaunted
+	15 Murtag Bruiser
+	6 Rugged Dungeoneer
+	15 Seafaring Fire-Mage
+	15 Warbringer
+	6 Bear Rider Heavy
+	7 Burly Herder
+	7 Elsarel, Colossal Slayer
+	15 Intrepid Outlander
+	6 Narzulbur Hunters
+	6 No One Bests an Orc
+	6 Orcish Guide
+	4 Orzorga, Traditional Chef
+	6 Ram Through
+	6 Vitalize

@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/ESO-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>ESO visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/ESO-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ESO-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="ESO"><img src="/sets/ESO-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/ESO-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\ESO-files\img\8_Lord Rugdumph gro-Shurgak.jpg" id="8_Lord Rugdumph gro-Shurgak" data-flag="@X" onclick="openSidebar('8_Lord Rugdumph gro-Shurgak',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\26_Priest Uugus.jpg" id="26_Priest Uugus" data-flag="@X" onclick="openSidebar('26_Priest Uugus',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\29_Agganor, Scaled Shaman.jpg" id="29_Agganor, Scaled Shaman" data-flag="@X" onclick="openSidebar('29_Agganor, Scaled Shaman',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\47_Mazoga the Orc.jpg" id="47_Mazoga the Orc" data-flag="@X" onclick="openSidebar('47_Mazoga the Orc',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\60_Orzorga, Traditional Chef.jpg" id="60_Orzorga, Traditional Chef" data-flag="@X" onclick="openSidebar('60_Orzorga, Traditional Chef',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\6_Durak, Dawnguard Avenger.jpg" id="6_Durak, Dawnguard Avenger" data-flag="@X" onclick="openSidebar('6_Durak, Dawnguard Avenger',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\23_Hearty Historian.jpg" id="23_Hearty Historian" data-flag="@X" onclick="openSidebar('23_Hearty Historian',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\33_Gogron, Brutish Assassin.jpg" id="33_Gogron, Brutish Assassin" data-flag="@X" onclick="openSidebar('33_Gogron, Brutish Assassin',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\42_Daring Delver.jpg" id="42_Daring Delver" data-flag="@X" onclick="openSidebar('42_Daring Delver',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\54_Burly Herder.jpg" id="54_Burly Herder" data-flag="@X" onclick="openSidebar('54_Burly Herder',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\13_Proud Crafter.jpg" id="13_Proud Crafter" data-flag="@X" onclick="openSidebar('13_Proud Crafter',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\25_Nazdura, Star-gazer.jpg" id="25_Nazdura, Star-gazer" data-flag="@X" onclick="openSidebar('25_Nazdura, Star-gazer',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\38_Merciless Marauder.jpg" id="38_Merciless Marauder" data-flag="@X" onclick="openSidebar('38_Merciless Marauder',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\48_Mighty Mordra, Undaunted.jpg" id="48_Mighty Mordra, Undaunted" data-flag="@X" onclick="openSidebar('48_Mighty Mordra, Undaunted',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\55_Elsarel, Colossal Slayer.jpg" id="55_Elsarel, Colossal Slayer" data-flag="@X" onclick="openSidebar('55_Elsarel, Colossal Slayer',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\1_Blessings of the Forge.jpg" id="1_Blessings of the Forge" data-flag="@X" onclick="openSidebar('1_Blessings of the Forge',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\18_Brainstorm.jpg" id="18_Brainstorm" data-flag="@X" onclick="openSidebar('18_Brainstorm',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\32_Cut Down.jpg" id="32_Cut Down" data-flag="@X" onclick="openSidebar('32_Cut Down',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\41_Blessings of Malacath.jpg" id="41_Blessings of Malacath" data-flag="@X" onclick="openSidebar('41_Blessings of Malacath',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\56_Intrepid Outlander.jpg" id="56_Intrepid Outlander" data-flag="@X" onclick="openSidebar('56_Intrepid Outlander',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\2_Blood-kin.jpg" id="2_Blood-kin" data-flag="@X" onclick="openSidebar('2_Blood-kin',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\19_Brawny Fisher.jpg" id="19_Brawny Fisher" data-flag="@X" onclick="openSidebar('19_Brawny Fisher',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\34_Greedy Marauder.jpg" id="34_Greedy Marauder" data-flag="@X" onclick="openSidebar('34_Greedy Marauder',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\43_Fireball.jpg" id="43_Fireball" data-flag="@X" onclick="openSidebar('43_Fireball',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\53_Bear Rider Heavy.jpg" id="53_Bear Rider Heavy" data-flag="@X" onclick="openSidebar('53_Bear Rider Heavy',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\3_Brave the Sands.jpg" id="3_Brave the Sands" data-flag="@X" onclick="openSidebar('3_Brave the Sands',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\20_Dedicated Scholar.jpg" id="20_Dedicated Scholar" data-flag="@X" onclick="openSidebar('20_Dedicated Scholar',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\35_Iron Orc Slaughterer.jpg" id="35_Iron Orc Slaughterer" data-flag="@X" onclick="openSidebar('35_Iron Orc Slaughterer',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\44_Flash Fry.jpg" id="44_Flash Fry" data-flag="@X" onclick="openSidebar('44_Flash Fry',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\57_Narzulbur Hunters.jpg" id="57_Narzulbur Hunters" data-flag="@X" onclick="openSidebar('57_Narzulbur Hunters',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\4_Covenant Guardian.jpg" id="4_Covenant Guardian" data-flag="@X" onclick="openSidebar('4_Covenant Guardian',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\22_Guild Thief.jpg" id="22_Guild Thief" data-flag="@X" onclick="openSidebar('22_Guild Thief',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\36_Malacath's Ire.jpg" id="36_Malacaths Ire" data-flag="@X" onclick="openSidebar('36_Malacaths Ire',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\45_Hungry Marauder.jpg" id="45_Hungry Marauder" data-flag="@X" onclick="openSidebar('45_Hungry Marauder',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\58_No One Bests an Orc.jpg" id="58_No One Bests an Orc" data-flag="@X" onclick="openSidebar('58_No One Bests an Orc',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\7_Legion Bulwark.jpg" id="7_Legion Bulwark" data-flag="@X" onclick="openSidebar('7_Legion Bulwark',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\24_Iron Orc Runescriber.jpg" id="24_Iron Orc Runescriber" data-flag="@X" onclick="openSidebar('24_Iron Orc Runescriber',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\37_Mauloch's Scorn.jpg" id="37_Maulochs Scorn" data-flag="@X" onclick="openSidebar('37_Maulochs Scorn',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\46_Lion-Guard Charger.jpg" id="46_Lion-Guard Charger" data-flag="@X" onclick="openSidebar('46_Lion-Guard Charger',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\59_Orcish Guide.jpg" id="59_Orcish Guide" data-flag="@X" onclick="openSidebar('59_Orcish Guide',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\9_Murtag Officer.jpg" id="9_Murtag Officer" data-flag="@X" onclick="openSidebar('9_Murtag Officer',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\27_Seamount Scout.jpg" id="27_Seamount Scout" data-flag="@X" onclick="openSidebar('27_Seamount Scout',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\39_Vengeful Warchief.jpg" id="39_Vengeful Warchief" data-flag="@X" onclick="openSidebar('39_Vengeful Warchief',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\49_Murtag Bruiser.jpg" id="49_Murtag Bruiser" data-flag="@X" onclick="openSidebar('49_Murtag Bruiser',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\61_Ram Through.jpg" id="61_Ram Through" data-flag="@X" onclick="openSidebar('61_Ram Through',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\10_Orcish Craftsmanship.jpg" id="10_Orcish Craftsmanship" data-flag="@X" onclick="openSidebar('10_Orcish Craftsmanship',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\21_Gruff Barrelman.jpg" id="21_Gruff Barrelman" data-flag="@X" onclick="openSidebar('21_Gruff Barrelman',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\30_Ancestral Venegeance.jpg" id="30_Ancestral Venegeance" data-flag="@X" onclick="openSidebar('30_Ancestral Venegeance',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\51_Seafaring Fire-Mage.jpg" id="51_Seafaring Fire-Mage" data-flag="@X" onclick="openSidebar('51_Seafaring Fire-Mage',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\62_Vitalize.jpg" id="62_Vitalize" data-flag="@X" onclick="openSidebar('62_Vitalize',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\12_Path to Exile.jpg" id="12_Path to Exile" data-flag="@X" onclick="openSidebar('12_Path to Exile',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\28_Wrothgar Field Scholar.jpg" id="28_Wrothgar Field Scholar" data-flag="@X" onclick="openSidebar('28_Wrothgar Field Scholar',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\31_Battle Brawler.jpg" id="31_Battle Brawler" data-flag="@X" onclick="openSidebar('31_Battle Brawler',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\52_Warbringer.jpg" id="52_Warbringer" data-flag="@X" onclick="openSidebar('52_Warbringer',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\14_Shurgak Noble.jpg" id="14_Shurgak Noble" data-flag="@X" onclick="openSidebar('14_Shurgak Noble',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\40_Armory Veteran.jpg" id="40_Armory Veteran" data-flag="@X" onclick="openSidebar('40_Armory Veteran',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\16_Vosh-Rakh Penitent.jpg" id="16_Vosh-Rakh Penitent" data-flag="@X" onclick="openSidebar('16_Vosh-Rakh Penitent',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\50_Rugged Dungeoneer.jpg" id="50_Rugged Dungeoneer" data-flag="@X" onclick="openSidebar('50_Rugged Dungeoneer',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\17_Witness Our Deeds.jpg" id="17_Witness Our Deeds" data-flag="@X" onclick="openSidebar('17_Witness Our Deeds',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\5_Devoted Paladin.jpg" id="5_Devoted Paladin" data-flag="@X" onclick="openSidebar('5_Devoted Paladin',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\11_Orsinium Guard.jpg" id="11_Orsinium Guard" data-flag="@X" onclick="openSidebar('11_Orsinium Guard',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\15_Urzoga's Investigation.jpg" id="15_Urzogas Investigation" data-flag="@X" onclick="openSidebar('15_Urzogas Investigation',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\63_Abbot Durak.jpg" id="63_Abbot Durak" data-flag="@X" onclick="openSidebar('63_Abbot Durak',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\71_Bazul, the River Snake.jpg" id="71_Bazul, the River Snake" data-flag="@X" onclick="openSidebar('71_Bazul, the River Snake',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\122_Skordo the Knife.jpg" id="122_Skordo the Knife" data-flag="@X" onclick="openSidebar('122_Skordo the Knife',false)"></div>
+			<div class="container"><img data-alt_src="/sets\ESO-files\img\85_Emmeg gro-Kayra_back.jpg" alt="/sets\ESO-files\img\85_Emmeg gro-Kayra_front.jpg" id="85_Emmeg gro-Kayra" data-flag="@XD" onclick="openSidebar('85_Emmeg gro-Kayra',false)"><button class="flip-btn" onclick="imgFlip('85_Emmeg gro-Kayra')"></button></div>
+			<div class="container"><img alt="/sets\ESO-files\img\133_Vaia, Courageous Shield.jpg" id="133_Vaia, Courageous Shield" data-flag="@X" onclick="openSidebar('133_Vaia, Courageous Shield',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\108_Mask of the Stone-Talker.jpg" id="108_Mask of the Stone-Talker" data-flag="@X" onclick="openSidebar('108_Mask of the Stone-Talker',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\99_Kepkajna gra-Minfang.jpg" id="99_Kepkajna gra-Minfang" data-flag="@X" onclick="openSidebar('99_Kepkajna gra-Minfang',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\91_Garnag, Brotherhood Survivor.jpg" id="91_Garnag, Brotherhood Survivor" data-flag="@X" onclick="openSidebar('91_Garnag, Brotherhood Survivor',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\102_Khartag, Freedom Smuggler.jpg" id="102_Khartag, Freedom Smuggler" data-flag="@X" onclick="openSidebar('102_Khartag, Freedom Smuggler',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\88_Forge-Wife Nuzava.jpg" id="88_Forge-Wife Nuzava" data-flag="@X" onclick="openSidebar('88_Forge-Wife Nuzava',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\114_Priest of Trinimac.jpg" id="114_Priest of Trinimac" data-flag="@X" onclick="openSidebar('114_Priest of Trinimac',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\126_Tusked Cutthroat.jpg" id="126_Tusked Cutthroat" data-flag="@X" onclick="openSidebar('126_Tusked Cutthroat',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\117_Relentless Marauder.jpg" id="117_Relentless Marauder" data-flag="@X" onclick="openSidebar('117_Relentless Marauder',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\69_Barkbite Champion.jpg" id="69_Barkbite Champion" data-flag="@X" onclick="openSidebar('69_Barkbite Champion',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\112_Orsinium Captain.jpg" id="112_Orsinium Captain" data-flag="@X" onclick="openSidebar('112_Orsinium Captain',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\137_Yagak gro-Gluk.jpg" id="137_Yagak gro-Gluk" data-flag="@X" onclick="openSidebar('137_Yagak gro-Gluk',false)"></div>
+			<div class="container"><img data-alt_src="/sets\ESO-files\img\100_Kepkajna's Wedding Dowry_back.jpg" alt="/sets\ESO-files\img\100_Kepkajna's Wedding Dowry_front.jpg" id="100_Kepkajnas Wedding Dowry" data-flag="@XD" onclick="openSidebar('100_Kepkajnas Wedding Dowry',false)"><button class="flip-btn" onclick="imgFlip('100_Kepkajnas Wedding Dowry')"></button></div>
+			<div class="container"><img alt="/sets\ESO-files\img\110_Morkul Enforcer.jpg" id="110_Morkul Enforcer" data-flag="@X" onclick="openSidebar('110_Morkul Enforcer',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\131_Usunok, Enraged Hunter.jpg" id="131_Usunok, Enraged Hunter" data-flag="@X" onclick="openSidebar('131_Usunok, Enraged Hunter',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\134_Vaia's Golden Ash.jpg" id="134_Vaias Golden Ash" data-flag="@X" onclick="openSidebar('134_Vaias Golden Ash',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\81_Covenant Captain.jpg" id="81_Covenant Captain" data-flag="@X" onclick="openSidebar('81_Covenant Captain',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\118_Rugged Operative.jpg" id="118_Rugged Operative" data-flag="@X" onclick="openSidebar('118_Rugged Operative',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\136_Wulfharth Requests Aid.jpg" id="136_Wulfharth Requests Aid" data-flag="@X" onclick="openSidebar('136_Wulfharth Requests Aid',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\120_Shatul Shaman.jpg" id="120_Shatul Shaman" data-flag="@X" onclick="openSidebar('120_Shatul Shaman',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\72_Bear Rider Vanguard.jpg" id="72_Bear Rider Vanguard" data-flag="@X" onclick="openSidebar('72_Bear Rider Vanguard',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\113_Orsinium Joins the Covenant.jpg" id="113_Orsinium Joins the Covenant" data-flag="@X" onclick="openSidebar('113_Orsinium Joins the Covenant',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\124_Thulgeg's Exodus.jpg" id="124_Thulgegs Exodus" data-flag="@X" onclick="openSidebar('124_Thulgegs Exodus',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\89_The Founding of Orsinium.jpg" id="89_The Founding of Orsinium" data-flag="@X" onclick="openSidebar('89_The Founding of Orsinium',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img data-alt_src="/sets\ESO-files\img\73_The Birth of Malacath_back.jpg" alt="/sets\ESO-files\img\73_The Birth of Malacath_front.jpg" id="73_The Birth of Malacath" data-flag="@XD" onclick="openSidebar('73_The Birth of Malacath',false)"><button class="flip-btn" onclick="imgFlip('73_The Birth of Malacath')"></button></div>
+			<div class="container"><img alt="/sets\ESO-files\img\129_Urag gro-Shub.jpg" id="129_Urag gro-Shub" data-flag="@X" onclick="openSidebar('129_Urag gro-Shub',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\103_Khralek gro-Vortag.jpg" id="103_Khralek gro-Vortag" data-flag="@X" onclick="openSidebar('103_Khralek gro-Vortag',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\132_Uzdabikh, Relentless Defender.jpg" id="132_Uzdabikh, Relentless Defender" data-flag="@X" onclick="openSidebar('132_Uzdabikh, Relentless Defender',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\82_Curator Umutha.jpg" id="82_Curator Umutha" data-flag="@X" onclick="openSidebar('82_Curator Umutha',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\109_Maugh, Loyal Oaf.jpg" id="109_Maugh, Loyal Oaf" data-flag="@X" onclick="openSidebar('109_Maugh, Loyal Oaf',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\83_Determined Initiate.jpg" id="83_Determined Initiate" data-flag="@X" onclick="openSidebar('83_Determined Initiate',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\66_Atub, Largashbur Wise-Woman.jpg" id="66_Atub, Largashbur Wise-Woman" data-flag="@X" onclick="openSidebar('66_Atub, Largashbur Wise-Woman',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\95_The Helm of Uzdabikh.jpg" id="95_The Helm of Uzdabikh" data-flag="@X" onclick="openSidebar('95_The Helm of Uzdabikh',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\106_Lambur, Seamount Sailor.jpg" id="106_Lambur, Seamount Sailor" data-flag="@X" onclick="openSidebar('106_Lambur, Seamount Sailor',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\74_The Blood Price.jpg" id="74_The Blood Price" data-flag="@X" onclick="openSidebar('74_The Blood Price',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\107_Luzrah gro-Shar.jpg" id="107_Luzrah gro-Shar" data-flag="@X" onclick="openSidebar('107_Luzrah gro-Shar',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\76_Clan Shaman.jpg" id="76_Clan Shaman" data-flag="@X" onclick="openSidebar('76_Clan Shaman',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\104_King Durak gro-Batul.jpg" id="104_King Durak gro-Batul" data-flag="@X" onclick="openSidebar('104_King Durak gro-Batul',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\119_Seamount Chief.jpg" id="119_Seamount Chief" data-flag="@X" onclick="openSidebar('119_Seamount Chief',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\75_Chief Yamarz.jpg" id="75_Chief Yamarz" data-flag="@X" onclick="openSidebar('75_Chief Yamarz',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\79_The Corruption of the Stones.jpg" id="79_The Corruption of the Stones" data-flag="@X" onclick="openSidebar('79_The Corruption of the Stones',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\97_Iron-Orc Beast Tamer.jpg" id="97_Iron-Orc Beast Tamer" data-flag="@X" onclick="openSidebar('97_Iron-Orc Beast Tamer',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\128_Unyielding Legate.jpg" id="128_Unyielding Legate" data-flag="@X" onclick="openSidebar('128_Unyielding Legate',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\78_The Conquering of Betnikh.jpg" id="78_The Conquering of Betnikh" data-flag="@X" onclick="openSidebar('78_The Conquering of Betnikh',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\115_Raucous Noble.jpg" id="115_Raucous Noble" data-flag="@X" onclick="openSidebar('115_Raucous Noble',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\98_Iron-Orc Thundermaul.jpg" id="98_Iron-Orc Thundermaul" data-flag="@X" onclick="openSidebar('98_Iron-Orc Thundermaul',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\138_Yashnag Carves a Kingdom.jpg" id="138_Yashnag Carves a Kingdom" data-flag="@X" onclick="openSidebar('138_Yashnag Carves a Kingdom',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\65_Aid of the Seventh and Fifteenth.jpg" id="65_Aid of the Seventh and Fifteenth" data-flag="@X" onclick="openSidebar('65_Aid of the Seventh and Fifteenth',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\84_Eager Commis.jpg" id="84_Eager Commis" data-flag="@X" onclick="openSidebar('84_Eager Commis',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\90_The Funeral of Kurog.jpg" id="90_The Funeral of Kurog" data-flag="@X" onclick="openSidebar('90_The Funeral of Kurog',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\80_Courageous Champion.jpg" id="80_Courageous Champion" data-flag="@X" onclick="openSidebar('80_Courageous Champion',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\135_Vosh Rakh Taskmaster.jpg" id="135_Vosh Rakh Taskmaster" data-flag="@X" onclick="openSidebar('135_Vosh Rakh Taskmaster',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\94_Guthrag Stone-Talker.jpg" id="94_Guthrag Stone-Talker" data-flag="@X" onclick="openSidebar('94_Guthrag Stone-Talker',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\140_Zumog Phoom.jpg" id="140_Zumog Phoom" data-flag="@X" onclick="openSidebar('140_Zumog Phoom',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\139_Yashnag gro-Yazgu.jpg" id="139_Yashnag gro-Yazgu" data-flag="@X" onclick="openSidebar('139_Yashnag gro-Yazgu',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\123_Thulgeg, Exodus Warlord.jpg" id="123_Thulgeg, Exodus Warlord" data-flag="@X" onclick="openSidebar('123_Thulgeg, Exodus Warlord',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\96_High Priestess Solgra.jpg" id="96_High Priestess Solgra" data-flag="@X" onclick="openSidebar('96_High Priestess Solgra',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\87_Forge-Mother Alga.jpg" id="87_Forge-Mother Alga" data-flag="@X" onclick="openSidebar('87_Forge-Mother Alga',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\111_The One Who Wields Umbra.jpg" id="111_The One Who Wields Umbra" data-flag="@X" onclick="openSidebar('111_The One Who Wields Umbra',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\130_Urzoga gra-Batul.jpg" id="130_Urzoga gra-Batul" data-flag="@X" onclick="openSidebar('130_Urzoga gra-Batul',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\77_Coldwind, Might of Wrothgar.jpg" id="77_Coldwind, Might of Wrothgar" data-flag="@X" onclick="openSidebar('77_Coldwind, Might of Wrothgar',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\68_Baloth Bloodtusk.jpg" id="68_Baloth Bloodtusk" data-flag="@X" onclick="openSidebar('68_Baloth Bloodtusk',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\67_Balagog gro-Nolob.jpg" id="67_Balagog gro-Nolob" data-flag="@X" onclick="openSidebar('67_Balagog gro-Nolob',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\92_Golkar gro-Igrun.jpg" id="92_Golkar gro-Igrun" data-flag="@X" onclick="openSidebar('92_Golkar gro-Igrun',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\64_Agronak gro-Malog.jpg" id="64_Agronak gro-Malog" data-flag="@X" onclick="openSidebar('64_Agronak gro-Malog',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\127_Ulliceta gra-Kogg.jpg" id="127_Ulliceta gra-Kogg" data-flag="@X" onclick="openSidebar('127_Ulliceta gra-Kogg',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\105_King Kurog gro-Bagrakh.jpg" id="105_King Kurog gro-Bagrakh" data-flag="@X" onclick="openSidebar('105_King Kurog gro-Bagrakh',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\116_Razotha Tale-Teller.jpg" id="116_Razotha Tale-Teller" data-flag="@X" onclick="openSidebar('116_Razotha Tale-Teller',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\70_Bazrag gro-Fharun.jpg" id="70_Bazrag gro-Fharun" data-flag="@X" onclick="openSidebar('70_Bazrag gro-Fharun',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\101_Khargol gro-Boguk.jpg" id="101_Khargol gro-Boguk" data-flag="@X" onclick="openSidebar('101_Khargol gro-Boguk',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\86_Exarch Braadoth.jpg" id="86_Exarch Braadoth" data-flag="@X" onclick="openSidebar('86_Exarch Braadoth',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img data-alt_src="/sets\ESO-files\img\121_The Siege of Orsinium_back.jpg" alt="/sets\ESO-files\img\121_The Siege of Orsinium_front.jpg" id="121_The Siege of Orsinium" data-flag="@XD" onclick="openSidebar('121_The Siege of Orsinium',true)"><button class="flip-btn" onclick="imgFlip('121_The Siege of Orsinium')"></button></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\93_Gortwog gro-Nagorm.jpg" id="93_Gortwog gro-Nagorm" data-flag="@X" onclick="openSidebar('93_Gortwog gro-Nagorm',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\125_Torug gro-Igron.jpg" id="125_Torug gro-Igron" data-flag="@X" onclick="openSidebar('125_Torug gro-Igron',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\141_The Armlet of Torug.jpg" id="141_The Armlet of Torug" data-flag="@X" onclick="openSidebar('141_The Armlet of Torug',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\149_The Vengeful Eye.jpg" id="149_The Vengeful Eye" data-flag="@X" onclick="openSidebar('149_The Vengeful Eye',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\142_The Black Quill.jpg" id="142_The Black Quill" data-flag="@X" onclick="openSidebar('142_The Black Quill',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\143_Hammer, Middle Gate of Orsinium.jpg" id="143_Hammer, Middle Gate of Orsinium" data-flag="@X" onclick="openSidebar('143_Hammer, Middle Gate of Orsinium',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\146_Smelter, Outer Gate of Orsinium.jpg" id="146_Smelter, Outer Gate of Orsinium" data-flag="@X" onclick="openSidebar('146_Smelter, Outer Gate of Orsinium',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\147_Temper, Inner Gate of Orsinium.jpg" id="147_Temper, Inner Gate of Orsinium" data-flag="@X" onclick="openSidebar('147_Temper, Inner Gate of Orsinium',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\148_Uncommon Taste.jpg" id="148_Uncommon Taste" data-flag="@X" onclick="openSidebar('148_Uncommon Taste',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\144_Orc Stronghold.jpg" id="144_Orc Stronghold" data-flag="@X" onclick="openSidebar('144_Orc Stronghold',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\145_Orcish Forge.jpg" id="145_Orcish Forge" data-flag="@X" onclick="openSidebar('145_Orcish Forge',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="land" class="anchor"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\153_Steppe Stronghold.jpg" id="153_Steppe Stronghold" data-flag="@X" onclick="openSidebar('153_Steppe Stronghold',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\150_Coastal Stronghold.jpg" id="150_Coastal Stronghold" data-flag="@X" onclick="openSidebar('150_Coastal Stronghold',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\151_Mangrove Stronghold.jpg" id="151_Mangrove Stronghold" data-flag="@X" onclick="openSidebar('151_Mangrove Stronghold',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\154_Valley Stronghold.jpg" id="154_Valley Stronghold" data-flag="@X" onclick="openSidebar('154_Valley Stronghold',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\155_Woodland Stronghold.jpg" id="155_Woodland Stronghold" data-flag="@X" onclick="openSidebar('155_Woodland Stronghold',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\ESO-files\img\152_Orsinium.jpg" id="152_Orsinium" data-flag="@X" onclick="openSidebar('152_Orsinium',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
