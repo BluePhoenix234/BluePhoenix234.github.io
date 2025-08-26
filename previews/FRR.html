@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/FRR-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>FRR visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/FRR-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ESO-files/icon.png" />
+		<img class="preload-hidden" src="/sets/FRR-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="FRR"><img src="/sets/FRR-files/icon.png">Felidea: Rising Realms</a>
+	
+		<a class="set-bar inactive" href="ESO"><img src="/sets/ESO-files/icon.png">The Elder Scrolls: Osimer</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/FRR-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/sets\FRR-files\img\20_CW01 — Feathered Acolyte.jpg" id="20_CW01 — Feathered Acolyte" data-flag="@X" onclick="openSidebar('20_CW01 — Feathered Acolyte',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\53_CU01 — Holy-site Watcher.jpg" id="53_CU01 — Holy-site Watcher" data-flag="@X" onclick="openSidebar('53_CU01 — Holy-site Watcher',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\86_CB01 — Ruin-Wander Watch.jpg" id="86_CB01 — Ruin-Wander Watch" data-flag="@X" onclick="openSidebar('86_CB01 — Ruin-Wander Watch',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\119_CR01 — Eager-Horn Rookie.jpg" id="119_CR01 — Eager-Horn Rookie" data-flag="@X" onclick="openSidebar('119_CR01 — Eager-Horn Rookie',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\152_CG01 — Bright-Tusk Recruit.jpg" id="152_CG01 — Bright-Tusk Recruit" data-flag="@X" onclick="openSidebar('152_CG01 — Bright-Tusk Recruit',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\21_CW02 — Battlefront Scrounger.jpg" id="21_CW02 — Battlefront Scrounger" data-flag="@X" onclick="openSidebar('21_CW02 — Battlefront Scrounger',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\54_CU02 — Clever Swiper.jpg" id="54_CU02 — Clever Swiper" data-flag="@X" onclick="openSidebar('54_CU02 — Clever Swiper',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\87_CB02 — Wound Wielder.jpg" id="87_CB02 — Wound Wielder" data-flag="@X" onclick="openSidebar('87_CB02 — Wound Wielder',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\120_CR02 — Front-Wander Scout.jpg" id="120_CR02 — Front-Wander Scout" data-flag="@X" onclick="openSidebar('120_CR02 — Front-Wander Scout',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\153_CG02 —Protective Charger.jpg" id="153_CG02 —Protective Charger" data-flag="@X" onclick="openSidebar('153_CG02 —Protective Charger',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\22_CW03 — Street-wise Nomad.jpg" id="22_CW03 — Street-wise Nomad" data-flag="@X" onclick="openSidebar('22_CW03 — Street-wise Nomad',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\55_CU03 — Bright-eyed Adept.jpg" id="55_CU03 — Bright-eyed Adept" data-flag="@X" onclick="openSidebar('55_CU03 — Bright-eyed Adept',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\88_CB03 — Muck-Wield Stalker.jpg" id="88_CB03 — Muck-Wield Stalker" data-flag="@X" onclick="openSidebar('88_CB03 — Muck-Wield Stalker',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\121_CR03 — Rune-Charged Striker.jpg" id="121_CR03 — Rune-Charged Striker" data-flag="@X" onclick="openSidebar('121_CR03 — Rune-Charged Striker',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\154_CG03 — Far-Wander Shaman.jpg" id="154_CG03 — Far-Wander Shaman" data-flag="@X" onclick="openSidebar('154_CG03 — Far-Wander Shaman',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\23_CW04 — Bolstered Veteran.jpg" id="23_CW04 — Bolstered Veteran" data-flag="@X" onclick="openSidebar('23_CW04 — Bolstered Veteran',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\56_CU04 — Mind-Focused Warden.jpg" id="56_CU04 — Mind-Focused Warden" data-flag="@X" onclick="openSidebar('56_CU04 — Mind-Focused Warden',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\89_CB04 — Night-Blessed Inquisitor.jpg" id="89_CB04 — Night-Blessed Inquisitor" data-flag="@X" onclick="openSidebar('89_CB04 — Night-Blessed Inquisitor',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\122_CR04 — Dauntless Recruits.jpg" id="122_CR04 — Dauntless Recruits" data-flag="@X" onclick="openSidebar('122_CR04 — Dauntless Recruits',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\155_CG04 — Brighthollow Guard.jpg" id="155_CG04 — Brighthollow Guard" data-flag="@X" onclick="openSidebar('155_CG04 — Brighthollow Guard',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\24_CW05 — Horened Beligerent.jpg" id="24_CW05 — Horened Beligerent" data-flag="@X" onclick="openSidebar('24_CW05 — Horened Beligerent',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\57_CU05 — Patient Trapper.jpg" id="57_CU05 — Patient Trapper" data-flag="@X" onclick="openSidebar('57_CU05 — Patient Trapper',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\90_CB05 — Strixan Siphon Priest.jpg" id="90_CB05 — Strixan Siphon Priest" data-flag="@X" onclick="openSidebar('90_CB05 — Strixan Siphon Priest',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\123_CR05 — Frenzy-kin Reinforcer.jpg" id="123_CR05 — Frenzy-kin Reinforcer" data-flag="@X" onclick="openSidebar('123_CR05 — Frenzy-kin Reinforcer',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\156_CG05 — Marshland Hunter.jpg" id="156_CG05 — Marshland Hunter" data-flag="@X" onclick="openSidebar('156_CG05 — Marshland Hunter',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\25_CW06 — Blessings Mystic.jpg" id="25_CW06 — Blessings Mystic" data-flag="@X" onclick="openSidebar('25_CW06 — Blessings Mystic',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\58_CU06 — Downpour Leviathan.jpg" id="58_CU06 — Downpour Leviathan" data-flag="@X" onclick="openSidebar('58_CU06 — Downpour Leviathan',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\91_CB06 — Battlefield Finisher.jpg" id="91_CB06 — Battlefield Finisher" data-flag="@X" onclick="openSidebar('91_CB06 — Battlefield Finisher',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\124_CR06 — Rune-Guard Sharpshooter.jpg" id="124_CR06 — Rune-Guard Sharpshooter" data-flag="@X" onclick="openSidebar('124_CR06 — Rune-Guard Sharpshooter',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\157_CG06 — Watchful Game Tracker.jpg" id="157_CG06 — Watchful Game Tracker" data-flag="@X" onclick="openSidebar('157_CG06 — Watchful Game Tracker',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\26_CW07 — Undaunted Avenger.jpg" id="26_CW07 — Undaunted Avenger" data-flag="@X" onclick="openSidebar('26_CW07 — Undaunted Avenger',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\59_CU07 — Shimmer Guard Blessing.jpg" id="59_CU07 — Shimmer Guard Blessing" data-flag="@X" onclick="openSidebar('59_CU07 — Shimmer Guard Blessing',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\92_CB07 — Greedy Poacher.jpg" id="92_CB07 — Greedy Poacher" data-flag="@X" onclick="openSidebar('92_CB07 — Greedy Poacher',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\125_CR07 — Battlefield Pilferer.jpg" id="125_CR07 — Battlefield Pilferer" data-flag="@X" onclick="openSidebar('125_CR07 — Battlefield Pilferer',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\158_CG07 — Mighty Deserter.jpg" id="158_CG07 — Mighty Deserter" data-flag="@X" onclick="openSidebar('158_CG07 — Mighty Deserter',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\27_CW08 — Sturdy Advancer.jpg" id="27_CW08 — Sturdy Advancer" data-flag="@X" onclick="openSidebar('27_CW08 — Sturdy Advancer',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\60_CU08 — Rune-carved Guardian.jpg" id="60_CU08 — Rune-carved Guardian" data-flag="@X" onclick="openSidebar('60_CU08 — Rune-carved Guardian',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\93_CB08 — Death-Wreathed Terror.jpg" id="93_CB08 — Death-Wreathed Terror" data-flag="@X" onclick="openSidebar('93_CB08 — Death-Wreathed Terror',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\126_CR08 — Rage-Legion Charger.jpg" id="126_CR08 — Rage-Legion Charger" data-flag="@X" onclick="openSidebar('126_CR08 — Rage-Legion Charger',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\159_CG08 — Surge-Seeker Wurm.jpg" id="159_CG08 — Surge-Seeker Wurm" data-flag="@X" onclick="openSidebar('159_CG08 — Surge-Seeker Wurm',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\28_CW09 — Courageous Rallier.jpg" id="28_CW09 — Courageous Rallier" data-flag="@X" onclick="openSidebar('28_CW09 — Courageous Rallier',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\61_CU09 — Graceful Intervention (Bird).jpg" id="61_CU09 — Graceful Intervention (Bird)" data-flag="@X" onclick="openSidebar('61_CU09 — Graceful Intervention (Bird)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\94_CB09 — Horn Bore.jpg" id="94_CB09 — Horn Bore" data-flag="@X" onclick="openSidebar('94_CB09 — Horn Bore',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\127_CR09 — Enraged Blast (Minotaur).jpg" id="127_CR09 — Enraged Blast (Minotaur)" data-flag="@X" onclick="openSidebar('127_CR09 — Enraged Blast (Minotaur)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\160_CG09 — Venemous Repurpose (Bear).jpg" id="160_CG09 — Venemous Repurpose (Bear)" data-flag="@X" onclick="openSidebar('160_CG09 — Venemous Repurpose (Bear)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\29_CW10 — Holy Holding.jpg" id="29_CW10 — Holy Holding" data-flag="@X" onclick="openSidebar('29_CW10 — Holy Holding',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\62_CU10 — Guardian Instinct (Bear).jpg" id="62_CU10 — Guardian Instinct (Bear)" data-flag="@X" onclick="openSidebar('62_CU10 — Guardian Instinct (Bear)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\95_CB10 — Purge the Heresy.jpg" id="95_CB10 — Purge the Heresy" data-flag="@X" onclick="openSidebar('95_CB10 — Purge the Heresy',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\128_CR10 — Cleanse with Fire.jpg" id="128_CR10 — Cleanse with Fire" data-flag="@X" onclick="openSidebar('128_CR10 — Cleanse with Fire',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\161_CG10 — Surge of Might (Croc).jpg" id="161_CG10 — Surge of Might (Croc)" data-flag="@X" onclick="openSidebar('161_CG10 — Surge of Might (Croc)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\30_CW11 — Nomadic Defense.jpg" id="30_CW11 — Nomadic Defense" data-flag="@X" onclick="openSidebar('30_CW11 — Nomadic Defense',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\63_CU11 — Jaw-lock Glyph (Croc).jpg" id="63_CU11 — Jaw-lock Glyph (Croc)" data-flag="@X" onclick="openSidebar('63_CU11 — Jaw-lock Glyph (Croc)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\96_CB11 — Death Roll.jpg" id="96_CB11 — Death Roll" data-flag="@X" onclick="openSidebar('96_CB11 — Death Roll',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\129_CR11 — Trample the Opposition.jpg" id="129_CR11 — Trample the Opposition" data-flag="@X" onclick="openSidebar('129_CR11 — Trample the Opposition',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\162_CG11 — Rally-Legion Requisition.jpg" id="162_CG11 — Rally-Legion Requisition" data-flag="@X" onclick="openSidebar('162_CG11 — Rally-Legion Requisition',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\31_CW12 —Might-Wrougth Boon.jpg" id="31_CW12 —Might-Wrougth Boon" data-flag="@X" onclick="openSidebar('31_CW12 —Might-Wrougth Boon',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\64_CU12 — Wayfinder's Meditation (Cat).jpg" id="64_CU12 — Wayfinders Meditation (Cat)" data-flag="@X" onclick="openSidebar('64_CU12 — Wayfinders Meditation (Cat)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\97_CB12 — Wander-rite Offering.jpg" id="97_CB12 — Wander-rite Offering" data-flag="@X" onclick="openSidebar('97_CB12 — Wander-rite Offering',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\130_CR12 — Trade In (Minotaur).jpg" id="130_CR12 — Trade In (Minotaur)" data-flag="@X" onclick="openSidebar('130_CR12 — Trade In (Minotaur)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\163_CG12 — Stomper-Legion Hammer.jpg" id="163_CG12 — Stomper-Legion Hammer" data-flag="@X" onclick="openSidebar('163_CG12 — Stomper-Legion Hammer',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\32_CW13 — Blessed Talon Sigil.jpg" id="32_CW13 — Blessed Talon Sigil" data-flag="@X" onclick="openSidebar('32_CW13 — Blessed Talon Sigil',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\65_CU13 — Marsh Sifting (Croc).jpg" id="65_CU13 — Marsh Sifting (Croc)" data-flag="@X" onclick="openSidebar('65_CU13 — Marsh Sifting (Croc)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\98_CB13 — Call the Once Blessed.jpg" id="98_CB13 — Call the Once Blessed" data-flag="@X" onclick="openSidebar('98_CB13 — Call the Once Blessed',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\131_CR13 — Claw-Striker Bracers.jpg" id="131_CR13 — Claw-Striker Bracers" data-flag="@X" onclick="openSidebar('131_CR13 — Claw-Striker Bracers',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\164_CG13 — Prepare an Ambush (Croc).jpg" id="164_CG13 — Prepare an Ambush (Croc)" data-flag="@X" onclick="openSidebar('164_CG13 — Prepare an Ambush (Croc)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\33_CW14 — Glorious Stampede.jpg" id="33_CW14 — Glorious Stampede" data-flag="@X" onclick="openSidebar('33_CW14 — Glorious Stampede',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\66_CU14 — Holy Gust (Bird).jpg" id="66_CU14 — Holy Gust (Bird)" data-flag="@X" onclick="openSidebar('66_CU14 — Holy Gust (Bird)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\99_CB14 — Dark River Hiss.jpg" id="99_CB14 — Dark River Hiss" data-flag="@X" onclick="openSidebar('99_CB14 — Dark River Hiss',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\132_CR14 — Distraction Strike (Cat).jpg" id="132_CR14 — Distraction Strike (Cat)" data-flag="@X" onclick="openSidebar('132_CR14 — Distraction Strike (Cat)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\165_CG14 — Nurturing Nature (Bear).jpg" id="165_CG14 — Nurturing Nature (Bear)" data-flag="@X" onclick="openSidebar('165_CG14 — Nurturing Nature (Bear)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\34_CW15 — Reckless Inventory.jpg" id="34_CW15 — Reckless Inventory" data-flag="@X" onclick="openSidebar('34_CW15 — Reckless Inventory',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\67_CU15 — River-Hunter's Cloak.jpg" id="67_CU15 — River-Hunters Cloak" data-flag="@X" onclick="openSidebar('67_CU15 — River-Hunters Cloak',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\100_CB15 — Might-Marauder Helm.jpg" id="100_CB15 — Might-Marauder Helm" data-flag="@X" onclick="openSidebar('100_CB15 — Might-Marauder Helm',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\133_CR15 — Unstoppable Force (Elephant).jpg" id="133_CR15 — Unstoppable Force (Elephant)" data-flag="@X" onclick="openSidebar('133_CR15 — Unstoppable Force (Elephant)',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\166_CG15 — Feline Instinct.jpg" id="166_CG15 — Feline Instinct" data-flag="@X" onclick="openSidebar('166_CG15 — Feline Instinct',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\210_UZ01 — UB Arcun 1.jpg" id="210_UZ01 — UB Arcun 1" data-flag="@X" onclick="openSidebar('210_UZ01 — UB Arcun 1',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\212_UZ03 — RG Arcun 1.jpg" id="212_UZ03 — RG Arcun 1" data-flag="@X" onclick="openSidebar('212_UZ03 — RG Arcun 1',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\211_UZ02 — UB Arcun 2.jpg" id="211_UZ02 — UB Arcun 2" data-flag="@X" onclick="openSidebar('211_UZ02 — UB Arcun 2',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\213_UZ04 — RG Arcun 2.jpg" id="213_UZ04 — RG Arcun 2" data-flag="@X" onclick="openSidebar('213_UZ04 — RG Arcun 2',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\195_CZ12 — Night-tuned Etchings.jpg" id="195_CZ12 — Night-tuned Etchings" data-flag="@X" onclick="openSidebar('195_CZ12 — Night-tuned Etchings',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\196_CZ14 — Grove-Guard Sigils.jpg" id="196_CZ14 — Grove-Guard Sigils" data-flag="@X" onclick="openSidebar('196_CZ14 — Grove-Guard Sigils',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\230_CZ11 — Night-Wind Spirits.jpg" id="230_CZ11 — Night-Wind Spirits" data-flag="@X" onclick="openSidebar('230_CZ11 — Night-Wind Spirits',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\231_CZ13 — High-Eyed Spirits.jpg" id="231_CZ13 — High-Eyed Spirits" data-flag="@X" onclick="openSidebar('231_CZ13 — High-Eyed Spirits',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\214_UZ05 — WB Arcun 1.jpg" id="214_UZ05 — WB Arcun 1" data-flag="@X" onclick="openSidebar('214_UZ05 — WB Arcun 1',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\216_UZ07 — Support of the Legion.jpg" id="216_UZ07 — Support of the Legion" data-flag="@X" onclick="openSidebar('216_UZ07 — Support of the Legion',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\218_UZ09 — GU Arcun 1.jpg" id="218_UZ09 — GU Arcun 1" data-flag="@X" onclick="openSidebar('218_UZ09 — GU Arcun 1',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\215_UZ06 — WB Arcun 2.jpg" id="215_UZ06 — WB Arcun 2" data-flag="@X" onclick="openSidebar('215_UZ06 — WB Arcun 2',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\217_UZ08 — Battleground Improviser.jpg" id="217_UZ08 — Battleground Improviser" data-flag="@X" onclick="openSidebar('217_UZ08 — Battleground Improviser',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\219_UZ10 — GU Arcun 2.jpg" id="219_UZ10 — GU Arcun 2" data-flag="@X" onclick="openSidebar('219_UZ10 — GU Arcun 2',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\197_CZ16 — Battle-Tithe Priest.jpg" id="197_CZ16 — Battle-Tithe Priest" data-flag="@X" onclick="openSidebar('197_CZ16 — Battle-Tithe Priest',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\198_CZ18 — Raid Lieutenant.jpg" id="198_CZ18 — Raid Lieutenant" data-flag="@X" onclick="openSidebar('198_CZ18 — Raid Lieutenant',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\199_CZ20 — Wilderness Cultivator.jpg" id="199_CZ20 — Wilderness Cultivator" data-flag="@X" onclick="openSidebar('199_CZ20 — Wilderness Cultivator',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\232_CZ15 — Vigor-Cloak Spirits.jpg" id="232_CZ15 — Vigor-Cloak Spirits" data-flag="@X" onclick="openSidebar('232_CZ15 — Vigor-Cloak Spirits',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\233_CZ18 — Quick-Arm Spirits.jpg" id="233_CZ18 — Quick-Arm Spirits" data-flag="@X" onclick="openSidebar('233_CZ18 — Quick-Arm Spirits',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\234_CZ19 — Wild-Might Spirits.jpg" id="234_CZ19 — Wild-Might Spirits" data-flag="@X" onclick="openSidebar('234_CZ19 — Wild-Might Spirits',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\222_UZ13 — WUB Arcun 1.jpg" id="222_UZ13 — WUB Arcun 1" data-flag="@X" onclick="openSidebar('222_UZ13 — WUB Arcun 1',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\220_UZ11 — RGW Arcun 1.jpg" id="220_UZ11 — RGW Arcun 1" data-flag="@X" onclick="openSidebar('220_UZ11 — RGW Arcun 1',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\223_UZ14 — WUB Arcun 2.jpg" id="223_UZ14 — WUB Arcun 2" data-flag="@X" onclick="openSidebar('223_UZ14 — WUB Arcun 2',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\221_UZ12 — RGW Arcun 2.jpg" id="221_UZ12 — RGW Arcun 2" data-flag="@X" onclick="openSidebar('221_UZ12 — RGW Arcun 2',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\186_CZ02 — Dusktouched Seeker.jpg" id="186_CZ02 — Dusktouched Seeker" data-flag="@X" onclick="openSidebar('186_CZ02 — Dusktouched Seeker',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\185_CZ01 — Frontline Rejuvinator.jpg" id="185_CZ01 — Frontline Rejuvinator" data-flag="@X" onclick="openSidebar('185_CZ01 — Frontline Rejuvinator',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\191_CZ07 — Night-veiled Font.jpg" id="191_CZ07 — Night-veiled Font" data-flag="@X" onclick="openSidebar('191_CZ07 — Night-veiled Font',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\190_CZ06 — Tusked Reinforcements.jpg" id="190_CZ06 — Tusked Reinforcements" data-flag="@X" onclick="openSidebar('190_CZ06 — Tusked Reinforcements',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\226_UZ17 — RWB Arcun 1.jpg" id="226_UZ17 — RWB Arcun 1" data-flag="@X" onclick="openSidebar('226_UZ17 — RWB Arcun 1',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\228_UZ19 — GUR Arcun 1.jpg" id="228_UZ19 — GUR Arcun 1" data-flag="@X" onclick="openSidebar('228_UZ19 — GUR Arcun 1',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\224_UZ15 — BGU Arcun 1.jpg" id="224_UZ15 — BGU Arcun 1" data-flag="@X" onclick="openSidebar('224_UZ15 — BGU Arcun 1',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\227_UZ18 — RWB Arcun 2.jpg" id="227_UZ18 — RWB Arcun 2" data-flag="@X" onclick="openSidebar('227_UZ18 — RWB Arcun 2',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\229_UZ20 — GUR Arcun 2.jpg" id="229_UZ20 — GUR Arcun 2" data-flag="@X" onclick="openSidebar('229_UZ20 — GUR Arcun 2',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\225_UZ16 — BGU Arcun 2.jpg" id="225_UZ16 — BGU Arcun 2" data-flag="@X" onclick="openSidebar('225_UZ16 — BGU Arcun 2',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\188_CZ04 — Blood-bound Mercenaries.jpg" id="188_CZ04 — Blood-bound Mercenaries" data-flag="@X" onclick="openSidebar('188_CZ04 — Blood-bound Mercenaries',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\189_CZ05 — Grove Warden Rager.jpg" id="189_CZ05 — Grove Warden Rager" data-flag="@X" onclick="openSidebar('189_CZ05 — Grove Warden Rager',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\187_CZ03 — Dagger-bite Stalker.jpg" id="187_CZ03 — Dagger-bite Stalker" data-flag="@X" onclick="openSidebar('187_CZ03 — Dagger-bite Stalker',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\193_CZ09 — Marauder's Fee.jpg" id="193_CZ09 — Marauders Fee" data-flag="@X" onclick="openSidebar('193_CZ09 — Marauders Fee',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\194_CZ10 — Nature Surge.jpg" id="194_CZ10 — Nature Surge" data-flag="@X" onclick="openSidebar('194_CZ10 — Nature Surge',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\192_CZ08 — Marsh-lurker Ambush.jpg" id="192_CZ08 — Marsh-lurker Ambush" data-flag="@X" onclick="openSidebar('192_CZ08 — Marsh-lurker Ambush',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\235_CA01 — Elephon Banner.jpg" id="235_CA01 — Elephon Banner" data-flag="@X" onclick="openSidebar('235_CA01 — Elephon Banner',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\236_CA02 — Strixan Banner.jpg" id="236_CA02 — Strixan Banner" data-flag="@X" onclick="openSidebar('236_CA02 — Strixan Banner',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\237_CA03 — Crocdilid Banner.jpg" id="237_CA03 — Crocdilid Banner" data-flag="@X" onclick="openSidebar('237_CA03 — Crocdilid Banner',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\238_CA04 — Bovidian Banner.jpg" id="238_CA04 — Bovidian Banner" data-flag="@X" onclick="openSidebar('238_CA04 — Bovidian Banner',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\239_CA05 — Ursaeic Banner.jpg" id="239_CA05 — Ursaeic Banner" data-flag="@X" onclick="openSidebar('239_CA05 — Ursaeic Banner',false)"></div>
+				<div class="container"><img alt="/sets\FRR-files\img\240_CA06 — Felidian Guidestone.jpg" id="240_CA06 — Felidian Guidestone" data-flag="@X" onclick="openSidebar('240_CA06 — Felidian Guidestone',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

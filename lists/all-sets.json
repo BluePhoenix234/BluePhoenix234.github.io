@@ -1,1 +1,14 @@
-﻿{"sets": [{"set_code": "ESO", "set_name": "The Elder Scrolls: Osimer", "formats": "BluePhoenix Eternal, Elder Scrolls Eternal"}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "ESO",
+            "set_name": "The Elder Scrolls: Osimer",
+            "formats": "BluePhoenix Eternal, Elder Scrolls Eternal"
+        },
+        {
+            "set_code": "FRR",
+            "set_name": "Felidea: Rising Realms",
+            "formats": "BluePhoenix Eternal, BluePhoenix Standard, BluePhoenix Modern"
+        }
+    ]
+}
