@@ -463,16 +463,10 @@
     },
     "a->gold",
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "UZ01 \u2014 UB Arcun 1",
         "number": 210,
         "shape": "normal",
         "set": "FRR"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "UZ03 \u2014 RG Arcun 1",
@@ -481,97 +475,10 @@
         "set": "FRR"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UZ02 \u2014 UB Arcun 2",
-        "number": 211,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UZ04 \u2014 RG Arcun 2",
-        "number": 213,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ12 \u2014 Night-tuned Etchings",
-        "number": 195,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ14 \u2014 Grove-Guard Sigils",
-        "number": 196,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ11 \u2014 Night-Wind Spirits",
-        "number": 230,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ13 \u2014 High-Eyed Spirits",
-        "number": 231,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
         "card_name": "UZ05 \u2014 WB Arcun 1",
         "number": 214,
         "shape": "normal",
         "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "UZ07 \u2014 Support of the Legion",
@@ -586,16 +493,22 @@
         "set": "FRR"
     },
     {
-        "card_name": "UZ06 \u2014 WB Arcun 2",
-        "number": 215,
+        "card_name": "UZ02 \u2014 UB Arcun 2",
+        "number": 211,
         "shape": "normal",
         "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "UZ04 \u2014 RG Arcun 2",
+        "number": 213,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "UZ06 \u2014 WB Arcun 2",
+        "number": 215,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
         "card_name": "UZ08 \u2014 Battleground Improviser",
@@ -610,16 +523,22 @@
         "set": "FRR"
     },
     {
-        "card_name": "CZ16 \u2014 Battle-Tithe Priest",
-        "number": 197,
+        "card_name": "CZ12 \u2014 Night-tuned Etchings",
+        "number": 195,
         "shape": "normal",
         "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "CZ14 \u2014 Grove-Guard Sigils",
+        "number": 196,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "CZ16 \u2014 Battle-Tithe Priest",
+        "number": 197,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
         "card_name": "CZ18 \u2014 Raid Lieutenant",
@@ -634,16 +553,22 @@
         "set": "FRR"
     },
     {
-        "card_name": "CZ15 \u2014 Vigor-Cloak Spirits",
-        "number": 232,
+        "card_name": "CZ11 \u2014 Night-Wind Spirits",
+        "number": 230,
         "shape": "normal",
         "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "CZ13 \u2014 High-Eyed Spirits",
+        "number": 231,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "CZ15 \u2014 Vigor-Cloak Spirits",
+        "number": 232,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
         "card_name": "CZ18 \u2014 Quick-Arm Spirits",
@@ -673,103 +598,22 @@
         "card_name": "er"
     },
     {
-        "card_name": "UZ13 \u2014 WUB Arcun 1",
-        "number": 222,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "UZ11 \u2014 RGW Arcun 1",
         "number": 220,
         "shape": "normal",
         "set": "FRR"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UZ14 \u2014 WUB Arcun 2",
-        "number": 223,
+        "card_name": "UZ13 \u2014 WUB Arcun 1",
+        "number": 222,
         "shape": "normal",
         "set": "FRR"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UZ12 \u2014 RGW Arcun 2",
-        "number": 221,
+        "card_name": "UZ15 \u2014 BGU Arcun 1",
+        "number": 224,
         "shape": "normal",
         "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ02 \u2014 Dusktouched Seeker",
-        "number": 186,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ01 \u2014 Frontline Rejuvinator",
-        "number": 185,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ07 \u2014 Night-veiled Font",
-        "number": 191,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ06 \u2014 Tusked Reinforcements",
-        "number": 190,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
     },
     {
         "card_name": "UZ17 \u2014 RWB Arcun 1",
@@ -784,14 +628,20 @@
         "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "UZ12 \u2014 RGW Arcun 2",
+        "number": 221,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "UZ14 \u2014 WUB Arcun 2",
+        "number": 223,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "UZ15 \u2014 BGU Arcun 1",
-        "number": 224,
+        "card_name": "UZ16 \u2014 BGU Arcun 2",
+        "number": 225,
         "shape": "normal",
         "set": "FRR"
     },
@@ -808,14 +658,20 @@
         "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "CZ01 \u2014 Frontline Rejuvinator",
+        "number": 185,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "CZ02 \u2014 Dusktouched Seeker",
+        "number": 186,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "UZ16 \u2014 BGU Arcun 2",
-        "number": 225,
+        "card_name": "CZ03 \u2014 Dagger-bite Stalker",
+        "number": 187,
         "shape": "normal",
         "set": "FRR"
     },
@@ -832,14 +688,20 @@
         "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "CZ06 \u2014 Tusked Reinforcements",
+        "number": 190,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "e"
+        "card_name": "CZ07 \u2014 Night-veiled Font",
+        "number": 191,
+        "shape": "normal",
+        "set": "FRR"
     },
     {
-        "card_name": "CZ03 \u2014 Dagger-bite Stalker",
-        "number": 187,
+        "card_name": "CZ08 \u2014 Marsh-lurker Ambush",
+        "number": 192,
         "shape": "normal",
         "set": "FRR"
     },
@@ -852,18 +714,6 @@
     {
         "card_name": "CZ10 \u2014 Nature Surge",
         "number": 194,
-        "shape": "normal",
-        "set": "FRR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ08 \u2014 Marsh-lurker Ambush",
-        "number": 192,
         "shape": "normal",
         "set": "FRR"
     },
