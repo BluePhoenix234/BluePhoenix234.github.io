@@ -1,13 +1,23 @@
 ﻿[CustomCards]
 	[
 		{
+			"name": "CL06 — Scoured Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/250_CL06 — Scoured Barrens.jpg"
+			}
+		},
+		{
 			"name": "CW01 — Feathered Acolyte",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Bird Cleric",
-			"collector_number": "20",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/20_CW01 — Feathered Acolyte.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/13_CW01 — Feathered Acolyte.jpg"
 			}
 		},
 		{
@@ -15,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Hyena Scout",
-			"collector_number": "21",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/21_CW02 — Battlefront Scrounger.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/14_CW02 — Battlefront Scrounger.jpg"
 			}
 		},
 		{
@@ -25,9 +35,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Nomad",
-			"collector_number": "22",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/22_CW03 — Street-wise Nomad.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/15_CW03 — Street-wise Nomad.jpg"
 			}
 		},
 		{
@@ -35,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elephant Soldier",
-			"collector_number": "23",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/23_CW04 — Bolstered Veteran.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/16_CW04 — Bolstered Veteran.jpg"
 			}
 		},
 		{
@@ -45,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Minotaur Warrior",
-			"collector_number": "24",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/24_CW05 — Horened Beligerent.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/17_CW05 — Horened Beligerent.jpg"
 			}
 		},
 		{
@@ -55,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird Wizard",
-			"collector_number": "25",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/25_CW06 — Blessings Mystic.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/18_CW06 — Blessings Mystic.jpg"
 			}
 		},
 		{
@@ -65,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Minotaur Soldier",
-			"collector_number": "26",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/26_CW07 — Undaunted Avenger.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/19_CW07 — Undaunted Avenger.jpg"
 			}
 		},
 		{
@@ -75,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elephant Soldier",
-			"collector_number": "27",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/27_CW08 — Sturdy Advancer.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/20_CW08 — Sturdy Advancer.jpg"
 			}
 		},
 		{
@@ -85,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Elephant Soldier",
-			"collector_number": "28",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/28_CW09 — Courageous Rallier.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/21_CW09 — Courageous Rallier.jpg"
 			}
 		},
 		{
@@ -95,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "29",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/29_CW10 — Holy Holding.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/22_CW10 — Holy Holding.jpg"
 			}
 		},
 		{
@@ -105,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/30_CW11 — Nomadic Defense.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/23_CW11 — Nomadic Defense.jpg"
 			}
 		},
 		{
@@ -115,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "31",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/31_CW12 —Might-Wrougth Boon.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/24_CW12 —Might-Wrougth Boon.jpg"
 			}
 		},
 		{
@@ -125,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "32",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/32_CW13 — Blessed Talon Sigil.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/25_CW13 — Blessed Talon Sigil.jpg"
 			}
 		},
 		{
@@ -135,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/33_CW14 — Glorious Stampede.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/26_CW14 — Glorious Stampede.jpg"
 			}
 		},
 		{
@@ -145,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/34_CW15 — Reckless Inventory.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/27_CW15 — Reckless Inventory.jpg"
 			}
 		},
 		{
@@ -155,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}{2/G}{2/W}",
 			"type": "Creature — Elephant Soldier Cleric",
-			"collector_number": "185",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/185_CZ01 — Frontline Rejuvinator.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/176_CZ01 — Frontline Rejuvinator.jpg"
 			}
 		},
 		{
@@ -165,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/W}{2/U}{2/B}",
 			"type": "Enchantment Creature — Bird Cleric",
-			"collector_number": "186",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/186_CZ02 — Dusktouched Seeker.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/177_CZ02 — Dusktouched Seeker.jpg"
 			}
 		},
 		{
@@ -175,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/B}{2/G}{2/U}",
 			"type": "Creature — Crocodile Assassin",
-			"collector_number": "187",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/187_CZ03 — Dagger-bite Stalker.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/178_CZ03 — Dagger-bite Stalker.jpg"
 			}
 		},
 		{
@@ -185,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}{2/W}{2/B}",
 			"type": "Creature — Minotaur Warrior",
-			"collector_number": "188",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/188_CZ04 — Blood-bound Mercenaries.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/179_CZ04 — Blood-bound Mercenaries.jpg"
 			}
 		},
 		{
@@ -195,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird Scout",
-			"collector_number": "53",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/53_CU01 — Holy-site Watcher.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/46_CU01 — Holy-site Watcher.jpg"
 			}
 		},
 		{
@@ -205,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "54",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/54_CU02 — Clever Swiper.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/47_CU02 — Clever Swiper.jpg"
 			}
 		},
 		{
@@ -215,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bear Druid",
-			"collector_number": "55",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/55_CU03 — Bright-eyed Adept.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/48_CU03 — Bright-eyed Adept.jpg"
 			}
 		},
 		{
@@ -225,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bear Wizard",
-			"collector_number": "56",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/56_CU04 — Mind-Focused Warden.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/49_CU04 — Mind-Focused Warden.jpg"
 			}
 		},
 		{
@@ -235,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Crocodile Ranger",
-			"collector_number": "57",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/57_CU05 — Patient Trapper.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/50_CU05 — Patient Trapper.jpg"
 			}
 		},
 		{
@@ -245,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Elemental Leviathan",
-			"collector_number": "58",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/58_CU06 — Downpour Leviathan.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/51_CU06 — Downpour Leviathan.jpg"
 			}
 		},
 		{
@@ -255,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment Creature — Bird Monk Illusion",
-			"collector_number": "59",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/59_CU07 — Shimmer Guard Blessing.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/52_CU07 — Shimmer Guard Blessing.jpg"
 			}
 		},
 		{
@@ -265,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Bear Golem",
-			"collector_number": "60",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/60_CU08 — Rune-carved Guardian.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/53_CU08 — Rune-carved Guardian.jpg"
 			}
 		},
 		{
@@ -275,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/61_CU09 — Graceful Intervention (Bird).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/54_CU09 — Graceful Intervention (Bird).jpg"
 			}
 		},
 		{
@@ -285,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/62_CU10 — Guardian Instinct (Bear).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/55_CU10 — Guardian Instinct (Bear).jpg"
 			}
 		},
 		{
@@ -295,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "63",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/63_CU11 — Jaw-lock Glyph (Croc).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/56_CU11 — Jaw-lock Glyph (Croc).jpg"
 			}
 		},
 		{
@@ -305,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/64_CU12 — Wayfinder's Meditation (Cat).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/57_CU12 — Wayfinder's Meditation (Cat).jpg"
 			}
 		},
 		{
@@ -315,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/65_CU13 — Marsh Sifting (Croc).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/58_CU13 — Marsh Sifting (Croc).jpg"
 			}
 		},
 		{
@@ -325,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/66_CU14 — Holy Gust (Bird).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/59_CU14 — Holy Gust (Bird).jpg"
 			}
 		},
 		{
@@ -335,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "67",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/67_CU15 — River-Hunter's Cloak.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/60_CU15 — River-Hunter's Cloak.jpg"
 			}
 		},
 		{
@@ -345,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/G}{2/U}{2/R}",
 			"type": "Creature — Bear Berserker Druid",
-			"collector_number": "189",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/189_CZ05 — Grove Warden Rager.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/180_CZ05 — Grove Warden Rager.jpg"
 			}
 		},
 		{
@@ -355,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}{2/G}{2/W}",
 			"type": "Sorcery",
-			"collector_number": "190",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/190_CZ06 — Tusked Reinforcements.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/181_CZ06 — Tusked Reinforcements.jpg"
 			}
 		},
 		{
@@ -365,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/W}{2/U}{2/B}",
 			"type": "Enchantment",
-			"collector_number": "191",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/191_CZ07 — Night-veiled Font.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/182_CZ07 — Night-veiled Font.jpg"
 			}
 		},
 		{
@@ -375,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/B}{2/G}{2/U}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/192_CZ08 — Marsh-lurker Ambush.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/183_CZ08 — Marsh-lurker Ambush.jpg"
 			}
 		},
 		{
@@ -385,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Cat Nomad Rogue",
-			"collector_number": "86",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/86_CB01 — Ruin-Wander Watch.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/78_CB01 — Ruin-Wander Watch.jpg"
 			}
 		},
 		{
@@ -395,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Minotaur Berserker",
-			"collector_number": "87",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/87_CB02 — Wound Wielder.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/79_CB02 — Wound Wielder.jpg"
 			}
 		},
 		{
@@ -405,19 +415,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Crocodile Warlock",
-			"collector_number": "88",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/88_CB03 — Muck-Wield Stalker.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/80_CB03 — Muck-Wield Stalker.jpg"
 			}
 		},
 		{
 			"name": "CB04 — Night-Blessed Inquisitor",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Bird Warlock",
-			"collector_number": "89",
+			"type": "Enchantment Creature — Bird Warlock",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/89_CB04 — Night-Blessed Inquisitor.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/81_CB04 — Night-Blessed Inquisitor.jpg"
 			}
 		},
 		{
@@ -425,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Cleric",
-			"collector_number": "90",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/90_CB05 — Strixan Siphon Priest.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/82_CB05 — Strixan Siphon Priest.jpg"
 			}
 		},
 		{
@@ -435,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Minotaur Warrior Assassin",
-			"collector_number": "91",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/91_CB06 — Battlefield Finisher.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/83_CB06 — Battlefield Finisher.jpg"
 			}
 		},
 		{
@@ -445,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Crocodile Rogue Warlock",
-			"collector_number": "92",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/92_CB07 — Greedy Poacher.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/84_CB07 — Greedy Poacher.jpg"
 			}
 		},
 		{
@@ -455,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Nightmare Elemental",
-			"collector_number": "93",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/93_CB08 — Death-Wreathed Terror.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/85_CB08 — Death-Wreathed Terror.jpg"
 			}
 		},
 		{
@@ -465,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/94_CB09 — Horn Bore.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/86_CB09 — Horn Bore.jpg"
 			}
 		},
 		{
@@ -475,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/95_CB10 — Purge the Heresy.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/87_CB10 — Purge the Heresy.jpg"
 			}
 		},
 		{
@@ -485,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/96_CB11 — Death Roll.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/88_CB11 — Death Roll.jpg"
 			}
 		},
 		{
@@ -495,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/97_CB12 — Wander-rite Offering.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/89_CB12 — Wander-rite Offering.jpg"
 			}
 		},
 		{
@@ -505,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "98",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/98_CB13 — Call the Once Blessed.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/90_CB13 — Call the Once Blessed.jpg"
 			}
 		},
 		{
@@ -515,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "99",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/99_CB14 — Dark River Hiss.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/91_CB14 — Dark River Hiss.jpg"
 			}
 		},
 		{
@@ -525,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "100",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/100_CB15 — Might-Marauder Helm.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/92_CB15 — Might-Marauder Helm.jpg"
 			}
 		},
 		{
@@ -535,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}{2/W}{2/B}",
 			"type": "Sorcery",
-			"collector_number": "193",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/193_CZ09 — Marauder's Fee.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/184_CZ09 — Marauder's Fee.jpg"
 			}
 		},
 		{
@@ -545,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/G}{2/U}{2/R}",
 			"type": "Instant",
-			"collector_number": "194",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/194_CZ10 — Nature Surge.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/185_CZ10 — Nature Surge.jpg"
 			}
 		},
 		{
@@ -555,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "195",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/195_CZ12 — Night-tuned Etchings.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/186_CZ12 — Night-tuned Etchings.jpg"
 			}
 		},
 		{
@@ -565,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/B}",
 			"type": "Enchantment Creature — Bird Crocodile Spirit",
-			"collector_number": "230",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/230_CZ11 — Night-Wind Spirits.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/234_CZ11 — Night-Wind Spirits.jpg"
 			}
 		},
 		{
@@ -575,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Minotaur Warrior",
-			"collector_number": "119",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/119_CR01 — Eager-Horn Rookie.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/110_CR01 — Eager-Horn Rookie.jpg"
 			}
 		},
 		{
@@ -585,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Cat Nomad Scout",
-			"collector_number": "120",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/120_CR02 — Front-Wander Scout.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/111_CR02 — Front-Wander Scout.jpg"
 			}
 		},
 		{
@@ -595,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Bear Warrior",
-			"collector_number": "121",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/121_CR03 — Rune-Charged Striker.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/112_CR03 — Rune-Charged Striker.jpg"
 			}
 		},
 		{
@@ -605,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elephant Soldier",
-			"collector_number": "122",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/122_CR04 — Dauntless Recruits.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/113_CR04 — Dauntless Recruits.jpg"
 			}
 		},
 		{
@@ -615,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Wolverine Druid Berserker",
-			"collector_number": "123",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/123_CR05 — Frenzy-kin Reinforcer.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/114_CR05 — Frenzy-kin Reinforcer.jpg"
 			}
 		},
 		{
@@ -625,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Bear Druid Archer",
-			"collector_number": "124",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/124_CR06 — Rune-Guard Sharpshooter.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/115_CR06 — Rune-Guard Sharpshooter.jpg"
 			}
 		},
 		{
@@ -635,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Minotaur Berserker",
-			"collector_number": "125",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/125_CR07 — Battlefield Pilferer.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/116_CR07 — Battlefield Pilferer.jpg"
 			}
 		},
 		{
@@ -645,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Elephant Soldier",
-			"collector_number": "126",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/126_CR08 — Rage-Legion Charger.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/117_CR08 — Rage-Legion Charger.jpg"
 			}
 		},
 		{
@@ -655,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "127",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/127_CR09 — Enraged Blast (Minotaur).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/118_CR09 — Enraged Blast (Minotaur).jpg"
 			}
 		},
 		{
@@ -665,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "128",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/128_CR10 — Cleanse with Fire.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/119_CR10 — Cleanse with Fire.jpg"
 			}
 		},
 		{
@@ -675,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/129_CR11 — Trample the Opposition.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/120_CR11 — Trample the Opposition.jpg"
 			}
 		},
 		{
@@ -685,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "130",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/130_CR12 — Trade In (Minotaur).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/121_CR12 — Trade In (Minotaur).jpg"
 			}
 		},
 		{
@@ -695,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "131",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/131_CR13 — Claw-Striker Bracers.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/122_CR13 — Claw-Striker Bracers.jpg"
 			}
 		},
 		{
@@ -705,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "132",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/132_CR14 — Distraction Strike (Cat).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/123_CR14 — Distraction Strike (Cat).jpg"
 			}
 		},
 		{
@@ -715,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "133",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/133_CR15 — Unstoppable Force (Elephant).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/124_CR15 — Unstoppable Force (Elephant).jpg"
 			}
 		},
 		{
@@ -725,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "196",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/196_CZ14 — Grove-Guard Sigils.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/187_CZ14 — Grove-Guard Sigils.jpg"
 			}
 		},
 		{
@@ -735,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/G}",
 			"type": "Enchantment Creature — Elephant Bear Spirit",
-			"collector_number": "231",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/231_CZ13 — High-Eyed Spirits.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/235_CZ13 — High-Eyed Spirits.jpg"
 			}
 		},
 		{
@@ -745,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Bird Warrior Cleric",
-			"collector_number": "197",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/197_CZ16 — Battle-Tithe Priest.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/188_CZ16 — Battle-Tithe Priest.jpg"
 			}
 		},
 		{
@@ -755,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}",
 			"type": "Enchantment Creature — Bird Minotaur Spirit",
-			"collector_number": "232",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/232_CZ15 — Vigor-Cloak Spirits.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/236_CZ15 — Vigor-Cloak Spirits.jpg"
 			}
 		},
 		{
@@ -765,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Elephant Soldier",
-			"collector_number": "152",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/152_CG01 — Bright-Tusk Recruit.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/143_CG01 — Bright-Tusk Recruit.jpg"
 			}
 		},
 		{
@@ -775,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bear Warrior Ranger",
-			"collector_number": "153",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/153_CG02 —Protective Charger.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/144_CG02 —Protective Charger.jpg"
 			}
 		},
 		{
@@ -785,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Cat Nomad Shaman",
-			"collector_number": "154",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/154_CG03 — Far-Wander Shaman.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/145_CG03 — Far-Wander Shaman.jpg"
 			}
 		},
 		{
@@ -795,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear Druid Ranger",
-			"collector_number": "155",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/155_CG04 — Brighthollow Guard.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/146_CG04 — Brighthollow Guard.jpg"
 			}
 		},
 		{
@@ -805,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Crocodile Ranger",
-			"collector_number": "156",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/156_CG05 — Marshland Hunter.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/147_CG05 — Marshland Hunter.jpg"
 			}
 		},
 		{
@@ -815,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Crocodile Warrior Scout",
-			"collector_number": "157",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/157_CG06 — Watchful Game Tracker.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/148_CG06 — Watchful Game Tracker.jpg"
 			}
 		},
 		{
@@ -825,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elephant Warrior",
-			"collector_number": "158",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/158_CG07 — Mighty Deserter.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/149_CG07 — Mighty Deserter.jpg"
 			}
 		},
 		{
@@ -835,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Elemental Wurm",
-			"collector_number": "159",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/159_CG08 — Surge-Seeker Wurm.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/150_CG08 — Surge-Seeker Wurm.jpg"
 			}
 		},
 		{
@@ -845,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "160",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/160_CG09 — Venemous Repurpose (Bear).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/151_CG09 — Venemous Repurpose (Bear).jpg"
 			}
 		},
 		{
@@ -855,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "161",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/161_CG10 — Surge of Might (Croc).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/152_CG10 — Surge of Might (Croc).jpg"
 			}
 		},
 		{
@@ -865,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "162",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/162_CG11 — Rally-Legion Requisition.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/153_CG11 — Rally-Legion Requisition.jpg"
 			}
 		},
 		{
@@ -875,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "163",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/163_CG12 — Stomper-Legion Hammer.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/154_CG12 — Stomper-Legion Hammer.jpg"
 			}
 		},
 		{
@@ -885,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/164_CG13 — Prepare an Ambush (Croc).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/155_CG13 — Prepare an Ambush (Croc).jpg"
 			}
 		},
 		{
@@ -895,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "165",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/165_CG14 — Nurturing Nature (Bear).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/156_CG14 — Nurturing Nature (Bear).jpg"
 			}
 		},
 		{
@@ -905,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "166",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/166_CG15 — Feline Instinct.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/157_CG15 — Feline Instinct.jpg"
 			}
 		},
 		{
@@ -915,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Minotaur Soldier",
-			"collector_number": "198",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/198_CZ18 — Raid Lieutenant.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/189_CZ18 — Raid Lieutenant.jpg"
 			}
 		},
 		{
@@ -925,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}",
 			"type": "Enchantment Creature — Elephant Minotaur Spirit",
-			"collector_number": "233",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/233_CZ18 — Quick-Arm Spirits.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/237_CZ18 — Quick-Arm Spirits.jpg"
 			}
 		},
 		{
@@ -935,9 +945,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Crocodile Druid",
-			"collector_number": "199",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/199_CZ20 — Wilderness Cultivator.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/190_CZ20 — Wilderness Cultivator.jpg"
 			}
 		},
 		{
@@ -945,9 +955,99 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Enchantment Creature — Bear Crocodile Spirit",
-			"collector_number": "234",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/234_CZ19 — Wild-Might Spirits.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/238_CZ19 — Wild-Might Spirits.jpg"
+			}
+		},
+		{
+			"name": "UW01 — Solid-hoof Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/37_UW01 — Solid-hoof Veteran.jpg"
+			}
+		},
+		{
+			"name": "UW02 — Elephon Frontliner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elephant Soldier",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/38_UW02 — Elephon Frontliner.jpg"
+			}
+		},
+		{
+			"name": "UW03 — Blasphemer Detainer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Bird Spirit Cleric",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/39_UW03 — Blasphemer Detainer.jpg"
+			}
+		},
+		{
+			"name": "UW04 — Brightlight Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Cleric Knight",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/40_UW04 — Brightlight Paladin.jpg"
+			}
+		},
+		{
+			"name": "UW05 — Great-horn Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Minotaur Warrior Knight",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/41_UW05 — Great-horn Knight.jpg"
+			}
+		},
+		{
+			"name": "UW06 — Pride-heart Lieutenant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/42_UW06 — Pride-heart Lieutenant.jpg"
+			}
+		},
+		{
+			"name": "UW07 — Righteous Restoration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/43_UW07 — Righteous Restoration.jpg"
+			}
+		},
+		{
+			"name": "UW08 — Rallier's Boon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/44_UW08 — Rallier's Boon.jpg"
+			}
+		},
+		{
+			"name": "UW09 — Honorable Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/45_UW09 — Honorable Exile.jpg"
 			}
 		},
 		{
@@ -955,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Creature — Bear Druid",
-			"collector_number": "228",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/228_UZ19 — GUR Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/222_UZ19 — GUR Arcun 1.jpg"
 			}
 		},
 		{
@@ -965,9 +1065,99 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Bear Druid Shaman",
-			"collector_number": "229",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/229_UZ20 — GUR Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/223_UZ20 — GUR Arcun 2.jpg"
+			}
+		},
+		{
+			"name": "UU01 — Bright-Grove Watcher",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Bear Druid",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/69_UU01 — Bright-Grove Watcher.jpg"
+			}
+		},
+		{
+			"name": "UU02 — River-cloak Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crocodile Rogue",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/70_UU02 — River-cloak Thief.jpg"
+			}
+		},
+		{
+			"name": "UU03 — Stream-warden Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bear Wizard Ranger",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/71_UU03 — Stream-warden Guide.jpg"
+			}
+		},
+		{
+			"name": "UU04 — Dusk-touched Pacifier",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Bird Cleric Advisor",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/72_UU04 — Dusk-touched Pacifier.jpg"
+			}
+		},
+		{
+			"name": "UU05 — Current-wield Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Crocodile Warlock Druid",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/73_UU05 — Current-wield Warden.jpg"
+			}
+		},
+		{
+			"name": "UU06 — Mind-wander Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat Nomad Cleric",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/74_UU06 — Mind-wander Acolyte.jpg"
+			}
+		},
+		{
+			"name": "UU07 — Enshrinement (Bird)",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/75_UU07 — Enshrinement (Bird).jpg"
+			}
+		},
+		{
+			"name": "UU08 — Drowned Efforts(Croc)",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/76_UU08 — Drowned Efforts(Croc).jpg"
+			}
+		},
+		{
+			"name": "UU09 — Ursaeic Repurposing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/77_UU09 — Ursaeic Repurposing.jpg"
 			}
 		},
 		{
@@ -975,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Enchantment Creature — Bird Spirit Cleric",
-			"collector_number": "223",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/223_UZ14 — WUB Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/217_UZ14 — WUB Arcun 2.jpg"
 			}
 		},
 		{
@@ -985,9 +1175,99 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Creature — Bird Cleric",
-			"collector_number": "222",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/222_UZ13 — WUB Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/216_UZ13 — WUB Arcun 1.jpg"
+			}
+		},
+		{
+			"name": "UB01 — Glorymarked Returner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/101_UB01 — Glorymarked Returner.jpg"
+			}
+		},
+		{
+			"name": "UB02 — Tithe Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Bird Cleric Spirit",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/102_UB02 — Tithe Enforcer.jpg"
+			}
+		},
+		{
+			"name": "UB03 — Fear-tuned Mauler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minotaur Warlock Berserker",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/103_UB03 — Fear-tuned Mauler.jpg"
+			}
+		},
+		{
+			"name": "UB04 — Feared River-Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Crocodile Berserker",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/104_UB04 — Feared River-Lurker.jpg"
+			}
+		},
+		{
+			"name": "UB05 — Night-feather Inquisitor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird Warlock",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/105_UB05 — Night-feather Inquisitor.jpg"
+			}
+		},
+		{
+			"name": "UB06 — Bog-Wander Poisoner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat Nomad Assassin",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/106_UB06 — Bog-Wander Poisoner.jpg"
+			}
+		},
+		{
+			"name": "UB07 — Pull from the Bogs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/107_UB07 — Pull from the Bogs.jpg"
+			}
+		},
+		{
+			"name": "UB08 — Foul Tactics",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/108_UB08 — Foul Tactics.jpg"
+			}
+		},
+		{
+			"name": "UB09 — Fell the Blasphemer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/109_UB09 — Fell the Blasphemer.jpg"
 			}
 		},
 		{
@@ -995,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Creature — Elephant Soldier",
-			"collector_number": "221",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/221_UZ12 — RGW Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/215_UZ12 — RGW Arcun 2.jpg"
 			}
 		},
 		{
@@ -1005,9 +1285,99 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Elephant Warrior",
-			"collector_number": "220",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/220_UZ11 — RGW Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/214_UZ11 — RGW Arcun 1.jpg"
+			}
+		},
+		{
+			"name": "UR01 — Wild Energy Apprentice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bear Druid",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/134_UR01 — Wild Energy Apprentice.jpg"
+			}
+		},
+		{
+			"name": "UR02 — Bovidian Barkeep",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Citizen",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/135_UR02 — Bovidian Barkeep.jpg"
+			}
+		},
+		{
+			"name": "UR03 — Front-Legion Strategist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elephant Soldier",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/136_UR03 — Front-Legion Strategist.jpg"
+			}
+		},
+		{
+			"name": "UR04 — Bold-Grove Elder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bear Shaman",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/137_UR04 — Bold-Grove Elder.jpg"
+			}
+		},
+		{
+			"name": "UR05 — Range-Legion Flanker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elephant Ranger",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/138_UR05 — Range-Legion Flanker.jpg"
+			}
+		},
+		{
+			"name": "UR06 — Wander-heart Mercenary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat Nomad Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/139_UR06 — Wander-heart Mercenary.jpg"
+			}
+		},
+		{
+			"name": "UR07 — Forced Conscription",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/140_UR07 — Forced Conscription.jpg"
+			}
+		},
+		{
+			"name": "UR08 — Fury of the Desperate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/141_UR08 — Fury of the Desperate.jpg"
+			}
+		},
+		{
+			"name": "UR09 — Natural Pushback",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/142_UR09 — Natural Pushback.jpg"
 			}
 		},
 		{
@@ -1015,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Minotaur Warrior Cleric",
-			"collector_number": "227",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/227_UZ18 — RWB Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/221_UZ18 — RWB Arcun 2.jpg"
 			}
 		},
 		{
@@ -1025,9 +1395,99 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Minotaur Berserker",
-			"collector_number": "226",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/226_UZ17 — RWB Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/220_UZ17 — RWB Arcun 1.jpg"
+			}
+		},
+		{
+			"name": "UG01 — Elephon Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elephant Knight",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/167_UG01 — Elephon Vanguard.jpg"
+			}
+		},
+		{
+			"name": "UG02 — Marshland Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Crocodile Druid",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/168_UG02 — Marshland Trawler.jpg"
+			}
+		},
+		{
+			"name": "UG03 — Grovetown Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bear Wizard Ranger",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/169_UG03 — Grovetown Mentor.jpg"
+			}
+		},
+		{
+			"name": "UG04 — Equalizing Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Crocodile Assassin",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/170_UG04 — Equalizing Hunter.jpg"
+			}
+		},
+		{
+			"name": "UG05 — Might-Legion Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Elephant Soldier",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/171_UG05 — Might-Legion Champion.jpg"
+			}
+		},
+		{
+			"name": "UG06 — Wild-wander Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cat Nomad Druid",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/172_UG06 — Wild-wander Shepherd.jpg"
+			}
+		},
+		{
+			"name": "UG07 — Chart the Game Trails",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/173_UG07 — Chart the Game Trails.jpg"
+			}
+		},
+		{
+			"name": "UG08 — Fostered Might",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/174_UG08 — Fostered Might.jpg"
+			}
+		},
+		{
+			"name": "UG09 — Stampede of the Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/175_UG09 — Stampede of the Legion.jpg"
 			}
 		},
 		{
@@ -1035,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature — Crocodile Warlock",
-			"collector_number": "224",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/224_UZ15 — BGU Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/218_UZ15 — BGU Arcun 1.jpg"
 			}
 		},
 		{
@@ -1045,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Creature — Crocodile Warrior Ranger",
-			"collector_number": "225",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/225_UZ16 — BGU Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/219_UZ16 — BGU Arcun 2.jpg"
 			}
 		},
 		{
@@ -1055,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Minotaur Cleric",
-			"collector_number": "214",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/214_UZ05 — WB Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/208_UZ05 — WB Arcun 1.jpg"
 			}
 		},
 		{
@@ -1065,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Bird Warlock",
-			"collector_number": "210",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/210_UZ01 — UB Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/204_UZ01 — UB Arcun 1.jpg"
 			}
 		},
 		{
@@ -1075,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "211",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/211_UZ02 — UB Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/205_UZ02 — UB Arcun 2.jpg"
 			}
 		},
 		{
@@ -1085,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "213",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/213_UZ04 — RG Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/207_UZ04 — RG Arcun 2.jpg"
 			}
 		},
 		{
@@ -1095,9 +1555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "219",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/219_UZ10 — GU Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/213_UZ10 — GU Arcun 2.jpg"
 			}
 		},
 		{
@@ -1105,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "215",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/215_UZ06 — WB Arcun 2.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/209_UZ06 — WB Arcun 2.jpg"
 			}
 		},
 		{
@@ -1115,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Minotaur Warrior Advisor",
-			"collector_number": "217",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/217_UZ08 — Battleground Improviser.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/211_UZ08 — Battleground Improviser.jpg"
 			}
 		},
 		{
@@ -1125,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Elephant Berserker Druid",
-			"collector_number": "212",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/212_UZ03 — RG Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/206_UZ03 — RG Arcun 1.jpg"
 			}
 		},
 		{
@@ -1135,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "216",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/216_UZ07 — Support of the Legion.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/210_UZ07 — Support of the Legion.jpg"
 			}
 		},
 		{
@@ -1145,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Bear Ranger",
-			"collector_number": "218",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/218_UZ09 — GU Arcun 1.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/212_UZ09 — GU Arcun 1.jpg"
 			}
 		},
 		{
@@ -1155,9 +1615,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "236",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/236_CA02 — Strixan Banner.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/240_CA02 — Strixan Banner.jpg"
 			}
 		},
 		{
@@ -1165,9 +1625,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "235",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/235_CA01 — Elephon Banner.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/239_CA01 — Elephon Banner.jpg"
 			}
 		},
 		{
@@ -1175,9 +1635,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "237",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/237_CA03 — Crocdilid Banner.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/241_CA03 — Crocdilid Banner.jpg"
 			}
 		},
 		{
@@ -1185,9 +1645,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "238",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/238_CA04 — Bovidian Banner.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/242_CA04 — Bovidian Banner.jpg"
 			}
 		},
 		{
@@ -1195,9 +1655,59 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "239",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/239_CA05 — Ursaeic Banner.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/243_CA05 — Ursaeic Banner.jpg"
+			}
+		},
+		{
+			"name": "UZ26 — The Might of Tanabon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/229_UZ26 — The Might of Tanabon.jpg"
+			}
+		},
+		{
+			"name": "UZ27 — The Trials of Saint Mornus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/230_UZ27 — The Trials of Saint Mornus.jpg"
+			}
+		},
+		{
+			"name": "UZ28 — The First Hunt of Roag",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/231_UZ28 — The First Hunt of Roag.jpg"
+			}
+		},
+		{
+			"name": "UZ29 — The Tale of Ol Barrot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/232_UZ29 — The Tale of Ol Barrot.jpg"
+			}
+		},
+		{
+			"name": "UZ30 — The Teachings of Aodhan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/233_UZ30 — The Teachings of Aodhan.jpg"
 			}
 		},
 		{
@@ -1205,23 +1715,258 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "240",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/240_CA06 — Felidian Guidestone.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/244_CA06 — Felidian Guidestone.jpg"
+			}
+		},
+		{
+			"name": "UL01 — Mighty Fort Town",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/255_UL01 — Mighty Fort Town.jpg"
+			}
+		},
+		{
+			"name": "UL02 — Bustling Monastery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/256_UL02 — Bustling Monastery.jpg"
+			}
+		},
+		{
+			"name": "UL03 — Quaint Marsh Village",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/257_UL03 — Quaint Marsh Village.jpg"
+			}
+		},
+		{
+			"name": "UL04 — Bannerless Town",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/258_UL04 — Bannerless Town.jpg"
+			}
+		},
+		{
+			"name": "UL05 — Woodland Hamlet",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/259_UL05 — Woodland Hamlet.jpg"
+			}
+		},
+		{
+			"name": "UZ21 — Elephon Representative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Elephant Soldier Advisor",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/224_UZ21 — Elephon Representative.jpg"
+			}
+		},
+		{
+			"name": "UZ22 — Strixan Representative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Enchantment Creature — Bird Cleric Advisor",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/225_UZ22 — Strixan Representative.jpg"
+			}
+		},
+		{
+			"name": "UZ23 — Crocodilid Representative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Creature — Crocodile Ranger Advisor",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/226_UZ23 — Crocodilid Representative.jpg"
+			}
+		},
+		{
+			"name": "UZ24 — Bovidian Representative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Creature — Minotaur Warrior Advisor",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/227_UZ24 — Bovidian Representative.jpg"
+			}
+		},
+		{
+			"name": "UZ25 — Ursaeic Representative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Bear Druid Advisor",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/228_UZ25 — Ursaeic Representative.jpg"
+			}
+		},
+		{
+			"name": "CL01 — Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/245_CL01 — Tranquil Cove.jpg"
+			}
+		},
+		{
+			"name": "CL05 — Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/249_CL05 — Blossoming Sands.jpg"
+			}
+		},
+		{
+			"name": "CL04 — Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/248_CL04 — Rugged Highlands.jpg"
+			}
+		},
+		{
+			"name": "CL03 — Bloodfell Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/247_CL03 — Bloodfell Caves.jpg"
+			}
+		},
+		{
+			"name": "CL02 — Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/246_CL02 — Dismal Backwater.jpg"
+			}
+		},
+		{
+			"name": "CL07 — Swiftwater Cliffs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/251_CL07 — Swiftwater Cliffs.jpg"
+			}
+		},
+		{
+			"name": "CL08 — Jungle Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/252_CL08 — Jungle Hollow.jpg"
+			}
+		},
+		{
+			"name": "CL09 — Wind-scarred Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/253_CL09 — Wind-scarred Crag.jpg"
+			}
+		},
+		{
+			"name": "CL10 — Thornwood Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRR-files/img/254_CL10 — Thornwood Falls.jpg"
 			}
 		}
 	]
 
 [rare(1)]
 [uncommon(3)]
+	5 UW01 — Solid-hoof Veteran
+	5 UW02 — Elephon Frontliner
+	5 UW03 — Blasphemer Detainer
+	5 UW04 — Brightlight Paladin
+	5 UW05 — Great-horn Knight
+	5 UW06 — Pride-heart Lieutenant
+	5 UW07 — Righteous Restoration
+	5 UW08 — Rallier's Boon
+	5 UW09 — Honorable Exile
 	5 UZ19 — GUR Arcun 1
 	5 UZ20 — GUR Arcun 2
+	5 UU01 — Bright-Grove Watcher
+	5 UU02 — River-cloak Thief
+	5 UU03 — Stream-warden Guide
+	5 UU04 — Dusk-touched Pacifier
+	5 UU05 — Current-wield Warden
+	5 UU06 — Mind-wander Acolyte
+	5 UU07 — Enshrinement (Bird)
+	5 UU08 — Drowned Efforts(Croc)
+	5 UU09 — Ursaeic Repurposing
 	5 UZ14 — WUB Arcun 2
 	5 UZ13 — WUB Arcun 1
+	5 UB01 — Glorymarked Returner
+	5 UB02 — Tithe Enforcer
+	5 UB03 — Fear-tuned Mauler
+	5 UB04 — Feared River-Lurker
+	5 UB05 — Night-feather Inquisitor
+	5 UB06 — Bog-Wander Poisoner
+	5 UB07 — Pull from the Bogs
+	5 UB08 — Foul Tactics
+	5 UB09 — Fell the Blasphemer
 	5 UZ12 — RGW Arcun 2
 	5 UZ11 — RGW Arcun 1
+	5 UR01 — Wild Energy Apprentice
+	5 UR02 — Bovidian Barkeep
+	5 UR03 — Front-Legion Strategist
+	5 UR04 — Bold-Grove Elder
+	5 UR05 — Range-Legion Flanker
+	5 UR06 — Wander-heart Mercenary
+	5 UR07 — Forced Conscription
+	5 UR08 — Fury of the Desperate
+	5 UR09 — Natural Pushback
 	5 UZ18 — RWB Arcun 2
 	5 UZ17 — RWB Arcun 1
+	5 UG01 — Elephon Vanguard
+	5 UG02 — Marshland Trawler
+	5 UG03 — Grovetown Mentor
+	5 UG04 — Equalizing Hunter
+	5 UG05 — Might-Legion Champion
+	5 UG06 — Wild-wander Shepherd
+	5 UG07 — Chart the Game Trails
+	5 UG08 — Fostered Might
+	5 UG09 — Stampede of the Legion
 	5 UZ15 — BGU Arcun 1
 	5 UZ16 — BGU Arcun 2
 	5 UZ05 — WB Arcun 1
@@ -1234,7 +1979,23 @@
 	5 UZ03 — RG Arcun 1
 	5 UZ07 — Support of the Legion
 	5 UZ09 — GU Arcun 1
+	5 UZ26 — The Might of Tanabon
+	5 UZ27 — The Trials of Saint Mornus
+	5 UZ28 — The First Hunt of Roag
+	5 UZ29 — The Tale of Ol Barrot
+	5 UZ30 — The Teachings of Aodhan
+	5 UL01 — Mighty Fort Town
+	5 UL02 — Bustling Monastery
+	5 UL03 — Quaint Marsh Village
+	5 UL04 — Bannerless Town
+	5 UL05 — Woodland Hamlet
+	5 UZ21 — Elephon Representative
+	5 UZ22 — Strixan Representative
+	5 UZ23 — Crocodilid Representative
+	5 UZ24 — Bovidian Representative
+	5 UZ25 — Ursaeic Representative
 [common(10)]
+	5 CL06 — Scoured Barrens
 	5 CW01 — Feathered Acolyte
 	5 CW02 — Battlefront Scrounger
 	5 CW03 — Street-wise Nomad
@@ -1336,3 +2097,12 @@
 	5 CA04 — Bovidian Banner
 	5 CA05 — Ursaeic Banner
 	5 CA06 — Felidian Guidestone
+	5 CL01 — Tranquil Cove
+	5 CL05 — Blossoming Sands
+	5 CL04 — Rugged Highlands
+	5 CL03 — Bloodfell Caves
+	5 CL02 — Dismal Backwater
+	5 CL07 — Swiftwater Cliffs
+	5 CL08 — Jungle Hollow
+	5 CL09 — Wind-scarred Crag
+	5 CL10 — Thornwood Falls

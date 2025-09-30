@@ -1,4 +1,111 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CL06 — Scoured Barrens added.
+UW01 — Solid-hoof Veteran added.
+UW02 — Elephon Frontliner added.
+UW03 — Blasphemer Detainer added.
+UW04 — Brightlight Paladin added.
+UW05 — Great-horn Knight added.
+UW06 — Pride-heart Lieutenant added.
+UW07 — Righteous Restoration added.
+UW08 — Rallier's Boon added.
+UW09 — Honorable Exile added.
+UU01 — Bright-Grove Watcher added.
+UU02 — River-cloak Thief added.
+UU03 — Stream-warden Guide added.
+UU04 — Dusk-touched Pacifier added.
+UU05 — Current-wield Warden added.
+UU06 — Mind-wander Acolyte added.
+UU07 — Enshrinement (Bird) added.
+UU08 — Drowned Efforts(Croc) added.
+UU09 — Ursaeic Repurposing added.
+UB01 — Glorymarked Returner added.
+UB02 — Tithe Enforcer added.
+UB03 — Fear-tuned Mauler added.
+UB04 — Feared River-Lurker added.
+UB05 — Night-feather Inquisitor added.
+UB06 — Bog-Wander Poisoner added.
+UB07 — Pull from the Bogs added.
+UB08 — Foul Tactics added.
+UB09 — Fell the Blasphemer added.
+UR01 — Wild Energy Apprentice added.
+UR02 — Bovidian Barkeep added.
+UR03 — Front-Legion Strategist added.
+UR04 — Bold-Grove Elder added.
+UR05 — Range-Legion Flanker added.
+UR06 — Wander-heart Mercenary added.
+UR07 — Forced Conscription added.
+UR08 — Fury of the Desperate added.
+UR09 — Natural Pushback added.
+UG01 — Elephon Vanguard added.
+UG02 — Marshland Trawler added.
+UG03 — Grovetown Mentor added.
+UG04 — Equalizing Hunter added.
+UG05 — Might-Legion Champion added.
+UG06 — Wild-wander Shepherd added.
+UG07 — Chart the Game Trails added.
+UG08 — Fostered Might added.
+UG09 — Stampede of the Legion added.
+UZ26 — The Might of Tanabon added.
+UZ27 — The Trials of Saint Mornus added.
+UZ28 — The First Hunt of Roag added.
+UZ29 — The Tale of Ol Barrot added.
+UZ30 — The Teachings of Aodhan added.
+UL01 — Mighty Fort Town added.
+UL02 — Bustling Monastery added.
+UL03 — Quaint Marsh Village added.
+UL04 — Bannerless Town added.
+UL05 — Woodland Hamlet added.
+UZ21 — Elephon Representative added.
+UZ22 — Strixan Representative added.
+UZ23 — Crocodilid Representative added.
+UZ24 — Bovidian Representative added.
+UZ25 — Ursaeic Representative added.
+CL01 — Tranquil Cove added.
+CL05 — Blossoming Sands added.
+CL04 — Rugged Highlands added.
+CL03 — Bloodfell Caves added.
+CL02 — Dismal Backwater added.
+CL07 — Swiftwater Cliffs added.
+CL08 — Jungle Hollow added.
+CL09 — Wind-scarred Crag added.
+CL10 — Thornwood Falls added.
+
+
+CU06 — Downpour Leviathan
+
+CU08 — Rune-carved Guardian
+
+CB04 — Night-Blessed Inquisitor
+type: Creature — Bird Warlock => Enchantment Creature — Bird Warlock
+
+CB08 — Death-Wreathed Terror
+
+CB09 — Horn Bore
+
+CR05 — Frenzy-kin Reinforcer
+
+CR08 — Rage-Legion Charger
+rules_text: Menace
+Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter.)[/i] => Menace
+Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i]
+
+CG01 — Bright-Tusk Recruit
+rules_text: When this creature enters, choose one:
+• Gain 3 life.
+• You may play an additional land this turn. => When this creature enters, you may put a land card from your hand onto the battlefield.
+
+CG07 — Mighty Deserter
+rules_text: Haste
+Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter.)[/i]
+When this creature enters, put a +1/+1 counter on target creature. => Haste
+Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i]
+
+CG08 — Surge-Seeker Wurm
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
