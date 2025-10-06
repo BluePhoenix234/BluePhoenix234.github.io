@@ -1,7 +1,7 @@
 ﻿{
     "name": "Felidea: Rising Tensions",
     "formats": "BluePhoenix Eternal, BluePhoenix Standard, BluePhoenix Modern",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -3692,6 +3692,5 @@
             "alias": "",
             "notes": ""
         }
-    ],
-    "version": 1
+    ]
 }
