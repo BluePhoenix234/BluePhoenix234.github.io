@@ -51,13 +51,13 @@
 			}
 		},
 		{
-			"name": "CW05 — Horened Beligerent",
+			"name": "CW05 — Horned Beligerent",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/17_CW05 — Horened Beligerent.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/17_CW05 — Horned Beligerent.jpg"
 			}
 		},
 		{
@@ -421,23 +421,23 @@
 			}
 		},
 		{
-			"name": "CB04 — Night-Blessed Inquisitor",
+			"name": "CB05 — Night-Blessed Inquisitor",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Enchantment Creature — Bird Warlock",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/81_CB04 — Night-Blessed Inquisitor.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/82_CB05 — Night-Blessed Inquisitor.jpg"
 			}
 		},
 		{
-			"name": "CB05 — Strixan Siphon Priest",
+			"name": "CB04 — Strixan Siphon Priest",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Cleric",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/82_CB05 — Strixan Siphon Priest.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/81_CB04 — Strixan Siphon Priest.jpg"
 			}
 		},
 		{
@@ -613,7 +613,7 @@
 		{
 			"name": "CR04 — Dauntless Recruits",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "113",
 			"image_uris": {
@@ -654,7 +654,7 @@
 			"name": "CR08 — Rage-Legion Charger",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
-			"type": "Creature — Elephant Soldier",
+			"type": "Creature — Elephant Berserker Soldier",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/117_CR08 — Rage-Legion Charger.jpg"
@@ -1184,7 +1184,7 @@
 			"name": "UB01 — Glorymarked Returner",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Minotaur Warrior",
+			"type": "Creature — Minotaur Zombie Warrior",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/101_UB01 — Glorymarked Returner.jpg"
@@ -1213,8 +1213,8 @@
 		{
 			"name": "UB04 — Feared River-Lurker",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Crocodile Berserker",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Crocodile Warlock Berserker",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/104_UB04 — Feared River-Lurker.jpg"
@@ -1323,7 +1323,7 @@
 		{
 			"name": "UR04 — Bold-Grove Elder",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Creature — Bear Shaman",
 			"collector_number": "137",
 			"image_uris": {
@@ -2030,7 +2030,7 @@
 	5 CW02 — Battlefront Scrounger
 	5 CW03 — Street-wise Nomad
 	5 CW04 — Bolstered Veteran
-	5 CW05 — Horened Beligerent
+	5 CW05 — Horned Beligerent
 	5 CW06 — Blessings Mystic
 	5 CW07 — Undaunted Avenger
 	5 CW08 — Sturdy Advancer
@@ -2067,8 +2067,8 @@
 	5 CB01 — Ruin-Wander Watch
 	5 CB02 — Wound Wielder
 	5 CB03 — Muck-Wield Stalker
-	5 CB04 — Night-Blessed Inquisitor
-	5 CB05 — Strixan Siphon Priest
+	5 CB05 — Night-Blessed Inquisitor
+	5 CB04 — Strixan Siphon Priest
 	5 CB06 — Battlefield Finisher
 	5 CB07 — Greedy Poacher
 	5 CB08 — Death-Wreathed Terror

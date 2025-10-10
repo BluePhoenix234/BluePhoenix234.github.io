@@ -1,4 +1,188 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW05 — Horned Beligerent added.
+CB05 — Night-Blessed Inquisitor added.
+CB04 — Strixan Siphon Priest added.
+
+CW05 — Horened Beligerent removed.
+CB04 — Night-Blessed Inquisitor removed.
+CB05 — Strixan Siphon Priest removed.
+
+CW03 — Street-wise Nomad
+pt:  => 2/2
+
+CW15 — Reckless Inventory
+rules_text: As an additional cost to cast this spell, you may sacrifice a permanent.
+Destroy target artifact or enchantment. If you sacrificed a nonland permanent instead destroy an artifact and an enchantment. => As an additional cost to cast this spell, you may sacrifice a nonland permanent.
+Choose one. If you sacrificed a permanent, you may choose both instead.
+• Destroy target artifact.
+• Destroy target enchantment.
+
+CZ02 — Dusktouched Seeker
+rules_text: Flying
+When this creature enters return target enchantment from your graveyard to the battlefield
+[i]Devout[/i] — If you control three or more enchantments, this creature has ward {1}. => Flying
+When this creature enters, return target enchantment from your graveyard to the battlefield.
+[i]Devout[/i] — If you control three or more enchantments, this creature has ward {2}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+CU04 — Mind-Focused Warden
+rules_text: [i]Guardian[/i] — Whenever you cast a creature spell with power less than this creature's power, draw a card. If this is the second time this ability has resolved this turn, put a +1/+1 counter on this creature. => [i]Guardian[/i] — Whenever you cast a creature spell with power less than this creature's power, draw a card if this is the first time this ability has resolved this turn. Otherwise, put a +1/+1 counter on this creature.
+
+CU08 — Rune-carved Guardian
+pt:  => 3/3
+
+CU14 — Holy Gust
+rules_text: Return target creature to its owner's hand.
+[i]Devout[/i]— If you control three or more enchantments, instead, return target creature to the top of its owner's library => Return target creature to its owner's hand.
+[i]Devout[/i]— If you control three or more enchantments, instead, return that creature to the top of its owner's library.
+
+CB11 — Death Roll
+rules_text: Destroy target creature with mana value 3 or less.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead destroy target creature. => [i]Ferocious[/i] — Destroy target creature if it has mana value 3 or less, or if you controlled a creature with power 4 or greater as you cast this spell.
+
+CZ11 — Night-Wind Spirits
+rules_text: Bestow 2{UB}{UB} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Flying
+Enchanted creature has flying and gets +1/+1 for each color it shares with this enchantment. => Bestow {2}{UB}{UB} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Flying
+Enchanted creature has flying and gets +1/+1 for each color it shares with this enchantment.
+
+CR01 — Eager-Horn Rookie
+pt: 2/1 => 1/1
+
+CR04 — Dauntless Recruits
+cost: {1}{R} => {2}{R}
+
+CR05 — Frenzy-kin Reinforcer
+rules_text: Haste
+When this creature enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards. => When this creature enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+CR06 — Rune-Guard Sharpshooter
+pt: 4/3 => 3/2
+
+CR08 — Rage-Legion Charger
+type: Creature — Elephant Soldier => Creature — Elephant Berserker Soldier
+
+CR10 — Cleanse with Fire
+rules_text: Cleanse With Fire deals 3 damage to target creature. If you control a Bear, exile target artifact or enchantment from target opponent's graveyard. => Cleanse With Fire deals 3 damage to target creature. If you controlled a Bear as you cast this spell, exile up to one target artifact or enchantment from target opponent's graveyard.
+
+CR13 — Claw-Striker Bracers
+rules_text: Equipped creature has first strike.
+[i]Guardian[/i] — At the beginning of combat, if you control a creature with power less than equipped creature's power, deal 2 damage to target opponent.
+Equip {2} => Equipped creature has first strike.
+[i]Guardian[/i] — At the beginning of combat, if you control a creature with power less than equipped creature's power, deal 1 damage to target opponent.
+Equip {2}
+
+CZ13 — High-Eyed Spirits
+rules_text: Bestow 2{RG}{RG} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Reach
+Enchanted creature has reach and gets +1/+1 for each color it shares with this enchantment. => Bestow {2}{RG}{RG} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Reach
+Enchanted creature has reach and gets +1/+1 for each color it shares with this enchantment.
+
+CZ15 — Vigor-Cloak Spirits
+rules_text: Bestow 2{WB}{WB} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Lifelink
+Enchanted creature has lifelink and gets +1/+1 for each color it shares with this enchantment. => Bestow {2}{WB}{WB} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Lifelink
+Enchanted creature has lifelink and gets +1/+1 for each color it shares with this enchantment.
+
+CZ18 — Quick-Arm Spirits
+rules_text: Bestow 2{RW}{RW} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Double strike
+Enchanted creature has first strike and gets +1/+1 for each color it shares with this enchantment. => Bestow {2}{RW}{RW} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Double strike
+Enchanted creature has first strike and gets +1/+1 for each color it shares with this enchantment.
+
+CZ19 — Wild-Might Spirits
+rules_text: Bestow 2{GU}{GU} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Trample
+Enchanted creature has trample and gets +1/+1 for each color it shares with this enchantment. => Bestow {2}{GU}{GU} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Trample
+Enchanted creature has trample and gets +1/+1 for each color it shares with this enchantment.
+
+UW08 — Rallier's Boon
+rules_text: Flash
+Enchant creature
+Enchanted creature has ward {2}.
+Whenever enchanted creature attacks, creatures you control get +1/+1 until end of turn. => Enchant creature
+Enchanted creature has ward {2}.
+Whenever enchanted creature attacks, creatures you control get +1/+1 until end of turn.
+
+UU08 — Drowned Efforts
+rules_text: Counter target creature spell.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead, counter target spell. => [i]Ferocious[/i] — Counter target spell if it's a creature spell or if you control a creature with power 4 or greater.
+
+UB01 — Glorymarked Returner
+type: Creature — Minotaur Warrior => Creature — Minotaur Zombie Warrior
+rules_text: Whenever you activate a boast ability, you may cast this creature from the graveyard. If you do, it enters tapped and becomes a Zombie in addition to its other types. => This creature enters tapped. 
+Whenever you activate a boast ability, you may pay {1}{B}. If you do, return this card from your graveyard to the battlefield.
+
+UB04 — Feared River-Lurker
+type: Creature — Crocodile Berserker => Creature — Crocodile Warlock Berserker
+cost: {3}{B} => {4}{B}
+rules_text: Menace
+Whenever this creature deals damage, you may cast an instant or sorcery spell from your graveyard. If that spell would be put into a graveyard, exile it. => Menace
+Whenever this creature deals damage to a player, you may cast a creature card from your graveyard. It enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+UZ12 — RGW Arcun 2
+pt: 3/3 => 4/4
+
+UR04 — Bold-Grove Elder
+cost: {2}{R} => {3}{R}
+rules_text: First strike
+[i]Guardian[/i] — Whenever you cast a creature with power less than this creature's power, you may exile the top card of your library. Until end of turn you may play that card. => First strike
+[i]Guardian[/i] — Whenever you cast a creature spell with power less than this creature's power, you may exile the top card of your library. Until the end of your next turn you may play that card.
+
+UZ07 — Support of the Legion
+rules_text: Attacking creatures you control get +2/+1.
+{R}{W},{T}: Populate. [i](Create a token that's a copy of a creature token you control.)[/i] => At the beginning of combat, attacking creatures you control get +2/+1 until end of turn.
+{R}{W},{T}: Populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+UZ26 — The Might of Tanabon
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, creature spells you cast cost {1} less to cast.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, creature spells you cast cost {1} less to cast.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+
+UL01 — Mighty Fort Town
+rules_text: As this land enters, you may behold two Elephants and/or Soldiers. If you don't, this land enters tapped.
+{T}: Add {R}, {G}, or {W}. => As this land enters, you may behold two Elephants and/or Soldiers. If you don't, this land enters tapped. [i](You may choose two Elephants and/or Soldiers you control or reveal two Elephant and/or Soldier cards from your hand.)[/i]
+{T}: Add {R}, {G}, or {W}.
+
+UL02 — Bustling Monastery
+rules_text: As this land enters, you may behold two Birds and/or Clerics. If you don't, this land enters tapped.
+{T}: Add {W}, {U}, or {B}. => As this land enters, you may behold two Birds and/or Clerics. If you don't, this land enters tapped. [i](You may choose two Birds and/or Clerics you control or reveal two Bird and/or Cleric cards from your hand.)[/i]
+{T}: Add {W}, {U}, or {B}.
+
+UL03 — Quaint Marsh Village
+rules_text: As this land enters, you may behold two Crocodiles and/or Rangers. If you don't, this land enters tapped.
+{T}: Add {B}, {G}, or {U}. => As this land enters, you may behold two Crocodiles and/or Rangers. If you don't, this land enters tapped. [i](You may choose two Crocodiles and/or Rangers you control or reveal two Crocodile and/or Ranger cards from your hand.)[/i]
+{T}: Add {B}, {G}, or {U}.
+
+UL04 — Bannerless Town
+rules_text: As this land enters, you may behold two Minotaurs and/or Warriors. If you don't, this land enters tapped.
+{T}: Add {R}, {W}, or {B}. => As this land enters, you may behold two Minotaurs and/or Warriors. If you don't, this land enters tapped. [i](You may choose two Minotaurs and/or Warriors you control or reveal two Minotaur and/or Warrior cards from your hand.)[/i]
+{T}: Add {R}, {W}, or {B}.
+
+UL05 — Woodland Hamlet
+rules_text: As this land enters, you may behold two Bears and/or Druids. If you don't, this land enters tapped.
+{T}: Add {G}, {U}, or {R} => As this land enters, you may behold two Bears and/or Druids. If you don't, this land enters tapped. [i](You may choose two Bears and/or Druids you control or reveal two Bear and/or Druid cards from your hand.)[/i]
+{T}: Add {G}, {U}, or {R}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
