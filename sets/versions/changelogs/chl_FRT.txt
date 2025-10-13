@@ -1,4 +1,237 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CW12 —Might-Wrought Boon added.
+
+CW12 —Might-Wrougth Boon removed.
+
+CW02 — Battlefront Scrounger
+pt: 1/1 => 2/2
+
+CW06 — Blessings Mystic
+type: Creature — Bird Wizard => Enchantment Creature — Bird Wizard
+
+CW09 — Courageous Rallier
+rules_text: When this creature enters, create a 1/1 blue Bird Cleric and a 2/2 red Minotaur Warrior token.
+Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter.)[/i] => When this creature enters, create a 1/1 blue Bird Cleric with flying, and a 2/2 red Minotaur Warrior token.
+Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter.)[/i]
+
+CW13 — Blessed Talon Sigil
+rules_text: Equipped creature gets +1/+1.
+[i]Devout[/i] — As long as you control three or more enchantments, equipped creature has vigilance.
+Equip {2} => Equipped creature gets +1/+1.
+[i]Devout[/i] — As long as you control three or more enchantments, equipped creature has vigilance.
+Equip {1}
+
+CW14 — Glorious Stampede
+rules_text: Creatures you control get +1/+1 until end of turn. If you control four or more attacking creatures, instead creatures you control get +2/+2 until end of turn. => Creatures you control get +1/+1 until end of turn. If you control three or more attacking creatures, instead creatures you control get +2/+2 until end of turn.
+
+CW15 — Reckless Inventory
+cost: {2}{W} => {1}{W}
+rules_text: As an additional cost to cast this spell, you may sacrifice a nonland permanent.
+Choose one. If you sacrificed a permanent, you may choose both instead.
+• Destroy target artifact.
+• Destroy target enchantment. => As an additional cost to cast this spell, you may sacrifice a nonland permanent.
+Choose one. If the additional cost was paid, you may choose both instead.
+• Destroy target artifact.
+• Destroy target enchantment.
+
+CU02 — Clever Swiper
+rules_text: When this creature deals damage to a player, draw a card then discard a card. => Whenever this creature deals damage to a player, draw a card, then discard a card.
+
+CU03 — Bright-eyed Adept
+rules_text: Vigilance
+Instant and sorcery spells you cast cost {1} less to cast. => Vigilance
+Noncreature and nonartifact spells you cast cost {1} less to cast.
+
+CU11 — Jaw-lock Glyph (Croc)
+rules_text: Enchant creature
+Tap enchanted creature, it doesn't untap during your opponent's upkeep. => Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+
+CU13 — Marsh Sifting
+rules_text: Draw two cards, then discard a card.
+[i]Ferocious[/i] — Draw two cards instead if you control a creature with power 4 or greater. => [i]Ferocious[/i] — Draw two cards. Then discard a card unless you control a creature with power 4 or greater.
+
+CU14 — Holy Gust
+rules_text: Return target creature to its owner's hand.
+[i]Devout[/i]— If you control three or more enchantments, instead, return that creature to the top of its owner's library. => Return target creature to its owner's hand.
+[i]Devout[/i]— If you control three or more enchantments, instead, put that creature on top of its owner's library.
+
+CZ07 — Night-veiled Font
+rules_text: When this enchantment enters draw 2 cards.
+At the beginning of your endstep, each opponent loses 1 life and you gain 1 life. => When this enchantment enters draw two cards.
+At the beginning of your endstep, each opponent loses 1 life and you gain 1 life.
+
+CZ11 — Night-Wind Spirits
+rules_text: Bestow {2}{UB}{UB} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Flying
+Enchanted creature has flying and gets +1/+1 for each color it shares with this enchantment. => Bestow {2}{U}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Flying
+Enchanted creature has flying and gets +1/+1 for each color it shares with this enchantment.
+
+CZ14 — Grove-Guard Sigils
+cost: {R}{G} => {1}{R}{G}
+rules_text: Enchant land
+Enchanted land has, “{T}: Add {R}{G}. Spend this Mana only to cast creature spells or activate abilities of creatures.” => Enchant land
+Enchanted land has, “{T}: Add {R}{G}{G} or {R}{R}{G}. Spend this Mana only to cast creature spells or activate abilities of creatures.”
+
+CZ13 — High-Eyed Spirits
+cost: {2}{RG} => {3}{RG}
+rules_text: Bestow {2}{RG}{RG} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Reach
+Enchanted creature has reach and gets +1/+1 for each color it shares with this enchantment. => Bestow {3}{R}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Reach
+Enchanted creature has reach and gets +2/+2 for each color it shares with this enchantment.
+pt: 2/2 => 3/3
+
+CZ15 — Vigor-Cloak Spirits
+rules_text: Bestow {2}{WB}{WB} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Lifelink
+Enchanted creature has lifelink and gets +1/+1 for each color it shares with this enchantment. => Bestow {2}{W}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Lifelink
+Enchanted creature has lifelink and gets +1/+1 for each color it shares with this enchantment.
+
+CZ18 — Raid Lieutenant
+
+CZ18 — Quick-Arm Spirits
+cost: {2}{RW} => {3}{RW}
+rules_text: Bestow {2}{RW}{RW} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Double strike
+Enchanted creature has first strike and gets +1/+1 for each color it shares with this enchantment. => Bestow {3}{R}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Double strike
+Enchanted creature has first strike and gets +1/+1 for each color it shares with this enchantment.
+pt: 1/2 => 2/2
+
+CZ20 — Wilderness Cultivator
+pt: 3/3 => 4/4
+
+CZ19 — Wild-Might Spirits
+cost: {2}{GU} => {4}{GU}
+rules_text: Bestow {2}{GU}{GU} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Trample
+Enchanted creature has trample and gets +1/+1 for each color it shares with this enchantment. => Bestow {4}{G}{U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Trample
+Enchanted creature has trample and gets +2/+2 for each color it shares with this enchantment.
+pt: 2/2 => 4/4
+
+UZ19 — GUR Arcun 1
+rules_text: First strike, reach
+[i]Guardian[/i] — At the beginning of your upkeep, creatures you control with power less than this creature's power get +1/+1 until your next upkeep. => First strike, reach
+[i]Guardian[/i] — At the beginning of your upkeep, creatures you control with power less than this creature's power get +2/+2 until end of turn.
+
+UZ20 — GUR Arcun 2
+rules_text: When this creature enters, put a shield counter on target creature you control with power 2 or less. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => When this creature enters, put a shield counter on target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+UR06 — Wander-heart Mercenary
+rules_text: Boast — {1}{R}: Target creature you control gets +1/+1 and gains trample until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+At the beginning of your endstep, if you attacked with three or more creatures, put a +1/+1 counter on target creature you control. => Boast — {1}{R}: Target creature you control gets +1/+1 and gains trample until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+At the beginning of your end step, if you attacked with three or more creatures, put a +1/+1 counter on target creature you control.
+
+UZ17 — RWB Arcun 1
+rules_text: Boast — Sacrifice a nonland permamnent: Creatures you control gain first strike until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+Sacrifice a nonland permanent: Target creature gains haste until end of turn. => Boast — Sacrifice a nonland permanent: Creatures you control gain first strike until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+Sacrifice a nonland permanent: Target creature gains haste until end of turn.
+
+UG09 — Stampede of the Legion
+cost: {3}{G}{G} => {4}{G}{G}
+
+UZ10 — GU Arcun 2
+cost: {1}{G}{U} => {G}{U}
+rules_text: Creatures you control with counters on them have vigilance.
+{1}: Move a counter from target permanent you control to another target permanent you control. Activate only as a sorcery. => Creatures you control with counters on them have vigilance and reach.
+{1}: Move a counter from target permanent you control to another target permanent you control. Activate only as a sorcery.
+
+UZ07 — Support of the Legion
+rules_text: At the beginning of combat, attacking creatures you control get +2/+1 until end of turn.
+{R}{W},{T}: Populate. [i](Create a token that's a copy of a creature token you control.)[/i] => At the beginning of combat, attacking creatures you control get +2/+1 until end of turn.
+{R}{W}, {T}: Populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+UZ26 — The Might of Tanabon
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+
+UZ27 — The Trials of Saint Mornus
+cost: {1}{W}{U}{B} => {W}{U}{B}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+UZ28 — The First Hunt of Roag
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Until your next upkeep, whenever an opponent taps a creature, investigate.
+Double the power and toughness of target creature you control. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+II — Until your next upkeep, whenever an opponent taps a creature, investigate.
+III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Until your next upkeep, whenever an opponent taps a creature, investigate.
+Double the power and toughness of target creature you control. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+II — Until your next upkeep, whenever an opponent taps a creature, investigate.
+III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls.
+
+UZ29 — The Tale of Ol Barrot
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Weapon token attached to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+II — Whenever a creature you control enters this turn, it gains haste.
+III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Weapon token attached to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+II — Whenever a creature you control enters this turn, it gains haste.
+III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+
+UZ30 — The Teachings of Aodhan
+cost: {1}{G}{U}{R} => {G}{U}{R}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+Put a +1/+1 counter on up to X creatures you control, where X is the number of lands you control.
+Creatures you control gain vigilance and menace until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+II — Put a +1/+1 counter on each creature you control.
+III — Creatures you control gain vigilance and menace until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+Put a +1/+1 counter on up to X creatures you control, where X is the number of lands you control.
+Creatures you control gain vigilance and menace until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+II — Put a +1/+1 counter on each creature you control.
+III — Creatures you control gain vigilance and menace until end of turn.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW05 — Horned Beligerent added.
