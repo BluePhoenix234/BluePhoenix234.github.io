@@ -1511,16 +1511,6 @@
 			}
 		},
 		{
-			"name": "RW06 — Twilight Cleansing",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/23_RW06 — Twilight Cleansing.jpg"
-			}
-		},
-		{
 			"name": "UZ21 — Elephon Charger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
@@ -1628,16 +1618,6 @@
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/217_UZ09 — GU Arcun 1.jpg"
-			}
-		},
-		{
-			"name": "RZ03 — Duskrite Priest",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Enchantment Creature — Bird Cleric",
-			"collector_number": "186",
-			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/186_RZ03 — Duskrite Priest.jpg"
 			}
 		},
 		{
@@ -1963,8 +1943,6 @@
 	]
 
 [rare(1)]
-	5 RW06 — Twilight Cleansing
-	5 RZ03 — Duskrite Priest
 [uncommon(3)]
 	5 UW01 — Solid-hoof Veteran
 	5 UW02 — Elephon Frontliner

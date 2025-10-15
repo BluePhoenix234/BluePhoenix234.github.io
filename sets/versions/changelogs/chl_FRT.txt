@@ -1,4 +1,33 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+RW06 — Twilight Cleansing removed.
+RZ03 — Duskrite Priest removed.
+
+UZ26 — The Might of Tanabon
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+
+UZ22 — Twilight Reinforcer
+rules_text: Flying
+When this creature enters create up to two Blessing tokens attached to each of up to two target permanents. [i](They're colorless Aura tokens with, “enchanted creature has ward {1}.”)[/i] => Flying
+When this creature enters create up to two Blessing tokens attached to each of up to two target permanents. [i](They're colorless Aura tokens with, “Enchanted permanent has ward {1}.”)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 RW06 — Twilight Cleansing added.

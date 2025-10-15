@@ -1,7 +1,7 @@
 ﻿[
     {
-        "card_name": "RW06 \u2014 Twilight Cleansing",
-        "number": 23,
+        "card_name": "UW01 \u2014 Solid-hoof Veteran",
+        "number": 24,
         "shape": "normal",
         "set": "FRT"
     },
@@ -30,8 +30,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW01 \u2014 Solid-hoof Veteran",
-        "number": 24,
+        "card_name": "UW02 \u2014 Elephon Frontliner",
+        "number": 25,
         "shape": "normal",
         "set": "FRT"
     },
@@ -60,8 +60,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW02 \u2014 Elephon Frontliner",
-        "number": 25,
+        "card_name": "UW03 \u2014 Blasphemer Detainer",
+        "number": 26,
         "shape": "normal",
         "set": "FRT"
     },
@@ -90,8 +90,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW03 \u2014 Blasphemer Detainer",
-        "number": 26,
+        "card_name": "UW04 \u2014 Brightlight Paladin",
+        "number": 27,
         "shape": "normal",
         "set": "FRT"
     },
@@ -120,8 +120,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW04 \u2014 Brightlight Paladin",
-        "number": 27,
+        "card_name": "UW05 \u2014 Great-horn Knight",
+        "number": 28,
         "shape": "normal",
         "set": "FRT"
     },
@@ -150,8 +150,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW05 \u2014 Great-horn Knight",
-        "number": 28,
+        "card_name": "UW06 \u2014 Pride-heart Lieutenant",
+        "number": 29,
         "shape": "normal",
         "set": "FRT"
     },
@@ -180,8 +180,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW06 \u2014 Pride-heart Lieutenant",
-        "number": 29,
+        "card_name": "UW07 \u2014 Righteous Restoration",
+        "number": 30,
         "shape": "normal",
         "set": "FRT"
     },
@@ -210,8 +210,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW07 \u2014 Righteous Restoration",
-        "number": 30,
+        "card_name": "UW08 \u2014 Rallier's Boon",
+        "number": 31,
         "shape": "normal",
         "set": "FRT"
     },
@@ -240,8 +240,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW08 \u2014 Rallier's Boon",
-        "number": 31,
+        "card_name": "UW09 \u2014 Honorable Exile",
+        "number": 32,
         "shape": "normal",
         "set": "FRT"
     },
@@ -270,8 +270,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UW09 \u2014 Honorable Exile",
-        "number": 32,
+        "card_name": "CW01 \u2014 Feathered Acolyte",
+        "number": 2,
         "shape": "normal",
         "set": "FRT"
     },
@@ -300,8 +300,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW01 \u2014 Feathered Acolyte",
-        "number": 2,
+        "card_name": "CW02 \u2014 Battlefront Scrounger",
+        "number": 3,
         "shape": "normal",
         "set": "FRT"
     },
@@ -330,8 +330,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW02 \u2014 Battlefront Scrounger",
-        "number": 3,
+        "card_name": "CW03 \u2014 Street-wise Nomad",
+        "number": 4,
         "shape": "normal",
         "set": "FRT"
     },
@@ -360,8 +360,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW03 \u2014 Street-wise Nomad",
-        "number": 4,
+        "card_name": "CW04 \u2014 Bolstered Veteran",
+        "number": 5,
         "shape": "normal",
         "set": "FRT"
     },
@@ -390,8 +390,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW04 \u2014 Bolstered Veteran",
-        "number": 5,
+        "card_name": "CW05 \u2014 Horned Beligerent",
+        "number": 6,
         "shape": "normal",
         "set": "FRT"
     },
@@ -420,8 +420,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW05 \u2014 Horned Beligerent",
-        "number": 6,
+        "card_name": "CW06 \u2014 Blessings Mystic",
+        "number": 7,
         "shape": "normal",
         "set": "FRT"
     },
@@ -450,8 +450,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW06 \u2014 Blessings Mystic",
-        "number": 7,
+        "card_name": "CW07 \u2014 Undaunted Avenger",
+        "number": 8,
         "shape": "normal",
         "set": "FRT"
     },
@@ -480,8 +480,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW07 \u2014 Undaunted Avenger",
-        "number": 8,
+        "card_name": "CW08 \u2014 Sturdy Advancer",
+        "number": 9,
         "shape": "normal",
         "set": "FRT"
     },
@@ -510,8 +510,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW08 \u2014 Sturdy Advancer",
-        "number": 9,
+        "card_name": "CW09 \u2014 Courageous Rallier",
+        "number": 10,
         "shape": "normal",
         "set": "FRT"
     },
@@ -540,8 +540,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW09 \u2014 Courageous Rallier",
-        "number": 10,
+        "card_name": "CW10 \u2014 Holy Holding",
+        "number": 11,
         "shape": "normal",
         "set": "FRT"
     },
@@ -570,8 +570,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW10 \u2014 Holy Holding",
-        "number": 11,
+        "card_name": "CW11 \u2014 Nomadic Defense",
+        "number": 12,
         "shape": "normal",
         "set": "FRT"
     },
@@ -600,8 +600,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW11 \u2014 Nomadic Defense",
-        "number": 12,
+        "card_name": "CW12 \u2014Might-Wrought Boon",
+        "number": 13,
         "shape": "normal",
         "set": "FRT"
     },
@@ -630,8 +630,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW12 \u2014Might-Wrought Boon",
-        "number": 13,
+        "card_name": "CW13 \u2014 Blessed Talon Sigil",
+        "number": 14,
         "shape": "normal",
         "set": "FRT"
     },
@@ -660,8 +660,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW13 \u2014 Blessed Talon Sigil",
-        "number": 14,
+        "card_name": "CW14 \u2014 Glorious Stampede",
+        "number": 15,
         "shape": "normal",
         "set": "FRT"
     },
@@ -690,8 +690,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW14 \u2014 Glorious Stampede",
-        "number": 15,
+        "card_name": "CW15 \u2014 Reckless Inventory",
+        "number": 16,
         "shape": "normal",
         "set": "FRT"
     },
@@ -720,24 +720,6 @@
         "set": "FRT"
     },
     {
-        "card_name": "CW15 \u2014 Reckless Inventory",
-        "number": 16,
-        "shape": "normal",
-        "set": "FRT"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -763,8 +745,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "RZ03 \u2014 Duskrite Priest",
-        "number": 186,
+        "card_name": "UZ05 \u2014 WB Arcun 1",
+        "number": 213,
         "shape": "normal",
         "set": "FRT"
     },
@@ -793,8 +775,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UZ05 \u2014 WB Arcun 1",
-        "number": 213,
+        "card_name": "UZ06 \u2014 WB Arcun 2",
+        "number": 214,
         "shape": "normal",
         "set": "FRT"
     },
@@ -823,8 +805,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UZ06 \u2014 WB Arcun 2",
-        "number": 214,
+        "card_name": "CZ16 \u2014 Battle-Tithe Priest",
+        "number": 169,
         "shape": "normal",
         "set": "FRT"
     },
@@ -853,8 +835,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CZ16 \u2014 Battle-Tithe Priest",
-        "number": 169,
+        "card_name": "CZ15 \u2014 Vigor-Cloak Spirits",
+        "number": 241,
         "shape": "normal",
         "set": "FRT"
     },
@@ -869,24 +851,6 @@
         "number": 243,
         "shape": "normal",
         "set": "FRT"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ15 \u2014 Vigor-Cloak Spirits",
-        "number": 241,
-        "shape": "normal",
-        "set": "FRT"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
