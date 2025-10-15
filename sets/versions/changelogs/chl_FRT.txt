@@ -1,4 +1,38 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+RW06 — Twilight Cleansing added.
+UZ21 — Elephon Charger added.
+RZ03 — Duskrite Priest added.
+UZ22 — Twilight Reinforcer added.
+UZ23 — Marshland Witch added.
+UZ24 — Bovidian Brutalist added.
+UZ25 — Grizzled Rallier added.
+
+UZ21 — Elephon Representative removed.
+UZ22 — Strixan Representative removed.
+UZ23 — Crocodilid Representative removed.
+UZ24 — Bovidian Representative removed.
+UZ25 — Ursaeic Representative removed.
+
+UZ26 — The Might of Tanabon
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CW12 —Might-Wrought Boon added.
