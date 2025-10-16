@@ -1781,6 +1781,56 @@
 			}
 		},
 		{
+			"name": "RZ08 — Elephon Representative",
+			"rarity": "rare",
+			"mana_cost": "{R/G}{W}",
+			"type": "Creature — Elephant Soldier Advisor",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/244_RZ08 — Elephon Representative.jpg"
+			}
+		},
+		{
+			"name": "RZ11 — Strixan Representative",
+			"rarity": "rare",
+			"mana_cost": "{W/B}{U}",
+			"type": "Enchantment Creature — Bird Cleric Advisor",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/245_RZ11 — Strixan Representative.jpg"
+			}
+		},
+		{
+			"name": "RZ14 — Crocodilid Representative",
+			"rarity": "rare",
+			"mana_cost": "{G/U}{B}",
+			"type": "Creature — Crocodile Ranger Advisor",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/246_RZ14 — Crocodilid Representative.jpg"
+			}
+		},
+		{
+			"name": "RZ17 — Bovidian Representative",
+			"rarity": "rare",
+			"mana_cost": "{W/B}{R}",
+			"type": "Creature — Minotaur Warrior Advisor",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/247_RZ17 — Bovidian Representative.jpg"
+			}
+		},
+		{
+			"name": "RZ20 — Ursaeic Representative",
+			"rarity": "rare",
+			"mana_cost": "{U/R}{G}",
+			"type": "Creature — Bear Druid Advisor",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/248_RZ20 — Ursaeic Representative.jpg"
+			}
+		},
+		{
 			"name": "UZ22 — Twilight Reinforcer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}{B}",
@@ -1939,10 +1989,35 @@
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/1_Blessing.jpg"
 			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/4_Weapon.jpg"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/5_Weapon.jpg"
+			}
 		}
 	]
 
 [rare(1)]
+	5 RZ08 — Elephon Representative
+	5 RZ11 — Strixan Representative
+	5 RZ14 — Crocodilid Representative
+	5 RZ17 — Bovidian Representative
+	5 RZ20 — Ursaeic Representative
 [uncommon(3)]
 	5 UW01 — Solid-hoof Veteran
 	5 UW02 — Elephon Frontliner

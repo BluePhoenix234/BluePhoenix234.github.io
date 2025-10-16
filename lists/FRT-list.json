@@ -868,6 +868,36 @@
         "card_name": "er"
     },
     {
+        "card_name": "RZ08 \u2014 Elephon Representative",
+        "number": 244,
+        "shape": "normal",
+        "set": "FRT"
+    },
+    {
+        "card_name": "RZ11 \u2014 Strixan Representative",
+        "number": 245,
+        "shape": "normal",
+        "set": "FRT"
+    },
+    {
+        "card_name": "RZ14 \u2014 Crocodilid Representative",
+        "number": 246,
+        "shape": "normal",
+        "set": "FRT"
+    },
+    {
+        "card_name": "RZ17 \u2014 Bovidian Representative",
+        "number": 247,
+        "shape": "normal",
+        "set": "FRT"
+    },
+    {
+        "card_name": "RZ20 \u2014 Ursaeic Representative",
+        "number": 248,
+        "shape": "normal",
+        "set": "FRT"
+    },
+    {
         "card_name": "UZ11 \u2014 RGW Arcun 1",
         "number": 219,
         "shape": "normal",
@@ -1269,16 +1299,22 @@
         "set": "FRT"
     },
     {
-        "card_name": "Elephant Soldier",
-        "number": 2,
+        "card_name": "Weapon",
+        "number": 4,
         "shape": "token",
         "set": "FRT"
     },
     {
-        "card_name": "e"
+        "card_name": "Weapon",
+        "number": 5,
+        "shape": "token",
+        "set": "FRT"
     },
     {
-        "card_name": "e"
+        "card_name": "Elephant Soldier",
+        "number": 2,
+        "shape": "token",
+        "set": "FRT"
     },
     {
         "card_name": "er"
