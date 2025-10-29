@@ -1,4 +1,145 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+CW03 — Streetwise Nomad added.
+CZ03 — Dagger-Bite Stalker added.
+CZ04 — Blood-Bound Mercenaries added.
+CU01 — Holy Site Watcher added.
+CU03 — Bright-Eyed Adept added.
+RU03 — Mind-Focused Warden added.
+CU08 — Rune-Carved Guardian added.
+CU11 — Jaw-Lock Glyph (Croc) added.
+CZ07 — Night-Veiled Font added.
+CZ08 — Marsh-Lurker Ambush added.
+CB12 — Wander-Rite Offering added.
+CZ12 — Night-Tuned Etchings added.
+CR05 — Frenzy-Kin Reinforcer added.
+UW01 — Solid-Hoof Veteran added.
+UW05 — Great-Horn Knight added.
+UW06 — Pride-Heart Lieutenant added.
+UU02 — River-Cloak Thief added.
+UU03 — Stream-Warden Guide added.
+UU04 — Dusk-Touched Pacifier added.
+UU05 — Current-Wield Warden added.
+UU06 — Mind-Wander Acolyte added.
+UB03 — Fear-Tuned Mauler added.
+UB05 — Night-Feather Inquisitor added.
+UR06 — Wander-Heart Mercenary added.
+UG06 — Wild-Wander Shepherd added.
+RW06 — Twilight Cleansing added.
+CU04 — Mind-Honed Mentor added.
+RZ07 — Shine-Tusk Lieutenant added.
+RZ01 — Dusk-Veiled Professional added.
+RZ02 — Wild-Surge Beckoner added.
+RZ03 — Duskrite Priest added.
+RZ04 — Garrison-Legion Quatemaster added.
+RZ05 — Clever Skywatcher added.
+
+CW03 — Street-wise Nomad removed.
+CZ03 — Dagger-bite Stalker removed.
+CZ04 — Blood-bound Mercenaries removed.
+CU01 — Holy-site Watcher removed.
+CU03 — Bright-eyed Adept removed.
+CU04 — Mind-Focused Warden removed.
+CU08 — Rune-carved Guardian removed.
+CU11 — Jaw-lock Glyph (Croc) removed.
+CZ07 — Night-veiled Font removed.
+CZ08 — Marsh-lurker Ambush removed.
+CB12 — Wander-rite Offering removed.
+CZ12 — Night-tuned Etchings removed.
+CR05 — Frenzy-kin Reinforcer removed.
+UW01 — Solid-hoof Veteran removed.
+UW05 — Great-horn Knight removed.
+UW06 — Pride-heart Lieutenant removed.
+UU02 — River-cloak Thief removed.
+UU03 — Stream-warden Guide removed.
+UU04 — Dusk-touched Pacifier removed.
+UU05 — Current-wield Warden removed.
+UU06 — Mind-wander Acolyte removed.
+UB03 — Fear-tuned Mauler removed.
+UB05 — Night-feather Inquisitor removed.
+UR06 — Wander-heart Mercenary removed.
+UG06 — Wild-wander Shepherd removed.
+
+CW06 — Blessings Mystic
+rules_text: Flying, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Enchantment spells you cast cost {1} less to cast. => Flying, ward {1}
+When this creature enters, create a Blessing token attached to another target permanent.[i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i]
+
+CW12 —Might-Wrought Boon
+cost: {2}{W} => {1}{W}
+rules_text: Enchant creature
+Enchanted creature gets +3/+3 and has first strike. => Enchant creature
+Enchanted creature gets +2/+2 and has first strike.
+
+CU02 — Clever Swiper
+rules_text: Whenever this creature deals damage to a player, draw a card, then discard a card. => Whenever this creature deals combat damage to a player, draw a card, then discard a card.
+
+CB05 — Night-Blessed Inquisitor
+rules_text: Flying
+[i]Devout[/i] — If you control three or more enchantments, this creature has deathtouch. => Flying, deathtouch
+[i]Devout[/i] — If you control three or more enchantments, this creature has menace.
+
+CB07 — Greedy Poacher
+rules_text: Ward—Discard a card. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)[/i]
+When this creature deals damage to a player, that player may discard a card. If they don't, they lose 2 life. => Ward—Discard a card. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)[/i]
+When this creature deals combat damage to a player, that player may discard a card. If they don't, they lose 2 life.
+
+CG04 — Brighthollow Guard
+rules_text: Reach
+[i]Guardian[/i] — At the beginning of your endstep, if you control a creature with power less than this creature's power, put a +1/+1 counter on this creature. => Reach
+[i]Guardian[/i] — {3}{G}: Put a +1/+1 counter on this creature. Activate only if you control a creature with power less than this creature's power.
+
+CG05 — Marshland Hunter
+rules_text: Reach
+[i]Ferocious[/i] — When this creature enters, if you control a creature with power 4 or greater, this creature deals damage equal to its power to target creature. => Reach
+[i]Ferocious[/i] — When this creature enters, if you control a creature with power 4 or greater, this creature gets +0/+1 until end of turn and fights target creature you don't control..
+
+CG07 — Mighty Deserter
+rules_text: Haste
+Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i] => Flash
+Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i]
+
+UW04 — Brightlight Paladin
+rules_text: Flying
+[i]Devout[/i] — At the beginning of your endstep, if you control three or more enchantments, look at the top five cards of your library. You may reveal a creature with mana value 3 or less from among them and put it into your hand. => Flying
+[i]Devout[/i] — At the beginning of your end step, if you control three or more enchantments, look at the top five cards of your library. You may reveal a creature with mana value 3 or less from among them and put it into your hand.
+
+UB04 — Feared River-Lurker
+rules_text: Menace
+Whenever this creature deals damage to a player, you may cast a creature card from your graveyard. It enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => Menace
+Whenever this creature deals combat damage to a player, you may cast a creature card from your graveyard. It enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+UB07 — Pull from the Bogs
+rules_text: Mill four cards, then return a card from among the milled cards from your graveyard to your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead, mill four cards then return a card from your graveyard to your hand. => Mill four cards, then return a creature card from among the milled cards from your graveyard to your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead, mill four cards then return a creature card from your graveyard to your hand.
+
+UZ12 — RGW Arcun 2
+rules_text: At the beginning of your endstep, you may remove a counter from a permanent you control. => At the beginning of your end step, you may remove a counter from a permanent you control.
+
+UR05 — Range-Legion Flanker
+pt: 3/3 => 4/4
+
+UG02 — Marshland Trawler
+rules_text: When this creature enters, return target permanent from your graveyard to your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead you may return that permanent to the battlefield. => When this creature enters, return target permanent card from your graveyard to your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead you may return that permanent to the battlefield.
+
+UZ01 — UB Arcun 1
+rules_text: Flying
+The first noncreature spell you cast each turn costs {1} less to cast. => Flying
+The first noncreature spell you cast on your turn costs {1} less to cast.
+
+RZ20 — Ursaeic Representative
+rules_text: Vigilance
+Bear and Druid spells you cast cost {1} less to cast.
+At the beginning of your endstep, you may put a +1/+1 counter on a creature you control that entered this turn. => Vigilance
+Bear and Druid spells you cast cost {1} less to cast.
+At the beginning of your end step, you may put a +1/+1 counter on a creature you control that entered this turn.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 RZ08 — Elephon Representative added.

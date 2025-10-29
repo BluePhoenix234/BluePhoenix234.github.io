@@ -31,13 +31,13 @@
 			}
 		},
 		{
-			"name": "CW03 — Street-wise Nomad",
+			"name": "CW03 — Streetwise Nomad",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Nomad",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/4_CW03 — Street-wise Nomad.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/4_CW03 — Streetwise Nomad.jpg"
 			}
 		},
 		{
@@ -123,7 +123,7 @@
 		{
 			"name": "CW12 —Might-Wrought Boon",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "13",
 			"image_uris": {
@@ -181,33 +181,33 @@
 			}
 		},
 		{
-			"name": "CZ03 — Dagger-bite Stalker",
+			"name": "CZ03 — Dagger-Bite Stalker",
 			"rarity": "common",
 			"mana_cost": "{2/B}{2/G}{2/U}",
 			"type": "Creature — Crocodile Assassin",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/159_CZ03 — Dagger-bite Stalker.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/159_CZ03 — Dagger-Bite Stalker.jpg"
 			}
 		},
 		{
-			"name": "CZ04 — Blood-bound Mercenaries",
+			"name": "CZ04 — Blood-Bound Mercenaries",
 			"rarity": "common",
 			"mana_cost": "{2/R}{2/W}{2/B}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/160_CZ04 — Blood-bound Mercenaries.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/160_CZ04 — Blood-Bound Mercenaries.jpg"
 			}
 		},
 		{
-			"name": "CU01 — Holy-site Watcher",
+			"name": "CU01 — Holy Site Watcher",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird Scout",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/33_CU01 — Holy-site Watcher.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/33_CU01 — Holy Site Watcher.jpg"
 			}
 		},
 		{
@@ -221,23 +221,23 @@
 			}
 		},
 		{
-			"name": "CU03 — Bright-eyed Adept",
+			"name": "CU03 — Bright-Eyed Adept",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bear Druid",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/35_CU03 — Bright-eyed Adept.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/35_CU03 — Bright-Eyed Adept.jpg"
 			}
 		},
 		{
-			"name": "CU04 — Mind-Focused Warden",
-			"rarity": "common",
+			"name": "RU03 — Mind-Focused Warden",
+			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bear Wizard",
-			"collector_number": "36",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/36_CU04 — Mind-Focused Warden.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/51_RU03 — Mind-Focused Warden.jpg"
 			}
 		},
 		{
@@ -271,13 +271,13 @@
 			}
 		},
 		{
-			"name": "CU08 — Rune-carved Guardian",
+			"name": "CU08 — Rune-Carved Guardian",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Bear Golem",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/40_CU08 — Rune-carved Guardian.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/40_CU08 — Rune-Carved Guardian.jpg"
 			}
 		},
 		{
@@ -301,13 +301,13 @@
 			}
 		},
 		{
-			"name": "CU11 — Jaw-lock Glyph (Croc)",
+			"name": "CU11 — Jaw-Lock Glyph (Croc)",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/43_CU11 — Jaw-lock Glyph (Croc).jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/43_CU11 — Jaw-Lock Glyph (Croc).jpg"
 			}
 		},
 		{
@@ -371,23 +371,23 @@
 			}
 		},
 		{
-			"name": "CZ07 — Night-veiled Font",
+			"name": "CZ07 — Night-Veiled Font",
 			"rarity": "common",
 			"mana_cost": "{2/W}{2/U}{2/B}",
 			"type": "Enchantment",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/163_CZ07 — Night-veiled Font.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/163_CZ07 — Night-Veiled Font.jpg"
 			}
 		},
 		{
-			"name": "CZ08 — Marsh-lurker Ambush",
+			"name": "CZ08 — Marsh-Lurker Ambush",
 			"rarity": "common",
 			"mana_cost": "{2/B}{2/G}{2/U}",
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/164_CZ08 — Marsh-lurker Ambush.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/164_CZ08 — Marsh-Lurker Ambush.jpg"
 			}
 		},
 		{
@@ -501,13 +501,13 @@
 			}
 		},
 		{
-			"name": "CB12 — Wander-rite Offering",
+			"name": "CB12 — Wander-Rite Offering",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/75_CB12 — Wander-rite Offering.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/75_CB12 — Wander-Rite Offering.jpg"
 			}
 		},
 		{
@@ -561,13 +561,13 @@
 			}
 		},
 		{
-			"name": "CZ12 — Night-tuned Etchings",
+			"name": "CZ12 — Night-Tuned Etchings",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/167_CZ12 — Night-tuned Etchings.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/167_CZ12 — Night-Tuned Etchings.jpg"
 			}
 		},
 		{
@@ -621,13 +621,13 @@
 			}
 		},
 		{
-			"name": "CR05 — Frenzy-kin Reinforcer",
+			"name": "CR05 — Frenzy-Kin Reinforcer",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Wolverine Druid Berserker",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/99_CR05 — Frenzy-kin Reinforcer.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/99_CR05 — Frenzy-Kin Reinforcer.jpg"
 			}
 		},
 		{
@@ -961,13 +961,13 @@
 			}
 		},
 		{
-			"name": "UW01 — Solid-hoof Veteran",
+			"name": "UW01 — Solid-Hoof Veteran",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/24_UW01 — Solid-hoof Veteran.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/24_UW01 — Solid-Hoof Veteran.jpg"
 			}
 		},
 		{
@@ -1001,23 +1001,23 @@
 			}
 		},
 		{
-			"name": "UW05 — Great-horn Knight",
+			"name": "UW05 — Great-Horn Knight",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Minotaur Warrior Knight",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/28_UW05 — Great-horn Knight.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/28_UW05 — Great-Horn Knight.jpg"
 			}
 		},
 		{
-			"name": "UW06 — Pride-heart Lieutenant",
+			"name": "UW06 — Pride-Heart Lieutenant",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Cat Soldier",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/29_UW06 — Pride-heart Lieutenant.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/29_UW06 — Pride-Heart Lieutenant.jpg"
 			}
 		},
 		{
@@ -1081,53 +1081,53 @@
 			}
 		},
 		{
-			"name": "UU02 — River-cloak Thief",
+			"name": "UU02 — River-Cloak Thief",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Crocodile Rogue",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/56_UU02 — River-cloak Thief.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/56_UU02 — River-Cloak Thief.jpg"
 			}
 		},
 		{
-			"name": "UU03 — Stream-warden Guide",
+			"name": "UU03 — Stream-Warden Guide",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bear Wizard Ranger",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/57_UU03 — Stream-warden Guide.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/57_UU03 — Stream-Warden Guide.jpg"
 			}
 		},
 		{
-			"name": "UU04 — Dusk-touched Pacifier",
+			"name": "UU04 — Dusk-Touched Pacifier",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment Creature — Bird Cleric Advisor",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/58_UU04 — Dusk-touched Pacifier.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/58_UU04 — Dusk-Touched Pacifier.jpg"
 			}
 		},
 		{
-			"name": "UU05 — Current-wield Warden",
+			"name": "UU05 — Current-Wield Warden",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Crocodile Warlock Druid",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/59_UU05 — Current-wield Warden.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/59_UU05 — Current-Wield Warden.jpg"
 			}
 		},
 		{
-			"name": "UU06 — Mind-wander Acolyte",
+			"name": "UU06 — Mind-Wander Acolyte",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Cat Nomad Cleric",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/60_UU06 — Mind-wander Acolyte.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/60_UU06 — Mind-Wander Acolyte.jpg"
 			}
 		},
 		{
@@ -1201,13 +1201,13 @@
 			}
 		},
 		{
-			"name": "UB03 — Fear-tuned Mauler",
+			"name": "UB03 — Fear-Tuned Mauler",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Minotaur Warlock Berserker",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/88_UB03 — Fear-tuned Mauler.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/88_UB03 — Fear-Tuned Mauler.jpg"
 			}
 		},
 		{
@@ -1221,13 +1221,13 @@
 			}
 		},
 		{
-			"name": "UB05 — Night-feather Inquisitor",
+			"name": "UB05 — Night-Feather Inquisitor",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Bird Warlock",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/90_UB05 — Night-feather Inquisitor.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/90_UB05 — Night-Feather Inquisitor.jpg"
 			}
 		},
 		{
@@ -1341,13 +1341,13 @@
 			}
 		},
 		{
-			"name": "UR06 — Wander-heart Mercenary",
+			"name": "UR06 — Wander-Heart Mercenary",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Nomad Warrior",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/122_UR06 — Wander-heart Mercenary.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/122_UR06 — Wander-Heart Mercenary.jpg"
 			}
 		},
 		{
@@ -1451,13 +1451,13 @@
 			}
 		},
 		{
-			"name": "UG06 — Wild-wander Shepherd",
+			"name": "UG06 — Wild-Wander Shepherd",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Cat Nomad Druid",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/153_UG06 — Wild-wander Shepherd.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/153_UG06 — Wild-Wander Shepherd.jpg"
 			}
 		},
 		{
@@ -1511,6 +1511,26 @@
 			}
 		},
 		{
+			"name": "RW06 — Twilight Cleansing",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/23_RW06 — Twilight Cleansing.jpg"
+			}
+		},
+		{
+			"name": "CU04 — Mind-Honed Mentor",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bear Wizard Druid",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/36_CU04 — Mind-Honed Mentor.jpg"
+			}
+		},
+		{
 			"name": "UZ21 — Elephon Charger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
@@ -1518,6 +1538,16 @@
 			"collector_number": "229",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/229_UZ21 — Elephon Charger.jpg"
+			}
+		},
+		{
+			"name": "RZ07 — Shine-Tusk Lieutenant",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Elephant Soldier",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/190_RZ07 — Shine-Tusk Lieutenant.jpg"
 			}
 		},
 		{
@@ -1618,6 +1648,56 @@
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/217_UZ09 — GU Arcun 1.jpg"
+			}
+		},
+		{
+			"name": "RZ01 — Dusk-Veiled Professional",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Crocodile Assassin",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/184_RZ01 — Dusk-Veiled Professional.jpg"
+			}
+		},
+		{
+			"name": "RZ02 — Wild-Surge Beckoner",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Bear Druid",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/185_RZ02 — Wild-Surge Beckoner.jpg"
+			}
+		},
+		{
+			"name": "RZ03 — Duskrite Priest",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment Creature — Bird Cleric",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/186_RZ03 — Duskrite Priest.jpg"
+			}
+		},
+		{
+			"name": "RZ04 — Garrison-Legion Quatemaster",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Elephant Soldier",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/187_RZ04 — Garrison-Legion Quatemaster.jpg"
+			}
+		},
+		{
+			"name": "RZ05 — Clever Skywatcher",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Crocodile Ranger",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/188_RZ05 — Clever Skywatcher.jpg"
 			}
 		},
 		{
@@ -2013,29 +2093,37 @@
 	]
 
 [rare(1)]
+	5 RU03 — Mind-Focused Warden
+	5 RW06 — Twilight Cleansing
+	5 RZ07 — Shine-Tusk Lieutenant
+	5 RZ01 — Dusk-Veiled Professional
+	5 RZ02 — Wild-Surge Beckoner
+	5 RZ03 — Duskrite Priest
+	5 RZ04 — Garrison-Legion Quatemaster
+	5 RZ05 — Clever Skywatcher
 	5 RZ08 — Elephon Representative
 	5 RZ11 — Strixan Representative
 	5 RZ14 — Crocodilid Representative
 	5 RZ17 — Bovidian Representative
 	5 RZ20 — Ursaeic Representative
 [uncommon(3)]
-	5 UW01 — Solid-hoof Veteran
+	5 UW01 — Solid-Hoof Veteran
 	5 UW02 — Elephon Frontliner
 	5 UW03 — Blasphemer Detainer
 	5 UW04 — Brightlight Paladin
-	5 UW05 — Great-horn Knight
-	5 UW06 — Pride-heart Lieutenant
+	5 UW05 — Great-Horn Knight
+	5 UW06 — Pride-Heart Lieutenant
 	5 UW07 — Righteous Restoration
 	5 UW08 — Rallier's Boon
 	5 UW09 — Honorable Exile
 	5 UZ19 — GUR Arcun 1
 	5 UZ20 — GUR Arcun 2
 	5 UU01 — Bright-Grove Watcher
-	5 UU02 — River-cloak Thief
-	5 UU03 — Stream-warden Guide
-	5 UU04 — Dusk-touched Pacifier
-	5 UU05 — Current-wield Warden
-	5 UU06 — Mind-wander Acolyte
+	5 UU02 — River-Cloak Thief
+	5 UU03 — Stream-Warden Guide
+	5 UU04 — Dusk-Touched Pacifier
+	5 UU05 — Current-Wield Warden
+	5 UU06 — Mind-Wander Acolyte
 	5 UU07 — Enshrinement
 	5 UU08 — Drowned Efforts
 	5 UU09 — Ursaeic Repurposing
@@ -2043,9 +2131,9 @@
 	5 UZ13 — WUB Arcun 1
 	5 UB01 — Glorymarked Returner
 	5 UB02 — Tithe Enforcer
-	5 UB03 — Fear-tuned Mauler
+	5 UB03 — Fear-Tuned Mauler
 	5 UB04 — Feared River-Lurker
-	5 UB05 — Night-feather Inquisitor
+	5 UB05 — Night-Feather Inquisitor
 	5 UB06 — Bog-Wander Poisoner
 	5 UB07 — Pull from the Bogs
 	5 UB08 — Foul Tactics
@@ -2057,7 +2145,7 @@
 	5 UR03 — Front-Legion Strategist
 	5 UR04 — Bold-Grove Elder
 	5 UR05 — Range-Legion Flanker
-	5 UR06 — Wander-heart Mercenary
+	5 UR06 — Wander-Heart Mercenary
 	5 UR07 — Forced Conscription
 	5 UR08 — Fury of the Desperate
 	5 UR09 — Natural Pushback
@@ -2068,7 +2156,7 @@
 	5 UG03 — Grovetown Mentor
 	5 UG04 — Equalizing Hunter
 	5 UG05 — Might-Legion Champion
-	5 UG06 — Wild-wander Shepherd
+	5 UG06 — Wild-Wander Shepherd
 	5 UG07 — Chart the Game Trails
 	5 UG08 — Fostered Might
 	5 UG09 — Stampede of the Legion
@@ -2103,7 +2191,7 @@
 	5 CL06 — Scoured Barrens
 	5 CW01 — Feathered Acolyte
 	5 CW02 — Battlefront Scrounger
-	5 CW03 — Street-wise Nomad
+	5 CW03 — Streetwise Nomad
 	5 CW04 — Bolstered Veteran
 	5 CW05 — Horned Beligerent
 	5 CW06 — Blessings Mystic
@@ -2118,27 +2206,26 @@
 	5 CW15 — Reckless Inventory
 	5 CZ01 — Frontline Rejuvinator
 	5 CZ02 — Dusktouched Seeker
-	5 CZ03 — Dagger-bite Stalker
-	5 CZ04 — Blood-bound Mercenaries
-	5 CU01 — Holy-site Watcher
+	5 CZ03 — Dagger-Bite Stalker
+	5 CZ04 — Blood-Bound Mercenaries
+	5 CU01 — Holy Site Watcher
 	5 CU02 — Clever Swiper
-	5 CU03 — Bright-eyed Adept
-	5 CU04 — Mind-Focused Warden
+	5 CU03 — Bright-Eyed Adept
 	5 CU05 — Patient Trapper
 	5 CU06 — Downpour Leviathan
 	5 CU07 — Shimmer Guard Blessing
-	5 CU08 — Rune-carved Guardian
+	5 CU08 — Rune-Carved Guardian
 	5 CU09 — Graceful Intervention
 	5 CU10 — Guardian Instinct
-	5 CU11 — Jaw-lock Glyph (Croc)
+	5 CU11 — Jaw-Lock Glyph (Croc)
 	5 CU12 — Wayfinder's Meditation
 	5 CU13 — Marsh Sifting
 	5 CU14 — Holy Gust
 	5 CU15 — River-Hunter's Cloak
 	5 CZ05 — Grove Warden Rager
 	5 CZ06 — Tusked Reinforcements
-	5 CZ07 — Night-veiled Font
-	5 CZ08 — Marsh-lurker Ambush
+	5 CZ07 — Night-Veiled Font
+	5 CZ08 — Marsh-Lurker Ambush
 	5 CB01 — Ruin-Wander Watch
 	5 CB02 — Wound Wielder
 	5 CB03 — Muck-Wield Stalker
@@ -2150,19 +2237,19 @@
 	5 CB09 — Horn Bore
 	5 CB10 — Purge the Heresy
 	5 CB11 — Death Roll
-	5 CB12 — Wander-rite Offering
+	5 CB12 — Wander-Rite Offering
 	5 CB13 — Call the Once Blessed
 	5 CB14 — Dark River Hiss
 	5 CB15 — Might-Marauder Helm
 	5 CZ09 — Marauder's Fee
 	5 CZ10 — Nature Surge
-	5 CZ12 — Night-tuned Etchings
+	5 CZ12 — Night-Tuned Etchings
 	5 CZ11 — Night-Wind Spirits
 	5 CR01 — Eager-Horn Rookie
 	5 CR02 — Front-Wander Scout
 	5 CR03 — Rune-Charged Striker
 	5 CR04 — Dauntless Recruits
-	5 CR05 — Frenzy-kin Reinforcer
+	5 CR05 — Frenzy-Kin Reinforcer
 	5 CR06 — Rune-Guard Sharpshooter
 	5 CR07 — Battlefield Pilferer
 	5 CR08 — Rage-Legion Charger
@@ -2196,6 +2283,7 @@
 	5 CZ18 — Quick-Arm Spirits
 	5 CZ20 — Wilderness Cultivator
 	5 CZ19 — Wild-Might Spirits
+	5 CU04 — Mind-Honed Mentor
 	5 CA02 — Strixan Banner
 	5 CA01 — Elephon Banner
 	5 CA03 — Crocdilid Banner
