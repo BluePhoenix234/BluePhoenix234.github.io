@@ -1,4 +1,11 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+RZ07 — Shine-Tusk Lieutenant removed.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 CW03 — Streetwise Nomad added.

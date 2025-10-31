@@ -1541,16 +1541,6 @@
 			}
 		},
 		{
-			"name": "RZ07 — Shine-Tusk Lieutenant",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Creature — Elephant Soldier",
-			"collector_number": "190",
-			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/190_RZ07 — Shine-Tusk Lieutenant.jpg"
-			}
-		},
-		{
 			"name": "UZ05 — WB Arcun 1",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
@@ -2095,7 +2085,6 @@
 [rare(1)]
 	5 RU03 — Mind-Focused Warden
 	5 RW06 — Twilight Cleansing
-	5 RZ07 — Shine-Tusk Lieutenant
 	5 RZ01 — Dusk-Veiled Professional
 	5 RZ02 — Wild-Surge Beckoner
 	5 RZ03 — Duskrite Priest

@@ -919,8 +919,8 @@
         "card_name": "er"
     },
     {
-        "card_name": "RZ07 \u2014 Shine-Tusk Lieutenant",
-        "number": 190,
+        "card_name": "RZ08 \u2014 Elephon Representative",
+        "number": 244,
         "shape": "normal",
         "set": "FRT"
     },
@@ -949,8 +949,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "RZ08 \u2014 Elephon Representative",
-        "number": 244,
+        "card_name": "UZ11 \u2014 RGW Arcun 1",
+        "number": 219,
         "shape": "normal",
         "set": "FRT"
     },
@@ -979,8 +979,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UZ11 \u2014 RGW Arcun 1",
-        "number": 219,
+        "card_name": "UZ12 \u2014 RGW Arcun 2",
+        "number": 220,
         "shape": "normal",
         "set": "FRT"
     },
@@ -1009,8 +1009,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "UZ12 \u2014 RGW Arcun 2",
-        "number": 220,
+        "card_name": "UZ21 \u2014 Elephon Charger",
+        "number": 229,
         "shape": "normal",
         "set": "FRT"
     },
@@ -1039,9 +1039,9 @@
         "set": "FRT"
     },
     {
-        "card_name": "UZ21 \u2014 Elephon Charger",
-        "number": 229,
-        "shape": "normal",
+        "card_name": "UZ26 \u2014 The Might of Tanabon",
+        "number": 234,
+        "shape": "saga",
         "set": "FRT"
     },
     {
@@ -1069,9 +1069,9 @@
         "set": "FRT"
     },
     {
-        "card_name": "UZ26 \u2014 The Might of Tanabon",
-        "number": 234,
-        "shape": "saga",
+        "card_name": "CZ01 \u2014 Frontline Rejuvinator",
+        "number": 157,
+        "shape": "normal",
         "set": "FRT"
     },
     {
@@ -1099,8 +1099,8 @@
         "set": "FRT"
     },
     {
-        "card_name": "CZ01 \u2014 Frontline Rejuvinator",
-        "number": 157,
+        "card_name": "CZ06 \u2014 Tusked Reinforcements",
+        "number": 162,
         "shape": "normal",
         "set": "FRT"
     },
@@ -1127,24 +1127,6 @@
         "number": 166,
         "shape": "normal",
         "set": "FRT"
-    },
-    {
-        "card_name": "CZ06 \u2014 Tusked Reinforcements",
-        "number": 162,
-        "shape": "normal",
-        "set": "FRT"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

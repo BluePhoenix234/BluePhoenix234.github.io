@@ -6237,26 +6237,6 @@
             "image_type": "jpg"
         },
         {
-            "card_name": "RZ07 \u2014 Shine-Tusk Lieutenant",
-            "color": "WRG",
-            "rarity": "rare",
-            "type": "Creature \u2013 Elephant Soldier",
-            "number": 190,
-            "color_identity": "WRG",
-            "cost": "{1}{R}{G}{W}",
-            "rules_text": "Vigilance, trample\nStampede 1, stampede 1, stampede 1 [i](Whenever this creature attacks, create three tapped and attacking 1/1 white Elephant Soldier tokens with a stun counter.)[/i]",
-            "flavor_text": "[i]\u201cRecruits! Today marks our first real chance to prove ourselves! Let's not waste it!\u201d[/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "FRT",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
             "card_name": "UZ05 \u2014 WB Arcun 1",
             "color": "WB",
             "rarity": "uncommon",
