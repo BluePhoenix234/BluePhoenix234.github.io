@@ -1,0 +1,1593 @@
+﻿[
+    {
+        "card_name": "RW06 \u2014 Twilight Cleansing",
+        "number": 23,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RU03 \u2014 Mind-Focused Warden",
+        "number": 51,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB01 \u2014 Glorymarked Returner",
+        "number": 86,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR01 \u2014 Wild Energy Apprentice",
+        "number": 117,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG01 \u2014 Elephon Vanguard",
+        "number": 148,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW01 \u2014 Solid-Hoof Veteran",
+        "number": 24,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU01 \u2014 Bright-Grove Watcher",
+        "number": 55,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB02 \u2014 Tithe Enforcer",
+        "number": 87,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR02 \u2014 Bovidian Barkeep",
+        "number": 118,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG02 \u2014 Marshland Trawler",
+        "number": 149,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW02 \u2014 Elephon Frontliner",
+        "number": 25,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU02 \u2014 River-Cloak Thief",
+        "number": 56,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB03 \u2014 Fear-Tuned Mauler",
+        "number": 88,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR03 \u2014 Front-Legion Strategist",
+        "number": 119,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG03 \u2014 Grovetown Mentor",
+        "number": 150,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW03 \u2014 Blasphemer Detainer",
+        "number": 26,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU03 \u2014 Stream-Warden Guide",
+        "number": 57,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB04 \u2014 Feared River-Lurker",
+        "number": 89,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR04 \u2014 Bold-Grove Elder",
+        "number": 120,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG04 \u2014 Equalizing Hunter",
+        "number": 151,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW04 \u2014 Brightlight Paladin",
+        "number": 27,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU04 \u2014 Dusk-Touched Pacifier",
+        "number": 58,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB05 \u2014 Night-Feather Inquisitor",
+        "number": 90,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR05 \u2014 Range-Legion Flanker",
+        "number": 121,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG05 \u2014 Might-Legion Champion",
+        "number": 152,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW05 \u2014 Great-Horn Knight",
+        "number": 28,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU05 \u2014 Current-Wield Warden",
+        "number": 59,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB06 \u2014 Bog-Wander Poisoner",
+        "number": 91,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR06 \u2014 Wander-Heart Mercenary",
+        "number": 122,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG06 \u2014 Wild-Wander Shepherd",
+        "number": 153,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW06 \u2014 Pride-Heart Lieutenant",
+        "number": 29,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU06 \u2014 Mind-Wander Acolyte",
+        "number": 60,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB07 \u2014 Pull from the Bogs",
+        "number": 92,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR07 \u2014 Forced Conscription",
+        "number": 123,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG07 \u2014 Chart the Game Trails",
+        "number": 154,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW07 \u2014 Righteous Restoration",
+        "number": 30,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU07 \u2014 Enshrinement",
+        "number": 61,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB08 \u2014 Foul Tactics",
+        "number": 93,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR08 \u2014 Fury of the Desperate",
+        "number": 124,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG08 \u2014 Fostered Might",
+        "number": 155,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW08 \u2014 Rallier's Boon",
+        "number": 31,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU08 \u2014 Drowned Efforts",
+        "number": 62,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UB09 \u2014 Fell the Blasphemer",
+        "number": 94,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UR09 \u2014 Natural Pushback",
+        "number": 125,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UG09 \u2014 Stampede of the Legion",
+        "number": 156,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UW09 \u2014 Honorable Exile",
+        "number": 32,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UU09 \u2014 Ursaeic Repurposing",
+        "number": 63,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB01 \u2014 Ruin-Wander Watch",
+        "number": 64,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR01 \u2014 Eager-Horn Rookie",
+        "number": 95,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG01 \u2014 Bright-Tusk Recruit",
+        "number": 126,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW01 \u2014 Feathered Acolyte",
+        "number": 2,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU01 \u2014 Holy Site Watcher",
+        "number": 33,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB02 \u2014 Wound Wielder",
+        "number": 65,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR02 \u2014 Front-Wander Scout",
+        "number": 96,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG02 \u2014Protective Charger",
+        "number": 127,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW02 \u2014 Battlefront Scrounger",
+        "number": 3,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU02 \u2014 Clever Swiper",
+        "number": 34,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB03 \u2014 Muck-Wield Stalker",
+        "number": 66,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR03 \u2014 Rune-Charged Striker",
+        "number": 97,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG03 \u2014 Far-Wander Shaman",
+        "number": 128,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW03 \u2014 Streetwise Nomad",
+        "number": 4,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU03 \u2014 Bright-Eyed Adept",
+        "number": 35,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB04 \u2014 Strixan Siphon Priest",
+        "number": 67,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR04 \u2014 Dauntless Recruits",
+        "number": 98,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG04 \u2014 Brighthollow Guard",
+        "number": 129,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW04 \u2014 Bolstered Veteran",
+        "number": 5,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU04 \u2014 Mind-Honed Mentor",
+        "number": 36,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB05 \u2014 Night-Blessed Inquisitor",
+        "number": 68,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR05 \u2014 Frenzy-Kin Reinforcer",
+        "number": 99,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG05 \u2014 Marshland Hunter",
+        "number": 130,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW05 \u2014 Horned Beligerent",
+        "number": 6,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU05 \u2014 Patient Trapper",
+        "number": 37,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB06 \u2014 Battlefield Finisher",
+        "number": 69,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR06 \u2014 Rune-Guard Sharpshooter",
+        "number": 100,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG06 \u2014 Watchful Game Tracker",
+        "number": 131,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW06 \u2014 Blessings Mystic",
+        "number": 7,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU06 \u2014 Downpour Leviathan",
+        "number": 38,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB07 \u2014 Greedy Poacher",
+        "number": 70,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR07 \u2014 Battlefield Pilferer",
+        "number": 101,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG07 \u2014 Mighty Deserter",
+        "number": 132,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW07 \u2014 Undaunted Avenger",
+        "number": 8,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU07 \u2014 Shimmer Guard Blessing",
+        "number": 39,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB08 \u2014 Death-Wreathed Terror",
+        "number": 71,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR08 \u2014 Rage-Legion Charger",
+        "number": 102,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG08 \u2014 Surge-Seeker Wurm",
+        "number": 133,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW08 \u2014 Sturdy Advancer",
+        "number": 9,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU08 \u2014 Rune-Carved Guardian",
+        "number": 40,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB09 \u2014 Horn Bore",
+        "number": 72,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR09 \u2014 Enraged Blast",
+        "number": 103,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG09 \u2014 Venemous Repurpose (Bear)",
+        "number": 134,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW09 \u2014 Courageous Rallier",
+        "number": 10,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU09 \u2014 Graceful Intervention",
+        "number": 41,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB10 \u2014 Purge the Heresy",
+        "number": 73,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR10 \u2014 Cleanse with Fire",
+        "number": 104,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG10 \u2014 Surge of Might",
+        "number": 135,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW10 \u2014 Holy Holding",
+        "number": 11,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU10 \u2014 Guardian Instinct",
+        "number": 42,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB11 \u2014 Death Roll",
+        "number": 74,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR11 \u2014 Trample the Opposition",
+        "number": 105,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG11 \u2014 Rally-Legion Requisition",
+        "number": 136,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW11 \u2014 Nomadic Defense",
+        "number": 12,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU11 \u2014 Jaw-Lock Glyph (Croc)",
+        "number": 43,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB12 \u2014 Wander-Rite Offering",
+        "number": 75,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR12 \u2014 Trade In",
+        "number": 106,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG12 \u2014 Stomper-Legion Hammer",
+        "number": 137,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW12 \u2014Might-Wrought Boon",
+        "number": 13,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU12 \u2014 Wayfinder's Meditation",
+        "number": 44,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB13 \u2014 Call the Once Blessed",
+        "number": 76,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR13 \u2014 Claw-Striker Bracers",
+        "number": 107,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG13 \u2014 Prepare an Ambush",
+        "number": 138,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW13 \u2014 Blessed Talon Sigil",
+        "number": 14,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU13 \u2014 Marsh Sifting",
+        "number": 45,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB14 \u2014 Dark River Hiss",
+        "number": 77,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR14 \u2014 Distraction Strike",
+        "number": 108,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG14 \u2014 Nurturing Nature",
+        "number": 139,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW14 \u2014 Glorious Stampede",
+        "number": 15,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU14 \u2014 Holy Gust",
+        "number": 46,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CB15 \u2014 Might-Marauder Helm",
+        "number": 78,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CR15 \u2014 Unstoppable Force",
+        "number": 109,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CG15 \u2014 Feline Instinct",
+        "number": 140,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CW15 \u2014 Reckless Inventory",
+        "number": 16,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CU15 \u2014 River-Hunter's Cloak",
+        "number": 47,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "RZ01 \u2014 Dusk-Veiled Professional",
+        "number": 184,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ02 \u2014 Wild-Surge Beckoner",
+        "number": 185,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ03 \u2014 Duskrite Priest",
+        "number": 186,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ04 \u2014 Garrison-Legion Quatemaster",
+        "number": 187,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ05 \u2014 Clever Skywatcher",
+        "number": 188,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ01 \u2014 UB Arcun 1",
+        "number": 209,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ03 \u2014 RG Arcun 1",
+        "number": 211,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ05 \u2014 WB Arcun 1",
+        "number": 213,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ07 \u2014 Support of the Legion",
+        "number": 215,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ09 \u2014 GU Arcun 1",
+        "number": 217,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ02 \u2014 UB Arcun 2",
+        "number": 210,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ04 \u2014 RG Arcun 2",
+        "number": 212,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ06 \u2014 WB Arcun 2",
+        "number": 214,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ08 \u2014 Battleground Improviser",
+        "number": 216,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ10 \u2014 GU Arcun 2",
+        "number": 218,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ12 \u2014 Night-Tuned Etchings",
+        "number": 167,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ14 \u2014 Grove-Guard Sigils",
+        "number": 168,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ16 \u2014 Battle-Tithe Priest",
+        "number": 169,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ18 \u2014 Raid Lieutenant",
+        "number": 170,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ20 \u2014 Wilderness Cultivator",
+        "number": 171,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ11 \u2014 Night-Wind Spirits",
+        "number": 239,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ13 \u2014 High-Eyed Spirits",
+        "number": 240,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ15 \u2014 Vigor-Cloak Spirits",
+        "number": 241,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ18 \u2014 Quick-Arm Spirits",
+        "number": 242,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ19 \u2014 Wild-Might Spirits",
+        "number": 243,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RZ08 \u2014 Elephon Representative",
+        "number": 244,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ11 \u2014 Strixan Representative",
+        "number": 245,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ14 \u2014 Crocodilid Representative",
+        "number": 246,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ17 \u2014 Bovidian Representative",
+        "number": 247,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ20 \u2014 Ursaeic Representative",
+        "number": 248,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ11 \u2014 RGW Arcun 1",
+        "number": 219,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ13 \u2014 WUB Arcun 1",
+        "number": 221,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ15 \u2014 BGU Arcun 1",
+        "number": 223,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ17 \u2014 RWB Arcun 1",
+        "number": 225,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ19 \u2014 GUR Arcun 1",
+        "number": 227,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ12 \u2014 RGW Arcun 2",
+        "number": 220,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ14 \u2014 WUB Arcun 2",
+        "number": 222,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ16 \u2014 BGU Arcun 2",
+        "number": 224,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ18 \u2014 RWB Arcun 2",
+        "number": 226,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ20 \u2014 GUR Arcun 2",
+        "number": 228,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ21 \u2014 Elephon Charger",
+        "number": 229,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ22 \u2014 Twilight Reinforcer",
+        "number": 230,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ23 \u2014 Marshland Witch",
+        "number": 231,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ24 \u2014 Bovidian Brutalist",
+        "number": 232,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ25 \u2014 Grizzled Rallier",
+        "number": 233,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ26 \u2014 The Might of Tanabon",
+        "number": 234,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ27 \u2014 The Trials of Saint Mornus",
+        "number": 235,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ28 \u2014 The First Hunt of Roag",
+        "number": 236,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ29 \u2014 The Tale of Ol Barrot",
+        "number": 237,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UZ30 \u2014 The Teachings of Aodhan",
+        "number": 238,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ01 \u2014 Frontline Rejuvinator",
+        "number": 157,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ02 \u2014 Dusktouched Seeker",
+        "number": 158,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ03 \u2014 Dagger-Bite Stalker",
+        "number": 159,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ04 \u2014 Blood-Bound Mercenaries",
+        "number": 160,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ05 \u2014 Grove Warden Rager",
+        "number": 161,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ06 \u2014 Tusked Reinforcements",
+        "number": 162,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ07 \u2014 Night-Veiled Font",
+        "number": 163,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ08 \u2014 Marsh-Lurker Ambush",
+        "number": 164,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ09 \u2014 Marauder's Fee",
+        "number": 165,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CZ10 \u2014 Nature Surge",
+        "number": 166,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "CA01 \u2014 Elephon Banner",
+        "number": 249,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CA02 \u2014 Strixan Banner",
+        "number": 250,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CA03 \u2014 Crocdilid Banner",
+        "number": 251,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CA04 \u2014 Bovidian Banner",
+        "number": 252,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CA05 \u2014 Ursaeic Banner",
+        "number": 253,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CA06 \u2014 Felidian Guidestone",
+        "number": 254,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL01 \u2014 Tranquil Cove",
+        "number": 256,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CL02 \u2014 Dismal Backwater",
+        "number": 257,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CL03 \u2014 Bloodfell Caves",
+        "number": 258,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CL04 \u2014 Rugged Highlands",
+        "number": 259,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CL05 \u2014 Blossoming Sands",
+        "number": 260,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL06 \u2014 Scoured Barrens",
+        "number": 261,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CL07 \u2014 Swiftwater Cliffs",
+        "number": 262,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CL08 \u2014 Jungle Hollow",
+        "number": 263,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CL09 \u2014 Wind-scarred Crag",
+        "number": 264,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "CL10 \u2014 Thornwood Falls",
+        "number": 265,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL01 \u2014 Mighty Fort Town",
+        "number": 267,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UL02 \u2014 Bustling Monastery",
+        "number": 268,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UL03 \u2014 Quaint Marsh Village",
+        "number": 269,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UL04 \u2014 Bannerless Town",
+        "number": 270,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "UL05 \u2014 Woodland Hamlet",
+        "number": 271,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Blessing",
+        "number": 1,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Weapon",
+        "number": 3,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Weapon",
+        "number": 4,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Weapon",
+        "number": 5,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Elephant Soldier",
+        "number": 2,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
