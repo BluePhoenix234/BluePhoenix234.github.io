@@ -14,8 +14,8 @@
         "position": ""
     },
     {
-        "card_name": "UB01 \u2014 Glorymarked Returner",
-        "number": 86,
+        "card_name": "RB05 \u2014 Twilight Reckoning",
+        "number": 84,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -49,8 +49,8 @@
         "position": ""
     },
     {
-        "card_name": "UB02 \u2014 Tithe Enforcer",
-        "number": 87,
+        "card_name": "UB01 \u2014 Glorymarked Returner",
+        "number": 86,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -84,8 +84,8 @@
         "position": ""
     },
     {
-        "card_name": "UB03 \u2014 Fear-Tuned Mauler",
-        "number": 88,
+        "card_name": "UB02 \u2014 Tithe Enforcer",
+        "number": 87,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -119,8 +119,8 @@
         "position": ""
     },
     {
-        "card_name": "UB04 \u2014 Feared River-Lurker",
-        "number": 89,
+        "card_name": "UB03 \u2014 Fear-Tuned Mauler",
+        "number": 88,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -154,8 +154,8 @@
         "position": ""
     },
     {
-        "card_name": "UB05 \u2014 Night-Feather Inquisitor",
-        "number": 90,
+        "card_name": "UB04 \u2014 Feared River-Lurker",
+        "number": 89,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -189,8 +189,8 @@
         "position": ""
     },
     {
-        "card_name": "UB06 \u2014 Bog-Wander Poisoner",
-        "number": 91,
+        "card_name": "UB05 \u2014 Night-Feather Inquisitor",
+        "number": 90,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -224,8 +224,8 @@
         "position": ""
     },
     {
-        "card_name": "UB07 \u2014 Pull from the Bogs",
-        "number": 92,
+        "card_name": "UB06 \u2014 Bog-Wander Poisoner",
+        "number": 91,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -259,8 +259,8 @@
         "position": ""
     },
     {
-        "card_name": "UB08 \u2014 Foul Tactics",
-        "number": 93,
+        "card_name": "UB07 \u2014 Pull from the Bogs",
+        "number": 92,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -294,8 +294,8 @@
         "position": ""
     },
     {
-        "card_name": "UB09 \u2014 Fell the Blasphemer",
-        "number": 94,
+        "card_name": "UB08 \u2014 Foul Tactics",
+        "number": 93,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -329,8 +329,8 @@
         "position": ""
     },
     {
-        "card_name": "CB01 \u2014 Ruin-Wander Watch",
-        "number": 64,
+        "card_name": "UB09 \u2014 Fell the Blasphemer",
+        "number": 94,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -364,8 +364,8 @@
         "position": ""
     },
     {
-        "card_name": "CB02 \u2014 Wound Wielder",
-        "number": 65,
+        "card_name": "CB01 \u2014 Ruin-Wander Watch",
+        "number": 64,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -399,8 +399,8 @@
         "position": ""
     },
     {
-        "card_name": "CB03 \u2014 Muck-Wield Stalker",
-        "number": 66,
+        "card_name": "CB02 \u2014 Wound Wielder",
+        "number": 65,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -434,8 +434,8 @@
         "position": ""
     },
     {
-        "card_name": "CB04 \u2014 Strixan Siphon Priest",
-        "number": 67,
+        "card_name": "CB03 \u2014 Muck-Wield Stalker",
+        "number": 66,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -469,8 +469,8 @@
         "position": ""
     },
     {
-        "card_name": "CB05 \u2014 Night-Blessed Inquisitor",
-        "number": 68,
+        "card_name": "CB04 \u2014 Strixan Siphon Priest",
+        "number": 67,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -504,8 +504,8 @@
         "position": ""
     },
     {
-        "card_name": "CB06 \u2014 Battlefield Finisher",
-        "number": 69,
+        "card_name": "CB05 \u2014 Night-Blessed Inquisitor",
+        "number": 68,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -539,8 +539,8 @@
         "position": ""
     },
     {
-        "card_name": "CB07 \u2014 Greedy Poacher",
-        "number": 70,
+        "card_name": "CB06 \u2014 Battlefield Finisher",
+        "number": 69,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -574,8 +574,8 @@
         "position": ""
     },
     {
-        "card_name": "CB08 \u2014 Death-Wreathed Terror",
-        "number": 71,
+        "card_name": "CB07 \u2014 Greedy Poacher",
+        "number": 70,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -609,8 +609,8 @@
         "position": ""
     },
     {
-        "card_name": "CB09 \u2014 Horn Bore",
-        "number": 72,
+        "card_name": "CB08 \u2014 Death-Wreathed Terror",
+        "number": 71,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -644,8 +644,8 @@
         "position": ""
     },
     {
-        "card_name": "CB10 \u2014 Purge the Heresy",
-        "number": 73,
+        "card_name": "CB09 \u2014 Horn Bore",
+        "number": 72,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -679,8 +679,8 @@
         "position": ""
     },
     {
-        "card_name": "CB11 \u2014 Death Roll",
-        "number": 74,
+        "card_name": "CB10 \u2014 Purge the Heresy",
+        "number": 73,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -714,8 +714,8 @@
         "position": ""
     },
     {
-        "card_name": "CB12 \u2014 Wander-Rite Offering",
-        "number": 75,
+        "card_name": "CB11 \u2014 Death Roll",
+        "number": 74,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -749,8 +749,8 @@
         "position": ""
     },
     {
-        "card_name": "CB13 \u2014 Call the Once Blessed",
-        "number": 76,
+        "card_name": "CB12 \u2014 Wander-Rite Offering",
+        "number": 75,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -784,8 +784,8 @@
         "position": ""
     },
     {
-        "card_name": "CB14 \u2014 Dark River Hiss",
-        "number": 77,
+        "card_name": "CB13 \u2014 Call the Once Blessed",
+        "number": 76,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -819,8 +819,8 @@
         "position": ""
     },
     {
-        "card_name": "CB15 \u2014 Might-Marauder Helm",
-        "number": 78,
+        "card_name": "CB14 \u2014 Dark River Hiss",
+        "number": 77,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -854,7 +854,11 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "CB15 \u2014 Might-Marauder Helm",
+        "number": 78,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1073,8 +1077,8 @@
         "position": ""
     },
     {
-        "card_name": "RZ11 \u2014 Strixan Representative",
-        "number": 245,
+        "card_name": "MZ02 \u2014 Quirrellus, Prophet of the Phases",
+        "number": 173,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1108,8 +1112,8 @@
         "position": ""
     },
     {
-        "card_name": "UZ13 \u2014 WUB Arcun 1",
-        "number": 221,
+        "card_name": "MZ07 \u2014 Rites of Twilight",
+        "number": 178,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1143,8 +1147,8 @@
         "position": ""
     },
     {
-        "card_name": "UZ14 \u2014 WUB Arcun 2",
-        "number": 222,
+        "card_name": "RZ09 \u2014 Tanus, Eye of the Heavens",
+        "number": 191,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1178,8 +1182,8 @@
         "position": ""
     },
     {
-        "card_name": "UZ22 \u2014 Twilight Reinforcer",
-        "number": 230,
+        "card_name": "RZ10 \u2014 Outskirts Inquisitor",
+        "number": 192,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1213,8 +1217,8 @@
         "position": ""
     },
     {
-        "card_name": "UZ27 \u2014 The Trials of Saint Mornus",
-        "number": 235,
+        "card_name": "RZ22 \u2014 First Dance of Twilight",
+        "number": 200,
         "shape": "saga",
         "set": "FRT",
         "position": ""
@@ -1248,8 +1252,8 @@
         "position": ""
     },
     {
-        "card_name": "CZ02 \u2014 Dusktouched Seeker",
-        "number": 158,
+        "card_name": "RZ27 \u2014 Blessings of Moon and Star",
+        "number": 205,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1283,8 +1287,8 @@
         "position": ""
     },
     {
-        "card_name": "CZ07 \u2014 Night-Veiled Font",
-        "number": 163,
+        "card_name": "RZ11 \u2014 Strixan Representative",
+        "number": 245,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1309,6 +1313,120 @@
         "shape": "normal",
         "set": "FRT",
         "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UZ13 \u2014 WUB Arcun 1",
+        "number": 221,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UZ14 \u2014 WUB Arcun 2",
+        "number": 222,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UZ22 \u2014 Twilight Reinforcer",
+        "number": 230,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UZ27 \u2014 The Trials of Saint Mornus",
+        "number": 235,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CZ02 \u2014 Dusktouched Seeker",
+        "number": 158,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CZ07 \u2014 Night-Veiled Font",
+        "number": 163,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

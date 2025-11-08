@@ -1541,6 +1541,46 @@
 			}
 		},
 		{
+			"name": "RB05 — Twilight Reckoning",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/84_RB05 — Twilight Reckoning.jpg"
+			}
+		},
+		{
+			"name": "RZ22 — First Dance of Twilight",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/200_RZ22 — First Dance of Twilight.jpg"
+			}
+		},
+		{
+			"name": "MZ02 — Quirrellus, Prophet of the Phases",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Creature — Bird Cleric",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/173_MZ02 — Quirrellus, Prophet of the Phases.jpg"
+			}
+		},
+		{
+			"name": "MZ07 — Rites of Twilight",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/178_MZ07 — Rites of Twilight.jpg"
+			}
+		},
+		{
 			"name": "UZ05 — WB Arcun 1",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
@@ -1658,6 +1698,16 @@
 			"collector_number": "185",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/185_RZ02 — Wild-Surge Beckoner.jpg"
+			}
+		},
+		{
+			"name": "RZ09 — Tanus, Eye of the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Enchantment Creature — Bird Spirit",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/191_RZ09 — Tanus, Eye of the Heavens.jpg"
 			}
 		},
 		{
@@ -1901,6 +1951,16 @@
 			}
 		},
 		{
+			"name": "RZ10 — Outskirts Inquisitor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Bird Cleric Knight",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/192_RZ10 — Outskirts Inquisitor.jpg"
+			}
+		},
+		{
 			"name": "UZ22 — Twilight Reinforcer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}{B}",
@@ -2061,6 +2121,16 @@
 			}
 		},
 		{
+			"name": "RZ27 — Blessings of Moon and Star",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/205_RZ27 — Blessings of Moon and Star.jpg"
+			}
+		},
+		{
 			"name": "Weapon",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2085,8 +2155,13 @@
 [rare(1)]
 	5 RU03 — Mind-Focused Warden
 	5 RW06 — Twilight Cleansing
+	5 RB05 — Twilight Reckoning
+	5 RZ22 — First Dance of Twilight
+	5 MZ02 — Quirrellus, Prophet of the Phases
+	5 MZ07 — Rites of Twilight
 	5 RZ01 — Dusk-Veiled Professional
 	5 RZ02 — Wild-Surge Beckoner
+	5 RZ09 — Tanus, Eye of the Heavens
 	5 RZ03 — Duskrite Priest
 	5 RZ04 — Garrison-Legion Quatemaster
 	5 RZ05 — Clever Skywatcher
@@ -2095,6 +2170,8 @@
 	5 RZ14 — Crocodilid Representative
 	5 RZ17 — Bovidian Representative
 	5 RZ20 — Ursaeic Representative
+	5 RZ10 — Outskirts Inquisitor
+	5 RZ27 — Blessings of Moon and Star
 [uncommon(3)]
 	5 UW01 — Solid-Hoof Veteran
 	5 UW02 — Elephon Frontliner

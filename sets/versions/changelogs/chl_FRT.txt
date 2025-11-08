@@ -1,4 +1,17 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+RB05 — Twilight Reckoning added.
+RZ22 — First Dance of Twilight added.
+MZ02 — Quirrellus, Prophet of the Phases added.
+MZ07 — Rites of Twilight added.
+RZ09 — Tanus, Eye of the Heavens added.
+RZ10 — Outskirts Inquisitor added.
+RZ27 — Blessings of Moon and Star added.
+
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
