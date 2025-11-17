@@ -1,4 +1,121 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+RZ07 — Shine-Tusk Lieutenant added.
+RG06 added.
+RZ21 — Rise of the Stampedes added.
+MW01 — Bask in Glory added.
+MZ06 — Might of the Elephon added.
+MZ03 — _, Huntcaller added.
+MZ01 — Neurevin, Herald of the Legions added.
+RZ06 — Emnian, Legion Commander added.
+RZ15 — Ellevena, Rambunctious Heir added.
+RZ18 — _, Earth Whisperer added.
+RZ12 — _, Wild-Keeper added.
+MZ11 — _, Heir to Nothing added.
+MZ04 — Leuric, Glory Profiteer added.
+MZ05 — Aoife, the Warden Mother added.
+RZ26 — Mighty Strike added.
+ML01 — _, Imperial Capital added.
+
+
+CL06 — Scoured Barrens
+
+CZ01 — Frontline Rejuvinator
+rules_text: Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter.)[/i]
+When this creature enters, untap up to two target creatures. => Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter.)[/i]
+When this creature enters, untap up to three target creatures.
+
+CZ07 — Night-Veiled Font
+rules_text: When this enchantment enters draw two cards.
+At the beginning of your end step, each opponent loses 1 life and you gain 1 life. => When this enchantment enters draw a card.
+At the beginning of your end step, each opponent loses 1 life and you gain 1 life.
+
+CZ08 — Marsh-Lurker Ambush
+rules_text: Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature an opponent controls. If an opponent's creature would die this way, scry 1. => Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature an opponent controls. If an opponent's creature would die this way, scry 4.
+
+CB08 — Death-Wreathed Terror
+
+CZ10 — Nature Surge
+rules_text: Look at the top five cards of your library. You may put any number of creatures with power 2 or less from among them into your hand. Put the rest on the bottom of your library in a random order. => Look at the top five cards of your library. You may put any number of creature cards and land cards from among them into your hand. Put the rest on the bottom of your library in a random order.
+
+CR03 — Rune-Charged Striker
+
+UZ12 — RGW Arcun 2
+rules_text: At the beginning of your end step, you may remove a counter from a permanent you control. => At the beginning of your end step, you may untap up to two permanents you control.
+
+RZ22 — First Dance of Twilight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player may draw a card. You gain 2 life for each player that draws a card this way.
+You may discard a card. If you do, each other player discards a card and loses 2 life.
+Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player may draw a card. You gain 2 life for each player that draws a card this way.
+You may discard a card. If you do, each other player discards a card and loses 2 life.
+Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types.
+
+MZ02 — Quirrellus, Prophet of the Phases
+pt: 2/3 => 2/5
+
+MZ07 — Rites of Twilight
+rules_text: At the beginning of your upkeep, surveil 1.
+Whenever a creature dies, or enters the graveyard from a library, choose one:
+• You draw a card and lose 2 life.
+• Each opponent loses 2 life.
+• You gain 2 life. => At the beginning of your upkeep, surveil 1.
+Whenever one or more creatures die or enter a graveyard from a library, choose one:
+• You draw a card and lose 2 life.
+• Each opponent loses 2 life.
+• You gain 2 life.
+
+RZ08 — Elephon Representative
+rules_text: Elephant and Soldier spells you cast cost {1} less to cast.
+Whenever a token you control enters, create a copy of that token. This ability triggers only once each turn. => Elephant and Soldier spells you cast cost {1} less to cast.
+Whenever a token you control enters, create an additional token of the same type. You may do this only once each turn.
+pt: 3/3 => 2/3
+
+RZ10 — Outskirts Inquisitor
+rules_text: Flying
+[i]Devout[/i] — At the beginning of your end step, if you control three or more enchantments, gain 3 life if this creature is untapped, and each opponent loses 3 life if this creature is tapped. => Flying, vigilance
+[i]Devout[/i] — At the beginning of your end step, if you control three or more enchantments, gain 3 life if this creature is untapped. Each opponent loses 3 life if this creature is tapped.
+
+UZ22 — Twilight Reinforcer
+rules_text: Flying
+When this creature enters create up to two Blessing tokens attached to each of up to two target permanents. [i](They're colorless Aura tokens with, “Enchanted permanent has ward {1}.”)[/i] => Flying
+When this creature enters create a Blessing token attached to each of up to two target permanents. [i](They're colorless Aura tokens with, “Enchanted permanent has ward {1}.”)[/i]
+
+UZ25 — Grizzled Rallier
+cost: {1}{G}{U}{R} => {G}{U}{R}
+rules_text: Vigilance
+When this creature enters, if you cast it, untap up to two target permanents you control. => Vigilance
+When this creature enters, if you cast it, untap up to three target lands you control.
+
+CL01 — Tranquil Cove
+
+CL05 — Blossoming Sands
+
+CL04 — Rugged Highlands
+
+CL03 — Bloodfell Caves
+
+CL02 — Dismal Backwater
+
+CL07 — Swiftwater Cliffs
+
+CL08 — Jungle Hollow
+
+CL09 — Wind-scarred Crag
+
+CL10 — Thornwood Falls
+
+
+VERSION 11 CHANGELOG
 ====================
 
 RB05 — Twilight Reckoning added.

@@ -1551,6 +1551,16 @@
 			}
 		},
 		{
+			"name": "RZ07 — Shine-Tusk Lieutenant",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Elephant Soldier",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/190_RZ07 — Shine-Tusk Lieutenant.jpg"
+			}
+		},
+		{
 			"name": "RZ22 — First Dance of Twilight",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
@@ -1558,6 +1568,36 @@
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/200_RZ22 — First Dance of Twilight.jpg"
+			}
+		},
+		{
+			"name": "RG06",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/147_RG06.jpg"
+			}
+		},
+		{
+			"name": "RZ21 — Rise of the Stampedes",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/199_RZ21 — Rise of the Stampedes.jpg"
+			}
+		},
+		{
+			"name": "MW01 — Bask in Glory",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/17_MW01 — Bask in Glory.jpg"
 			}
 		},
 		{
@@ -1578,6 +1618,36 @@
 			"collector_number": "178",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/178_MZ07 — Rites of Twilight.jpg"
+			}
+		},
+		{
+			"name": "MZ06 — Might of the Elephon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/177_MZ06 — Might of the Elephon.jpg"
+			}
+		},
+		{
+			"name": "MZ03 — _, Huntcaller",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Crocodile Assassin",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/174_MZ03 — _, Huntcaller.jpg"
+			}
+		},
+		{
+			"name": "MZ01 — Neurevin, Herald of the Legions",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Elephant Soldier Bard",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/172_MZ01 — Neurevin, Herald of the Legions.jpg"
 			}
 		},
 		{
@@ -1681,6 +1751,16 @@
 			}
 		},
 		{
+			"name": "RZ06 — Emnian, Legion Commander",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Elephant Soldier",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/189_RZ06 — Emnian, Legion Commander.jpg"
+			}
+		},
+		{
 			"name": "RZ01 — Dusk-Veiled Professional",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
@@ -1688,6 +1768,16 @@
 			"collector_number": "184",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/184_RZ01 — Dusk-Veiled Professional.jpg"
+			}
+		},
+		{
+			"name": "RZ15 — Ellevena, Rambunctious Heir",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Minotaur Warrior Noble",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/195_RZ15 — Ellevena, Rambunctious Heir.jpg"
 			}
 		},
 		{
@@ -1718,6 +1808,26 @@
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/186_RZ03 — Duskrite Priest.jpg"
+			}
+		},
+		{
+			"name": "RZ18 — _, Earth Whisperer",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Bear Warrior Druid",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/197_RZ18 — _, Earth Whisperer.jpg"
+			}
+		},
+		{
+			"name": "RZ12 — _, Wild-Keeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Crocodile Ranger",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/193_RZ12 — _, Wild-Keeper.jpg"
 			}
 		},
 		{
@@ -1993,11 +2103,41 @@
 		{
 			"name": "UZ25 — Grizzled Rallier",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{U}{R}",
+			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Bear Druid Warrior",
 			"collector_number": "233",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/233_UZ25 — Grizzled Rallier.jpg"
+			}
+		},
+		{
+			"name": "MZ11 — _, Heir to Nothing",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Cat Nomad Noble",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/182_MZ11 — _, Heir to Nothing.jpg"
+			}
+		},
+		{
+			"name": "MZ04 — Leuric, Glory Profiteer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Minotaur Rogue",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/175_MZ04 — Leuric, Glory Profiteer.jpg"
+			}
+		},
+		{
+			"name": "MZ05 — Aoife, the Warden Mother",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Bear Druid Shaman",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/176_MZ05 — Aoife, the Warden Mother.jpg"
 			}
 		},
 		{
@@ -2121,6 +2261,16 @@
 			}
 		},
 		{
+			"name": "RZ26 — Mighty Strike",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/204_RZ26 — Mighty Strike.jpg"
+			}
+		},
+		{
 			"name": "RZ27 — Blessings of Moon and Star",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
@@ -2128,6 +2278,16 @@
 			"collector_number": "205",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/205_RZ27 — Blessings of Moon and Star.jpg"
+			}
+		},
+		{
+			"name": "ML01 — _, Imperial Capital",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Town",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/266_ML01 — _, Imperial Capital.jpg"
 			}
 		},
 		{
@@ -2156,13 +2316,24 @@
 	5 RU03 — Mind-Focused Warden
 	5 RW06 — Twilight Cleansing
 	5 RB05 — Twilight Reckoning
+	5 RZ07 — Shine-Tusk Lieutenant
 	5 RZ22 — First Dance of Twilight
+	5 RG06
+	5 RZ21 — Rise of the Stampedes
+	5 MW01 — Bask in Glory
 	5 MZ02 — Quirrellus, Prophet of the Phases
 	5 MZ07 — Rites of Twilight
+	5 MZ06 — Might of the Elephon
+	5 MZ03 — _, Huntcaller
+	5 MZ01 — Neurevin, Herald of the Legions
+	5 RZ06 — Emnian, Legion Commander
 	5 RZ01 — Dusk-Veiled Professional
+	5 RZ15 — Ellevena, Rambunctious Heir
 	5 RZ02 — Wild-Surge Beckoner
 	5 RZ09 — Tanus, Eye of the Heavens
 	5 RZ03 — Duskrite Priest
+	5 RZ18 — _, Earth Whisperer
+	5 RZ12 — _, Wild-Keeper
 	5 RZ04 — Garrison-Legion Quatemaster
 	5 RZ05 — Clever Skywatcher
 	5 RZ08 — Elephon Representative
@@ -2171,7 +2342,12 @@
 	5 RZ17 — Bovidian Representative
 	5 RZ20 — Ursaeic Representative
 	5 RZ10 — Outskirts Inquisitor
+	5 MZ11 — _, Heir to Nothing
+	5 MZ04 — Leuric, Glory Profiteer
+	5 MZ05 — Aoife, the Warden Mother
+	5 RZ26 — Mighty Strike
 	5 RZ27 — Blessings of Moon and Star
+	5 ML01 — _, Imperial Capital
 [uncommon(3)]
 	5 UW01 — Solid-Hoof Veteran
 	5 UW02 — Elephon Frontliner
