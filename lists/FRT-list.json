@@ -14,8 +14,8 @@
         "position": ""
     },
     {
-        "card_name": "RB05 \u2014 Twilight Reckoning",
-        "number": 84,
+        "card_name": "RB01 \u2014 Hunter",
+        "number": 80,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -28,8 +28,8 @@
         "position": ""
     },
     {
-        "card_name": "RG06",
-        "number": 147,
+        "card_name": "RG04 \u2014 Far-Wander Ranger",
+        "number": 145,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -49,8 +49,8 @@
         "position": ""
     },
     {
-        "card_name": "UB01 \u2014 Glorymarked Returner",
-        "number": 86,
+        "card_name": "RB05 \u2014 Twilight Reckoning",
+        "number": 84,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -63,8 +63,8 @@
         "position": ""
     },
     {
-        "card_name": "UG01 \u2014 Elephon Vanguard",
-        "number": 148,
+        "card_name": "RG06",
+        "number": 147,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -84,8 +84,8 @@
         "position": ""
     },
     {
-        "card_name": "UB02 \u2014 Tithe Enforcer",
-        "number": 87,
+        "card_name": "UB01 \u2014 Glorymarked Returner",
+        "number": 86,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -98,8 +98,8 @@
         "position": ""
     },
     {
-        "card_name": "UG02 \u2014 Marshland Trawler",
-        "number": 149,
+        "card_name": "UG01 \u2014 Elephon Vanguard",
+        "number": 148,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -119,8 +119,8 @@
         "position": ""
     },
     {
-        "card_name": "UB03 \u2014 Fear-Tuned Mauler",
-        "number": 88,
+        "card_name": "UB02 \u2014 Tithe Enforcer",
+        "number": 87,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -133,8 +133,8 @@
         "position": ""
     },
     {
-        "card_name": "UG03 \u2014 Grovetown Mentor",
-        "number": 150,
+        "card_name": "UG02 \u2014 Marshland Trawler",
+        "number": 149,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -154,8 +154,8 @@
         "position": ""
     },
     {
-        "card_name": "UB04 \u2014 Feared River-Lurker",
-        "number": 89,
+        "card_name": "UB03 \u2014 Fear-Tuned Mauler",
+        "number": 88,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -168,8 +168,8 @@
         "position": ""
     },
     {
-        "card_name": "UG04 \u2014 Equalizing Hunter",
-        "number": 151,
+        "card_name": "UG03 \u2014 Grovetown Mentor",
+        "number": 150,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -189,8 +189,8 @@
         "position": ""
     },
     {
-        "card_name": "UB05 \u2014 Night-Feather Inquisitor",
-        "number": 90,
+        "card_name": "UB04 \u2014 Feared River-Lurker",
+        "number": 89,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -203,8 +203,8 @@
         "position": ""
     },
     {
-        "card_name": "UG05 \u2014 Might-Legion Champion",
-        "number": 152,
+        "card_name": "UG04 \u2014 Equalizing Hunter",
+        "number": 151,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -224,8 +224,8 @@
         "position": ""
     },
     {
-        "card_name": "UB06 \u2014 Bog-Wander Poisoner",
-        "number": 91,
+        "card_name": "UB05 \u2014 Night-Feather Inquisitor",
+        "number": 90,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -238,8 +238,8 @@
         "position": ""
     },
     {
-        "card_name": "UG06 \u2014 Wild-Wander Shepherd",
-        "number": 153,
+        "card_name": "UG05 \u2014 Might-Legion Champion",
+        "number": 152,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -259,8 +259,8 @@
         "position": ""
     },
     {
-        "card_name": "UB07 \u2014 Pull from the Bogs",
-        "number": 92,
+        "card_name": "UB06 \u2014 Bog-Wander Poisoner",
+        "number": 91,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -273,8 +273,8 @@
         "position": ""
     },
     {
-        "card_name": "UG07 \u2014 Chart the Game Trails",
-        "number": 154,
+        "card_name": "UG06 \u2014 Wild-Wander Shepherd",
+        "number": 153,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -294,8 +294,8 @@
         "position": ""
     },
     {
-        "card_name": "UB08 \u2014 Foul Tactics",
-        "number": 93,
+        "card_name": "UB07 \u2014 Pull from the Bogs",
+        "number": 92,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -308,8 +308,8 @@
         "position": ""
     },
     {
-        "card_name": "UG08 \u2014 Fostered Might",
-        "number": 155,
+        "card_name": "UG07 \u2014 Chart the Game Trails",
+        "number": 154,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -329,8 +329,8 @@
         "position": ""
     },
     {
-        "card_name": "UB09 \u2014 Fell the Blasphemer",
-        "number": 94,
+        "card_name": "UB08 \u2014 Foul Tactics",
+        "number": 93,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -343,8 +343,8 @@
         "position": ""
     },
     {
-        "card_name": "UG09 \u2014 Stampede of the Legion",
-        "number": 156,
+        "card_name": "UG08 \u2014 Fostered Might",
+        "number": 155,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -364,8 +364,8 @@
         "position": ""
     },
     {
-        "card_name": "CB01 \u2014 Ruin-Wander Watch",
-        "number": 64,
+        "card_name": "UB09 \u2014 Fell the Blasphemer",
+        "number": 94,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -378,8 +378,8 @@
         "position": ""
     },
     {
-        "card_name": "CG01 \u2014 Bright-Tusk Recruit",
-        "number": 126,
+        "card_name": "UG09 \u2014 Stampede of the Legion",
+        "number": 156,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -399,8 +399,8 @@
         "position": ""
     },
     {
-        "card_name": "CB02 \u2014 Wound Wielder",
-        "number": 65,
+        "card_name": "CB01 \u2014 Ruin-Wander Watch",
+        "number": 64,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -413,8 +413,8 @@
         "position": ""
     },
     {
-        "card_name": "CG02 \u2014Protective Charger",
-        "number": 127,
+        "card_name": "CG01 \u2014 Bright-Tusk Recruit",
+        "number": 126,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -434,8 +434,8 @@
         "position": ""
     },
     {
-        "card_name": "CB03 \u2014 Muck-Wield Stalker",
-        "number": 66,
+        "card_name": "CB02 \u2014 Wound Wielder",
+        "number": 65,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -448,8 +448,8 @@
         "position": ""
     },
     {
-        "card_name": "CG03 \u2014 Far-Wander Shaman",
-        "number": 128,
+        "card_name": "CG02 \u2014Protective Charger",
+        "number": 127,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -469,8 +469,8 @@
         "position": ""
     },
     {
-        "card_name": "CB04 \u2014 Strixan Siphon Priest",
-        "number": 67,
+        "card_name": "CB03 \u2014 Muck-Wield Stalker",
+        "number": 66,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -483,8 +483,8 @@
         "position": ""
     },
     {
-        "card_name": "CG04 \u2014 Brighthollow Guard",
-        "number": 129,
+        "card_name": "CG03 \u2014 Far-Wander Shaman",
+        "number": 128,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -504,8 +504,8 @@
         "position": ""
     },
     {
-        "card_name": "CB05 \u2014 Night-Blessed Inquisitor",
-        "number": 68,
+        "card_name": "CB04 \u2014 Strixan Siphon Priest",
+        "number": 67,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -518,8 +518,8 @@
         "position": ""
     },
     {
-        "card_name": "CG05 \u2014 Marshland Hunter",
-        "number": 130,
+        "card_name": "CG04 \u2014 Brighthollow Guard",
+        "number": 129,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -539,8 +539,8 @@
         "position": ""
     },
     {
-        "card_name": "CB06 \u2014 Battlefield Finisher",
-        "number": 69,
+        "card_name": "CB05 \u2014 Night-Blessed Inquisitor",
+        "number": 68,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -553,8 +553,8 @@
         "position": ""
     },
     {
-        "card_name": "CG06 \u2014 Watchful Game Tracker",
-        "number": 131,
+        "card_name": "CG05 \u2014 Marshland Hunter",
+        "number": 130,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -574,8 +574,8 @@
         "position": ""
     },
     {
-        "card_name": "CB07 \u2014 Greedy Poacher",
-        "number": 70,
+        "card_name": "CB06 \u2014 Battlefield Finisher",
+        "number": 69,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -588,8 +588,8 @@
         "position": ""
     },
     {
-        "card_name": "CG07 \u2014 Mighty Deserter",
-        "number": 132,
+        "card_name": "CG06 \u2014 Watchful Game Tracker",
+        "number": 131,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -609,8 +609,8 @@
         "position": ""
     },
     {
-        "card_name": "CB08 \u2014 Death-Wreathed Terror",
-        "number": 71,
+        "card_name": "CB07 \u2014 Greedy Poacher",
+        "number": 70,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -623,8 +623,8 @@
         "position": ""
     },
     {
-        "card_name": "CG08 \u2014 Surge-Seeker Wurm",
-        "number": 133,
+        "card_name": "CG07 \u2014 Mighty Deserter",
+        "number": 132,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -644,8 +644,8 @@
         "position": ""
     },
     {
-        "card_name": "CB09 \u2014 Horn Bore",
-        "number": 72,
+        "card_name": "CB08 \u2014 Death-Wreathed Terror",
+        "number": 71,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -658,8 +658,8 @@
         "position": ""
     },
     {
-        "card_name": "CG09 \u2014 Venemous Repurpose (Bear)",
-        "number": 134,
+        "card_name": "CG08 \u2014 Surge-Seeker Wurm",
+        "number": 133,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -679,8 +679,8 @@
         "position": ""
     },
     {
-        "card_name": "CB10 \u2014 Purge the Heresy",
-        "number": 73,
+        "card_name": "CB09 \u2014 Horn Bore",
+        "number": 72,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -693,8 +693,8 @@
         "position": ""
     },
     {
-        "card_name": "CG10 \u2014 Surge of Might",
-        "number": 135,
+        "card_name": "CG09 \u2014 Venemous Repurpose (Bear)",
+        "number": 134,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -714,8 +714,8 @@
         "position": ""
     },
     {
-        "card_name": "CB11 \u2014 Death Roll",
-        "number": 74,
+        "card_name": "CB10 \u2014 Purge the Heresy",
+        "number": 73,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -728,8 +728,8 @@
         "position": ""
     },
     {
-        "card_name": "CG11 \u2014 Rally-Legion Requisition",
-        "number": 136,
+        "card_name": "CG10 \u2014 Surge of Might",
+        "number": 135,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -749,8 +749,8 @@
         "position": ""
     },
     {
-        "card_name": "CB12 \u2014 Wander-Rite Offering",
-        "number": 75,
+        "card_name": "CB11 \u2014 Death Roll",
+        "number": 74,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -763,8 +763,8 @@
         "position": ""
     },
     {
-        "card_name": "CG12 \u2014 Stomper-Legion Hammer",
-        "number": 137,
+        "card_name": "CG11 \u2014 Rally-Legion Requisition",
+        "number": 136,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -784,8 +784,8 @@
         "position": ""
     },
     {
-        "card_name": "CB13 \u2014 Call the Once Blessed",
-        "number": 76,
+        "card_name": "CB12 \u2014 Wander-Rite Offering",
+        "number": 75,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -798,8 +798,8 @@
         "position": ""
     },
     {
-        "card_name": "CG13 \u2014 Prepare an Ambush",
-        "number": 138,
+        "card_name": "CG12 \u2014 Stomper-Legion Hammer",
+        "number": 137,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -819,8 +819,8 @@
         "position": ""
     },
     {
-        "card_name": "CB14 \u2014 Dark River Hiss",
-        "number": 77,
+        "card_name": "CB13 \u2014 Call the Once Blessed",
+        "number": 76,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -833,8 +833,8 @@
         "position": ""
     },
     {
-        "card_name": "CG14 \u2014 Nurturing Nature",
-        "number": 139,
+        "card_name": "CG13 \u2014 Prepare an Ambush",
+        "number": 138,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -854,8 +854,8 @@
         "position": ""
     },
     {
-        "card_name": "CB15 \u2014 Might-Marauder Helm",
-        "number": 78,
+        "card_name": "CB14 \u2014 Dark River Hiss",
+        "number": 77,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -864,8 +864,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CG15 \u2014 Feline Instinct",
-        "number": 140,
+        "card_name": "CG14 \u2014 Nurturing Nature",
+        "number": 139,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -881,13 +881,21 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "CB15 \u2014 Might-Marauder Helm",
+        "number": 78,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "CG15 \u2014 Feline Instinct",
+        "number": 140,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1107,7 +1115,7 @@
         "position": ""
     },
     {
-        "card_name": "MZ03 \u2014 _, Huntcaller",
+        "card_name": "MZ03 \u2014 Tenoc, Huntcaller",
         "number": 174,
         "shape": "normal",
         "set": "FRT",
@@ -1142,22 +1150,22 @@
         "position": ""
     },
     {
-        "card_name": "RZ12 \u2014 _, Wild-Keeper",
-        "number": 193,
+        "card_name": "MZ08 \u2014 Gifts of the Bayou",
+        "number": 179,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "RZ15 \u2014 Ellevena, Rambunctious Heir",
-        "number": 195,
+        "card_name": "MZ09 \u2014 Bloodboiling Retribution",
+        "number": 180,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "RZ18 \u2014 _, Earth Whisperer",
-        "number": 197,
+        "card_name": "MZ10 \u2014 Rhythms of the World",
+        "number": 181,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1172,6 +1180,146 @@
     {
         "card_name": "RZ09 \u2014 Tanus, Eye of the Heavens",
         "number": 191,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ12 \u2014 Oremen, Wild-Keeper",
+        "number": 193,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ15 \u2014 Ellevena, Rambunctious Heir",
+        "number": 195,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ18 \u2014 Cian, Earth Whisperer",
+        "number": 197,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ07 \u2014 Shine-Horn Lieutenant",
+        "number": 190,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ10 \u2014 Outskirts Inquisitor",
+        "number": 192,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ13 \u2014 Decay Specialist",
+        "number": 194,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ16 \u2014 Dusk-Blessed Brutalist",
+        "number": 196,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ19 \u2014 Rebellious Protector",
+        "number": 198,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ21 \u2014 Rise of the Stampedes",
+        "number": 199,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ22 \u2014 First Dance of Twilight",
+        "number": 200,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ23 \u2014 The Paths of the Rivers",
+        "number": 201,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ24 \u2014 The Path of Promise",
+        "number": 202,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ25 \u2014 The Wild's First Whisper",
+        "number": 203,
+        "shape": "saga",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ26 \u2014 Mighty Strike",
+        "number": 204,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ27 \u2014 Blessings of Moon and Star",
+        "number": 205,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ28 \u2014 Riverbound Surge",
+        "number": 206,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ29 \u2014 Noncreature",
+        "number": 207,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ30 \u2014 Roar of the Wilds",
+        "number": 208,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ08 \u2014 Elephon Representative",
+        "number": 244,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "RZ11 \u2014 Strixan Representative",
+        "number": 245,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1198,15 +1346,15 @@
         "position": ""
     },
     {
-        "card_name": "RZ07 \u2014 Shine-Tusk Lieutenant",
-        "number": 190,
+        "card_name": "UZ11 \u2014 RGW Arcun 1",
+        "number": 219,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "RZ10 \u2014 Outskirts Inquisitor",
-        "number": 192,
+        "card_name": "UZ13 \u2014 WUB Arcun 1",
+        "number": 221,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1233,16 +1381,16 @@
         "position": ""
     },
     {
-        "card_name": "RZ21 \u2014 Rise of the Stampedes",
-        "number": 199,
-        "shape": "saga",
+        "card_name": "UZ12 \u2014 RGW Arcun 2",
+        "number": 220,
+        "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "RZ22 \u2014 First Dance of Twilight",
-        "number": 200,
-        "shape": "saga",
+        "card_name": "UZ14 \u2014 WUB Arcun 2",
+        "number": 222,
+        "shape": "normal",
         "set": "FRT",
         "position": ""
     },
@@ -1268,15 +1416,15 @@
         "position": ""
     },
     {
-        "card_name": "RZ26 \u2014 Mighty Strike",
-        "number": 204,
+        "card_name": "UZ21 \u2014 Elephon Charger",
+        "number": 229,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "RZ27 \u2014 Blessings of Moon and Star",
-        "number": 205,
+        "card_name": "UZ22 \u2014 Twilight Reinforcer",
+        "number": 230,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1303,16 +1451,16 @@
         "position": ""
     },
     {
-        "card_name": "RZ08 \u2014 Elephon Representative",
-        "number": 244,
-        "shape": "normal",
+        "card_name": "UZ26 \u2014 The Might of Tanabon",
+        "number": 234,
+        "shape": "saga",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "RZ11 \u2014 Strixan Representative",
-        "number": 245,
-        "shape": "normal",
+        "card_name": "UZ27 \u2014 The Trials of Saint Mornus",
+        "number": 235,
+        "shape": "saga",
         "set": "FRT",
         "position": ""
     },
@@ -1338,15 +1486,15 @@
         "position": ""
     },
     {
-        "card_name": "UZ11 \u2014 RGW Arcun 1",
-        "number": 219,
+        "card_name": "CZ01 \u2014 Frontline Rejuvinator",
+        "number": 157,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "UZ13 \u2014 WUB Arcun 1",
-        "number": 221,
+        "card_name": "CZ02 \u2014 Dusktouched Seeker",
+        "number": 158,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1373,15 +1521,15 @@
         "position": ""
     },
     {
-        "card_name": "UZ12 \u2014 RGW Arcun 2",
-        "number": 220,
+        "card_name": "CZ06 \u2014 Tusked Reinforcements",
+        "number": 162,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "UZ14 \u2014 WUB Arcun 2",
-        "number": 222,
+        "card_name": "CZ07 \u2014 Night-Veiled Font",
+        "number": 163,
         "shape": "normal",
         "set": "FRT",
         "position": ""
@@ -1408,98 +1556,6 @@
         "position": ""
     },
     {
-        "card_name": "UZ21 \u2014 Elephon Charger",
-        "number": 229,
-        "shape": "normal",
-        "set": "FRT",
-        "position": ""
-    },
-    {
-        "card_name": "UZ22 \u2014 Twilight Reinforcer",
-        "number": 230,
-        "shape": "normal",
-        "set": "FRT",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UZ26 \u2014 The Might of Tanabon",
-        "number": 234,
-        "shape": "saga",
-        "set": "FRT",
-        "position": ""
-    },
-    {
-        "card_name": "UZ27 \u2014 The Trials of Saint Mornus",
-        "number": 235,
-        "shape": "saga",
-        "set": "FRT",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ01 \u2014 Frontline Rejuvinator",
-        "number": 157,
-        "shape": "normal",
-        "set": "FRT",
-        "position": ""
-    },
-    {
-        "card_name": "CZ02 \u2014 Dusktouched Seeker",
-        "number": 158,
-        "shape": "normal",
-        "set": "FRT",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CZ06 \u2014 Tusked Reinforcements",
-        "number": 162,
-        "shape": "normal",
-        "set": "FRT",
-        "position": ""
-    },
-    {
-        "card_name": "CZ07 \u2014 Night-Veiled Font",
-        "number": 163,
-        "shape": "normal",
-        "set": "FRT",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -1515,14 +1571,18 @@
         "card_name": "er"
     },
     {
-        "card_name": "MZ11 \u2014 _, Heir to Nothing",
+        "card_name": "MZ11 \u2014 Ade, Heir to Nothing",
         "number": 182,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "MZ12 \u2014 Ways of the Wanderers",
+        "number": 183,
+        "shape": "normal",
+        "set": "FRT",
+        "position": ""
     },
     {
         "card_name": "e"

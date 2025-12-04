@@ -1,4 +1,180 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+RZ23 — The Paths of the Rivers added.
+RB01 — Hunter added.
+RZ07 — Shine-Horn Lieutenant added.
+RG04 — Far-Wander Ranger added.
+MZ03 — Tenoc, Huntcaller added.
+RZ18 — Cian, Earth Whisperer added.
+RZ12 — Oremen, Wild-Keeper added.
+RZ13 — Decay Specialist added.
+RZ16 — Dusk-Blessed Brutalist added.
+RZ19 — Rebellious Protector added.
+MZ11 — Ade, Heir to Nothing added.
+MZ08 — Gifts of the Bayou added.
+MZ09 — Bloodboiling Retribution added.
+MZ10 — Rhythms of the World added.
+MZ12 — Ways of the Wanderers added.
+RZ24 — The Path of Promise added.
+RZ25 — The Wild's First Whisper added.
+RZ28 — Riverbound Surge added.
+RZ29 — Noncreature added.
+RZ30 — Roar of the Wilds added.
+
+RZ07 — Shine-Tusk Lieutenant removed.
+MZ03 — _, Huntcaller removed.
+RZ18 — _, Earth Whisperer removed.
+RZ12 — _, Wild-Keeper removed.
+MZ11 — _, Heir to Nothing removed.
+
+CB07 — Greedy Poacher
+rules_text: Ward—Discard a card. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)[/i]
+When this creature deals combat damage to a player, that player may discard a card. If they don't, they lose 2 life. => Ward—Discard a card. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)[/i]
+Whenever this creature deals combat damage to a player, that player may discard a card. If they don't, they lose 2 life.
+
+CR07 — Battlefield Pilferer
+rules_text: Boast — {1}{R}: This creature gains menace until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+When this creature deals combat damage to a player, create a Treasure token or a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] => Boast — {1}{R}: This creature gains menace until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+Whenever this creature deals combat damage to a player, create a Treasure token or a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+
+UZ16 — BGU Arcun 2
+rules_text: Reach
+Whenever a creature dealt damage by this creature dies, put a +1/+1 counter on this creature and scry 1. => Reach
+Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature and scry 1.
+
+RZ22 — First Dance of Twilight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player may draw a card. You gain 2 life for each player that draws a card this way.
+You may discard a card. If you do, each other player discards a card and loses 2 life.
+Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each other player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player may draw a card. You gain 2 life for each player that draws a card this way.
+You may discard a card. If you do, each other player discards a card and loses 2 life.
+Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each other player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types.
+
+RZ21 — Rise of the Stampedes
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, creatures cost {1} less to cast.
+Draw X cards, where X is the number of creatures you control.
+Creatures you control get +1/+1 for each creature you control until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, creatures cost {1} less to cast.
+II — Draw X cards, where X is the number of creatures you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, creatures cost {1} less to cast.
+Draw X cards, where X is the number of creatures you control.
+Creatures you control get +1/+1 for each creature you control until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, creatures cost {1} less to cast.
+II — Draw X cards, where X is the number of creatures you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn.
+
+UZ26 — The Might of Tanabon
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+
+UZ27 — The Trials of Saint Mornus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+UZ28 — The First Hunt of Roag
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Until your next upkeep, whenever an opponent taps a creature, investigate.
+Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Until your next upkeep, whenever an opponent taps a creature, investigate.
+II, III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Until your next upkeep, whenever an opponent taps a creature, investigate.
+Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Until your next upkeep, whenever an opponent taps a creature, investigate.
+II, III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls.
+
+UZ29 — The Tale of Ol Barrot
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+II — Whenever a creature you control enters this turn, it gains haste.
+III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+II — Whenever a creature you control enters this turn, it gains haste.
+III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+
+UZ30 — The Teachings of Aodhan
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+Put a +1/+1 counter on each creature you control.
+Creatures you control gain vigilance and menace until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+II — Put a +1/+1 counter on each creature you control.
+III — Creatures you control gain vigilance and menace until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+Put a +1/+1 counter on each creature you control.
+Creatures you control gain vigilance and menace until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+II — Put a +1/+1 counter on each creature you control.
+III — Creatures you control gain vigilance and menace until end of turn.
+
+RZ17 — Bovidian Representative
+rules_text: Minotaur and Warrior spells you cast cost {1} less to cast.
+{1}, Sacrifice a permanent: Creatures you control gain your choice of vigilance, menace, or +1/+1 until end of turn. => Minotaur and Warrior spells you cast cost {1} less to cast.
+{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of vigilance or menace until end of turn.
+
+RZ20 — Ursaeic Representative
+rules_text: Vigilance
+Bear and Druid spells you cast cost {1} less to cast.
+At the beginning of your end step, you may put a +1/+1 counter on a creature you control that entered this turn. => Vigilance
+Bear and Druid spells you cast cost {1} less to cast.
+At the beginning of your end step, you may put a +1/+1 counter on another target creature you control that entered this turn.
+
+RZ10 — Outskirts Inquisitor
+type: Creature — Bird Cleric Knight => Creature — Crocodile Cleric Knight
+
+MZ05 — Aoife, the Warden Mother
+cost: {3}{G}{U}{R} => {2}{G}{U}{R}
+
+
+VERSION 12 CHANGELOG
 ====================
 
 RZ07 — Shine-Tusk Lieutenant added.
