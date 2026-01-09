@@ -1511,6 +1511,56 @@
 			}
 		},
 		{
+			"name": "RW01 —",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Elephant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/18_RW01 —.jpg"
+			}
+		},
+		{
+			"name": "RW02 — Bishop of Persistence",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/19_RW02 — Bishop of Persistence.jpg"
+			}
+		},
+		{
+			"name": "RW03 —",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Minotaur",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/20_RW03 —.jpg"
+			}
+		},
+		{
+			"name": "RW04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Cat",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/21_RW04.jpg"
+			}
+		},
+		{
+			"name": "RW05 — Might of Faith",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/22_RW05 — Might of Faith.jpg"
+			}
+		},
+		{
 			"name": "RW06 — Twilight Cleansing",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
@@ -1531,6 +1581,26 @@
 			}
 		},
 		{
+			"name": "RU01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Bird",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/49_RU01.jpg"
+			}
+		},
+		{
+			"name": "RU02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Crocodile",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/50_RU02.jpg"
+			}
+		},
+		{
 			"name": "CU04 — Mind-Honed Mentor",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
@@ -1538,6 +1608,36 @@
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/36_CU04 — Mind-Honed Mentor.jpg"
+			}
+		},
+		{
+			"name": "RU04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Cat",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/52_RU04.jpg"
+			}
+		},
+		{
+			"name": "RU05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/53_RU05.jpg"
+			}
+		},
+		{
+			"name": "RU06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/54_RU06.jpg"
 			}
 		},
 		{
@@ -1561,6 +1661,36 @@
 			}
 		},
 		{
+			"name": "RB02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Bird",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/81_RB02.jpg"
+			}
+		},
+		{
+			"name": "RB03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Minotaur",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/82_RB03.jpg"
+			}
+		},
+		{
+			"name": "RB04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Cat",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/83_RB04.jpg"
+			}
+		},
+		{
 			"name": "RB05 — Twilight Reckoning",
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{B}",
@@ -1568,6 +1698,16 @@
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/84_RB05 — Twilight Reckoning.jpg"
+			}
+		},
+		{
+			"name": "RB06 — Skills of the Shadowed",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/85_RB06 — Skills of the Shadowed.jpg"
 			}
 		},
 		{
@@ -1581,6 +1721,66 @@
 			}
 		},
 		{
+			"name": "RR01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Minotaur",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/111_RR01.jpg"
+			}
+		},
+		{
+			"name": "RR02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Bear",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/112_RR02.jpg"
+			}
+		},
+		{
+			"name": "RR03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Elephant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/113_RR03.jpg"
+			}
+		},
+		{
+			"name": "RR04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Cat",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/114_RR04.jpg"
+			}
+		},
+		{
+			"name": "RR05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/115_RR05.jpg"
+			}
+		},
+		{
+			"name": "RR06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/116_RR06.jpg"
+			}
+		},
+		{
 			"name": "RZ22 — First Dance of Twilight",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
@@ -1588,6 +1788,36 @@
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/200_RZ22 — First Dance of Twilight.jpg"
+			}
+		},
+		{
+			"name": "RG01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Bear",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/142_RG01.jpg"
+			}
+		},
+		{
+			"name": "RG02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Elephant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/143_RG02.jpg"
+			}
+		},
+		{
+			"name": "RG03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Crocodile",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/144_RG03.jpg"
 			}
 		},
 		{
@@ -1601,13 +1831,23 @@
 			}
 		},
 		{
-			"name": "RG06",
+			"name": "RG05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/146_RG05.jpg"
+			}
+		},
+		{
+			"name": "RG06 —",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/147_RG06.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/147_RG06 —.jpg"
 			}
 		},
 		{
@@ -1641,6 +1881,16 @@
 			}
 		},
 		{
+			"name": "MU01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/48_MU01.jpg"
+			}
+		},
+		{
 			"name": "MZ07 — Rites of Twilight",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
@@ -1648,6 +1898,16 @@
 			"collector_number": "178",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/178_MZ07 — Rites of Twilight.jpg"
+			}
+		},
+		{
+			"name": "MB01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Creature — Crocodile",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/79_MB01.jpg"
 			}
 		},
 		{
@@ -1661,6 +1921,16 @@
 			}
 		},
 		{
+			"name": "MR01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/110_MR01.jpg"
+			}
+		},
+		{
 			"name": "MZ03 — Tenoc, Huntcaller",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}{U}",
@@ -1668,6 +1938,16 @@
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/174_MZ03 — Tenoc, Huntcaller.jpg"
+			}
+		},
+		{
+			"name": "MG01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/141_MG01.jpg"
 			}
 		},
 		{
@@ -2151,13 +2431,13 @@
 			}
 		},
 		{
-			"name": "RZ19 — Rebellious Protector",
+			"name": "RZ19 — Rallying Turncoat",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Elephant Druid Warrior",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/198_RZ19 — Rebellious Protector.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/198_RZ19 — Rallying Turncoat.jpg"
 			}
 		},
 		{
@@ -2178,6 +2458,16 @@
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/182_MZ11 — Ade, Heir to Nothing.jpg"
+			}
+		},
+		{
+			"name": "MX01 — Elefetik, Wary Watcher",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Planeswalker — Elefetik",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/1_MX01 — Elefetik, Wary Watcher.jpg"
 			}
 		},
 		{
@@ -2411,13 +2701,13 @@
 			}
 		},
 		{
-			"name": "RZ29 — Noncreature",
+			"name": "RZ29 — Shared Earnings",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
-			"type": "",
+			"type": "Instant",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/207_RZ29 — Noncreature.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/207_RZ29 — Shared Earnings.jpg"
 			}
 		},
 		{
@@ -2438,6 +2728,16 @@
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/266_ML01 — _, Imperial Capital.jpg"
+			}
+		},
+		{
+			"name": "MA01 — The Book of Names",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Tome",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/255_MA01 — The Book of Names.jpg"
 			}
 		},
 		{
@@ -2464,20 +2764,48 @@
 
 [rare(1)]
 	5 RU03 — Mind-Focused Warden
+	5 RW01 —
+	5 RW02 — Bishop of Persistence
+	5 RW03 —
+	5 RW04
+	5 RW05 — Might of Faith
 	5 RW06 — Twilight Cleansing
 	5 RZ23 — The Paths of the Rivers
+	5 RU01
+	5 RU02
+	5 RU04
+	5 RU05
+	5 RU06
 	5 RB01 — Hunter
+	5 RB02
+	5 RB03
+	5 RB04
 	5 RB05 — Twilight Reckoning
+	5 RB06 — Skills of the Shadowed
 	5 RZ07 — Shine-Horn Lieutenant
+	5 RR01
+	5 RR02
+	5 RR03
+	5 RR04
+	5 RR05
+	5 RR06
 	5 RZ22 — First Dance of Twilight
+	5 RG01
+	5 RG02
+	5 RG03
 	5 RG04 — Far-Wander Ranger
-	5 RG06
+	5 RG05
+	5 RG06 —
 	5 RZ21 — Rise of the Stampedes
 	5 MW01 — Bask in Glory
 	5 MZ02 — Quirrellus, Prophet of the Phases
+	5 MU01
 	5 MZ07 — Rites of Twilight
+	5 MB01
 	5 MZ06 — Might of the Elephon
+	5 MR01
 	5 MZ03 — Tenoc, Huntcaller
+	5 MG01
 	5 MZ01 — Neurevin, Herald of the Legions
 	5 RZ06 — Emnian, Legion Commander
 	5 RZ01 — Dusk-Veiled Professional
@@ -2497,8 +2825,9 @@
 	5 RZ10 — Outskirts Inquisitor
 	5 RZ13 — Decay Specialist
 	5 RZ16 — Dusk-Blessed Brutalist
-	5 RZ19 — Rebellious Protector
+	5 RZ19 — Rallying Turncoat
 	5 MZ11 — Ade, Heir to Nothing
+	5 MX01 — Elefetik, Wary Watcher
 	5 MZ08 — Gifts of the Bayou
 	5 MZ04 — Leuric, Glory Profiteer
 	5 MZ05 — Aoife, the Warden Mother
@@ -2510,9 +2839,10 @@
 	5 RZ26 — Mighty Strike
 	5 RZ27 — Blessings of Moon and Star
 	5 RZ28 — Riverbound Surge
-	5 RZ29 — Noncreature
+	5 RZ29 — Shared Earnings
 	5 RZ30 — Roar of the Wilds
 	5 ML01 — _, Imperial Capital
+	5 MA01 — The Book of Names
 [uncommon(3)]
 	5 UW01 — Solid-Hoof Veteran
 	5 UW02 — Elephon Frontliner
