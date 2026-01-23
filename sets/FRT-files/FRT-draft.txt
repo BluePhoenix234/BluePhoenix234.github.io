@@ -1511,13 +1511,13 @@
 			}
 		},
 		{
-			"name": "RW01 —",
+			"name": "RW01 — Front-Legion Surveyor",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Elephant",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elephant Soldier Scout",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/18_RW01 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/18_RW01 — Front-Legion Surveyor.jpg"
 			}
 		},
 		{
@@ -1541,13 +1541,13 @@
 			}
 		},
 		{
-			"name": "RW04",
+			"name": "RW04 —",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Creature — Cat",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/21_RW04.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/21_RW04 —.jpg"
 			}
 		},
 		{
@@ -1591,13 +1591,13 @@
 			}
 		},
 		{
-			"name": "RU02",
+			"name": "RU02 — River-Bound Seer",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Crocodile",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crocodile Wizard",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/50_RU02.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/50_RU02 — River-Bound Seer.jpg"
 			}
 		},
 		{
@@ -1651,23 +1651,23 @@
 			}
 		},
 		{
-			"name": "RB01 — Hunter",
+			"name": "RB01 — Scaled Dusk-Blade",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Crocodile",
+			"type": "Creature — Crocodile Rogue Ranger",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/80_RB01 — Hunter.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/80_RB01 — Scaled Dusk-Blade.jpg"
 			}
 		},
 		{
-			"name": "RB02",
+			"name": "RB02 — Priest of the Damned",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{4}{B}",
 			"type": "Creature — Bird",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/81_RB02.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/81_RB02 — Priest of the Damned.jpg"
 			}
 		},
 		{
@@ -1741,13 +1741,13 @@
 			}
 		},
 		{
-			"name": "RR03",
+			"name": "RR03 — Rage-Legion Brute",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Elephant",
+			"mana_cost": "{R}",
+			"type": "Creature — Elephant Berserker Soldier",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/113_RR03.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/113_RR03 — Rage-Legion Brute.jpg"
 			}
 		},
 		{
@@ -1761,23 +1761,23 @@
 			}
 		},
 		{
-			"name": "RR05",
+			"name": "RR05 —",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "",
+			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/115_RR05.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/115_RR05 —.jpg"
 			}
 		},
 		{
-			"name": "RR06",
+			"name": "RR06 — Gold and Glory",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/116_RR06.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/116_RR06 — Gold and Glory.jpg"
 			}
 		},
 		{
@@ -1834,20 +1834,20 @@
 			"name": "RG05",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "",
+			"type": "Enchantment",
 			"collector_number": "146",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/146_RG05.jpg"
 			}
 		},
 		{
-			"name": "RG06 —",
+			"name": "RG06 — Primal Summons",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/147_RG06 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/147_RG06 — Primal Summons.jpg"
 			}
 		},
 		{
@@ -2764,20 +2764,20 @@
 
 [rare(1)]
 	5 RU03 — Mind-Focused Warden
-	5 RW01 —
+	5 RW01 — Front-Legion Surveyor
 	5 RW02 — Bishop of Persistence
 	5 RW03 —
-	5 RW04
+	5 RW04 —
 	5 RW05 — Might of Faith
 	5 RW06 — Twilight Cleansing
 	5 RZ23 — The Paths of the Rivers
 	5 RU01
-	5 RU02
+	5 RU02 — River-Bound Seer
 	5 RU04
 	5 RU05
 	5 RU06
-	5 RB01 — Hunter
-	5 RB02
+	5 RB01 — Scaled Dusk-Blade
+	5 RB02 — Priest of the Damned
 	5 RB03
 	5 RB04
 	5 RB05 — Twilight Reckoning
@@ -2785,17 +2785,17 @@
 	5 RZ07 — Shine-Horn Lieutenant
 	5 RR01
 	5 RR02
-	5 RR03
+	5 RR03 — Rage-Legion Brute
 	5 RR04
-	5 RR05
-	5 RR06
+	5 RR05 —
+	5 RR06 — Gold and Glory
 	5 RZ22 — First Dance of Twilight
 	5 RG01
 	5 RG02
 	5 RG03
 	5 RG04 — Far-Wander Ranger
 	5 RG05
-	5 RG06 —
+	5 RG06 — Primal Summons
 	5 RZ21 — Rise of the Stampedes
 	5 MW01 — Bask in Glory
 	5 MZ02 — Quirrellus, Prophet of the Phases

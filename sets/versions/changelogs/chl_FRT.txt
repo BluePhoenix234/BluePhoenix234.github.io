@@ -1,4 +1,68 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+RW01 — Front-Legion Surveyor added.
+RW04 — added.
+RU02 — River-Bound Seer added.
+RB01 — Scaled Dusk-Blade added.
+RB02 — Priest of the Damned added.
+RR03 — Rage-Legion Brute added.
+RR05 — added.
+RR06 — Gold and Glory added.
+RG06 — Primal Summons added.
+
+RW01 — removed.
+RW04 removed.
+RU02 removed.
+RB01 — Hunter removed.
+RB02 removed.
+RR03 removed.
+RR05 removed.
+RR06 removed.
+RG06 — removed.
+
+UG01 — Elephon Vanguard
+rules_text: Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i]
+When this creature enters, if you control three other creatures, draw a card. => Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i]
+When this creature enters, if you control three or more other creatures, draw a card.
+
+RW02 — Bishop of Persistence
+
+RW05 — Might of Faith
+
+RG05
+type:  => Enchantment
+
+UZ27 — The Trials of Saint Mornus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+RZ27 — Blessings of Moon and Star
+rules_text: Creatures can't attack you unless their controller pays 2 for each of those creatures.
+{1}{W}, Sacrifice this enchantment: You may exile each creature you control. Return those creature to the battlefield tapped under their owner's control at the beginning of the next end step. => Creatures can't attack you unless their controller pays {2} for each of those creatures.
+{1}{W}, Sacrifice this enchantment: You may exile each creature you control. Return those creature to the battlefield tapped under their owner's control at the beginning of the next end step.
+
+ML01 — _, Imperial Capital
+rules_text: {T}: Add {C}
+{T}: Add one mana of any color. Activate only if you control three or more creatures.
+{4}, {T}: Create your choice of a Food, Treasure, Shrine, Blessing, or Weapon token. => {T}: Add {C}
+{T}: Add one mana of any color. Activate only if you control three or more creatures.
+{4}, {T}: Create your choice of a Food, Treasure, Clue, Blessing, or Weapon token.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 RW01 — added.
