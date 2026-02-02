@@ -1531,23 +1531,23 @@
 			}
 		},
 		{
-			"name": "RW03 —",
+			"name": "RW03 — Stalwart Representative",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Minotaur",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Minotaur Warrior Advisor",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/20_RW03 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/20_RW03 — Stalwart Representative.jpg"
 			}
 		},
 		{
-			"name": "RW04 —",
+			"name": "RW04 — Gracious Wanderer",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Cat",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Cat Nomad Monk",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/21_RW04 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/21_RW04 — Gracious Wanderer.jpg"
 			}
 		},
 		{
@@ -1581,23 +1581,23 @@
 			}
 		},
 		{
-			"name": "RU01",
+			"name": "RU01 — Sacred Shrine Mason",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Bird",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Artificer Cleric",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/49_RU01.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/49_RU01 — Sacred Shrine Mason.jpg"
 			}
 		},
 		{
-			"name": "RU02 — River-Bound Seer",
+			"name": "RU02 — Riverbound Seer",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Crocodile Wizard",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/50_RU02 — River-Bound Seer.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/50_RU02 — Riverbound Seer.jpg"
 			}
 		},
 		{
@@ -1611,13 +1611,13 @@
 			}
 		},
 		{
-			"name": "RU04",
+			"name": "RU04 — Pathbound Mystic",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Cat",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cat Nomad Wizard",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/52_RU04.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/52_RU04 — Pathbound Mystic.jpg"
 			}
 		},
 		{
@@ -1664,7 +1664,7 @@
 			"name": "RB02 — Priest of the Damned",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Bird",
+			"type": "Creature — Bird Warlock Cleric",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/81_RB02 — Priest of the Damned.jpg"
@@ -1721,13 +1721,13 @@
 			}
 		},
 		{
-			"name": "RR01",
+			"name": "RR01 —",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Creature — Minotaur",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/111_RR01.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/111_RR01 —.jpg"
 			}
 		},
 		{
@@ -1801,13 +1801,13 @@
 			}
 		},
 		{
-			"name": "RG02",
+			"name": "RG02 —",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Elephant",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elephant Soldier",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/143_RG02.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/143_RG02 —.jpg"
 			}
 		},
 		{
@@ -2766,14 +2766,14 @@
 	5 RU03 — Mind-Focused Warden
 	5 RW01 — Front-Legion Surveyor
 	5 RW02 — Bishop of Persistence
-	5 RW03 —
-	5 RW04 —
+	5 RW03 — Stalwart Representative
+	5 RW04 — Gracious Wanderer
 	5 RW05 — Might of Faith
 	5 RW06 — Twilight Cleansing
 	5 RZ23 — The Paths of the Rivers
-	5 RU01
-	5 RU02 — River-Bound Seer
-	5 RU04
+	5 RU01 — Sacred Shrine Mason
+	5 RU02 — Riverbound Seer
+	5 RU04 — Pathbound Mystic
 	5 RU05
 	5 RU06
 	5 RB01 — Scaled Dusk-Blade
@@ -2783,7 +2783,7 @@
 	5 RB05 — Twilight Reckoning
 	5 RB06 — Skills of the Shadowed
 	5 RZ07 — Shine-Horn Lieutenant
-	5 RR01
+	5 RR01 —
 	5 RR02
 	5 RR03 — Rage-Legion Brute
 	5 RR04
@@ -2791,7 +2791,7 @@
 	5 RR06 — Gold and Glory
 	5 RZ22 — First Dance of Twilight
 	5 RG01
-	5 RG02
+	5 RG02 —
 	5 RG03
 	5 RG04 — Far-Wander Ranger
 	5 RG05

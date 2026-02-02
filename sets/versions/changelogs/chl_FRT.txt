@@ -1,4 +1,67 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+RW03 — Stalwart Representative added.
+RW04 — Gracious Wanderer added.
+RU01 — Sacred Shrine Mason added.
+RU02 — Riverbound Seer added.
+RU04 — Pathbound Mystic added.
+RR01 — added.
+RG02 — added.
+
+RW03 — removed.
+RW04 — removed.
+RU01 removed.
+RU02 — River-Bound Seer removed.
+RU04 removed.
+RR01 removed.
+RG02 removed.
+
+RW01 — Front-Legion Surveyor
+rules_text: Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i]
+When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card, put it into your hand, then shuffle. If you don't, gain 3 life. => Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i]
+When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card, put it into your hand, then shuffle. Otherwise, gain 3 life.
+
+RW02 — Bishop of Persistence
+rules_text: Flying, vigilance
+When this creature enters create a Blessing token attached to target permanent.
+{W}, Sacrifice two enchantments: Return this creature from the graveyard to the battlefield tapped with a +1/+1 counter on it. It becomes a Spirit in addition to its other types. => Flying, vigilance
+When this creature enters, create a Blessing token attached to target permanent.
+{W}, Sacrifice two enchantments: Return this creature from your graveyard to the battlefield tapped with a +1/+1 counter on it. It's a Spirit in addition to its other types.
+
+RW05 — Might of Faith
+rules_text: Enchanted creatures you control get +1/+1.
+Whenever you would create a token you may instead create a Blessing token attached to target permanent you control. => Enchanted creatures you control get +1/+1 for each enchantment attached to that creature.
+If you would create one or more tokens, instead create those tokens plus a Blessing token attached to a permanent you control.
+
+RB01 — Scaled Dusk-Blade
+rules_text: Deathtouch
+[i]Ferocious[/i] — At the beginning of your end step, if you control a creature with power 4 or greater, put a bounty counter on target creature an opponent controls.
+Whenever a creature with a bounty counter on it dies, draw a card. => Deathtouch
+[i]Ferocious[/i] — At the beginning of your end step, if you control a creature with power 4 or greater, put a bounty counter on target creature an opponent controls.
+Whenever a creature with a bounty counter on it dies, draw a card and put a +1/+1 counter on target creature you control.
+
+RB02 — Priest of the Damned
+type: Creature — Bird => Creature — Bird Warlock Cleric
+
+UZ27 — The Trials of Saint Mornus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 RW01 — Front-Legion Surveyor added.
