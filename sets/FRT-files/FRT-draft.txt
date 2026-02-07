@@ -1621,23 +1621,23 @@
 			}
 		},
 		{
-			"name": "RU05",
+			"name": "RU05 — Beckon the Starlight Forms",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Sorcery",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/53_RU05.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/53_RU05 — Beckon the Starlight Forms.jpg"
 			}
 		},
 		{
-			"name": "RU06",
+			"name": "RU06 — Channeling of Moonlight",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/54_RU06.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/54_RU06 — Channeling of Moonlight.jpg"
 			}
 		},
 		{
@@ -1751,23 +1751,23 @@
 			}
 		},
 		{
-			"name": "RR04",
+			"name": "RR04 —",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Creature — Cat",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/114_RR04.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/114_RR04 —.jpg"
 			}
 		},
 		{
-			"name": "RR05 —",
+			"name": "RR05 — Desperate Assault",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{4}{R}",
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/115_RR05 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/115_RR05 — Desperate Assault.jpg"
 			}
 		},
 		{
@@ -1831,13 +1831,13 @@
 			}
 		},
 		{
-			"name": "RG05",
+			"name": "RG05 —",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/146_RG05.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/146_RG05 —.jpg"
 			}
 		},
 		{
@@ -1881,13 +1881,13 @@
 			}
 		},
 		{
-			"name": "MU01",
+			"name": "MU01 —",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Enchantment",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/48_MU01.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/48_MU01 —.jpg"
 			}
 		},
 		{
@@ -2774,8 +2774,8 @@
 	5 RU01 — Sacred Shrine Mason
 	5 RU02 — Riverbound Seer
 	5 RU04 — Pathbound Mystic
-	5 RU05
-	5 RU06
+	5 RU05 — Beckon the Starlight Forms
+	5 RU06 — Channeling of Moonlight
 	5 RB01 — Scaled Dusk-Blade
 	5 RB02 — Priest of the Damned
 	5 RB03
@@ -2786,20 +2786,20 @@
 	5 RR01 —
 	5 RR02
 	5 RR03 — Rage-Legion Brute
-	5 RR04
-	5 RR05 —
+	5 RR04 —
+	5 RR05 — Desperate Assault
 	5 RR06 — Gold and Glory
 	5 RZ22 — First Dance of Twilight
 	5 RG01
 	5 RG02 —
 	5 RG03
 	5 RG04 — Far-Wander Ranger
-	5 RG05
+	5 RG05 —
 	5 RG06 — Primal Summons
 	5 RZ21 — Rise of the Stampedes
 	5 MW01 — Bask in Glory
 	5 MZ02 — Quirrellus, Prophet of the Phases
-	5 MU01
+	5 MU01 —
 	5 MZ07 — Rites of Twilight
 	5 MB01
 	5 MZ06 — Might of the Elephon

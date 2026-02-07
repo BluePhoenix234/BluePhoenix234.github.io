@@ -1,4 +1,22 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+RU05 — Beckon the Starlight Forms added.
+RU06 — Channeling of Moonlight added.
+RR04 — added.
+RR05 — Desperate Assault added.
+RG05 — added.
+MU01 — added.
+
+RU05 removed.
+RU06 removed.
+RR04 removed.
+RR05 — removed.
+RG05 removed.
+MU01 removed.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 RW03 — Stalwart Representative added.
