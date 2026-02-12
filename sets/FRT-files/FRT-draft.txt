@@ -1671,23 +1671,23 @@
 			}
 		},
 		{
-			"name": "RB03",
+			"name": "RB03 — Ambitious Saboteur",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Minotaur",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minotaur Warrior Rogue",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/82_RB03.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/82_RB03 — Ambitious Saboteur.jpg"
 			}
 		},
 		{
-			"name": "RB04",
+			"name": "RB04 — Lone-Wander Resurrector",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Cat",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat Nomad Rogue Warlock",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/83_RB04.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/83_RB04 — Lone-Wander Resurrector.jpg"
 			}
 		},
 		{
@@ -1721,23 +1721,23 @@
 			}
 		},
 		{
-			"name": "RR01 —",
+			"name": "RR01 — Blaze-Wield Bandit",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Minotaur",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Minotaur Warrior Wizard",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/111_RR01 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/111_RR01 — Blaze-Wield Bandit.jpg"
 			}
 		},
 		{
-			"name": "RR02",
+			"name": "RR02 — Wildfire Tamer",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Bear",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Bear Druid Shaman",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/112_RR02.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/112_RR02 — Wildfire Tamer.jpg"
 			}
 		},
 		{
@@ -1751,13 +1751,13 @@
 			}
 		},
 		{
-			"name": "RR04 —",
+			"name": "RR04 — Virtuous Vagabond",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Cat",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat Nomad Knight",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/114_RR04 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/114_RR04 — Virtuous Vagabond.jpg"
 			}
 		},
 		{
@@ -1791,13 +1791,13 @@
 			}
 		},
 		{
-			"name": "RG01",
+			"name": "RG01 —",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Creature — Bear",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/142_RG01.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/142_RG01 —.jpg"
 			}
 		},
 		{
@@ -1813,7 +1813,7 @@
 		{
 			"name": "RG03",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Crocodile",
 			"collector_number": "144",
 			"image_uris": {
@@ -2778,19 +2778,19 @@
 	5 RU06 — Channeling of Moonlight
 	5 RB01 — Scaled Dusk-Blade
 	5 RB02 — Priest of the Damned
-	5 RB03
-	5 RB04
+	5 RB03 — Ambitious Saboteur
+	5 RB04 — Lone-Wander Resurrector
 	5 RB05 — Twilight Reckoning
 	5 RB06 — Skills of the Shadowed
 	5 RZ07 — Shine-Horn Lieutenant
-	5 RR01 —
-	5 RR02
+	5 RR01 — Blaze-Wield Bandit
+	5 RR02 — Wildfire Tamer
 	5 RR03 — Rage-Legion Brute
-	5 RR04 —
+	5 RR04 — Virtuous Vagabond
 	5 RR05 — Desperate Assault
 	5 RR06 — Gold and Glory
 	5 RZ22 — First Dance of Twilight
-	5 RG01
+	5 RG01 —
 	5 RG02 —
 	5 RG03
 	5 RG04 — Far-Wander Ranger

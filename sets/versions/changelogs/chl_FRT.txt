@@ -1,4 +1,26 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+RB03 — Ambitious Saboteur added.
+RB04 — Lone-Wander Resurrector added.
+RR01 — Blaze-Wield Bandit added.
+RR02 — Wildfire Tamer added.
+RR04 — Virtuous Vagabond added.
+RG01 — added.
+
+RB03 removed.
+RB04 removed.
+RR01 — removed.
+RR02 removed.
+RR04 — removed.
+RG01 removed.
+
+RG03
+cost:  => {4}{G}{G}
+pt:  => 4/4
+
+
+VERSION 17 CHANGELOG
 ====================
 
 RU05 — Beckon the Starlight Forms added.
