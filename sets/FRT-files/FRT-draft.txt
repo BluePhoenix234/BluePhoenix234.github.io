@@ -1724,7 +1724,7 @@
 			"name": "RR01 — Blaze-Wield Bandit",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Minotaur Warrior Wizard",
+			"type": "Creature — Minotaur Warrior Rogue",
 			"collector_number": "111",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/111_RR01 — Blaze-Wield Bandit.jpg"

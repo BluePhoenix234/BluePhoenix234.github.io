@@ -3278,7 +3278,7 @@
             "card_name": "RR01 \u2014 Blaze-Wield Bandit",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Minotaur Warrior Wizard",
+            "type": "Creature \u2014 Minotaur Warrior Rogue",
             "number": 111,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -3301,9 +3301,9 @@
             "number": 112,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever you cast a noncreature spell, create a 2/1 red Elemental creature token.\n{1}{R}, Exile a card from your graveyard: This creature gains double strike until end of turn.",
+            "rules_text": "Whenever you cast a noncreature spell, create a 1/1 red Elemental creature token.\n{1}{R}, Exile a card from your graveyard: This creature gains double strike until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "1/4",
+            "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "FRT",
@@ -5251,5 +5251,5 @@
             "notes": ""
         }
     ],
-    "version": 19
+    "version": 20
 }

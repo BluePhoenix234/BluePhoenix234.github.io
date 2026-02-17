@@ -1,4 +1,19 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+
+
+RR01 — Blaze-Wield Bandit
+type: Creature — Minotaur Warrior Wizard => Creature — Minotaur Warrior Rogue
+
+RR02 — Wildfire Tamer
+rules_text: Whenever you cast a noncreature spell, create a 2/1 red Elemental creature token.
+{1}{R}, Exile a card from your graveyard: This creature gains double strike until end of turn. => Whenever you cast a noncreature spell, create a 1/1 red Elemental creature token.
+{1}{R}, Exile a card from your graveyard: This creature gains double strike until end of turn.
+pt: 1/4 => 1/3
+
+
+VERSION 19 CHANGELOG
 ====================
 
 RG01 — Grovebound Tender added.
