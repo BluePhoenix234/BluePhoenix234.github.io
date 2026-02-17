@@ -1,4 +1,30 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+RG01 — Grovebound Tender added.
+RG02 —Trumpeting Captain added.
+RG03 — Lurking Huntkeeper added.
+RG05 — Blessings of Strength added.
+MU01 — Phasebound Emergence added.
+MB01 — Imperial Shadowhand added.
+MR01 — Tactical Gamble added.
+MG01 — Grovekeeper Monument added.
+
+RG01 — removed.
+RG02 — removed.
+RG03 removed.
+RG05 — removed.
+MU01 — removed.
+MB01 removed.
+MR01 removed.
+MG01 removed.
+
+RU02 — Riverbound Seer
+
+RB03 — Ambitious Saboteur
+
+
+VERSION 18 CHANGELOG
 ====================
 
 RB03 — Ambitious Saboteur added.

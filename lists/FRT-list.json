@@ -7,28 +7,28 @@
         "position": ""
     },
     {
-        "card_name": "MU01 \u2014",
+        "card_name": "MU01 \u2014 Phasebound Emergence",
         "number": 48,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "MB01",
+        "card_name": "MB01 \u2014 Imperial Shadowhand",
         "number": 79,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "MR01",
+        "card_name": "MR01 \u2014 Tactical Gamble",
         "number": 110,
         "shape": "normal",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "MG01",
+        "card_name": "MG01 \u2014 Grovekeeper Monument",
         "number": 141,
         "shape": "normal",
         "set": "FRT",
@@ -63,7 +63,7 @@
         "position": ""
     },
     {
-        "card_name": "RG01 \u2014",
+        "card_name": "RG01 \u2014 Grovebound Tender",
         "number": 142,
         "shape": "normal",
         "set": "FRT",
@@ -98,7 +98,7 @@
         "position": ""
     },
     {
-        "card_name": "RG02 \u2014",
+        "card_name": "RG02 \u2014Trumpeting Captain",
         "number": 143,
         "shape": "normal",
         "set": "FRT",
@@ -133,7 +133,7 @@
         "position": ""
     },
     {
-        "card_name": "RG03",
+        "card_name": "RG03 \u2014 Lurking Huntkeeper",
         "number": 144,
         "shape": "normal",
         "set": "FRT",
@@ -203,7 +203,7 @@
         "position": ""
     },
     {
-        "card_name": "RG05 \u2014",
+        "card_name": "RG05 \u2014 Blessings of Strength",
         "number": 146,
         "shape": "normal",
         "set": "FRT",

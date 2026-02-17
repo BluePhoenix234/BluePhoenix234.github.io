@@ -3042,7 +3042,7 @@
             "shape": "normal",
             "set": "FRT",
             "loyalty": "",
-            "artist": "",
+            "artist": "Fire Drakoshka",
             "alias": "",
             "notes": ""
         },
@@ -3194,7 +3194,7 @@
             "shape": "normal",
             "set": "FRT",
             "loyalty": "",
-            "artist": "",
+            "artist": "JakubJagoda",
             "alias": "",
             "notes": ""
         },
@@ -3408,14 +3408,14 @@
             "notes": ""
         },
         {
-            "card_name": "RG01 \u2014",
+            "card_name": "RG01 \u2014 Grovebound Tender",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Bear",
+            "type": "Creature \u2014 Bear Druid",
             "number": 142,
             "color_identity": "G",
-            "cost": "",
-            "rules_text": "[i]Guardian[/i] \u2014",
+            "cost": "{3}{G}",
+            "rules_text": "Vigilance\n[i]Guardian[/i] \u2014 At the beginning of your end step, if you control a creature with power less than this creature's power, gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3427,14 +3427,14 @@
             "notes": ""
         },
         {
-            "card_name": "RG02 \u2014",
+            "card_name": "RG02 \u2014Trumpeting Captain",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Elephant Soldier",
             "number": 143,
             "color_identity": "G",
-            "cost": "{4}{G}",
-            "rules_text": "",
+            "cost": "{3}{G}{G}",
+            "rules_text": "At the beginning of combat on your turn, you may put a vigilance, trample or reach counter on this creature if it doesn't already have a counter of that kind on it. Other creatures you control gain that ability until end of turn.\nAt the beginning of your upkeep, if this creature has a vigilance, trample, and reach counter on it, remove all counters from it and draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3446,21 +3446,21 @@
             "notes": ""
         },
         {
-            "card_name": "RG03",
+            "card_name": "RG03 \u2014 Lurking Huntkeeper",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Crocodile",
+            "type": "Creature \u2014 Crocodile Ranger",
             "number": 144,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "",
+            "rules_text": "Flash\nTrample\nWhen this creature enters, create a food token.\n{1}{G}, Forage: Put three +1/+1 counters on this creature. Activate this ability only as a sorcery. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "FRT",
             "loyalty": "",
-            "artist": "",
+            "artist": "Timi Honkanen (Theme Finland)",
             "alias": "",
             "notes": ""
         },
@@ -3484,7 +3484,7 @@
             "notes": ""
         },
         {
-            "card_name": "RG05 \u2014",
+            "card_name": "RG05 \u2014 Blessings of Strength",
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
@@ -3579,7 +3579,7 @@
             "notes": ""
         },
         {
-            "card_name": "MU01 \u2014",
+            "card_name": "MU01 \u2014 Phasebound Emergence",
             "color": "U",
             "rarity": "mythic",
             "type": "Enchantment",
@@ -3617,21 +3617,21 @@
             "notes": ""
         },
         {
-            "card_name": "MB01",
+            "card_name": "MB01 \u2014 Imperial Shadowhand",
             "color": "B",
             "rarity": "mythic",
-            "type": "Creature \u2014 Crocodile",
+            "type": "Creature \u2014 Crocodile Assassin",
             "number": 79,
             "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
+            "cost": "{2}{B}{B}",
+            "rules_text": "Deathtouch\nOther assassins you control get +1/+1.\nWhenever a creature an opponent controls dies, that player loses 2 life.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "FRT",
             "loyalty": "",
-            "artist": "",
+            "artist": "WhiteRaven90",
             "alias": "",
             "notes": ""
         },
@@ -3655,14 +3655,14 @@
             "notes": ""
         },
         {
-            "card_name": "MR01",
+            "card_name": "MR01 \u2014 Tactical Gamble",
             "color": "R",
             "rarity": "mythic",
-            "type": "",
+            "type": "Instant",
             "number": 110,
             "color_identity": "R",
-            "cost": "",
-            "rules_text": "",
+            "cost": "{2}{R}{R}",
+            "rules_text": "Discard your hand. Choose one --\n\u2022 Draw three cards.\n\u2022 Draw cards equal to the number of attacking creatures you control.\n\u2022 Draw cards equal to the amount of damage sources you control dealt to players this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3693,14 +3693,14 @@
             "notes": ""
         },
         {
-            "card_name": "MG01",
+            "card_name": "MG01 \u2014 Grovekeeper Monument",
             "color": "G",
             "rarity": "mythic",
-            "type": "",
+            "type": "Enchantment Artifact \u2014 Shrine",
             "number": 141,
             "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
+            "cost": "{4}{G}{G}",
+            "rules_text": "At the beginning of your upkeep you may put a creature card with mana value less than or equal to the number of lands you control from your hand onto the battlefield.\n{1}{G}, {T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of lands you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5251,5 +5251,5 @@
             "notes": ""
         }
     ],
-    "version": 18
+    "version": 19
 }

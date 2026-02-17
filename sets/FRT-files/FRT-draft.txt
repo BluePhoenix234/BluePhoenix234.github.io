@@ -1791,33 +1791,33 @@
 			}
 		},
 		{
-			"name": "RG01 —",
+			"name": "RG01 — Grovebound Tender",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature — Bear",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bear Druid",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/142_RG01 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/142_RG01 — Grovebound Tender.jpg"
 			}
 		},
 		{
-			"name": "RG02 —",
+			"name": "RG02 —Trumpeting Captain",
 			"rarity": "rare",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/143_RG02 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/143_RG02 —Trumpeting Captain.jpg"
 			}
 		},
 		{
-			"name": "RG03",
+			"name": "RG03 — Lurking Huntkeeper",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Crocodile",
+			"type": "Creature — Crocodile Ranger",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/144_RG03.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/144_RG03 — Lurking Huntkeeper.jpg"
 			}
 		},
 		{
@@ -1831,13 +1831,13 @@
 			}
 		},
 		{
-			"name": "RG05 —",
+			"name": "RG05 — Blessings of Strength",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/146_RG05 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/146_RG05 — Blessings of Strength.jpg"
 			}
 		},
 		{
@@ -1881,13 +1881,13 @@
 			}
 		},
 		{
-			"name": "MU01 —",
+			"name": "MU01 — Phasebound Emergence",
 			"rarity": "mythic",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/48_MU01 —.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/48_MU01 — Phasebound Emergence.jpg"
 			}
 		},
 		{
@@ -1901,13 +1901,13 @@
 			}
 		},
 		{
-			"name": "MB01",
+			"name": "MB01 — Imperial Shadowhand",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Creature — Crocodile",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Crocodile Assassin",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/79_MB01.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/79_MB01 — Imperial Shadowhand.jpg"
 			}
 		},
 		{
@@ -1921,13 +1921,13 @@
 			}
 		},
 		{
-			"name": "MR01",
+			"name": "MR01 — Tactical Gamble",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/110_MR01.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/110_MR01 — Tactical Gamble.jpg"
 			}
 		},
 		{
@@ -1941,13 +1941,13 @@
 			}
 		},
 		{
-			"name": "MG01",
+			"name": "MG01 — Grovekeeper Monument",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment Artifact — Shrine",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/141_MG01.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/141_MG01 — Grovekeeper Monument.jpg"
 			}
 		},
 		{
@@ -2790,22 +2790,22 @@
 	5 RR05 — Desperate Assault
 	5 RR06 — Gold and Glory
 	5 RZ22 — First Dance of Twilight
-	5 RG01 —
-	5 RG02 —
-	5 RG03
+	5 RG01 — Grovebound Tender
+	5 RG02 —Trumpeting Captain
+	5 RG03 — Lurking Huntkeeper
 	5 RG04 — Far-Wander Ranger
-	5 RG05 —
+	5 RG05 — Blessings of Strength
 	5 RG06 — Primal Summons
 	5 RZ21 — Rise of the Stampedes
 	5 MW01 — Bask in Glory
 	5 MZ02 — Quirrellus, Prophet of the Phases
-	5 MU01 —
+	5 MU01 — Phasebound Emergence
 	5 MZ07 — Rites of Twilight
-	5 MB01
+	5 MB01 — Imperial Shadowhand
 	5 MZ06 — Might of the Elephon
-	5 MR01
+	5 MR01 — Tactical Gamble
 	5 MZ03 — Tenoc, Huntcaller
-	5 MG01
+	5 MG01 — Grovekeeper Monument
 	5 MZ01 — Neurevin, Herald of the Legions
 	5 RZ06 — Emnian, Legion Commander
 	5 RZ01 — Dusk-Veiled Professional
