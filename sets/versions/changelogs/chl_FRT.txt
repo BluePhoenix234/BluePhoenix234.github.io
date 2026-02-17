@@ -1,4 +1,28 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+RU01 — Sacred Shrine Mason
+
+RU05 — Beckon the Starlight Forms
+
+RU06 — Channeling of Moonlight
+
+RB06 — Skills of the Shadowed
+
+RR04 — Virtuous Vagabond
+
+RG01 — Grovebound Tender
+
+RG02 —Trumpeting Captain
+
+RG05 — Blessings of Strength
+
+MU01 — Phasebound Emergence
+
+
+VERSION 20 CHANGELOG
 ====================
 
 
