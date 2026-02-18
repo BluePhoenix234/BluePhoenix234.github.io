@@ -1373,7 +1373,7 @@
 		{
 			"name": "UR09 — Natural Pushback",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {

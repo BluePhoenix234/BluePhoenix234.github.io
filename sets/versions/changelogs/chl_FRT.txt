@@ -1,4 +1,95 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+CZ07 — Night-Veiled Font
+rules_text: When this enchantment enters draw a card.
+At the beginning of your end step, each opponent loses 1 life and you gain 1 life. => When this enchantment enters, draw a card.
+At the beginning of your end step, each opponent loses 1 life and you gain 1 life.
+
+CB10 — Purge the Heresy
+rules_text: Choose one —
+• Target creature gets -2/-2.
+• Destroy target aura with mana value 3 or less.
+• Remove up to two counters from target creature. => Choose one —
+• Target creature gets -2/-2.
+• Destroy target Aura with mana value 3 or less.
+• Remove up to two counters from target creature.
+
+CB15 — Might-Marauder Helm
+rules_text: Equipped Creature has menace and “Boast — {1}{B}, sacrifice a nonland permanent: Target creature gains indestructible until end of turn.” [i](Activate only if that creature attacked this turn and only once each turn.)[/i]
+Equip {1} => Equipped creature has menace and “Boast — {1}{B}, sacrifice a nonland permanent: Target creature gains indestructible until end of turn.” [i](Activate only if that creature attacked this turn and only once each turn.)[/i]
+Equip {1}
+
+CZ09 — Marauder's Fee
+rules_text: Choose one —
+• Deal 3 damage to target creature and create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+• Destroy target artifact or enchantment and create a Treasure token. => Choose one —
+• This spell deals 3 damage to target creature and create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+• Destroy target artifact or enchantment and create a Treasure token.
+
+CZ10 — Nature Surge
+rules_text: Look at the top five cards of your library. You may put any number of creature cards and land cards from among them into your hand. Put the rest on the bottom of your library in a random order. => Look at the top four cards of your library. You may put any number of creature cards and land cards from among them into your hand. Put the rest on the bottom of your library in a random order.
+
+CR12 — Trade In
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw 2 cards.
+If you discard an artifact, instead draw 3 cards. => As an additional cost to cast this spell, discard a card.
+Draw two cards.
+If you discard an artifact, instead draw three cards.
+
+CG06 — Watchful Game Tracker
+
+CZ18 — Raid Lieutenant
+rules_text: Whenever a creature you control deals combat damage to a player, create a treasure token. This ability triggers only once once each turn. => Whenever a creature you control deals combat damage to a player, create a Treasure token. This ability triggers only once once each turn.
+
+UR08 — Fury of the Desperate
+rules_text: Fury of the Desperate deals 2 damage to each creature. If a creature you control dies this way, deal an additional 1 damage to each creature. => Fury of the Desperate deals 2 damage to each creature. When one or more creatures you control are dealt lethal damage this way, Fury of the Desperate deals an additional 1 damage to each creature.
+
+UR09 — Natural Pushback
+cost: {2}{R} => {R}
+rules_text: Destroy target artifact. Target creature you control gains your choice of menace or reach until end of turn => Choose one or both —
+• Destroy target artifact.
+• Target creature you control gains your choice of menace or reach until end of turn
+
+RG03 — Lurking Huntkeeper
+rules_text: Flash
+Trample
+When this creature enters, create a food token.
+{1}{G}, Forage: Put three +1/+1 counters on this creature. Activate this ability only as a sorcery. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i] => Flash
+Trample
+When this creature enters, create a Food token.
+{1}{G}, Forage: Put three +1/+1 counters on this creature. Activate this ability only as a sorcery. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]
+
+MZ02 — Quirrellus, Prophet of the Phases
+rules_text: Flying
+You may look at the top card of your library at any time.
+You may cast Aura spells from the top of your library.
+[i]Devout[/i] — Whenever you cast an Aura spell, if you control three or more enchantments, copy that spell. You may choose new targets for the copy. => Flying
+You may look at the top card of your library at any time.
+You may cast enchantment spells from the top of your library.
+[i]Devout[/i] — Whenever you cast an Aura spell, if you control three or more enchantments, copy that spell. You may choose new targets for the copy.
+
+MR01 — Tactical Gamble
+rules_text: Discard your hand. Choose one --
+• Draw three cards.
+• Draw cards equal to the number of attacking creatures you control.
+• Draw cards equal to the amount of damage sources you control dealt to players this turn. => Discard your hand. Choose one —
+• Draw three cards.
+• Draw cards equal to the number of attacking creatures you control.
+• Draw cards equal to the amount of damage sources you control dealt to players this turn.
+
+UZ01 — UB Arcun 1
+pt: 3/3 => 2/3
+
+CA06 — Felidian Guidestone
+rules_text: When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top. If you control a Cat, put that card onto the battlefield tapped instead.
+{1},{T}: Scry 1 => When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top. If you control a Cat, put that card onto the battlefield tapped instead.
+{1}, {T}: Scry 1
+
+
+VERSION 23 CHANGELOG
 ====================
 
 
