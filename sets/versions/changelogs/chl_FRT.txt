@@ -1,4 +1,64 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+CW04 — Bolstered Veteran
+
+CR06 — Rune-Guard Sharpshooter
+
+CR13 — Claw-Striker Bracers
+
+UR02 — Bovidian Barkeep
+
+RW04 — Gracious Wanderer
+
+RZ23 — The Paths of the Rivers
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+Draw a card for each creature card in your graveyard.
+Creatures you control are unblockable until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+II — Draw a card for each creature card in your graveyard.
+III — Creatures you control are unblockable until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+Draw a card for each creature card in your graveyard.
+Creatures you control are unblockable until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+II — Draw a card for each creature card in your graveyard.
+III — Creatures you control are unblockable until end of turn.
+
+RU04 — Pathbound Mystic
+
+RB04 — Lone-Wander Resurrector
+
+RR05 — Desperate Assault
+
+RR06 — Gold and Glory
+
+MR01 — Tactical Gamble
+
+UZ28 — The First Hunt of Roag
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Until your next upkeep, whenever an opponent taps a creature, investigate.
+Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+II — Until your next upkeep, whenever an opponent taps a creature, investigate.
+III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Until your next upkeep, whenever an opponent taps a creature, investigate.
+Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+II — Until your next upkeep, whenever an opponent taps a creature, investigate.
+III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls.
+
+RZ28 — Riverbound Surge
+
+
+VERSION 21 CHANGELOG
 ====================
 
 
