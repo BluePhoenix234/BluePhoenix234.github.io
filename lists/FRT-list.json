@@ -2045,32 +2045,121 @@
         "position": ""
     },
     {
-        "card_name": "Weapon",
+        "card_name": "Elemental",
+        "number": 2,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Shrine",
         "number": 3,
         "shape": "token",
         "set": "FRT",
         "position": ""
     },
     {
-        "card_name": "Weapon",
-        "number": 4,
+        "card_name": "Clue",
+        "number": 11,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Food",
+        "number": 12,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 13,
         "shape": "token",
         "set": "FRT",
         "position": ""
     },
     {
         "card_name": "Weapon",
-        "number": 5,
+        "number": 14,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Weapon",
+        "number": 15,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Weapon",
+        "number": 16,
         "shape": "token",
         "set": "FRT",
         "position": ""
     },
     {
         "card_name": "Elephant Soldier",
-        "number": 2,
+        "number": 4,
         "shape": "token",
         "set": "FRT",
         "position": ""
+    },
+    {
+        "card_name": "Bird Cleric",
+        "number": 5,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Spirit Illusion",
+        "number": 6,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Crocodile Assassin",
+        "number": 7,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Elemental",
+        "number": 8,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Minotaur Warrior",
+        "number": 9,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "Bear Druid",
+        "number": 10,
+        "shape": "token",
+        "set": "FRT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

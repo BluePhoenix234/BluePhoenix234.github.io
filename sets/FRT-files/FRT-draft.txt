@@ -2594,10 +2594,10 @@
 			"name": "Elephant Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Creature — Elephant Soldier",
-			"collector_number": "2",
+			"type": "Token Creature — Elephant Soldier",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/2_Elephant Soldier.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/4_Elephant Soldier.jpg"
 			}
 		},
 		{
@@ -2605,9 +2605,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "3",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/3_Weapon.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/14_Weapon.jpg"
 			}
 		},
 		{
@@ -2745,9 +2745,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "4",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/4_Weapon.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/15_Weapon.jpg"
 			}
 		},
 		{
@@ -2755,9 +2755,119 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/16_Weapon.jpg"
+			}
+		},
+		{
+			"name": "Crocodile Assassin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Crocodile",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/7_Crocodile Assassin.jpg"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/12_Food.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/13_Treasure.jpg"
+			}
+		},
+		{
+			"name": "Minotaur Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minotaur Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/9_Minotaur Warrior.jpg"
+			}
+		},
+		{
+			"name": "Bird Cleric",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird Cleric",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/5_Weapon.jpg"
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/5_Bird Cleric.jpg"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/2_Elemental.jpg"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/11_Clue.jpg"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/8_Elemental.jpg"
+			}
+		},
+		{
+			"name": "Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/3_Shrine.jpg"
+			}
+		},
+		{
+			"name": "Bear Druid",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bear Druid",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/10_Bear Druid.jpg"
+			}
+		},
+		{
+			"name": "Spirit Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Illusion",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/6_Spirit Illusion.jpg"
 			}
 		}
 	]
