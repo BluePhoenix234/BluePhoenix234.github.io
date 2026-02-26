@@ -1,0 +1,235 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CA02 — Arcane Signet",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/288_CA02 — Arcane Signet.jpg"
+			}
+		},
+		{
+			"name": "CL01 — Command Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/314_CL01 — Command Tower.jpg"
+			}
+		},
+		{
+			"name": "CL02 — Path of Ancestry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/315_CL02 — Path of Ancestry.jpg"
+			}
+		},
+		{
+			"name": "CL03 — Terramorphic Expanse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/316_CL03 — Terramorphic Expanse.jpg"
+			}
+		},
+		{
+			"name": "UA03 — Sol Ring",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/301_UA03 — Sol Ring.jpg"
+			}
+		},
+		{
+			"name": "RW13 — New",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/85_RW13 — New.jpg"
+			}
+		},
+		{
+			"name": "RW14 — Badlands Surveyor",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Minotaur Ranger",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/86_RW14 — Badlands Surveyor.jpg"
+			}
+		},
+		{
+			"name": "RB14 — New",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/149_RB14 — New.jpg"
+			}
+		},
+		{
+			"name": "MR11 — New",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Minotaur Berserker",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/173_MR11 — New.jpg"
+			}
+		},
+		{
+			"name": "RR12 — New",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/185_RR12 — New.jpg"
+			}
+		},
+		{
+			"name": "MX04 — New",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Minotaur Shaman",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/72_MX04 — New.jpg"
+			}
+		},
+		{
+			"name": "RM03 — Dual Cat 3",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/269_RM03 — Dual Cat 3.jpg"
+			}
+		},
+		{
+			"name": "RL02 — Exotic Orchard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/328_RL02 — Exotic Orchard.jpg"
+			}
+		},
+		{
+			"name": "MM01 — RGW CMD 1",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Legendary Creature — Elephant Warrior",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/244_MM01 — RGW CMD 1.jpg"
+			}
+		},
+		{
+			"name": "MM04 — RWB CMD 1",
+			"rarity": "special",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Minotaur Warrior",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/247_MM04 — RWB CMD 1.jpg"
+			}
+		},
+		{
+			"name": "MM05 — GUR CMD 1",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Legendary Creature — Bear Druid Warrior",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/248_MM05 — GUR CMD 1.jpg"
+			}
+		},
+		{
+			"name": "MM06 — RGW CMD 2",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Elephant Soldier",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/249_MM06 — RGW CMD 2.jpg"
+			}
+		},
+		{
+			"name": "MM09 — RWB CMD 2",
+			"rarity": "special",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/252_MM09 — RWB CMD 2.jpg"
+			}
+		},
+		{
+			"name": "MM11 — RGW CMD 3",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Rhino Warrior",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/254_MM11 — RGW CMD 3.jpg"
+			}
+		},
+		{
+			"name": "MM14 — RWB CMD 3",
+			"rarity": "special",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/257_MM14 — RWB CMD 3.jpg"
+			}
+		},
+		{
+			"name": "Deck 4 — RWB",
+			"rarity": "special",
+			"mana_cost": "{R}{W}{B}",
+			"type": "This deck features these themes.",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FCT-files/img/1_Deck 4 — RWB.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 CA02 — Arcane Signet
+	1 CL01 — Command Tower
+	1 CL02 — Path of Ancestry
+	1 CL03 — Terramorphic Expanse
+	1 UA03 — Sol Ring
+	1 RW13 — New
+	1 RW14 — Badlands Surveyor
+	1 RB14 — New
+	1 MR11 — New
+	1 RR12 — New
+	1 MX04 — New
+	1 RM03 — Dual Cat 3
+	1 RL02 — Exotic Orchard
+	1 MM01 — RGW CMD 1
+	1 MM04 — RWB CMD 1
+	1 MM05 — GUR CMD 1
+	1 MM06 — RGW CMD 2
+	1 MM09 — RWB CMD 2
+	1 MM11 — RGW CMD 3
+	1 MM14 — RWB CMD 3
