@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "CL06 — Scoured Barrens",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "261",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "CW01 — Feathered Acolyte",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Bird Cleric",
 			"collector_number": "2",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "CW02 — Battlefront Scrounger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Hyena Scout",
 			"collector_number": "3",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "CW03 — Streetwise Nomad",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Nomad",
 			"collector_number": "4",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "CW04 — Bolstered Veteran",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "5",
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "CW05 — Horned Beligerent",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "6",
@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "CW06 — Blessings Mystic",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment Creature — Bird Wizard",
 			"collector_number": "7",
@@ -72,7 +72,7 @@
 		},
 		{
 			"name": "CW07 — Undaunted Avenger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Minotaur Soldier",
 			"collector_number": "8",
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "CW08 — Sturdy Advancer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "9",
@@ -92,7 +92,7 @@
 		},
 		{
 			"name": "CW09 — Courageous Rallier",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "10",
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "CW10 — Holy Holding",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "11",
@@ -112,7 +112,7 @@
 		},
 		{
 			"name": "CW11 — Nomadic Defense",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "12",
@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "CW12 —Might-Wrought Boon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "13",
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "CW13 — Blessed Talon Sigil",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Artifact — Equipment",
 			"collector_number": "14",
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "CW14 — Glorious Stampede",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
 			"collector_number": "15",
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "CW15 — Reckless Inventory",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "16",
@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "CZ01 — Frontline Rejuvinator",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/R}{2/G}{2/W}",
 			"type": "Creature — Elephant Soldier Cleric",
 			"collector_number": "157",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "CZ02 — Dusktouched Seeker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/W}{2/U}{2/B}",
 			"type": "Enchantment Creature — Bird Cleric",
 			"collector_number": "158",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "CZ03 — Dagger-Bite Stalker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/B}{2/G}{2/U}",
 			"type": "Creature — Crocodile Assassin",
 			"collector_number": "159",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "CZ04 — Blood-Bound Mercenaries",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/R}{2/W}{2/B}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "160",
@@ -202,7 +202,7 @@
 		},
 		{
 			"name": "CU01 — Holy Site Watcher",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird Scout",
 			"collector_number": "33",
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "CU02 — Clever Swiper",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Cat Rogue",
 			"collector_number": "34",
@@ -222,7 +222,7 @@
 		},
 		{
 			"name": "CU03 — Bright-Eyed Adept",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bear Druid",
 			"collector_number": "35",
@@ -232,7 +232,7 @@
 		},
 		{
 			"name": "RU03 — Mind-Focused Warden",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bear Wizard",
 			"collector_number": "51",
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "CU05 — Patient Trapper",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Crocodile Ranger",
 			"collector_number": "37",
@@ -252,7 +252,7 @@
 		},
 		{
 			"name": "CU06 — Downpour Leviathan",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Elemental Leviathan",
 			"collector_number": "38",
@@ -262,7 +262,7 @@
 		},
 		{
 			"name": "CU07 — Shimmer Guard Blessing",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment Creature — Bird Monk Illusion",
 			"collector_number": "39",
@@ -272,7 +272,7 @@
 		},
 		{
 			"name": "CU08 — Rune-Carved Guardian",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Bear Golem",
 			"collector_number": "40",
@@ -282,7 +282,7 @@
 		},
 		{
 			"name": "CU09 — Graceful Intervention",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "41",
@@ -292,7 +292,7 @@
 		},
 		{
 			"name": "CU10 — Guardian Instinct",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "42",
@@ -302,7 +302,7 @@
 		},
 		{
 			"name": "CU11 — Jaw-Lock Glyph (Croc)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "43",
@@ -312,7 +312,7 @@
 		},
 		{
 			"name": "CU12 — Wayfinder's Meditation",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
 			"collector_number": "44",
@@ -322,7 +322,7 @@
 		},
 		{
 			"name": "CU13 — Marsh Sifting",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "45",
@@ -332,7 +332,7 @@
 		},
 		{
 			"name": "CU14 — Holy Gust",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "46",
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "CU15 — River-Hunter's Cloak",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact — Equipment",
 			"collector_number": "47",
@@ -352,7 +352,7 @@
 		},
 		{
 			"name": "CZ05 — Grove Warden Rager",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/G}{2/U}{2/R}",
 			"type": "Creature — Bear Berserker Druid",
 			"collector_number": "161",
@@ -362,7 +362,7 @@
 		},
 		{
 			"name": "CZ06 — Tusked Reinforcements",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/R}{2/G}{2/W}",
 			"type": "Sorcery",
 			"collector_number": "162",
@@ -372,7 +372,7 @@
 		},
 		{
 			"name": "CZ07 — Night-Veiled Font",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/W}{2/U}{2/B}",
 			"type": "Enchantment",
 			"collector_number": "163",
@@ -382,7 +382,7 @@
 		},
 		{
 			"name": "CZ08 — Marsh-Lurker Ambush",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/B}{2/G}{2/U}",
 			"type": "Sorcery",
 			"collector_number": "164",
@@ -392,7 +392,7 @@
 		},
 		{
 			"name": "CB01 — Ruin-Wander Watch",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Cat Nomad Rogue",
 			"collector_number": "64",
@@ -402,7 +402,7 @@
 		},
 		{
 			"name": "CB02 — Wound Wielder",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Minotaur Berserker",
 			"collector_number": "65",
@@ -412,7 +412,7 @@
 		},
 		{
 			"name": "CB03 — Muck-Wield Stalker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Crocodile Warlock",
 			"collector_number": "66",
@@ -422,7 +422,7 @@
 		},
 		{
 			"name": "CB05 — Night-Blessed Inquisitor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment Creature — Bird Warlock",
 			"collector_number": "68",
@@ -432,7 +432,7 @@
 		},
 		{
 			"name": "CB04 — Strixan Siphon Priest",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Cleric",
 			"collector_number": "67",
@@ -442,7 +442,7 @@
 		},
 		{
 			"name": "CB06 — Battlefield Finisher",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Minotaur Warrior Assassin",
 			"collector_number": "69",
@@ -452,7 +452,7 @@
 		},
 		{
 			"name": "CB07 — Greedy Poacher",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Crocodile Rogue Warlock",
 			"collector_number": "70",
@@ -462,7 +462,7 @@
 		},
 		{
 			"name": "CB08 — Death-Wreathed Terror",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Nightmare Elemental",
 			"collector_number": "71",
@@ -472,7 +472,7 @@
 		},
 		{
 			"name": "CB09 — Horn Bore",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
 			"collector_number": "72",
@@ -482,7 +482,7 @@
 		},
 		{
 			"name": "CB10 — Purge the Heresy",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "73",
@@ -492,7 +492,7 @@
 		},
 		{
 			"name": "CB11 — Death Roll",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "74",
@@ -502,7 +502,7 @@
 		},
 		{
 			"name": "CB12 — Wander-Rite Offering",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "75",
@@ -512,7 +512,7 @@
 		},
 		{
 			"name": "CB13 — Call the Once Blessed",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"collector_number": "76",
@@ -522,7 +522,7 @@
 		},
 		{
 			"name": "CB14 — Dark River Hiss",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "77",
@@ -532,7 +532,7 @@
 		},
 		{
 			"name": "CB15 — Might-Marauder Helm",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Equipment",
 			"collector_number": "78",
@@ -542,7 +542,7 @@
 		},
 		{
 			"name": "CZ09 — Marauder's Fee",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/R}{2/W}{2/B}",
 			"type": "Sorcery",
 			"collector_number": "165",
@@ -552,7 +552,7 @@
 		},
 		{
 			"name": "CZ10 — Nature Surge",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2/G}{2/U}{2/R}",
 			"type": "Instant",
 			"collector_number": "166",
@@ -562,7 +562,7 @@
 		},
 		{
 			"name": "CZ12 — Night-Tuned Etchings",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "167",
@@ -572,7 +572,7 @@
 		},
 		{
 			"name": "CZ11 — Night-Wind Spirits",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U/B}",
 			"type": "Enchantment Creature — Bird Crocodile Spirit",
 			"collector_number": "239",
@@ -582,7 +582,7 @@
 		},
 		{
 			"name": "CR01 — Eager-Horn Rookie",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "95",
@@ -592,7 +592,7 @@
 		},
 		{
 			"name": "CR02 — Front-Wander Scout",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Cat Nomad Scout",
 			"collector_number": "96",
@@ -602,7 +602,7 @@
 		},
 		{
 			"name": "CR03 — Rune-Charged Striker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Bear Warrior",
 			"collector_number": "97",
@@ -612,7 +612,7 @@
 		},
 		{
 			"name": "CR04 — Dauntless Recruits",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "98",
@@ -622,7 +622,7 @@
 		},
 		{
 			"name": "CR05 — Frenzy-Kin Reinforcer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Wolverine Druid Berserker",
 			"collector_number": "99",
@@ -632,7 +632,7 @@
 		},
 		{
 			"name": "CR06 — Rune-Guard Sharpshooter",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Bear Druid Archer",
 			"collector_number": "100",
@@ -642,7 +642,7 @@
 		},
 		{
 			"name": "CR07 — Battlefield Pilferer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Minotaur Berserker",
 			"collector_number": "101",
@@ -652,7 +652,7 @@
 		},
 		{
 			"name": "CR08 — Rage-Legion Charger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Elephant Berserker Soldier",
 			"collector_number": "102",
@@ -662,7 +662,7 @@
 		},
 		{
 			"name": "CR09 — Enraged Blast",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "103",
@@ -672,7 +672,7 @@
 		},
 		{
 			"name": "CR10 — Cleanse with Fire",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "104",
@@ -682,7 +682,7 @@
 		},
 		{
 			"name": "CR11 — Trample the Opposition",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "105",
@@ -692,7 +692,7 @@
 		},
 		{
 			"name": "CR12 — Trade In",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "106",
@@ -702,7 +702,7 @@
 		},
 		{
 			"name": "CR13 — Claw-Striker Bracers",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
 			"collector_number": "107",
@@ -712,7 +712,7 @@
 		},
 		{
 			"name": "CR14 — Distraction Strike",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "108",
@@ -722,7 +722,7 @@
 		},
 		{
 			"name": "CR15 — Unstoppable Force",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "109",
@@ -732,7 +732,7 @@
 		},
 		{
 			"name": "CZ14 — Grove-Guard Sigils",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "168",
@@ -742,7 +742,7 @@
 		},
 		{
 			"name": "CZ13 — High-Eyed Spirits",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R/G}",
 			"type": "Enchantment Creature — Elephant Bear Spirit",
 			"collector_number": "240",
@@ -752,7 +752,7 @@
 		},
 		{
 			"name": "CZ16 — Battle-Tithe Priest",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Bird Warrior Cleric",
 			"collector_number": "169",
@@ -762,7 +762,7 @@
 		},
 		{
 			"name": "CZ15 — Vigor-Cloak Spirits",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W/B}",
 			"type": "Enchantment Creature — Bird Minotaur Spirit",
 			"collector_number": "241",
@@ -772,7 +772,7 @@
 		},
 		{
 			"name": "CG01 — Bright-Tusk Recruit",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "126",
@@ -782,7 +782,7 @@
 		},
 		{
 			"name": "CG02 —Protective Charger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bear Warrior Ranger",
 			"collector_number": "127",
@@ -792,7 +792,7 @@
 		},
 		{
 			"name": "CG03 — Far-Wander Shaman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Cat Nomad Shaman",
 			"collector_number": "128",
@@ -802,7 +802,7 @@
 		},
 		{
 			"name": "CG04 — Brighthollow Guard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear Druid Ranger",
 			"collector_number": "129",
@@ -812,7 +812,7 @@
 		},
 		{
 			"name": "CG05 — Marshland Hunter",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Crocodile Ranger",
 			"collector_number": "130",
@@ -822,7 +822,7 @@
 		},
 		{
 			"name": "CG06 — Watchful Game Tracker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Crocodile Warrior Scout",
 			"collector_number": "131",
@@ -832,7 +832,7 @@
 		},
 		{
 			"name": "CG07 — Mighty Deserter",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elephant Warrior",
 			"collector_number": "132",
@@ -842,7 +842,7 @@
 		},
 		{
 			"name": "CG08 — Surge-Seeker Wurm",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Elemental Wurm",
 			"collector_number": "133",
@@ -852,7 +852,7 @@
 		},
 		{
 			"name": "CG09 — Venemous Repurpose (Bear)",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "134",
@@ -862,7 +862,7 @@
 		},
 		{
 			"name": "CG10 — Surge of Might",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "135",
@@ -872,7 +872,7 @@
 		},
 		{
 			"name": "CG11 — Rally-Legion Requisition",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "136",
@@ -882,7 +882,7 @@
 		},
 		{
 			"name": "CG12 — Stomper-Legion Hammer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment",
 			"collector_number": "137",
@@ -892,7 +892,7 @@
 		},
 		{
 			"name": "CG13 — Prepare an Ambush",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "138",
@@ -902,7 +902,7 @@
 		},
 		{
 			"name": "CG14 — Nurturing Nature",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "139",
@@ -912,7 +912,7 @@
 		},
 		{
 			"name": "CG15 — Feline Instinct",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "140",
@@ -922,7 +922,7 @@
 		},
 		{
 			"name": "CZ18 — Raid Lieutenant",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Minotaur Soldier",
 			"collector_number": "170",
@@ -932,7 +932,7 @@
 		},
 		{
 			"name": "CZ18 — Quick-Arm Spirits",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R/W}",
 			"type": "Enchantment Creature — Elephant Minotaur Spirit",
 			"collector_number": "242",
@@ -942,7 +942,7 @@
 		},
 		{
 			"name": "CZ20 — Wilderness Cultivator",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Crocodile Druid",
 			"collector_number": "171",
@@ -952,7 +952,7 @@
 		},
 		{
 			"name": "CZ19 — Wild-Might Spirits",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{G/U}",
 			"type": "Enchantment Creature — Bear Crocodile Spirit",
 			"collector_number": "243",
@@ -962,7 +962,7 @@
 		},
 		{
 			"name": "UW01 — Solid-Hoof Veteran",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "24",
@@ -972,7 +972,7 @@
 		},
 		{
 			"name": "UW02 — Elephon Frontliner",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "25",
@@ -982,7 +982,7 @@
 		},
 		{
 			"name": "UW03 — Blasphemer Detainer",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment Creature — Bird Spirit Cleric",
 			"collector_number": "26",
@@ -992,7 +992,7 @@
 		},
 		{
 			"name": "UW04 — Brightlight Paladin",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird Cleric Knight",
 			"collector_number": "27",
@@ -1002,7 +1002,7 @@
 		},
 		{
 			"name": "UW05 — Great-Horn Knight",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Minotaur Warrior Knight",
 			"collector_number": "28",
@@ -1012,7 +1012,7 @@
 		},
 		{
 			"name": "UW06 — Pride-Heart Lieutenant",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Cat Soldier",
 			"collector_number": "29",
@@ -1022,7 +1022,7 @@
 		},
 		{
 			"name": "UW07 — Righteous Restoration",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"collector_number": "30",
@@ -1032,7 +1032,7 @@
 		},
 		{
 			"name": "UW08 — Rallier's Boon",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "31",
@@ -1042,7 +1042,7 @@
 		},
 		{
 			"name": "UW09 — Honorable Exile",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "32",
@@ -1052,7 +1052,7 @@
 		},
 		{
 			"name": "UZ19 — GUR Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Creature — Bear Druid",
 			"collector_number": "227",
@@ -1062,7 +1062,7 @@
 		},
 		{
 			"name": "UZ20 — GUR Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Bear Druid Shaman",
 			"collector_number": "228",
@@ -1072,7 +1072,7 @@
 		},
 		{
 			"name": "UU01 — Bright-Grove Watcher",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Bear Druid",
 			"collector_number": "55",
@@ -1082,7 +1082,7 @@
 		},
 		{
 			"name": "UU02 — River-Cloak Thief",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Crocodile Rogue",
 			"collector_number": "56",
@@ -1092,7 +1092,7 @@
 		},
 		{
 			"name": "UU03 — Stream-Warden Guide",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bear Wizard Ranger",
 			"collector_number": "57",
@@ -1102,7 +1102,7 @@
 		},
 		{
 			"name": "UU04 — Dusk-Touched Pacifier",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment Creature — Bird Cleric Advisor",
 			"collector_number": "58",
@@ -1112,7 +1112,7 @@
 		},
 		{
 			"name": "UU05 — Current-Wield Warden",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Crocodile Warlock Druid",
 			"collector_number": "59",
@@ -1122,7 +1122,7 @@
 		},
 		{
 			"name": "UU06 — Mind-Wander Acolyte",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Cat Nomad Cleric",
 			"collector_number": "60",
@@ -1132,7 +1132,7 @@
 		},
 		{
 			"name": "UU07 — Enshrinement",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "61",
@@ -1142,7 +1142,7 @@
 		},
 		{
 			"name": "UU08 — Drowned Efforts",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "62",
@@ -1152,7 +1152,7 @@
 		},
 		{
 			"name": "UU09 — Ursaeic Repurposing",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "63",
@@ -1162,7 +1162,7 @@
 		},
 		{
 			"name": "UZ14 — WUB Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Enchantment Creature — Bird Spirit Cleric",
 			"collector_number": "222",
@@ -1172,7 +1172,7 @@
 		},
 		{
 			"name": "UZ13 — WUB Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Creature — Bird Cleric",
 			"collector_number": "221",
@@ -1182,7 +1182,7 @@
 		},
 		{
 			"name": "UB01 — Glorymarked Returner",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Minotaur Zombie Warrior",
 			"collector_number": "86",
@@ -1192,7 +1192,7 @@
 		},
 		{
 			"name": "UB02 — Tithe Enforcer",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Creature — Bird Cleric Spirit",
 			"collector_number": "87",
@@ -1202,7 +1202,7 @@
 		},
 		{
 			"name": "UB03 — Fear-Tuned Mauler",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Minotaur Warlock Berserker",
 			"collector_number": "88",
@@ -1212,7 +1212,7 @@
 		},
 		{
 			"name": "UB04 — Feared River-Lurker",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Crocodile Warlock Berserker",
 			"collector_number": "89",
@@ -1222,7 +1222,7 @@
 		},
 		{
 			"name": "UB05 — Night-Feather Inquisitor",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Bird Warlock",
 			"collector_number": "90",
@@ -1232,7 +1232,7 @@
 		},
 		{
 			"name": "UB06 — Bog-Wander Poisoner",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Cat Nomad Assassin",
 			"collector_number": "91",
@@ -1242,7 +1242,7 @@
 		},
 		{
 			"name": "UB07 — Pull from the Bogs",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "92",
@@ -1252,7 +1252,7 @@
 		},
 		{
 			"name": "UB08 — Foul Tactics",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "93",
@@ -1262,7 +1262,7 @@
 		},
 		{
 			"name": "UB09 — Fell the Blasphemer",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
 			"collector_number": "94",
@@ -1272,7 +1272,7 @@
 		},
 		{
 			"name": "UZ12 — RGW Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "220",
@@ -1282,7 +1282,7 @@
 		},
 		{
 			"name": "UZ11 — RGW Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Elephant Warrior",
 			"collector_number": "219",
@@ -1292,7 +1292,7 @@
 		},
 		{
 			"name": "UR01 — Wild Energy Apprentice",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Bear Druid",
 			"collector_number": "117",
@@ -1302,7 +1302,7 @@
 		},
 		{
 			"name": "UR02 — Bovidian Barkeep",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Minotaur Citizen",
 			"collector_number": "118",
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"name": "UR03 — Front-Legion Strategist",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "119",
@@ -1322,7 +1322,7 @@
 		},
 		{
 			"name": "UR04 — Bold-Grove Elder",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Bear Shaman",
 			"collector_number": "120",
@@ -1332,7 +1332,7 @@
 		},
 		{
 			"name": "UR05 — Range-Legion Flanker",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Elephant Ranger",
 			"collector_number": "121",
@@ -1342,7 +1342,7 @@
 		},
 		{
 			"name": "UR06 — Wander-Heart Mercenary",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Nomad Warrior",
 			"collector_number": "122",
@@ -1352,7 +1352,7 @@
 		},
 		{
 			"name": "UR07 — Forced Conscription",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"collector_number": "123",
@@ -1362,7 +1362,7 @@
 		},
 		{
 			"name": "UR08 — Fury of the Desperate",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "124",
@@ -1372,7 +1372,7 @@
 		},
 		{
 			"name": "UR09 — Natural Pushback",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "125",
@@ -1382,7 +1382,7 @@
 		},
 		{
 			"name": "UZ18 — RWB Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Minotaur Warrior Cleric",
 			"collector_number": "226",
@@ -1392,7 +1392,7 @@
 		},
 		{
 			"name": "UZ17 — RWB Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Minotaur Berserker",
 			"collector_number": "225",
@@ -1402,7 +1402,7 @@
 		},
 		{
 			"name": "UG01 — Elephon Vanguard",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elephant Knight",
 			"collector_number": "148",
@@ -1412,7 +1412,7 @@
 		},
 		{
 			"name": "UG02 — Marshland Trawler",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Crocodile Druid",
 			"collector_number": "149",
@@ -1422,7 +1422,7 @@
 		},
 		{
 			"name": "UG03 — Grovetown Mentor",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear Wizard Ranger",
 			"collector_number": "150",
@@ -1432,7 +1432,7 @@
 		},
 		{
 			"name": "UG04 — Equalizing Hunter",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Crocodile Assassin",
 			"collector_number": "151",
@@ -1442,7 +1442,7 @@
 		},
 		{
 			"name": "UG05 — Might-Legion Champion",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{6}{G}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "152",
@@ -1452,7 +1452,7 @@
 		},
 		{
 			"name": "UG06 — Wild-Wander Shepherd",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Cat Nomad Druid",
 			"collector_number": "153",
@@ -1462,7 +1462,7 @@
 		},
 		{
 			"name": "UG07 — Chart the Game Trails",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "154",
@@ -1472,7 +1472,7 @@
 		},
 		{
 			"name": "UG08 — Fostered Might",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "155",
@@ -1482,7 +1482,7 @@
 		},
 		{
 			"name": "UG09 — Stampede of the Legion",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "156",
@@ -1492,7 +1492,7 @@
 		},
 		{
 			"name": "UZ15 — BGU Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature — Crocodile Warlock",
 			"collector_number": "223",
@@ -1502,7 +1502,7 @@
 		},
 		{
 			"name": "UZ16 — BGU Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Creature — Crocodile Warrior Ranger",
 			"collector_number": "224",
@@ -1512,7 +1512,7 @@
 		},
 		{
 			"name": "RW01 — Front-Legion Surveyor",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elephant Soldier Scout",
 			"collector_number": "18",
@@ -1522,7 +1522,7 @@
 		},
 		{
 			"name": "RW02 — Bishop of Persistence",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird Cleric",
 			"collector_number": "19",
@@ -1532,7 +1532,7 @@
 		},
 		{
 			"name": "RW03 — Stalwart Representative",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Minotaur Warrior Advisor",
 			"collector_number": "20",
@@ -1542,7 +1542,7 @@
 		},
 		{
 			"name": "RW04 — Gracious Wanderer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Cat Nomad Monk",
 			"collector_number": "21",
@@ -1552,7 +1552,7 @@
 		},
 		{
 			"name": "RW05 — Might of Faith",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
 			"collector_number": "22",
@@ -1562,7 +1562,7 @@
 		},
 		{
 			"name": "RW06 — Twilight Cleansing",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "23",
@@ -1572,7 +1572,7 @@
 		},
 		{
 			"name": "RZ23 — The Paths of the Rivers",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "201",
@@ -1582,7 +1582,7 @@
 		},
 		{
 			"name": "RU01 — Sacred Shrine Mason",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird Artificer Cleric",
 			"collector_number": "49",
@@ -1592,7 +1592,7 @@
 		},
 		{
 			"name": "RU02 — Riverbound Seer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Crocodile Wizard",
 			"collector_number": "50",
@@ -1602,7 +1602,7 @@
 		},
 		{
 			"name": "CU04 — Mind-Honed Mentor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bear Wizard Druid",
 			"collector_number": "36",
@@ -1612,7 +1612,7 @@
 		},
 		{
 			"name": "RU04 — Pathbound Mystic",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Cat Nomad Wizard",
 			"collector_number": "52",
@@ -1622,7 +1622,7 @@
 		},
 		{
 			"name": "RU05 — Beckon the Starlight Forms",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{X}{U}",
 			"type": "Sorcery",
 			"collector_number": "53",
@@ -1632,7 +1632,7 @@
 		},
 		{
 			"name": "RU06 — Channeling of Moonlight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "54",
@@ -1642,7 +1642,7 @@
 		},
 		{
 			"name": "UZ21 — Elephon Charger",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "229",
@@ -1652,7 +1652,7 @@
 		},
 		{
 			"name": "RB01 — Scaled Dusk-Blade",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Crocodile Rogue Ranger",
 			"collector_number": "80",
@@ -1662,7 +1662,7 @@
 		},
 		{
 			"name": "RB02 — Priest of the Damned",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Bird Warlock Cleric",
 			"collector_number": "81",
@@ -1672,7 +1672,7 @@
 		},
 		{
 			"name": "RB03 — Ambitious Saboteur",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Minotaur Warrior Rogue",
 			"collector_number": "82",
@@ -1682,7 +1682,7 @@
 		},
 		{
 			"name": "RB04 — Lone-Wander Resurrector",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Cat Nomad Rogue Warlock",
 			"collector_number": "83",
@@ -1692,7 +1692,7 @@
 		},
 		{
 			"name": "RB05 — Twilight Reckoning",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "84",
@@ -1702,7 +1702,7 @@
 		},
 		{
 			"name": "RB06 — Skills of the Shadowed",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "85",
@@ -1712,7 +1712,7 @@
 		},
 		{
 			"name": "RZ07 — Shine-Horn Lieutenant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Creature — Minotaur Soldier",
 			"collector_number": "190",
@@ -1722,7 +1722,7 @@
 		},
 		{
 			"name": "RR01 — Blaze-Wield Bandit",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Minotaur Warrior Rogue",
 			"collector_number": "111",
@@ -1732,7 +1732,7 @@
 		},
 		{
 			"name": "RR02 — Wildfire Tamer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Bear Druid Shaman",
 			"collector_number": "112",
@@ -1742,7 +1742,7 @@
 		},
 		{
 			"name": "RR03 — Rage-Legion Brute",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Elephant Berserker Soldier",
 			"collector_number": "113",
@@ -1752,7 +1752,7 @@
 		},
 		{
 			"name": "RR04 — Virtuous Vagabond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Nomad Knight",
 			"collector_number": "114",
@@ -1762,7 +1762,7 @@
 		},
 		{
 			"name": "RR05 — Desperate Assault",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
 			"collector_number": "115",
@@ -1772,7 +1772,7 @@
 		},
 		{
 			"name": "RR06 — Gold and Glory",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
 			"collector_number": "116",
@@ -1782,7 +1782,7 @@
 		},
 		{
 			"name": "RZ22 — First Dance of Twilight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "200",
@@ -1792,7 +1792,7 @@
 		},
 		{
 			"name": "RG01 — Grovebound Tender",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Bear Druid",
 			"collector_number": "142",
@@ -1802,7 +1802,7 @@
 		},
 		{
 			"name": "RG02 —Trumpeting Captain",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "143",
@@ -1812,7 +1812,7 @@
 		},
 		{
 			"name": "RG03 — Lurking Huntkeeper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Crocodile Ranger",
 			"collector_number": "144",
@@ -1822,7 +1822,7 @@
 		},
 		{
 			"name": "RG04 — Far-Wander Ranger",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Cat Nomad Ranger",
 			"collector_number": "145",
@@ -1832,7 +1832,7 @@
 		},
 		{
 			"name": "RG05 — Blessings of Strength",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "146",
@@ -1842,7 +1842,7 @@
 		},
 		{
 			"name": "RG06 — Primal Summons",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "147",
@@ -1852,7 +1852,7 @@
 		},
 		{
 			"name": "RZ21 — Rise of the Stampedes",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "199",
@@ -1862,7 +1862,7 @@
 		},
 		{
 			"name": "MW01 — Bask in Glory",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}{W}",
 			"type": "Instant",
 			"collector_number": "17",
@@ -1872,7 +1872,7 @@
 		},
 		{
 			"name": "MZ02 — Quirrellus, Prophet of the Phases",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Creature — Bird Cleric",
 			"collector_number": "173",
@@ -1882,7 +1882,7 @@
 		},
 		{
 			"name": "MU01 — Phasebound Emergence",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "48",
@@ -1892,7 +1892,7 @@
 		},
 		{
 			"name": "MZ07 — Rites of Twilight",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "178",
@@ -1902,7 +1902,7 @@
 		},
 		{
 			"name": "MB01 — Imperial Shadowhand",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Crocodile Assassin",
 			"collector_number": "79",
@@ -1912,7 +1912,7 @@
 		},
 		{
 			"name": "MZ06 — Might of the Elephon",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Enchantment",
 			"collector_number": "177",
@@ -1922,7 +1922,7 @@
 		},
 		{
 			"name": "MR01 — Tactical Gamble",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Instant",
 			"collector_number": "110",
@@ -1932,7 +1932,7 @@
 		},
 		{
 			"name": "MZ03 — Tenoc, Huntcaller",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Crocodile Assassin",
 			"collector_number": "174",
@@ -1942,7 +1942,7 @@
 		},
 		{
 			"name": "MG01 — Grovekeeper Monument",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment Artifact — Shrine",
 			"collector_number": "141",
@@ -1952,7 +1952,7 @@
 		},
 		{
 			"name": "MZ01 — Neurevin, Herald of the Legions",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Elephant Soldier Bard",
 			"collector_number": "172",
@@ -1962,7 +1962,7 @@
 		},
 		{
 			"name": "UZ05 — WB Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Minotaur Cleric",
 			"collector_number": "213",
@@ -1972,7 +1972,7 @@
 		},
 		{
 			"name": "UZ01 — UB Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Bird Warlock",
 			"collector_number": "209",
@@ -1982,7 +1982,7 @@
 		},
 		{
 			"name": "UZ02 — UB Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "210",
@@ -1992,7 +1992,7 @@
 		},
 		{
 			"name": "UZ04 — RG Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "212",
@@ -2002,7 +2002,7 @@
 		},
 		{
 			"name": "UZ10 — GU Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "218",
@@ -2012,7 +2012,7 @@
 		},
 		{
 			"name": "UZ06 — WB Arcun 2",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment",
 			"collector_number": "214",
@@ -2022,7 +2022,7 @@
 		},
 		{
 			"name": "UZ08 — Battleground Improviser",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Minotaur Warrior Advisor",
 			"collector_number": "216",
@@ -2032,7 +2032,7 @@
 		},
 		{
 			"name": "UZ03 — RG Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Elephant Berserker Druid",
 			"collector_number": "211",
@@ -2042,7 +2042,7 @@
 		},
 		{
 			"name": "UZ07 — Support of the Legion",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "215",
@@ -2052,7 +2052,7 @@
 		},
 		{
 			"name": "UZ09 — GU Arcun 1",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Bear Ranger",
 			"collector_number": "217",
@@ -2062,7 +2062,7 @@
 		},
 		{
 			"name": "RZ06 — Emnian, Legion Commander",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Elephant Soldier",
 			"collector_number": "189",
@@ -2072,7 +2072,7 @@
 		},
 		{
 			"name": "RZ01 — Dusk-Veiled Professional",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Crocodile Assassin",
 			"collector_number": "184",
@@ -2082,7 +2082,7 @@
 		},
 		{
 			"name": "RZ15 — Ellevena, Rambunctious Heir",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Creature — Minotaur Warrior Noble",
 			"collector_number": "195",
@@ -2092,7 +2092,7 @@
 		},
 		{
 			"name": "RZ02 — Wild-Surge Beckoner",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Creature — Bear Druid",
 			"collector_number": "185",
@@ -2102,7 +2102,7 @@
 		},
 		{
 			"name": "RZ09 — Tanus, Eye of the Heavens",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Enchantment Creature — Bird Spirit",
 			"collector_number": "191",
@@ -2112,7 +2112,7 @@
 		},
 		{
 			"name": "RZ03 — Duskrite Priest",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment Creature — Bird Cleric",
 			"collector_number": "186",
@@ -2122,7 +2122,7 @@
 		},
 		{
 			"name": "RZ18 — Cian, Earth Whisperer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Bear Warrior Druid",
 			"collector_number": "197",
@@ -2132,7 +2132,7 @@
 		},
 		{
 			"name": "RZ12 — Oremen, Wild-Keeper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Crocodile Ranger",
 			"collector_number": "193",
@@ -2142,7 +2142,7 @@
 		},
 		{
 			"name": "RZ04 — Garrison-Legion Quatemaster",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Elephant Soldier",
 			"collector_number": "187",
@@ -2152,7 +2152,7 @@
 		},
 		{
 			"name": "RZ05 — Clever Skywatcher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Crocodile Ranger",
 			"collector_number": "188",
@@ -2162,7 +2162,7 @@
 		},
 		{
 			"name": "CA02 — Strixan Banner",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "250",
@@ -2172,7 +2172,7 @@
 		},
 		{
 			"name": "CA01 — Elephon Banner",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "249",
@@ -2182,7 +2182,7 @@
 		},
 		{
 			"name": "CA03 — Crocdilid Banner",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "251",
@@ -2192,7 +2192,7 @@
 		},
 		{
 			"name": "CA04 — Bovidian Banner",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "252",
@@ -2202,7 +2202,7 @@
 		},
 		{
 			"name": "CA05 — Ursaeic Banner",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "253",
@@ -2212,7 +2212,7 @@
 		},
 		{
 			"name": "UZ26 — The Might of Tanabon",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "234",
@@ -2222,7 +2222,7 @@
 		},
 		{
 			"name": "UZ27 — The Trials of Saint Mornus",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "235",
@@ -2232,7 +2232,7 @@
 		},
 		{
 			"name": "UZ28 — The First Hunt of Roag",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "236",
@@ -2242,7 +2242,7 @@
 		},
 		{
 			"name": "UZ29 — The Tale of Ol Barrot",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "237",
@@ -2252,7 +2252,7 @@
 		},
 		{
 			"name": "UZ30 — The Teachings of Aodhan",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "238",
@@ -2262,7 +2262,7 @@
 		},
 		{
 			"name": "CA06 — Felidian Guidestone",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "254",
@@ -2272,7 +2272,7 @@
 		},
 		{
 			"name": "UL01 — Mighty Fort Town",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Town",
 			"collector_number": "267",
@@ -2282,7 +2282,7 @@
 		},
 		{
 			"name": "UL02 — Bustling Monastery",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Town",
 			"collector_number": "268",
@@ -2292,7 +2292,7 @@
 		},
 		{
 			"name": "UL03 — Quaint Marsh Village",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Town",
 			"collector_number": "269",
@@ -2302,7 +2302,7 @@
 		},
 		{
 			"name": "UL04 — Bannerless Town",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Town",
 			"collector_number": "270",
@@ -2312,7 +2312,7 @@
 		},
 		{
 			"name": "UL05 — Woodland Hamlet",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Town",
 			"collector_number": "271",
@@ -2322,7 +2322,7 @@
 		},
 		{
 			"name": "RZ08 — Elephon Representative",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R/G}{W}",
 			"type": "Creature — Elephant Soldier Advisor",
 			"collector_number": "244",
@@ -2332,7 +2332,7 @@
 		},
 		{
 			"name": "RZ11 — Strixan Representative",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W/B}{U}",
 			"type": "Enchantment Creature — Bird Cleric Advisor",
 			"collector_number": "245",
@@ -2342,7 +2342,7 @@
 		},
 		{
 			"name": "RZ14 — Crocodilid Representative",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G/U}{B}",
 			"type": "Creature — Crocodile Ranger Advisor",
 			"collector_number": "246",
@@ -2352,7 +2352,7 @@
 		},
 		{
 			"name": "RZ17 — Bovidian Representative",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W/B}{R}",
 			"type": "Creature — Minotaur Warrior Advisor",
 			"collector_number": "247",
@@ -2362,7 +2362,7 @@
 		},
 		{
 			"name": "RZ20 — Ursaeic Representative",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U/R}{G}",
 			"type": "Creature — Bear Druid Advisor",
 			"collector_number": "248",
@@ -2372,7 +2372,7 @@
 		},
 		{
 			"name": "RZ10 — Outskirts Inquisitor",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Creature — Crocodile Cleric Knight",
 			"collector_number": "192",
@@ -2382,7 +2382,7 @@
 		},
 		{
 			"name": "UZ22 — Twilight Reinforcer",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Enchantment Creature — Bird Spirit Knight",
 			"collector_number": "230",
@@ -2392,7 +2392,7 @@
 		},
 		{
 			"name": "RZ13 — Decay Specialist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Creature — Bear Warlock Ranger",
 			"collector_number": "194",
@@ -2402,7 +2402,7 @@
 		},
 		{
 			"name": "UZ23 — Marshland Witch",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Creature — Crocodile Warlock",
 			"collector_number": "231",
@@ -2412,7 +2412,7 @@
 		},
 		{
 			"name": "RZ16 — Dusk-Blessed Brutalist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Bird Warrior",
 			"collector_number": "196",
@@ -2422,7 +2422,7 @@
 		},
 		{
 			"name": "UZ24 — Bovidian Brutalist",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "232",
@@ -2432,7 +2432,7 @@
 		},
 		{
 			"name": "RZ19 — Rallying Turncoat",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Elephant Druid Warrior",
 			"collector_number": "198",
@@ -2442,7 +2442,7 @@
 		},
 		{
 			"name": "UZ25 — Grizzled Rallier",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Bear Druid Warrior",
 			"collector_number": "233",
@@ -2452,7 +2452,7 @@
 		},
 		{
 			"name": "MZ11 — Ade, Heir to Nothing",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Cat Nomad Noble",
 			"collector_number": "182",
@@ -2462,7 +2462,7 @@
 		},
 		{
 			"name": "MX01 — Elefetik, Wary Watcher",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Planeswalker — Elefetik",
 			"collector_number": "1",
@@ -2472,7 +2472,7 @@
 		},
 		{
 			"name": "MZ08 — Gifts of the Bayou",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "179",
@@ -2482,7 +2482,7 @@
 		},
 		{
 			"name": "MZ04 — Leuric, Glory Profiteer",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Minotaur Rogue",
 			"collector_number": "175",
@@ -2492,7 +2492,7 @@
 		},
 		{
 			"name": "MZ05 — Aoife, the Warden Mother",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Legendary Creature — Bear Druid Shaman",
 			"collector_number": "176",
@@ -2502,7 +2502,7 @@
 		},
 		{
 			"name": "CL01 — Tranquil Cove",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "256",
@@ -2512,7 +2512,7 @@
 		},
 		{
 			"name": "CL05 — Blossoming Sands",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "260",
@@ -2522,7 +2522,7 @@
 		},
 		{
 			"name": "CL04 — Rugged Highlands",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "259",
@@ -2532,7 +2532,7 @@
 		},
 		{
 			"name": "CL03 — Bloodfell Caves",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "258",
@@ -2542,7 +2542,7 @@
 		},
 		{
 			"name": "CL02 — Dismal Backwater",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "257",
@@ -2552,7 +2552,7 @@
 		},
 		{
 			"name": "CL07 — Swiftwater Cliffs",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "262",
@@ -2562,7 +2562,7 @@
 		},
 		{
 			"name": "CL08 — Jungle Hollow",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "263",
@@ -2572,7 +2572,7 @@
 		},
 		{
 			"name": "CL09 — Wind-scarred Crag",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "264",
@@ -2582,7 +2582,7 @@
 		},
 		{
 			"name": "CL10 — Thornwood Falls",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "265",
@@ -2592,7 +2592,7 @@
 		},
 		{
 			"name": "Elephant Soldier",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Elephant Soldier",
 			"collector_number": "4",
@@ -2602,7 +2602,7 @@
 		},
 		{
 			"name": "Weapon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
 			"collector_number": "14",
@@ -2612,7 +2612,7 @@
 		},
 		{
 			"name": "Blessing",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Enchantment — Aura",
 			"collector_number": "1",
@@ -2622,7 +2622,7 @@
 		},
 		{
 			"name": "MZ09 — Bloodboiling Retribution",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Enchantment",
 			"collector_number": "180",
@@ -2632,7 +2632,7 @@
 		},
 		{
 			"name": "MZ10 — Rhythms of the World",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Enchantment",
 			"collector_number": "181",
@@ -2642,7 +2642,7 @@
 		},
 		{
 			"name": "MZ12 — Ways of the Wanderers",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "183",
@@ -2652,7 +2652,7 @@
 		},
 		{
 			"name": "RZ24 — The Path of Promise",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "202",
@@ -2662,7 +2662,7 @@
 		},
 		{
 			"name": "RZ25 — The Wild's First Whisper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "203",
@@ -2672,7 +2672,7 @@
 		},
 		{
 			"name": "RZ26 — Mighty Strike",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Sorcery",
 			"collector_number": "204",
@@ -2682,7 +2682,7 @@
 		},
 		{
 			"name": "RZ27 — Blessings of Moon and Star",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "205",
@@ -2692,7 +2692,7 @@
 		},
 		{
 			"name": "RZ28 — Riverbound Surge",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "206",
@@ -2702,7 +2702,7 @@
 		},
 		{
 			"name": "RZ29 — Shared Earnings",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Instant",
 			"collector_number": "207",
@@ -2712,7 +2712,7 @@
 		},
 		{
 			"name": "RZ30 — Roar of the Wilds",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Instant",
 			"collector_number": "208",
@@ -2722,7 +2722,7 @@
 		},
 		{
 			"name": "ML01 — _, Imperial Capital",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Town",
 			"collector_number": "266",
@@ -2732,7 +2732,7 @@
 		},
 		{
 			"name": "MA01 — The Book of Names",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Tome",
 			"collector_number": "255",
@@ -2742,7 +2742,7 @@
 		},
 		{
 			"name": "Weapon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
 			"collector_number": "15",
@@ -2752,7 +2752,7 @@
 		},
 		{
 			"name": "Weapon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
 			"collector_number": "16",
@@ -2762,7 +2762,7 @@
 		},
 		{
 			"name": "Crocodile Assassin",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Crocodile",
 			"collector_number": "7",
@@ -2772,7 +2772,7 @@
 		},
 		{
 			"name": "Food",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
 			"collector_number": "12",
@@ -2782,7 +2782,7 @@
 		},
 		{
 			"name": "Treasure",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
 			"collector_number": "13",
@@ -2792,7 +2792,7 @@
 		},
 		{
 			"name": "Minotaur Warrior",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Minotaur Warrior",
 			"collector_number": "9",
@@ -2802,7 +2802,7 @@
 		},
 		{
 			"name": "Bird Cleric",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Bird Cleric",
 			"collector_number": "5",
@@ -2812,7 +2812,7 @@
 		},
 		{
 			"name": "Elemental",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "2",
@@ -2822,7 +2822,7 @@
 		},
 		{
 			"name": "Clue",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
 			"collector_number": "11",
@@ -2832,7 +2832,7 @@
 		},
 		{
 			"name": "Elemental",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "8",
@@ -2842,7 +2842,7 @@
 		},
 		{
 			"name": "Shrine",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "3",
@@ -2852,7 +2852,7 @@
 		},
 		{
 			"name": "Bear Druid",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Bear Druid",
 			"collector_number": "10",
@@ -2862,287 +2862,335 @@
 		},
 		{
 			"name": "Spirit Illusion",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit Illusion",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/6_Spirit Illusion.jpg"
 			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/272_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/273_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/274_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/275_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://BluePhoenix234.github.io/sets/FRT-files/img/276_Forest.jpg"
+			}
 		}
 	]
 
-[rare(1)]
-	5 RU03 — Mind-Focused Warden
-	5 RW01 — Front-Legion Surveyor
-	5 RW02 — Bishop of Persistence
-	5 RW03 — Stalwart Representative
-	5 RW04 — Gracious Wanderer
-	5 RW05 — Might of Faith
-	5 RW06 — Twilight Cleansing
-	5 RZ23 — The Paths of the Rivers
-	5 RU01 — Sacred Shrine Mason
-	5 RU02 — Riverbound Seer
-	5 RU04 — Pathbound Mystic
-	5 RU05 — Beckon the Starlight Forms
-	5 RU06 — Channeling of Moonlight
-	5 RB01 — Scaled Dusk-Blade
-	5 RB02 — Priest of the Damned
-	5 RB03 — Ambitious Saboteur
-	5 RB04 — Lone-Wander Resurrector
-	5 RB05 — Twilight Reckoning
-	5 RB06 — Skills of the Shadowed
-	5 RZ07 — Shine-Horn Lieutenant
-	5 RR01 — Blaze-Wield Bandit
-	5 RR02 — Wildfire Tamer
-	5 RR03 — Rage-Legion Brute
-	5 RR04 — Virtuous Vagabond
-	5 RR05 — Desperate Assault
-	5 RR06 — Gold and Glory
-	5 RZ22 — First Dance of Twilight
-	5 RG01 — Grovebound Tender
-	5 RG02 —Trumpeting Captain
-	5 RG03 — Lurking Huntkeeper
-	5 RG04 — Far-Wander Ranger
-	5 RG05 — Blessings of Strength
-	5 RG06 — Primal Summons
-	5 RZ21 — Rise of the Stampedes
-	5 MW01 — Bask in Glory
-	5 MZ02 — Quirrellus, Prophet of the Phases
-	5 MU01 — Phasebound Emergence
-	5 MZ07 — Rites of Twilight
-	5 MB01 — Imperial Shadowhand
-	5 MZ06 — Might of the Elephon
-	5 MR01 — Tactical Gamble
-	5 MZ03 — Tenoc, Huntcaller
-	5 MG01 — Grovekeeper Monument
-	5 MZ01 — Neurevin, Herald of the Legions
-	5 RZ06 — Emnian, Legion Commander
-	5 RZ01 — Dusk-Veiled Professional
-	5 RZ15 — Ellevena, Rambunctious Heir
-	5 RZ02 — Wild-Surge Beckoner
-	5 RZ09 — Tanus, Eye of the Heavens
-	5 RZ03 — Duskrite Priest
-	5 RZ18 — Cian, Earth Whisperer
-	5 RZ12 — Oremen, Wild-Keeper
-	5 RZ04 — Garrison-Legion Quatemaster
-	5 RZ05 — Clever Skywatcher
-	5 RZ08 — Elephon Representative
-	5 RZ11 — Strixan Representative
-	5 RZ14 — Crocodilid Representative
-	5 RZ17 — Bovidian Representative
-	5 RZ20 — Ursaeic Representative
-	5 RZ10 — Outskirts Inquisitor
-	5 RZ13 — Decay Specialist
-	5 RZ16 — Dusk-Blessed Brutalist
-	5 RZ19 — Rallying Turncoat
-	5 MZ11 — Ade, Heir to Nothing
-	5 MX01 — Elefetik, Wary Watcher
-	5 MZ08 — Gifts of the Bayou
-	5 MZ04 — Leuric, Glory Profiteer
-	5 MZ05 — Aoife, the Warden Mother
-	5 MZ09 — Bloodboiling Retribution
-	5 MZ10 — Rhythms of the World
-	5 MZ12 — Ways of the Wanderers
-	5 RZ24 — The Path of Promise
-	5 RZ25 — The Wild's First Whisper
-	5 RZ26 — Mighty Strike
-	5 RZ27 — Blessings of Moon and Star
-	5 RZ28 — Riverbound Surge
-	5 RZ29 — Shared Earnings
-	5 RZ30 — Roar of the Wilds
-	5 ML01 — _, Imperial Capital
-	5 MA01 — The Book of Names
-[uncommon(3)]
-	5 UW01 — Solid-Hoof Veteran
-	5 UW02 — Elephon Frontliner
-	5 UW03 — Blasphemer Detainer
-	5 UW04 — Brightlight Paladin
-	5 UW05 — Great-Horn Knight
-	5 UW06 — Pride-Heart Lieutenant
-	5 UW07 — Righteous Restoration
-	5 UW08 — Rallier's Boon
-	5 UW09 — Honorable Exile
-	5 UZ19 — GUR Arcun 1
-	5 UZ20 — GUR Arcun 2
-	5 UU01 — Bright-Grove Watcher
-	5 UU02 — River-Cloak Thief
-	5 UU03 — Stream-Warden Guide
-	5 UU04 — Dusk-Touched Pacifier
-	5 UU05 — Current-Wield Warden
-	5 UU06 — Mind-Wander Acolyte
-	5 UU07 — Enshrinement
-	5 UU08 — Drowned Efforts
-	5 UU09 — Ursaeic Repurposing
-	5 UZ14 — WUB Arcun 2
-	5 UZ13 — WUB Arcun 1
-	5 UB01 — Glorymarked Returner
-	5 UB02 — Tithe Enforcer
-	5 UB03 — Fear-Tuned Mauler
-	5 UB04 — Feared River-Lurker
-	5 UB05 — Night-Feather Inquisitor
-	5 UB06 — Bog-Wander Poisoner
-	5 UB07 — Pull from the Bogs
-	5 UB08 — Foul Tactics
-	5 UB09 — Fell the Blasphemer
-	5 UZ12 — RGW Arcun 2
-	5 UZ11 — RGW Arcun 1
-	5 UR01 — Wild Energy Apprentice
-	5 UR02 — Bovidian Barkeep
-	5 UR03 — Front-Legion Strategist
-	5 UR04 — Bold-Grove Elder
-	5 UR05 — Range-Legion Flanker
-	5 UR06 — Wander-Heart Mercenary
-	5 UR07 — Forced Conscription
-	5 UR08 — Fury of the Desperate
-	5 UR09 — Natural Pushback
-	5 UZ18 — RWB Arcun 2
-	5 UZ17 — RWB Arcun 1
-	5 UG01 — Elephon Vanguard
-	5 UG02 — Marshland Trawler
-	5 UG03 — Grovetown Mentor
-	5 UG04 — Equalizing Hunter
-	5 UG05 — Might-Legion Champion
-	5 UG06 — Wild-Wander Shepherd
-	5 UG07 — Chart the Game Trails
-	5 UG08 — Fostered Might
-	5 UG09 — Stampede of the Legion
-	5 UZ15 — BGU Arcun 1
-	5 UZ16 — BGU Arcun 2
-	5 UZ21 — Elephon Charger
-	5 UZ05 — WB Arcun 1
-	5 UZ01 — UB Arcun 1
-	5 UZ02 — UB Arcun 2
-	5 UZ04 — RG Arcun 2
-	5 UZ10 — GU Arcun 2
-	5 UZ06 — WB Arcun 2
-	5 UZ08 — Battleground Improviser
-	5 UZ03 — RG Arcun 1
-	5 UZ07 — Support of the Legion
-	5 UZ09 — GU Arcun 1
-	5 UZ26 — The Might of Tanabon
-	5 UZ27 — The Trials of Saint Mornus
-	5 UZ28 — The First Hunt of Roag
-	5 UZ29 — The Tale of Ol Barrot
-	5 UZ30 — The Teachings of Aodhan
-	5 UL01 — Mighty Fort Town
-	5 UL02 — Bustling Monastery
-	5 UL03 — Quaint Marsh Village
-	5 UL04 — Bannerless Town
-	5 UL05 — Woodland Hamlet
-	5 UZ22 — Twilight Reinforcer
-	5 UZ23 — Marshland Witch
-	5 UZ24 — Bovidian Brutalist
-	5 UZ25 — Grizzled Rallier
-[common(10)]
-	5 CL06 — Scoured Barrens
-	5 CW01 — Feathered Acolyte
-	5 CW02 — Battlefront Scrounger
-	5 CW03 — Streetwise Nomad
-	5 CW04 — Bolstered Veteran
-	5 CW05 — Horned Beligerent
-	5 CW06 — Blessings Mystic
-	5 CW07 — Undaunted Avenger
-	5 CW08 — Sturdy Advancer
-	5 CW09 — Courageous Rallier
-	5 CW10 — Holy Holding
-	5 CW11 — Nomadic Defense
-	5 CW12 —Might-Wrought Boon
-	5 CW13 — Blessed Talon Sigil
-	5 CW14 — Glorious Stampede
-	5 CW15 — Reckless Inventory
-	5 CZ01 — Frontline Rejuvinator
-	5 CZ02 — Dusktouched Seeker
-	5 CZ03 — Dagger-Bite Stalker
-	5 CZ04 — Blood-Bound Mercenaries
-	5 CU01 — Holy Site Watcher
-	5 CU02 — Clever Swiper
-	5 CU03 — Bright-Eyed Adept
-	5 CU05 — Patient Trapper
-	5 CU06 — Downpour Leviathan
-	5 CU07 — Shimmer Guard Blessing
-	5 CU08 — Rune-Carved Guardian
-	5 CU09 — Graceful Intervention
-	5 CU10 — Guardian Instinct
-	5 CU11 — Jaw-Lock Glyph (Croc)
-	5 CU12 — Wayfinder's Meditation
-	5 CU13 — Marsh Sifting
-	5 CU14 — Holy Gust
-	5 CU15 — River-Hunter's Cloak
-	5 CZ05 — Grove Warden Rager
-	5 CZ06 — Tusked Reinforcements
-	5 CZ07 — Night-Veiled Font
-	5 CZ08 — Marsh-Lurker Ambush
-	5 CB01 — Ruin-Wander Watch
-	5 CB02 — Wound Wielder
-	5 CB03 — Muck-Wield Stalker
-	5 CB05 — Night-Blessed Inquisitor
-	5 CB04 — Strixan Siphon Priest
-	5 CB06 — Battlefield Finisher
-	5 CB07 — Greedy Poacher
-	5 CB08 — Death-Wreathed Terror
-	5 CB09 — Horn Bore
-	5 CB10 — Purge the Heresy
-	5 CB11 — Death Roll
-	5 CB12 — Wander-Rite Offering
-	5 CB13 — Call the Once Blessed
-	5 CB14 — Dark River Hiss
-	5 CB15 — Might-Marauder Helm
-	5 CZ09 — Marauder's Fee
-	5 CZ10 — Nature Surge
-	5 CZ12 — Night-Tuned Etchings
-	5 CZ11 — Night-Wind Spirits
-	5 CR01 — Eager-Horn Rookie
-	5 CR02 — Front-Wander Scout
-	5 CR03 — Rune-Charged Striker
-	5 CR04 — Dauntless Recruits
-	5 CR05 — Frenzy-Kin Reinforcer
-	5 CR06 — Rune-Guard Sharpshooter
-	5 CR07 — Battlefield Pilferer
-	5 CR08 — Rage-Legion Charger
-	5 CR09 — Enraged Blast
-	5 CR10 — Cleanse with Fire
-	5 CR11 — Trample the Opposition
-	5 CR12 — Trade In
-	5 CR13 — Claw-Striker Bracers
-	5 CR14 — Distraction Strike
-	5 CR15 — Unstoppable Force
-	5 CZ14 — Grove-Guard Sigils
-	5 CZ13 — High-Eyed Spirits
-	5 CZ16 — Battle-Tithe Priest
-	5 CZ15 — Vigor-Cloak Spirits
-	5 CG01 — Bright-Tusk Recruit
-	5 CG02 —Protective Charger
-	5 CG03 — Far-Wander Shaman
-	5 CG04 — Brighthollow Guard
-	5 CG05 — Marshland Hunter
-	5 CG06 — Watchful Game Tracker
-	5 CG07 — Mighty Deserter
-	5 CG08 — Surge-Seeker Wurm
-	5 CG09 — Venemous Repurpose (Bear)
-	5 CG10 — Surge of Might
-	5 CG11 — Rally-Legion Requisition
-	5 CG12 — Stomper-Legion Hammer
-	5 CG13 — Prepare an Ambush
-	5 CG14 — Nurturing Nature
-	5 CG15 — Feline Instinct
-	5 CZ18 — Raid Lieutenant
-	5 CZ18 — Quick-Arm Spirits
-	5 CZ20 — Wilderness Cultivator
-	5 CZ19 — Wild-Might Spirits
-	5 CU04 — Mind-Honed Mentor
-	5 CA02 — Strixan Banner
-	5 CA01 — Elephon Banner
-	5 CA03 — Crocdilid Banner
-	5 CA04 — Bovidian Banner
-	5 CA05 — Ursaeic Banner
-	5 CA06 — Felidian Guidestone
-	5 CL01 — Tranquil Cove
-	5 CL05 — Blossoming Sands
-	5 CL04 — Rugged Highlands
-	5 CL03 — Bloodfell Caves
-	5 CL02 — Dismal Backwater
-	5 CL07 — Swiftwater Cliffs
-	5 CL08 — Jungle Hollow
-	5 CL09 — Wind-scarred Crag
-	5 CL10 — Thornwood Falls
+[cube(15)]
+	1 CL06 — Scoured Barrens
+	1 CW01 — Feathered Acolyte
+	1 CW02 — Battlefront Scrounger
+	1 CW03 — Streetwise Nomad
+	1 CW04 — Bolstered Veteran
+	1 CW05 — Horned Beligerent
+	1 CW06 — Blessings Mystic
+	1 CW07 — Undaunted Avenger
+	1 CW08 — Sturdy Advancer
+	1 CW09 — Courageous Rallier
+	1 CW10 — Holy Holding
+	1 CW11 — Nomadic Defense
+	1 CW12 —Might-Wrought Boon
+	1 CW13 — Blessed Talon Sigil
+	1 CW14 — Glorious Stampede
+	1 CW15 — Reckless Inventory
+	1 CZ01 — Frontline Rejuvinator
+	1 CZ02 — Dusktouched Seeker
+	1 CZ03 — Dagger-Bite Stalker
+	1 CZ04 — Blood-Bound Mercenaries
+	1 CU01 — Holy Site Watcher
+	1 CU02 — Clever Swiper
+	1 CU03 — Bright-Eyed Adept
+	1 RU03 — Mind-Focused Warden
+	1 CU05 — Patient Trapper
+	1 CU06 — Downpour Leviathan
+	1 CU07 — Shimmer Guard Blessing
+	1 CU08 — Rune-Carved Guardian
+	1 CU09 — Graceful Intervention
+	1 CU10 — Guardian Instinct
+	1 CU11 — Jaw-Lock Glyph (Croc)
+	1 CU12 — Wayfinder's Meditation
+	1 CU13 — Marsh Sifting
+	1 CU14 — Holy Gust
+	1 CU15 — River-Hunter's Cloak
+	1 CZ05 — Grove Warden Rager
+	1 CZ06 — Tusked Reinforcements
+	1 CZ07 — Night-Veiled Font
+	1 CZ08 — Marsh-Lurker Ambush
+	1 CB01 — Ruin-Wander Watch
+	1 CB02 — Wound Wielder
+	1 CB03 — Muck-Wield Stalker
+	1 CB05 — Night-Blessed Inquisitor
+	1 CB04 — Strixan Siphon Priest
+	1 CB06 — Battlefield Finisher
+	1 CB07 — Greedy Poacher
+	1 CB08 — Death-Wreathed Terror
+	1 CB09 — Horn Bore
+	1 CB10 — Purge the Heresy
+	1 CB11 — Death Roll
+	1 CB12 — Wander-Rite Offering
+	1 CB13 — Call the Once Blessed
+	1 CB14 — Dark River Hiss
+	1 CB15 — Might-Marauder Helm
+	1 CZ09 — Marauder's Fee
+	1 CZ10 — Nature Surge
+	1 CZ12 — Night-Tuned Etchings
+	1 CZ11 — Night-Wind Spirits
+	1 CR01 — Eager-Horn Rookie
+	1 CR02 — Front-Wander Scout
+	1 CR03 — Rune-Charged Striker
+	1 CR04 — Dauntless Recruits
+	1 CR05 — Frenzy-Kin Reinforcer
+	1 CR06 — Rune-Guard Sharpshooter
+	1 CR07 — Battlefield Pilferer
+	1 CR08 — Rage-Legion Charger
+	1 CR09 — Enraged Blast
+	1 CR10 — Cleanse with Fire
+	1 CR11 — Trample the Opposition
+	1 CR12 — Trade In
+	1 CR13 — Claw-Striker Bracers
+	1 CR14 — Distraction Strike
+	1 CR15 — Unstoppable Force
+	1 CZ14 — Grove-Guard Sigils
+	1 CZ13 — High-Eyed Spirits
+	1 CZ16 — Battle-Tithe Priest
+	1 CZ15 — Vigor-Cloak Spirits
+	1 CG01 — Bright-Tusk Recruit
+	1 CG02 —Protective Charger
+	1 CG03 — Far-Wander Shaman
+	1 CG04 — Brighthollow Guard
+	1 CG05 — Marshland Hunter
+	1 CG06 — Watchful Game Tracker
+	1 CG07 — Mighty Deserter
+	1 CG08 — Surge-Seeker Wurm
+	1 CG09 — Venemous Repurpose (Bear)
+	1 CG10 — Surge of Might
+	1 CG11 — Rally-Legion Requisition
+	1 CG12 — Stomper-Legion Hammer
+	1 CG13 — Prepare an Ambush
+	1 CG14 — Nurturing Nature
+	1 CG15 — Feline Instinct
+	1 CZ18 — Raid Lieutenant
+	1 CZ18 — Quick-Arm Spirits
+	1 CZ20 — Wilderness Cultivator
+	1 CZ19 — Wild-Might Spirits
+	1 UW01 — Solid-Hoof Veteran
+	1 UW02 — Elephon Frontliner
+	1 UW03 — Blasphemer Detainer
+	1 UW04 — Brightlight Paladin
+	1 UW05 — Great-Horn Knight
+	1 UW06 — Pride-Heart Lieutenant
+	1 UW07 — Righteous Restoration
+	1 UW08 — Rallier's Boon
+	1 UW09 — Honorable Exile
+	1 UZ19 — GUR Arcun 1
+	1 UZ20 — GUR Arcun 2
+	1 UU01 — Bright-Grove Watcher
+	1 UU02 — River-Cloak Thief
+	1 UU03 — Stream-Warden Guide
+	1 UU04 — Dusk-Touched Pacifier
+	1 UU05 — Current-Wield Warden
+	1 UU06 — Mind-Wander Acolyte
+	1 UU07 — Enshrinement
+	1 UU08 — Drowned Efforts
+	1 UU09 — Ursaeic Repurposing
+	1 UZ14 — WUB Arcun 2
+	1 UZ13 — WUB Arcun 1
+	1 UB01 — Glorymarked Returner
+	1 UB02 — Tithe Enforcer
+	1 UB03 — Fear-Tuned Mauler
+	1 UB04 — Feared River-Lurker
+	1 UB05 — Night-Feather Inquisitor
+	1 UB06 — Bog-Wander Poisoner
+	1 UB07 — Pull from the Bogs
+	1 UB08 — Foul Tactics
+	1 UB09 — Fell the Blasphemer
+	1 UZ12 — RGW Arcun 2
+	1 UZ11 — RGW Arcun 1
+	1 UR01 — Wild Energy Apprentice
+	1 UR02 — Bovidian Barkeep
+	1 UR03 — Front-Legion Strategist
+	1 UR04 — Bold-Grove Elder
+	1 UR05 — Range-Legion Flanker
+	1 UR06 — Wander-Heart Mercenary
+	1 UR07 — Forced Conscription
+	1 UR08 — Fury of the Desperate
+	1 UR09 — Natural Pushback
+	1 UZ18 — RWB Arcun 2
+	1 UZ17 — RWB Arcun 1
+	1 UG01 — Elephon Vanguard
+	1 UG02 — Marshland Trawler
+	1 UG03 — Grovetown Mentor
+	1 UG04 — Equalizing Hunter
+	1 UG05 — Might-Legion Champion
+	1 UG06 — Wild-Wander Shepherd
+	1 UG07 — Chart the Game Trails
+	1 UG08 — Fostered Might
+	1 UG09 — Stampede of the Legion
+	1 UZ15 — BGU Arcun 1
+	1 UZ16 — BGU Arcun 2
+	1 RW01 — Front-Legion Surveyor
+	1 RW02 — Bishop of Persistence
+	1 RW03 — Stalwart Representative
+	1 RW04 — Gracious Wanderer
+	1 RW05 — Might of Faith
+	1 RW06 — Twilight Cleansing
+	1 RZ23 — The Paths of the Rivers
+	1 RU01 — Sacred Shrine Mason
+	1 RU02 — Riverbound Seer
+	1 CU04 — Mind-Honed Mentor
+	1 RU04 — Pathbound Mystic
+	1 RU05 — Beckon the Starlight Forms
+	1 RU06 — Channeling of Moonlight
+	1 UZ21 — Elephon Charger
+	1 RB01 — Scaled Dusk-Blade
+	1 RB02 — Priest of the Damned
+	1 RB03 — Ambitious Saboteur
+	1 RB04 — Lone-Wander Resurrector
+	1 RB05 — Twilight Reckoning
+	1 RB06 — Skills of the Shadowed
+	1 RZ07 — Shine-Horn Lieutenant
+	1 RR01 — Blaze-Wield Bandit
+	1 RR02 — Wildfire Tamer
+	1 RR03 — Rage-Legion Brute
+	1 RR04 — Virtuous Vagabond
+	1 RR05 — Desperate Assault
+	1 RR06 — Gold and Glory
+	1 RZ22 — First Dance of Twilight
+	1 RG01 — Grovebound Tender
+	1 RG02 —Trumpeting Captain
+	1 RG03 — Lurking Huntkeeper
+	1 RG04 — Far-Wander Ranger
+	1 RG05 — Blessings of Strength
+	1 RG06 — Primal Summons
+	1 RZ21 — Rise of the Stampedes
+	1 MW01 — Bask in Glory
+	1 MZ02 — Quirrellus, Prophet of the Phases
+	1 MU01 — Phasebound Emergence
+	1 MZ07 — Rites of Twilight
+	1 MB01 — Imperial Shadowhand
+	1 MZ06 — Might of the Elephon
+	1 MR01 — Tactical Gamble
+	1 MZ03 — Tenoc, Huntcaller
+	1 MG01 — Grovekeeper Monument
+	1 MZ01 — Neurevin, Herald of the Legions
+	1 UZ05 — WB Arcun 1
+	1 UZ01 — UB Arcun 1
+	1 UZ02 — UB Arcun 2
+	1 UZ04 — RG Arcun 2
+	1 UZ10 — GU Arcun 2
+	1 UZ06 — WB Arcun 2
+	1 UZ08 — Battleground Improviser
+	1 UZ03 — RG Arcun 1
+	1 UZ07 — Support of the Legion
+	1 UZ09 — GU Arcun 1
+	1 RZ06 — Emnian, Legion Commander
+	1 RZ01 — Dusk-Veiled Professional
+	1 RZ15 — Ellevena, Rambunctious Heir
+	1 RZ02 — Wild-Surge Beckoner
+	1 RZ09 — Tanus, Eye of the Heavens
+	1 RZ03 — Duskrite Priest
+	1 RZ18 — Cian, Earth Whisperer
+	1 RZ12 — Oremen, Wild-Keeper
+	1 RZ04 — Garrison-Legion Quatemaster
+	1 RZ05 — Clever Skywatcher
+	1 CA02 — Strixan Banner
+	1 CA01 — Elephon Banner
+	1 CA03 — Crocdilid Banner
+	1 CA04 — Bovidian Banner
+	1 CA05 — Ursaeic Banner
+	1 UZ26 — The Might of Tanabon
+	1 UZ27 — The Trials of Saint Mornus
+	1 UZ28 — The First Hunt of Roag
+	1 UZ29 — The Tale of Ol Barrot
+	1 UZ30 — The Teachings of Aodhan
+	1 CA06 — Felidian Guidestone
+	1 UL01 — Mighty Fort Town
+	1 UL02 — Bustling Monastery
+	1 UL03 — Quaint Marsh Village
+	1 UL04 — Bannerless Town
+	1 UL05 — Woodland Hamlet
+	1 RZ08 — Elephon Representative
+	1 RZ11 — Strixan Representative
+	1 RZ14 — Crocodilid Representative
+	1 RZ17 — Bovidian Representative
+	1 RZ20 — Ursaeic Representative
+	1 RZ10 — Outskirts Inquisitor
+	1 UZ22 — Twilight Reinforcer
+	1 RZ13 — Decay Specialist
+	1 UZ23 — Marshland Witch
+	1 RZ16 — Dusk-Blessed Brutalist
+	1 UZ24 — Bovidian Brutalist
+	1 RZ19 — Rallying Turncoat
+	1 UZ25 — Grizzled Rallier
+	1 MZ11 — Ade, Heir to Nothing
+	1 MX01 — Elefetik, Wary Watcher
+	1 MZ08 — Gifts of the Bayou
+	1 MZ04 — Leuric, Glory Profiteer
+	1 MZ05 — Aoife, the Warden Mother
+	1 CL01 — Tranquil Cove
+	1 CL05 — Blossoming Sands
+	1 CL04 — Rugged Highlands
+	1 CL03 — Bloodfell Caves
+	1 CL02 — Dismal Backwater
+	1 CL07 — Swiftwater Cliffs
+	1 CL08 — Jungle Hollow
+	1 CL09 — Wind-scarred Crag
+	1 CL10 — Thornwood Falls
+	1 MZ09 — Bloodboiling Retribution
+	1 MZ10 — Rhythms of the World
+	1 MZ12 — Ways of the Wanderers
+	1 RZ24 — The Path of Promise
+	1 RZ25 — The Wild's First Whisper
+	1 RZ26 — Mighty Strike
+	1 RZ27 — Blessings of Moon and Star
+	1 RZ28 — Riverbound Surge
+	1 RZ29 — Shared Earnings
+	1 RZ30 — Roar of the Wilds
+	1 ML01 — _, Imperial Capital
+	1 MA01 — The Book of Names
