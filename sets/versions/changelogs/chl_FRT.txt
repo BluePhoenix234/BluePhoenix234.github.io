@@ -1,4 +1,588 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+CL06 — Scoured Barrens
+
+CW01 — Feathered Acolyte
+
+CW02 — Battlefront Scrounger
+
+CW03 — Streetwise Nomad
+
+CW04 — Bolstered Veteran
+
+CW05 — Horned Beligerent
+
+CW06 — Blessings Mystic
+
+CW07 — Undaunted Avenger
+
+CW08 — Sturdy Advancer
+
+CW09 — Courageous Rallier
+
+CW10 — Holy Holding
+
+CW11 — Nomadic Defense
+
+CW12 —Might-Wrought Boon
+
+CW13 — Blessed Talon Sigil
+
+CW14 — Glorious Stampede
+
+CW15 — Reckless Inventory
+
+CZ01 — Frontline Rejuvinator
+
+CZ02 — Dusktouched Seeker
+
+CZ03 — Dagger-Bite Stalker
+
+CZ04 — Blood-Bound Mercenaries
+
+CU01 — Holy Site Watcher
+
+CU02 — Clever Swiper
+
+CU03 — Bright-Eyed Adept
+
+RU03 — Mind-Focused Warden
+
+CU05 — Patient Trapper
+
+CU06 — Downpour Leviathan
+
+CU07 — Shimmer Guard Blessing
+
+CU08 — Rune-Carved Guardian
+
+CU09 — Graceful Intervention
+
+CU10 — Guardian Instinct
+
+CU11 — Jaw-Lock Glyph (Croc)
+
+CU12 — Wayfinder's Meditation
+
+CU13 — Marsh Sifting
+
+CU14 — Holy Gust
+
+CU15 — River-Hunter's Cloak
+
+CZ05 — Grove Warden Rager
+
+CZ06 — Tusked Reinforcements
+
+CZ07 — Night-Veiled Font
+
+CZ08 — Marsh-Lurker Ambush
+
+CB01 — Ruin-Wander Watch
+
+CB02 — Wound Wielder
+
+CB03 — Muck-Wield Stalker
+
+CB05 — Night-Blessed Inquisitor
+
+CB04 — Strixan Siphon Priest
+
+CB06 — Battlefield Finisher
+
+CB07 — Greedy Poacher
+
+CB08 — Death-Wreathed Terror
+
+CB09 — Horn Bore
+
+CB10 — Purge the Heresy
+
+CB11 — Death Roll
+
+CB12 — Wander-Rite Offering
+
+CB13 — Call the Once Blessed
+
+CB14 — Dark River Hiss
+
+CB15 — Might-Marauder Helm
+
+CZ09 — Marauder's Fee
+
+CZ10 — Nature Surge
+
+CZ12 — Night-Tuned Etchings
+
+CZ11 — Night-Wind Spirits
+
+CR01 — Eager-Horn Rookie
+
+CR02 — Front-Wander Scout
+
+CR03 — Rune-Charged Striker
+
+CR04 — Dauntless Recruits
+
+CR05 — Frenzy-Kin Reinforcer
+
+CR06 — Rune-Guard Sharpshooter
+
+CR07 — Battlefield Pilferer
+
+CR08 — Rage-Legion Charger
+
+CR09 — Enraged Blast
+
+CR10 — Cleanse with Fire
+
+CR11 — Trample the Opposition
+
+CR12 — Trade In
+
+CR13 — Claw-Striker Bracers
+
+CR14 — Distraction Strike
+
+CR15 — Unstoppable Force
+
+CZ14 — Grove-Guard Sigils
+
+CZ13 — High-Eyed Spirits
+
+CZ16 — Battle-Tithe Priest
+
+CZ15 — Vigor-Cloak Spirits
+
+CG01 — Bright-Tusk Recruit
+
+CG02 —Protective Charger
+
+CG03 — Far-Wander Shaman
+
+CG04 — Brighthollow Guard
+
+CG05 — Marshland Hunter
+
+CG06 — Watchful Game Tracker
+
+CG07 — Mighty Deserter
+
+CG08 — Surge-Seeker Wurm
+
+CG09 — Venemous Repurpose (Bear)
+
+CG10 — Surge of Might
+
+CG11 — Rally-Legion Requisition
+
+CG12 — Stomper-Legion Hammer
+
+CG13 — Prepare an Ambush
+
+CG14 — Nurturing Nature
+
+CG15 — Feline Instinct
+
+CZ18 — Raid Lieutenant
+
+CZ18 — Quick-Arm Spirits
+
+CZ20 — Wilderness Cultivator
+
+CZ19 — Wild-Might Spirits
+
+UW01 — Solid-Hoof Veteran
+
+UW02 — Elephon Frontliner
+
+UW03 — Blasphemer Detainer
+
+UW04 — Brightlight Paladin
+
+UW05 — Great-Horn Knight
+
+UW06 — Pride-Heart Lieutenant
+
+UW07 — Righteous Restoration
+
+UW08 — Rallier's Boon
+
+UW09 — Honorable Exile
+
+UZ19 — GUR Arcun 1
+
+UZ20 — GUR Arcun 2
+
+UU01 — Bright-Grove Watcher
+
+UU02 — River-Cloak Thief
+
+UU03 — Stream-Warden Guide
+
+UU04 — Dusk-Touched Pacifier
+
+UU05 — Current-Wield Warden
+
+UU06 — Mind-Wander Acolyte
+
+UU07 — Enshrinement
+
+UU08 — Drowned Efforts
+
+UU09 — Ursaeic Repurposing
+
+UZ14 — WUB Arcun 2
+
+UZ13 — WUB Arcun 1
+
+UB01 — Glorymarked Returner
+
+UB02 — Tithe Enforcer
+
+UB03 — Fear-Tuned Mauler
+
+UB04 — Feared River-Lurker
+
+UB05 — Night-Feather Inquisitor
+
+UB06 — Bog-Wander Poisoner
+
+UB07 — Pull from the Bogs
+
+UB08 — Foul Tactics
+
+UB09 — Fell the Blasphemer
+
+UZ12 — RGW Arcun 2
+
+UZ11 — RGW Arcun 1
+
+UR01 — Wild Energy Apprentice
+
+UR02 — Bovidian Barkeep
+
+UR03 — Front-Legion Strategist
+
+UR04 — Bold-Grove Elder
+
+UR05 — Range-Legion Flanker
+
+UR06 — Wander-Heart Mercenary
+
+UR07 — Forced Conscription
+
+UR08 — Fury of the Desperate
+
+UR09 — Natural Pushback
+
+UZ18 — RWB Arcun 2
+
+UZ17 — RWB Arcun 1
+
+UG01 — Elephon Vanguard
+
+UG02 — Marshland Trawler
+
+UG03 — Grovetown Mentor
+
+UG04 — Equalizing Hunter
+
+UG05 — Might-Legion Champion
+
+UG06 — Wild-Wander Shepherd
+
+UG07 — Chart the Game Trails
+
+UG08 — Fostered Might
+
+UG09 — Stampede of the Legion
+
+UZ15 — BGU Arcun 1
+
+UZ16 — BGU Arcun 2
+
+RW01 — Front-Legion Surveyor
+
+RW02 — Bishop of Persistence
+
+RW03 — Stalwart Representative
+
+RW04 — Gracious Wanderer
+
+RW05 — Might of Faith
+
+RW06 — Twilight Cleansing
+
+RZ23 — The Paths of the Rivers
+
+RU01 — Sacred Shrine Mason
+
+RU02 — Riverbound Seer
+
+CU04 — Mind-Honed Mentor
+
+RU04 — Pathbound Mystic
+
+RU05 — Beckon the Starlight Forms
+
+RU06 — Channeling of Moonlight
+
+UZ21 — Elephon Charger
+
+RB01 — Scaled Dusk-Blade
+
+RB02 — Priest of the Damned
+
+RB03 — Ambitious Saboteur
+
+RB04 — Lone-Wander Resurrector
+
+RB05 — Twilight Reckoning
+
+RB06 — Skills of the Shadowed
+
+RZ07 — Shine-Horn Lieutenant
+
+RR01 — Blaze-Wield Bandit
+
+RR02 — Wildfire Tamer
+
+RR03 — Rage-Legion Brute
+
+RR04 — Virtuous Vagabond
+
+RR05 — Desperate Assault
+
+RR06 — Gold and Glory
+
+RZ22 — First Dance of Twilight
+
+RG01 — Grovebound Tender
+
+RG02 —Trumpeting Captain
+
+RG03 — Lurking Huntkeeper
+
+RG04 — Far-Wander Ranger
+
+RG05 — Blessings of Strength
+
+RG06 — Primal Summons
+
+RZ21 — Rise of the Stampedes
+
+MW01 — Bask in Glory
+
+MZ02 — Quirrellus, Prophet of the Phases
+
+MU01 — Phasebound Emergence
+
+MZ07 — Rites of Twilight
+
+MB01 — Imperial Shadowhand
+
+MZ06 — Might of the Elephon
+
+MR01 — Tactical Gamble
+
+MZ03 — Tenoc, Huntcaller
+
+MG01 — Grovekeeper Monument
+
+MZ01 — Neurevin, Herald of the Legions
+
+UZ05 — WB Arcun 1
+
+UZ01 — UB Arcun 1
+
+UZ02 — UB Arcun 2
+
+UZ04 — RG Arcun 2
+
+UZ10 — GU Arcun 2
+
+UZ06 — WB Arcun 2
+
+UZ08 — Battleground Improviser
+
+UZ03 — RG Arcun 1
+
+UZ07 — Support of the Legion
+
+UZ09 — GU Arcun 1
+
+RZ06 — Emnian, Legion Commander
+
+RZ01 — Dusk-Veiled Professional
+
+RZ15 — Ellevena, Rambunctious Heir
+
+RZ02 — Wild-Surge Beckoner
+
+RZ09 — Tanus, Eye of the Heavens
+
+RZ03 — Duskrite Priest
+
+RZ18 — Cian, Earth Whisperer
+
+RZ12 — Oremen, Wild-Keeper
+
+RZ04 — Garrison-Legion Quatemaster
+
+RZ05 — Clever Skywatcher
+
+CA02 — Strixan Banner
+
+CA01 — Elephon Banner
+
+CA03 — Crocdilid Banner
+
+CA04 — Bovidian Banner
+
+CA05 — Ursaeic Banner
+
+UZ26 — The Might of Tanabon
+
+UZ27 — The Trials of Saint Mornus
+
+UZ28 — The First Hunt of Roag
+
+UZ29 — The Tale of Ol Barrot
+
+UZ30 — The Teachings of Aodhan
+
+CA06 — Felidian Guidestone
+
+UL01 — Mighty Fort Town
+
+UL02 — Bustling Monastery
+
+UL03 — Quaint Marsh Village
+
+UL04 — Bannerless Town
+
+UL05 — Woodland Hamlet
+
+RZ08 — Elephon Representative
+
+RZ11 — Strixan Representative
+
+RZ14 — Crocodilid Representative
+
+RZ17 — Bovidian Representative
+rules_text: Minotaur and Warrior spells you cast cost {1} less to cast.
+{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of vigilance or menace until end of turn. => Haste
+Minotaur and Warrior spells you cast cost {1} less to cast.
+{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of vigilance or menace until end of turn.
+
+RZ20 — Ursaeic Representative
+
+RZ10 — Outskirts Inquisitor
+
+UZ22 — Twilight Reinforcer
+
+RZ13 — Decay Specialist
+
+UZ23 — Marshland Witch
+
+RZ16 — Dusk-Blessed Brutalist
+
+UZ24 — Bovidian Brutalist
+
+RZ19 — Rallying Turncoat
+
+UZ25 — Grizzled Rallier
+
+MZ11 — Ade, Heir to Nothing
+
+MX01 — Elefetik, Wary Watcher
+
+MZ08 — Gifts of the Bayou
+
+MZ04 — Leuric, Glory Profiteer
+
+MZ05 — Aoife, the Warden Mother
+
+CL01 — Tranquil Cove
+
+CL05 — Blossoming Sands
+
+CL04 — Rugged Highlands
+
+CL03 — Bloodfell Caves
+
+CL02 — Dismal Backwater
+
+CL07 — Swiftwater Cliffs
+
+CL08 — Jungle Hollow
+
+CL09 — Wind-scarred Crag
+
+CL10 — Thornwood Falls
+
+Elephant Soldier
+
+Weapon
+
+Blessing
+
+MZ09 — Bloodboiling Retribution
+
+MZ10 — Rhythms of the World
+
+MZ12 — Ways of the Wanderers
+
+RZ24 — The Path of Promise
+
+RZ25 — The Wild's First Whisper
+
+RZ26 — Mighty Strike
+
+RZ27 — Blessings of Moon and Star
+
+RZ28 — Riverbound Surge
+
+RZ29 — Shared Earnings
+
+RZ30 — Roar of the Wilds
+
+ML01 — _, Imperial Capital
+
+MA01 — The Book of Names
+
+Weapon
+
+Weapon
+
+Crocodile Assassin
+
+Food
+
+Treasure
+
+Minotaur Warrior
+
+Bird Cleric
+
+Elemental
+
+Clue
+
+Elemental
+
+Shrine
+
+Bear Druid
+
+Spirit Illusion
+
+
+VERSION 27 CHANGELOG
 ====================
 
 

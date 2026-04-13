@@ -3579,7 +3579,7 @@
         {
             "card_name": "CL06 \u2014 Scoured Barrens",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 261,
             "color_identity": "WB",
@@ -3599,7 +3599,7 @@
         {
             "card_name": "CW01 \u2014 Feathered Acolyte",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bird Cleric",
             "number": 2,
             "color_identity": "W",
@@ -3619,7 +3619,7 @@
         {
             "card_name": "CW02 \u2014 Battlefront Scrounger",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Hyena Scout",
             "number": 3,
             "color_identity": "W",
@@ -3639,7 +3639,7 @@
         {
             "card_name": "CW03 \u2014 Streetwise Nomad",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Cat Nomad",
             "number": 4,
             "color_identity": "W",
@@ -3659,7 +3659,7 @@
         {
             "card_name": "CW04 \u2014 Bolstered Veteran",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 5,
             "color_identity": "W",
@@ -3679,7 +3679,7 @@
         {
             "card_name": "CW05 \u2014 Horned Beligerent",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Minotaur Warrior",
             "number": 6,
             "color_identity": "W",
@@ -3699,7 +3699,7 @@
         {
             "card_name": "CW06 \u2014 Blessings Mystic",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Bird Wizard",
             "number": 7,
             "color_identity": "W",
@@ -3719,7 +3719,7 @@
         {
             "card_name": "CW07 \u2014 Undaunted Avenger",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Minotaur Soldier",
             "number": 8,
             "color_identity": "W",
@@ -3739,7 +3739,7 @@
         {
             "card_name": "CW08 \u2014 Sturdy Advancer",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 9,
             "color_identity": "W",
@@ -3759,7 +3759,7 @@
         {
             "card_name": "CW09 \u2014 Courageous Rallier",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 10,
             "color_identity": "W",
@@ -3779,7 +3779,7 @@
         {
             "card_name": "CW10 \u2014 Holy Holding",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment \u2013 Aura",
             "number": 11,
             "color_identity": "W",
@@ -3799,7 +3799,7 @@
         {
             "card_name": "CW11 \u2014 Nomadic Defense",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 12,
             "color_identity": "W",
@@ -3819,7 +3819,7 @@
         {
             "card_name": "CW12 \u2014Might-Wrought Boon",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment \u2013 Aura",
             "number": 13,
             "color_identity": "W",
@@ -3839,7 +3839,7 @@
         {
             "card_name": "CW13 \u2014 Blessed Talon Sigil",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact \u2013 Equipment",
             "number": 14,
             "color_identity": "W",
@@ -3859,7 +3859,7 @@
         {
             "card_name": "CW14 \u2014 Glorious Stampede",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 15,
             "color_identity": "W",
@@ -3879,7 +3879,7 @@
         {
             "card_name": "CW15 \u2014 Reckless Inventory",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 16,
             "color_identity": "W",
@@ -3899,7 +3899,7 @@
         {
             "card_name": "CZ01 \u2014 Frontline Rejuvinator",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elephant Soldier Cleric",
             "number": 157,
             "color_identity": "WRG",
@@ -3919,7 +3919,7 @@
         {
             "card_name": "CZ02 \u2014 Dusktouched Seeker",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Bird Cleric",
             "number": 158,
             "color_identity": "WUB",
@@ -3939,7 +3939,7 @@
         {
             "card_name": "CZ03 \u2014 Dagger-Bite Stalker",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Crocodile Assassin",
             "number": 159,
             "color_identity": "UBG",
@@ -3959,7 +3959,7 @@
         {
             "card_name": "CZ04 \u2014 Blood-Bound Mercenaries",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Minotaur Warrior",
             "number": 160,
             "color_identity": "WBR",
@@ -3979,7 +3979,7 @@
         {
             "card_name": "CU01 \u2014 Holy Site Watcher",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bird Scout",
             "number": 33,
             "color_identity": "U",
@@ -3999,7 +3999,7 @@
         {
             "card_name": "CU02 \u2014 Clever Swiper",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Cat Rogue",
             "number": 34,
             "color_identity": "U",
@@ -4019,7 +4019,7 @@
         {
             "card_name": "CU03 \u2014 Bright-Eyed Adept",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bear Druid",
             "number": 35,
             "color_identity": "U",
@@ -4039,7 +4039,7 @@
         {
             "card_name": "RU03 \u2014 Mind-Focused Warden",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bear Wizard",
             "number": 51,
             "color_identity": "U",
@@ -4059,7 +4059,7 @@
         {
             "card_name": "CU05 \u2014 Patient Trapper",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Crocodile Ranger",
             "number": 37,
             "color_identity": "U",
@@ -4079,7 +4079,7 @@
         {
             "card_name": "CU06 \u2014 Downpour Leviathan",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elemental Leviathan",
             "number": 38,
             "color_identity": "U",
@@ -4099,7 +4099,7 @@
         {
             "card_name": "CU07 \u2014 Shimmer Guard Blessing",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Bird Monk Illusion",
             "number": 39,
             "color_identity": "U",
@@ -4119,7 +4119,7 @@
         {
             "card_name": "CU08 \u2014 Rune-Carved Guardian",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact Creature \u2013 Bear Golem",
             "number": 40,
             "color_identity": "U",
@@ -4139,7 +4139,7 @@
         {
             "card_name": "CU09 \u2014 Graceful Intervention",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 41,
             "color_identity": "U",
@@ -4159,7 +4159,7 @@
         {
             "card_name": "CU10 \u2014 Guardian Instinct",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 42,
             "color_identity": "U",
@@ -4179,7 +4179,7 @@
         {
             "card_name": "CU11 \u2014 Jaw-Lock Glyph (Croc)",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment \u2013 Aura",
             "number": 43,
             "color_identity": "U",
@@ -4199,7 +4199,7 @@
         {
             "card_name": "CU12 \u2014 Wayfinder's Meditation",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 44,
             "color_identity": "U",
@@ -4219,7 +4219,7 @@
         {
             "card_name": "CU13 \u2014 Marsh Sifting",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 45,
             "color_identity": "U",
@@ -4239,7 +4239,7 @@
         {
             "card_name": "CU14 \u2014 Holy Gust",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 46,
             "color_identity": "U",
@@ -4259,7 +4259,7 @@
         {
             "card_name": "CU15 \u2014 River-Hunter's Cloak",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact \u2013 Equipment",
             "number": 47,
             "color_identity": "U",
@@ -4279,7 +4279,7 @@
         {
             "card_name": "CZ05 \u2014 Grove Warden Rager",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bear Berserker Druid",
             "number": 161,
             "color_identity": "URG",
@@ -4299,7 +4299,7 @@
         {
             "card_name": "CZ06 \u2014 Tusked Reinforcements",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 162,
             "color_identity": "WRG",
@@ -4319,7 +4319,7 @@
         {
             "card_name": "CZ07 \u2014 Night-Veiled Font",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 163,
             "color_identity": "WUB",
@@ -4339,7 +4339,7 @@
         {
             "card_name": "CZ08 \u2014 Marsh-Lurker Ambush",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 164,
             "color_identity": "UBG",
@@ -4359,7 +4359,7 @@
         {
             "card_name": "CB01 \u2014 Ruin-Wander Watch",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Cat Nomad Rogue",
             "number": 64,
             "color_identity": "B",
@@ -4379,7 +4379,7 @@
         {
             "card_name": "CB02 \u2014 Wound Wielder",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Minotaur Berserker",
             "number": 65,
             "color_identity": "B",
@@ -4399,7 +4399,7 @@
         {
             "card_name": "CB03 \u2014 Muck-Wield Stalker",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Crocodile Warlock",
             "number": 66,
             "color_identity": "B",
@@ -4419,7 +4419,7 @@
         {
             "card_name": "CB05 \u2014 Night-Blessed Inquisitor",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Bird Warlock",
             "number": 68,
             "color_identity": "B",
@@ -4439,7 +4439,7 @@
         {
             "card_name": "CB04 \u2014 Strixan Siphon Priest",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bird Cleric",
             "number": 67,
             "color_identity": "B",
@@ -4459,7 +4459,7 @@
         {
             "card_name": "CB06 \u2014 Battlefield Finisher",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Minotaur Warrior Assassin",
             "number": 69,
             "color_identity": "B",
@@ -4479,7 +4479,7 @@
         {
             "card_name": "CB07 \u2014 Greedy Poacher",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Crocodile Rogue Warlock",
             "number": 70,
             "color_identity": "B",
@@ -4499,7 +4499,7 @@
         {
             "card_name": "CB08 \u2014 Death-Wreathed Terror",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Nightmare Elemental",
             "number": 71,
             "color_identity": "B",
@@ -4519,7 +4519,7 @@
         {
             "card_name": "CB09 \u2014 Horn Bore",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 72,
             "color_identity": "B",
@@ -4539,7 +4539,7 @@
         {
             "card_name": "CB10 \u2014 Purge the Heresy",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 73,
             "color_identity": "B",
@@ -4559,7 +4559,7 @@
         {
             "card_name": "CB11 \u2014 Death Roll",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 74,
             "color_identity": "B",
@@ -4579,7 +4579,7 @@
         {
             "card_name": "CB12 \u2014 Wander-Rite Offering",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 75,
             "color_identity": "B",
@@ -4599,7 +4599,7 @@
         {
             "card_name": "CB13 \u2014 Call the Once Blessed",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 76,
             "color_identity": "B",
@@ -4619,7 +4619,7 @@
         {
             "card_name": "CB14 \u2014 Dark River Hiss",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 77,
             "color_identity": "B",
@@ -4639,7 +4639,7 @@
         {
             "card_name": "CB15 \u2014 Might-Marauder Helm",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact \u2013 Equipment",
             "number": 78,
             "color_identity": "B",
@@ -4659,7 +4659,7 @@
         {
             "card_name": "CZ09 \u2014 Marauder's Fee",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 165,
             "color_identity": "WBR",
@@ -4679,7 +4679,7 @@
         {
             "card_name": "CZ10 \u2014 Nature Surge",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 166,
             "color_identity": "URG",
@@ -4699,7 +4699,7 @@
         {
             "card_name": "CZ12 \u2014 Night-Tuned Etchings",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 167,
             "color_identity": "UB",
@@ -4719,7 +4719,7 @@
         {
             "card_name": "CZ11 \u2014 Night-Wind Spirits",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Bird Crocodile Spirit",
             "number": 239,
             "color_identity": "UB",
@@ -4739,7 +4739,7 @@
         {
             "card_name": "CR01 \u2014 Eager-Horn Rookie",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Minotaur Warrior",
             "number": 95,
             "color_identity": "R",
@@ -4759,7 +4759,7 @@
         {
             "card_name": "CR02 \u2014 Front-Wander Scout",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Cat Nomad Scout",
             "number": 96,
             "color_identity": "R",
@@ -4779,7 +4779,7 @@
         {
             "card_name": "CR03 \u2014 Rune-Charged Striker",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bear Warrior",
             "number": 97,
             "color_identity": "R",
@@ -4799,7 +4799,7 @@
         {
             "card_name": "CR04 \u2014 Dauntless Recruits",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 98,
             "color_identity": "R",
@@ -4819,7 +4819,7 @@
         {
             "card_name": "CR05 \u2014 Frenzy-Kin Reinforcer",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Wolverine Druid Berserker",
             "number": 99,
             "color_identity": "R",
@@ -4839,7 +4839,7 @@
         {
             "card_name": "CR06 \u2014 Rune-Guard Sharpshooter",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bear Druid Archer",
             "number": 100,
             "color_identity": "R",
@@ -4859,7 +4859,7 @@
         {
             "card_name": "CR07 \u2014 Battlefield Pilferer",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Minotaur Berserker",
             "number": 101,
             "color_identity": "R",
@@ -4879,7 +4879,7 @@
         {
             "card_name": "CR08 \u2014 Rage-Legion Charger",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elephant Berserker Soldier",
             "number": 102,
             "color_identity": "R",
@@ -4899,7 +4899,7 @@
         {
             "card_name": "CR09 \u2014 Enraged Blast",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 103,
             "color_identity": "R",
@@ -4919,7 +4919,7 @@
         {
             "card_name": "CR10 \u2014 Cleanse with Fire",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 104,
             "color_identity": "R",
@@ -4939,7 +4939,7 @@
         {
             "card_name": "CR11 \u2014 Trample the Opposition",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 105,
             "color_identity": "R",
@@ -4959,7 +4959,7 @@
         {
             "card_name": "CR12 \u2014 Trade In",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 106,
             "color_identity": "R",
@@ -4979,7 +4979,7 @@
         {
             "card_name": "CR13 \u2014 Claw-Striker Bracers",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact \u2013 Equipment",
             "number": 107,
             "color_identity": "R",
@@ -4999,7 +4999,7 @@
         {
             "card_name": "CR14 \u2014 Distraction Strike",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 108,
             "color_identity": "R",
@@ -5019,7 +5019,7 @@
         {
             "card_name": "CR15 \u2014 Unstoppable Force",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment \u2013 Aura",
             "number": 109,
             "color_identity": "R",
@@ -5039,7 +5039,7 @@
         {
             "card_name": "CZ14 \u2014 Grove-Guard Sigils",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 168,
             "color_identity": "RG",
@@ -5059,7 +5059,7 @@
         {
             "card_name": "CZ13 \u2014 High-Eyed Spirits",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Elephant Bear Spirit",
             "number": 240,
             "color_identity": "RG",
@@ -5079,7 +5079,7 @@
         {
             "card_name": "CZ16 \u2014 Battle-Tithe Priest",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bird Warrior Cleric",
             "number": 169,
             "color_identity": "WB",
@@ -5099,7 +5099,7 @@
         {
             "card_name": "CZ15 \u2014 Vigor-Cloak Spirits",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Bird Minotaur Spirit",
             "number": 241,
             "color_identity": "WB",
@@ -5119,7 +5119,7 @@
         {
             "card_name": "CG01 \u2014 Bright-Tusk Recruit",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 126,
             "color_identity": "G",
@@ -5139,7 +5139,7 @@
         {
             "card_name": "CG02 \u2014Protective Charger",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bear Warrior Ranger",
             "number": 127,
             "color_identity": "G",
@@ -5159,7 +5159,7 @@
         {
             "card_name": "CG03 \u2014 Far-Wander Shaman",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Cat Nomad Shaman",
             "number": 128,
             "color_identity": "G",
@@ -5179,7 +5179,7 @@
         {
             "card_name": "CG04 \u2014 Brighthollow Guard",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bear Druid Ranger",
             "number": 129,
             "color_identity": "G",
@@ -5199,7 +5199,7 @@
         {
             "card_name": "CG05 \u2014 Marshland Hunter",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Crocodile Ranger",
             "number": 130,
             "color_identity": "G",
@@ -5219,7 +5219,7 @@
         {
             "card_name": "CG06 \u2014 Watchful Game Tracker",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Crocodile Warrior Scout",
             "number": 131,
             "color_identity": "G",
@@ -5239,7 +5239,7 @@
         {
             "card_name": "CG07 \u2014 Mighty Deserter",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elephant Warrior",
             "number": 132,
             "color_identity": "G",
@@ -5259,7 +5259,7 @@
         {
             "card_name": "CG08 \u2014 Surge-Seeker Wurm",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Elemental Wurm",
             "number": 133,
             "color_identity": "G",
@@ -5279,7 +5279,7 @@
         {
             "card_name": "CG09 \u2014 Venemous Repurpose (Bear)",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 134,
             "color_identity": "G",
@@ -5299,7 +5299,7 @@
         {
             "card_name": "CG10 \u2014 Surge of Might",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment \u2013 Aura",
             "number": 135,
             "color_identity": "G",
@@ -5319,7 +5319,7 @@
         {
             "card_name": "CG11 \u2014 Rally-Legion Requisition",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 136,
             "color_identity": "G",
@@ -5339,7 +5339,7 @@
         {
             "card_name": "CG12 \u2014 Stomper-Legion Hammer",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact \u2013 Equipment",
             "number": 137,
             "color_identity": "G",
@@ -5359,7 +5359,7 @@
         {
             "card_name": "CG13 \u2014 Prepare an Ambush",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 138,
             "color_identity": "G",
@@ -5379,7 +5379,7 @@
         {
             "card_name": "CG14 \u2014 Nurturing Nature",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 139,
             "color_identity": "G",
@@ -5399,7 +5399,7 @@
         {
             "card_name": "CG15 \u2014 Feline Instinct",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 140,
             "color_identity": "G",
@@ -5419,7 +5419,7 @@
         {
             "card_name": "CZ18 \u2014 Raid Lieutenant",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Minotaur Soldier",
             "number": 170,
             "color_identity": "WR",
@@ -5439,7 +5439,7 @@
         {
             "card_name": "CZ18 \u2014 Quick-Arm Spirits",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Elephant Minotaur Spirit",
             "number": 242,
             "color_identity": "WR",
@@ -5459,7 +5459,7 @@
         {
             "card_name": "CZ20 \u2014 Wilderness Cultivator",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Crocodile Druid",
             "number": 171,
             "color_identity": "UG",
@@ -5479,7 +5479,7 @@
         {
             "card_name": "CZ19 \u2014 Wild-Might Spirits",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2013 Bear Crocodile Spirit",
             "number": 243,
             "color_identity": "UG",
@@ -5499,7 +5499,7 @@
         {
             "card_name": "UW01 \u2014 Solid-Hoof Veteran",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Warrior",
             "number": 24,
             "color_identity": "W",
@@ -5519,7 +5519,7 @@
         {
             "card_name": "UW02 \u2014 Elephon Frontliner",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 25,
             "color_identity": "W",
@@ -5539,7 +5539,7 @@
         {
             "card_name": "UW03 \u2014 Blasphemer Detainer",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Bird Spirit Cleric",
             "number": 26,
             "color_identity": "W",
@@ -5559,7 +5559,7 @@
         {
             "card_name": "UW04 \u2014 Brightlight Paladin",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bird Cleric Knight",
             "number": 27,
             "color_identity": "W",
@@ -5579,7 +5579,7 @@
         {
             "card_name": "UW05 \u2014 Great-Horn Knight",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Warrior Knight",
             "number": 28,
             "color_identity": "W",
@@ -5599,7 +5599,7 @@
         {
             "card_name": "UW06 \u2014 Pride-Heart Lieutenant",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Cat Soldier",
             "number": 29,
             "color_identity": "W",
@@ -5619,7 +5619,7 @@
         {
             "card_name": "UW07 \u2014 Righteous Restoration",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 30,
             "color_identity": "W",
@@ -5639,7 +5639,7 @@
         {
             "card_name": "UW08 \u2014 Rallier's Boon",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2013 Aura",
             "number": 31,
             "color_identity": "W",
@@ -5659,7 +5659,7 @@
         {
             "card_name": "UW09 \u2014 Honorable Exile",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Instant",
             "number": 32,
             "color_identity": "W",
@@ -5679,7 +5679,7 @@
         {
             "card_name": "UZ19 \u2014 GUR Arcun 1",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Druid",
             "number": 227,
             "color_identity": "URG",
@@ -5699,7 +5699,7 @@
         {
             "card_name": "UZ20 \u2014 GUR Arcun 2",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Druid Shaman",
             "number": 228,
             "color_identity": "URG",
@@ -5719,7 +5719,7 @@
         {
             "card_name": "UU01 \u2014 Bright-Grove Watcher",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Druid",
             "number": 55,
             "color_identity": "U",
@@ -5739,7 +5739,7 @@
         {
             "card_name": "UU02 \u2014 River-Cloak Thief",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Crocodile Rogue",
             "number": 56,
             "color_identity": "U",
@@ -5759,7 +5759,7 @@
         {
             "card_name": "UU03 \u2014 Stream-Warden Guide",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Wizard Ranger",
             "number": 57,
             "color_identity": "U",
@@ -5779,7 +5779,7 @@
         {
             "card_name": "UU04 \u2014 Dusk-Touched Pacifier",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Bird Cleric Advisor",
             "number": 58,
             "color_identity": "U",
@@ -5799,7 +5799,7 @@
         {
             "card_name": "UU05 \u2014 Current-Wield Warden",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Crocodile Warlock Druid",
             "number": 59,
             "color_identity": "U",
@@ -5819,7 +5819,7 @@
         {
             "card_name": "UU06 \u2014 Mind-Wander Acolyte",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Cat Nomad Cleric",
             "number": 60,
             "color_identity": "U",
@@ -5839,7 +5839,7 @@
         {
             "card_name": "UU07 \u2014 Enshrinement",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2013 Aura",
             "number": 61,
             "color_identity": "U",
@@ -5859,7 +5859,7 @@
         {
             "card_name": "UU08 \u2014 Drowned Efforts",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Instant",
             "number": 62,
             "color_identity": "U",
@@ -5879,7 +5879,7 @@
         {
             "card_name": "UU09 \u2014 Ursaeic Repurposing",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 63,
             "color_identity": "U",
@@ -5899,7 +5899,7 @@
         {
             "card_name": "UZ14 \u2014 WUB Arcun 2",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Bird Spirit Cleric",
             "number": 222,
             "color_identity": "WUB",
@@ -5919,7 +5919,7 @@
         {
             "card_name": "UZ13 \u2014 WUB Arcun 1",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bird Cleric",
             "number": 221,
             "color_identity": "WUB",
@@ -5939,7 +5939,7 @@
         {
             "card_name": "UB01 \u2014 Glorymarked Returner",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Zombie Warrior",
             "number": 86,
             "color_identity": "B",
@@ -5959,7 +5959,7 @@
         {
             "card_name": "UB02 \u2014 Tithe Enforcer",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Bird Cleric Spirit",
             "number": 87,
             "color_identity": "B",
@@ -5979,7 +5979,7 @@
         {
             "card_name": "UB03 \u2014 Fear-Tuned Mauler",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Warlock Berserker",
             "number": 88,
             "color_identity": "B",
@@ -5999,7 +5999,7 @@
         {
             "card_name": "UB04 \u2014 Feared River-Lurker",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Crocodile Warlock Berserker",
             "number": 89,
             "color_identity": "B",
@@ -6019,7 +6019,7 @@
         {
             "card_name": "UB05 \u2014 Night-Feather Inquisitor",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bird Warlock",
             "number": 90,
             "color_identity": "B",
@@ -6039,7 +6039,7 @@
         {
             "card_name": "UB06 \u2014 Bog-Wander Poisoner",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Cat Nomad Assassin",
             "number": 91,
             "color_identity": "B",
@@ -6059,7 +6059,7 @@
         {
             "card_name": "UB07 \u2014 Pull from the Bogs",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 92,
             "color_identity": "B",
@@ -6079,7 +6079,7 @@
         {
             "card_name": "UB08 \u2014 Foul Tactics",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 93,
             "color_identity": "B",
@@ -6099,7 +6099,7 @@
         {
             "card_name": "UB09 \u2014 Fell the Blasphemer",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Instant",
             "number": 94,
             "color_identity": "B",
@@ -6119,7 +6119,7 @@
         {
             "card_name": "UZ12 \u2014 RGW Arcun 2",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 220,
             "color_identity": "WRG",
@@ -6139,7 +6139,7 @@
         {
             "card_name": "UZ11 \u2014 RGW Arcun 1",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Warrior",
             "number": 219,
             "color_identity": "WRG",
@@ -6159,7 +6159,7 @@
         {
             "card_name": "UR01 \u2014 Wild Energy Apprentice",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Druid",
             "number": 117,
             "color_identity": "R",
@@ -6179,7 +6179,7 @@
         {
             "card_name": "UR02 \u2014 Bovidian Barkeep",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Citizen",
             "number": 118,
             "color_identity": "R",
@@ -6199,7 +6199,7 @@
         {
             "card_name": "UR03 \u2014 Front-Legion Strategist",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 119,
             "color_identity": "R",
@@ -6219,7 +6219,7 @@
         {
             "card_name": "UR04 \u2014 Bold-Grove Elder",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Shaman",
             "number": 120,
             "color_identity": "R",
@@ -6239,7 +6239,7 @@
         {
             "card_name": "UR05 \u2014 Range-Legion Flanker",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Ranger",
             "number": 121,
             "color_identity": "R",
@@ -6259,7 +6259,7 @@
         {
             "card_name": "UR06 \u2014 Wander-Heart Mercenary",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Cat Nomad Warrior",
             "number": 122,
             "color_identity": "R",
@@ -6279,7 +6279,7 @@
         {
             "card_name": "UR07 \u2014 Forced Conscription",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 123,
             "color_identity": "R",
@@ -6299,7 +6299,7 @@
         {
             "card_name": "UR08 \u2014 Fury of the Desperate",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 124,
             "color_identity": "R",
@@ -6319,7 +6319,7 @@
         {
             "card_name": "UR09 \u2014 Natural Pushback",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Instant",
             "number": 125,
             "color_identity": "R",
@@ -6339,7 +6339,7 @@
         {
             "card_name": "UZ18 \u2014 RWB Arcun 2",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Warrior Cleric",
             "number": 226,
             "color_identity": "WBR",
@@ -6359,7 +6359,7 @@
         {
             "card_name": "UZ17 \u2014 RWB Arcun 1",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Berserker",
             "number": 225,
             "color_identity": "WBR",
@@ -6379,7 +6379,7 @@
         {
             "card_name": "UG01 \u2014 Elephon Vanguard",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Knight",
             "number": 148,
             "color_identity": "G",
@@ -6399,7 +6399,7 @@
         {
             "card_name": "UG02 \u2014 Marshland Trawler",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Crocodile Druid",
             "number": 149,
             "color_identity": "G",
@@ -6419,7 +6419,7 @@
         {
             "card_name": "UG03 \u2014 Grovetown Mentor",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Wizard Ranger",
             "number": 150,
             "color_identity": "G",
@@ -6439,7 +6439,7 @@
         {
             "card_name": "UG04 \u2014 Equalizing Hunter",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Crocodile Assassin",
             "number": 151,
             "color_identity": "G",
@@ -6459,7 +6459,7 @@
         {
             "card_name": "UG05 \u2014 Might-Legion Champion",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 152,
             "color_identity": "G",
@@ -6479,7 +6479,7 @@
         {
             "card_name": "UG06 \u2014 Wild-Wander Shepherd",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Cat Nomad Druid",
             "number": 153,
             "color_identity": "G",
@@ -6499,7 +6499,7 @@
         {
             "card_name": "UG07 \u2014 Chart the Game Trails",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 154,
             "color_identity": "G",
@@ -6519,7 +6519,7 @@
         {
             "card_name": "UG08 \u2014 Fostered Might",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 155,
             "color_identity": "G",
@@ -6539,7 +6539,7 @@
         {
             "card_name": "UG09 \u2014 Stampede of the Legion",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 156,
             "color_identity": "G",
@@ -6559,7 +6559,7 @@
         {
             "card_name": "UZ15 \u2014 BGU Arcun 1",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Crocodile Warlock",
             "number": 223,
             "color_identity": "UBG",
@@ -6579,7 +6579,7 @@
         {
             "card_name": "UZ16 \u2014 BGU Arcun 2",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Crocodile Warrior Ranger",
             "number": 224,
             "color_identity": "UBG",
@@ -6599,7 +6599,7 @@
         {
             "card_name": "RW01 \u2014 Front-Legion Surveyor",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Elephant Soldier Scout",
             "number": 18,
             "color_identity": "W",
@@ -6619,7 +6619,7 @@
         {
             "card_name": "RW02 \u2014 Bishop of Persistence",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bird Cleric",
             "number": 19,
             "color_identity": "W",
@@ -6639,7 +6639,7 @@
         {
             "card_name": "RW03 \u2014 Stalwart Representative",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Minotaur Warrior Advisor",
             "number": 20,
             "color_identity": "W",
@@ -6659,7 +6659,7 @@
         {
             "card_name": "RW04 \u2014 Gracious Wanderer",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Cat Nomad Monk",
             "number": 21,
             "color_identity": "W",
@@ -6679,7 +6679,7 @@
         {
             "card_name": "RW05 \u2014 Might of Faith",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 22,
             "color_identity": "W",
@@ -6699,7 +6699,7 @@
         {
             "card_name": "RW06 \u2014 Twilight Cleansing",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 23,
             "color_identity": "W",
@@ -6719,7 +6719,7 @@
         {
             "card_name": "RZ23 \u2014 The Paths of the Rivers",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2013 Saga",
             "number": 201,
             "color_identity": "UBG",
@@ -6739,7 +6739,7 @@
         {
             "card_name": "RU01 \u2014 Sacred Shrine Mason",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bird Artificer Cleric",
             "number": 49,
             "color_identity": "U",
@@ -6759,7 +6759,7 @@
         {
             "card_name": "RU02 \u2014 Riverbound Seer",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Crocodile Wizard",
             "number": 50,
             "color_identity": "U",
@@ -6779,7 +6779,7 @@
         {
             "card_name": "CU04 \u2014 Mind-Honed Mentor",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2013 Bear Wizard Druid",
             "number": 36,
             "color_identity": "U",
@@ -6799,7 +6799,7 @@
         {
             "card_name": "RU04 \u2014 Pathbound Mystic",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Cat Nomad Wizard",
             "number": 52,
             "color_identity": "U",
@@ -6819,7 +6819,7 @@
         {
             "card_name": "RU05 \u2014 Beckon the Starlight Forms",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 53,
             "color_identity": "U",
@@ -6839,7 +6839,7 @@
         {
             "card_name": "RU06 \u2014 Channeling of Moonlight",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 54,
             "color_identity": "U",
@@ -6859,7 +6859,7 @@
         {
             "card_name": "UZ21 \u2014 Elephon Charger",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 229,
             "color_identity": "WRG",
@@ -6879,7 +6879,7 @@
         {
             "card_name": "RB01 \u2014 Scaled Dusk-Blade",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Crocodile Rogue Ranger",
             "number": 80,
             "color_identity": "B",
@@ -6899,7 +6899,7 @@
         {
             "card_name": "RB02 \u2014 Priest of the Damned",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bird Warlock Cleric",
             "number": 81,
             "color_identity": "B",
@@ -6919,7 +6919,7 @@
         {
             "card_name": "RB03 \u2014 Ambitious Saboteur",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Minotaur Warrior Rogue",
             "number": 82,
             "color_identity": "B",
@@ -6939,7 +6939,7 @@
         {
             "card_name": "RB04 \u2014 Lone-Wander Resurrector",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Cat Nomad Rogue Warlock",
             "number": 83,
             "color_identity": "B",
@@ -6959,7 +6959,7 @@
         {
             "card_name": "RB05 \u2014 Twilight Reckoning",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 84,
             "color_identity": "B",
@@ -6979,7 +6979,7 @@
         {
             "card_name": "RB06 \u2014 Skills of the Shadowed",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 85,
             "color_identity": "B",
@@ -6999,7 +6999,7 @@
         {
             "card_name": "RZ07 \u2014 Shine-Horn Lieutenant",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Minotaur Soldier",
             "number": 190,
             "color_identity": "WRG",
@@ -7019,7 +7019,7 @@
         {
             "card_name": "RR01 \u2014 Blaze-Wield Bandit",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Minotaur Warrior Rogue",
             "number": 111,
             "color_identity": "R",
@@ -7039,7 +7039,7 @@
         {
             "card_name": "RR02 \u2014 Wildfire Tamer",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bear Druid Shaman",
             "number": 112,
             "color_identity": "R",
@@ -7059,7 +7059,7 @@
         {
             "card_name": "RR03 \u2014 Rage-Legion Brute",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Elephant Berserker Soldier",
             "number": 113,
             "color_identity": "R",
@@ -7079,7 +7079,7 @@
         {
             "card_name": "RR04 \u2014 Virtuous Vagabond",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Cat Nomad Knight",
             "number": 114,
             "color_identity": "R",
@@ -7099,7 +7099,7 @@
         {
             "card_name": "RR05 \u2014 Desperate Assault",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 115,
             "color_identity": "R",
@@ -7119,7 +7119,7 @@
         {
             "card_name": "RR06 \u2014 Gold and Glory",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 116,
             "color_identity": "R",
@@ -7139,7 +7139,7 @@
         {
             "card_name": "RZ22 \u2014 First Dance of Twilight",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2013 Saga",
             "number": 200,
             "color_identity": "WUB",
@@ -7159,7 +7159,7 @@
         {
             "card_name": "RG01 \u2014 Grovebound Tender",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bear Druid",
             "number": 142,
             "color_identity": "G",
@@ -7179,7 +7179,7 @@
         {
             "card_name": "RG02 \u2014Trumpeting Captain",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 143,
             "color_identity": "G",
@@ -7199,7 +7199,7 @@
         {
             "card_name": "RG03 \u2014 Lurking Huntkeeper",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Crocodile Ranger",
             "number": 144,
             "color_identity": "G",
@@ -7219,7 +7219,7 @@
         {
             "card_name": "RG04 \u2014 Far-Wander Ranger",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Cat Nomad Ranger",
             "number": 145,
             "color_identity": "G",
@@ -7239,7 +7239,7 @@
         {
             "card_name": "RG05 \u2014 Blessings of Strength",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 146,
             "color_identity": "G",
@@ -7259,7 +7259,7 @@
         {
             "card_name": "RG06 \u2014 Primal Summons",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 147,
             "color_identity": "G",
@@ -7279,7 +7279,7 @@
         {
             "card_name": "RZ21 \u2014 Rise of the Stampedes",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2013 Saga",
             "number": 199,
             "color_identity": "WRG",
@@ -7299,7 +7299,7 @@
         {
             "card_name": "MW01 \u2014 Bask in Glory",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Instant",
             "number": 17,
             "color_identity": "W",
@@ -7319,7 +7319,7 @@
         {
             "card_name": "MZ02 \u2014 Quirrellus, Prophet of the Phases",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2013 Bird Cleric",
             "number": 173,
             "color_identity": "WUB",
@@ -7339,7 +7339,7 @@
         {
             "card_name": "MU01 \u2014 Phasebound Emergence",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 48,
             "color_identity": "U",
@@ -7359,7 +7359,7 @@
         {
             "card_name": "MZ07 \u2014 Rites of Twilight",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 178,
             "color_identity": "WUB",
@@ -7379,7 +7379,7 @@
         {
             "card_name": "MB01 \u2014 Imperial Shadowhand",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Creature \u2013 Crocodile Assassin",
             "number": 79,
             "color_identity": "B",
@@ -7399,7 +7399,7 @@
         {
             "card_name": "MZ06 \u2014 Might of the Elephon",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 177,
             "color_identity": "WRG",
@@ -7419,7 +7419,7 @@
         {
             "card_name": "MR01 \u2014 Tactical Gamble",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Instant",
             "number": 110,
             "color_identity": "R",
@@ -7439,7 +7439,7 @@
         {
             "card_name": "MZ03 \u2014 Tenoc, Huntcaller",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2013 Crocodile Assassin",
             "number": 174,
             "color_identity": "UBG",
@@ -7459,7 +7459,7 @@
         {
             "card_name": "MG01 \u2014 Grovekeeper Monument",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment Artifact \u2013 Shrine",
             "number": 141,
             "color_identity": "G",
@@ -7479,7 +7479,7 @@
         {
             "card_name": "MZ01 \u2014 Neurevin, Herald of the Legions",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2013 Elephant Soldier Bard",
             "number": 172,
             "color_identity": "WRG",
@@ -7499,7 +7499,7 @@
         {
             "card_name": "UZ05 \u2014 WB Arcun 1",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Cleric",
             "number": 213,
             "color_identity": "WB",
@@ -7519,7 +7519,7 @@
         {
             "card_name": "UZ01 \u2014 UB Arcun 1",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bird Warlock",
             "number": 209,
             "color_identity": "UB",
@@ -7539,7 +7539,7 @@
         {
             "card_name": "UZ02 \u2014 UB Arcun 2",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 210,
             "color_identity": "UB",
@@ -7559,7 +7559,7 @@
         {
             "card_name": "UZ04 \u2014 RG Arcun 2",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 212,
             "color_identity": "RG",
@@ -7579,7 +7579,7 @@
         {
             "card_name": "UZ10 \u2014 GU Arcun 2",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 218,
             "color_identity": "UG",
@@ -7599,7 +7599,7 @@
         {
             "card_name": "UZ06 \u2014 WB Arcun 2",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 214,
             "color_identity": "WB",
@@ -7619,7 +7619,7 @@
         {
             "card_name": "UZ08 \u2014 Battleground Improviser",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Warrior Advisor",
             "number": 216,
             "color_identity": "WR",
@@ -7639,7 +7639,7 @@
         {
             "card_name": "UZ03 \u2014 RG Arcun 1",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Elephant Berserker Druid",
             "number": 211,
             "color_identity": "RG",
@@ -7659,7 +7659,7 @@
         {
             "card_name": "UZ07 \u2014 Support of the Legion",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 215,
             "color_identity": "WR",
@@ -7679,7 +7679,7 @@
         {
             "card_name": "UZ09 \u2014 GU Arcun 1",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Ranger",
             "number": 217,
             "color_identity": "UG",
@@ -7699,7 +7699,7 @@
         {
             "card_name": "RZ06 \u2014 Emnian, Legion Commander",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2013 Elephant Soldier",
             "number": 189,
             "color_identity": "WRG",
@@ -7719,7 +7719,7 @@
         {
             "card_name": "RZ01 \u2014 Dusk-Veiled Professional",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Crocodile Assassin",
             "number": 184,
             "color_identity": "UB",
@@ -7739,7 +7739,7 @@
         {
             "card_name": "RZ15 \u2014 Ellevena, Rambunctious Heir",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2013 Minotaur Warrior Noble",
             "number": 195,
             "color_identity": "WBR",
@@ -7759,7 +7759,7 @@
         {
             "card_name": "RZ02 \u2014 Wild-Surge Beckoner",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bear Druid",
             "number": 185,
             "color_identity": "RG",
@@ -7779,7 +7779,7 @@
         {
             "card_name": "RZ09 \u2014 Tanus, Eye of the Heavens",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Enchantment Creature \u2013 Bird Spirit",
             "number": 191,
             "color_identity": "WUB",
@@ -7799,7 +7799,7 @@
         {
             "card_name": "RZ03 \u2014 Duskrite Priest",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment Creature \u2013 Bird Cleric",
             "number": 186,
             "color_identity": "WB",
@@ -7819,7 +7819,7 @@
         {
             "card_name": "RZ18 \u2014 Cian, Earth Whisperer",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2013 Bear Warrior Druid",
             "number": 197,
             "color_identity": "URG",
@@ -7839,7 +7839,7 @@
         {
             "card_name": "RZ12 \u2014 Oremen, Wild-Keeper",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2013 Crocodile Ranger",
             "number": 193,
             "color_identity": "UBG",
@@ -7859,7 +7859,7 @@
         {
             "card_name": "RZ04 \u2014 Garrison-Legion Quatemaster",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Elephant Soldier",
             "number": 187,
             "color_identity": "WR",
@@ -7879,7 +7879,7 @@
         {
             "card_name": "RZ05 \u2014 Clever Skywatcher",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Crocodile Ranger",
             "number": 188,
             "color_identity": "UG",
@@ -7899,7 +7899,7 @@
         {
             "card_name": "CA02 \u2014 Strixan Banner",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact",
             "number": 250,
             "color_identity": "WUB",
@@ -7919,7 +7919,7 @@
         {
             "card_name": "CA01 \u2014 Elephon Banner",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact",
             "number": 249,
             "color_identity": "WRG",
@@ -7939,7 +7939,7 @@
         {
             "card_name": "CA03 \u2014 Crocdilid Banner",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact",
             "number": 251,
             "color_identity": "UBG",
@@ -7959,7 +7959,7 @@
         {
             "card_name": "CA04 \u2014 Bovidian Banner",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact",
             "number": 252,
             "color_identity": "WBR",
@@ -7979,7 +7979,7 @@
         {
             "card_name": "CA05 \u2014 Ursaeic Banner",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact",
             "number": 253,
             "color_identity": "URG",
@@ -7999,7 +7999,7 @@
         {
             "card_name": "UZ26 \u2014 The Might of Tanabon",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2013 Saga",
             "number": 234,
             "color_identity": "WRG",
@@ -8019,7 +8019,7 @@
         {
             "card_name": "UZ27 \u2014 The Trials of Saint Mornus",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2013 Saga",
             "number": 235,
             "color_identity": "WUB",
@@ -8039,7 +8039,7 @@
         {
             "card_name": "UZ28 \u2014 The First Hunt of Roag",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2013 Saga",
             "number": 236,
             "color_identity": "UBG",
@@ -8059,7 +8059,7 @@
         {
             "card_name": "UZ29 \u2014 The Tale of Ol Barrot",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2013 Saga",
             "number": 237,
             "color_identity": "WBR",
@@ -8079,7 +8079,7 @@
         {
             "card_name": "UZ30 \u2014 The Teachings of Aodhan",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2013 Saga",
             "number": 238,
             "color_identity": "URG",
@@ -8099,7 +8099,7 @@
         {
             "card_name": "CA06 \u2014 Felidian Guidestone",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact",
             "number": 254,
             "color_identity": "C",
@@ -8119,7 +8119,7 @@
         {
             "card_name": "UL01 \u2014 Mighty Fort Town",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Land \u2013 Town",
             "number": 267,
             "color_identity": "WRG",
@@ -8139,7 +8139,7 @@
         {
             "card_name": "UL02 \u2014 Bustling Monastery",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Land \u2013 Town",
             "number": 268,
             "color_identity": "WUB",
@@ -8159,7 +8159,7 @@
         {
             "card_name": "UL03 \u2014 Quaint Marsh Village",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Land \u2013 Town",
             "number": 269,
             "color_identity": "UBG",
@@ -8179,7 +8179,7 @@
         {
             "card_name": "UL04 \u2014 Bannerless Town",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Land \u2013 Town",
             "number": 270,
             "color_identity": "WBR",
@@ -8199,7 +8199,7 @@
         {
             "card_name": "UL05 \u2014 Woodland Hamlet",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Land \u2013 Town",
             "number": 271,
             "color_identity": "URG",
@@ -8219,7 +8219,7 @@
         {
             "card_name": "RZ08 \u2014 Elephon Representative",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Elephant Soldier Advisor",
             "number": 244,
             "color_identity": "WRG",
@@ -8239,7 +8239,7 @@
         {
             "card_name": "RZ11 \u2014 Strixan Representative",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment Creature \u2013 Bird Cleric Advisor",
             "number": 245,
             "color_identity": "WUB",
@@ -8259,7 +8259,7 @@
         {
             "card_name": "RZ14 \u2014 Crocodilid Representative",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Crocodile Ranger Advisor",
             "number": 246,
             "color_identity": "UBG",
@@ -8271,7 +8271,7 @@
             "shape": "normal",
             "set": "FRT",
             "loyalty": "",
-            "artist": "pyrealart",
+            "artist": "DubiousArtiste004",
             "alias": "",
             "notes": "",
             "image_type": "jpg"
@@ -8279,12 +8279,12 @@
         {
             "card_name": "RZ17 \u2014 Bovidian Representative",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Minotaur Warrior Advisor",
             "number": 247,
             "color_identity": "WBR",
             "cost": "{WB}{R}",
-            "rules_text": "Minotaur and Warrior spells you cast cost {1} less to cast.\n{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of vigilance or menace until end of turn.",
+            "rules_text": "Haste\nMinotaur and Warrior spells you cast cost {1} less to cast.\n{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of vigilance or menace until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -8299,7 +8299,7 @@
         {
             "card_name": "RZ20 \u2014 Ursaeic Representative",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bear Druid Advisor",
             "number": 248,
             "color_identity": "URG",
@@ -8319,7 +8319,7 @@
         {
             "card_name": "RZ10 \u2014 Outskirts Inquisitor",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Crocodile Cleric Knight",
             "number": 192,
             "color_identity": "WUB",
@@ -8339,7 +8339,7 @@
         {
             "card_name": "UZ22 \u2014 Twilight Reinforcer",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Bird Spirit Knight",
             "number": 230,
             "color_identity": "WUB",
@@ -8359,7 +8359,7 @@
         {
             "card_name": "RZ13 \u2014 Decay Specialist",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bear Warlock Ranger",
             "number": 194,
             "color_identity": "UBG",
@@ -8379,7 +8379,7 @@
         {
             "card_name": "UZ23 \u2014 Marshland Witch",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Crocodile Warlock",
             "number": 231,
             "color_identity": "UBG",
@@ -8399,7 +8399,7 @@
         {
             "card_name": "RZ16 \u2014 Dusk-Blessed Brutalist",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Bird Warrior",
             "number": 196,
             "color_identity": "WBR",
@@ -8419,7 +8419,7 @@
         {
             "card_name": "UZ24 \u2014 Bovidian Brutalist",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Minotaur Warrior",
             "number": 232,
             "color_identity": "WBR",
@@ -8439,7 +8439,7 @@
         {
             "card_name": "RZ19 \u2014 Rallying Turncoat",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2013 Elephant Druid Warrior",
             "number": 198,
             "color_identity": "URG",
@@ -8459,7 +8459,7 @@
         {
             "card_name": "UZ25 \u2014 Grizzled Rallier",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2013 Bear Druid Warrior",
             "number": 233,
             "color_identity": "URG",
@@ -8479,7 +8479,7 @@
         {
             "card_name": "MZ11 \u2014 Ade, Heir to Nothing",
             "color": "WUBRG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2013 Cat Nomad Noble",
             "number": 182,
             "color_identity": "WUBRG",
@@ -8499,7 +8499,7 @@
         {
             "card_name": "MX01 \u2014 Elefetik, Wary Watcher",
             "color": "",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Planeswalker \u2013 Elefetik",
             "number": 1,
             "color_identity": "C",
@@ -8519,7 +8519,7 @@
         {
             "card_name": "MZ08 \u2014 Gifts of the Bayou",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 179,
             "color_identity": "UBG",
@@ -8539,7 +8539,7 @@
         {
             "card_name": "MZ04 \u2014 Leuric, Glory Profiteer",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2013 Minotaur Rogue",
             "number": 175,
             "color_identity": "WBR",
@@ -8559,7 +8559,7 @@
         {
             "card_name": "MZ05 \u2014 Aoife, the Warden Mother",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2013 Bear Druid Shaman",
             "number": 176,
             "color_identity": "URG",
@@ -8579,7 +8579,7 @@
         {
             "card_name": "CL01 \u2014 Tranquil Cove",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 256,
             "color_identity": "WU",
@@ -8599,7 +8599,7 @@
         {
             "card_name": "CL05 \u2014 Blossoming Sands",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 260,
             "color_identity": "WG",
@@ -8619,7 +8619,7 @@
         {
             "card_name": "CL04 \u2014 Rugged Highlands",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 259,
             "color_identity": "RG",
@@ -8639,7 +8639,7 @@
         {
             "card_name": "CL03 \u2014 Bloodfell Caves",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 258,
             "color_identity": "BR",
@@ -8659,7 +8659,7 @@
         {
             "card_name": "CL02 \u2014 Dismal Backwater",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 257,
             "color_identity": "UB",
@@ -8679,7 +8679,7 @@
         {
             "card_name": "CL07 \u2014 Swiftwater Cliffs",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 262,
             "color_identity": "UR",
@@ -8699,7 +8699,7 @@
         {
             "card_name": "CL08 \u2014 Jungle Hollow",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 263,
             "color_identity": "BG",
@@ -8719,7 +8719,7 @@
         {
             "card_name": "CL09 \u2014 Wind-scarred Crag",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 264,
             "color_identity": "WR",
@@ -8739,7 +8739,7 @@
         {
             "card_name": "CL10 \u2014 Thornwood Falls",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Land",
             "number": 265,
             "color_identity": "UG",
@@ -8759,7 +8759,7 @@
         {
             "card_name": "Elephant Soldier",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2013 Elephant Soldier",
             "number": 4,
             "color_identity": "W",
@@ -8779,7 +8779,7 @@
         {
             "card_name": "Weapon",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2013 Equipment",
             "number": 14,
             "color_identity": "C",
@@ -8799,7 +8799,7 @@
         {
             "card_name": "Blessing",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment \u2013 Aura",
             "number": 1,
             "color_identity": "C",
@@ -8819,7 +8819,7 @@
         {
             "card_name": "MZ09 \u2014 Bloodboiling Retribution",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 180,
             "color_identity": "WBR",
@@ -8839,7 +8839,7 @@
         {
             "card_name": "MZ10 \u2014 Rhythms of the World",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 181,
             "color_identity": "URG",
@@ -8859,7 +8859,7 @@
         {
             "card_name": "MZ12 \u2014 Ways of the Wanderers",
             "color": "WUBRG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 183,
             "color_identity": "WUBRG",
@@ -8879,7 +8879,7 @@
         {
             "card_name": "RZ24 \u2014 The Path of Promise",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2013 Saga",
             "number": 202,
             "color_identity": "WBR",
@@ -8899,7 +8899,7 @@
         {
             "card_name": "RZ25 \u2014 The Wild's First Whisper",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2013 Saga",
             "number": 203,
             "color_identity": "URG",
@@ -8919,7 +8919,7 @@
         {
             "card_name": "RZ26 \u2014 Mighty Strike",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 204,
             "color_identity": "WRG",
@@ -8939,7 +8939,7 @@
         {
             "card_name": "RZ27 \u2014 Blessings of Moon and Star",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 205,
             "color_identity": "WUB",
@@ -8959,7 +8959,7 @@
         {
             "card_name": "RZ28 \u2014 Riverbound Surge",
             "color": "UBG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 206,
             "color_identity": "UBG",
@@ -8979,7 +8979,7 @@
         {
             "card_name": "RZ29 \u2014 Shared Earnings",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 207,
             "color_identity": "WBR",
@@ -8999,7 +8999,7 @@
         {
             "card_name": "RZ30 \u2014 Roar of the Wilds",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 208,
             "color_identity": "URG",
@@ -9019,7 +9019,7 @@
         {
             "card_name": "ML01 \u2014 _, Imperial Capital",
             "color": "",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Land \u2013 Town",
             "number": 266,
             "color_identity": "C",
@@ -9039,7 +9039,7 @@
         {
             "card_name": "MA01 \u2014 The Book of Names",
             "color": "",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Artifact \u2013 Tome",
             "number": 255,
             "color_identity": "C",
@@ -9059,7 +9059,7 @@
         {
             "card_name": "Weapon",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2013 Equipment",
             "number": 15,
             "color_identity": "C",
@@ -9079,7 +9079,7 @@
         {
             "card_name": "Weapon",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2013 Equipment",
             "number": 16,
             "color_identity": "C",
@@ -9099,7 +9099,7 @@
         {
             "card_name": "Crocodile Assassin",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2013 Crocodile",
             "number": 7,
             "color_identity": "B",
@@ -9119,7 +9119,7 @@
         {
             "card_name": "Food",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2013 Food",
             "number": 12,
             "color_identity": "C",
@@ -9139,7 +9139,7 @@
         {
             "card_name": "Treasure",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2013 Treasure",
             "number": 13,
             "color_identity": "C",
@@ -9159,7 +9159,7 @@
         {
             "card_name": "Minotaur Warrior",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2013 Minotaur Warrior",
             "number": 9,
             "color_identity": "R",
@@ -9179,7 +9179,7 @@
         {
             "card_name": "Bird Cleric",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2013 Bird Cleric",
             "number": 5,
             "color_identity": "U",
@@ -9199,7 +9199,7 @@
         {
             "card_name": "Elemental",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2013 Elemental",
             "number": 2,
             "color_identity": "C",
@@ -9219,7 +9219,7 @@
         {
             "card_name": "Clue",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2013 Clue",
             "number": 11,
             "color_identity": "C",
@@ -9239,7 +9239,7 @@
         {
             "card_name": "Elemental",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2013 Elemental",
             "number": 8,
             "color_identity": "R",
@@ -9259,7 +9259,7 @@
         {
             "card_name": "Shrine",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "",
             "number": 3,
             "color_identity": "C",
@@ -9279,7 +9279,7 @@
         {
             "card_name": "Bear Druid",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2013 Bear Druid",
             "number": 10,
             "color_identity": "G",
@@ -9299,7 +9299,7 @@
         {
             "card_name": "Spirit Illusion",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2013 Spirit Illusion",
             "number": 6,
             "color_identity": "U",
@@ -9319,7 +9319,7 @@
         {
             "card_name": "Plains",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2013 Plains",
             "number": 272,
             "color_identity": "W",
@@ -9339,7 +9339,7 @@
         {
             "card_name": "Island",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2013 Island",
             "number": 273,
             "color_identity": "U",
@@ -9359,7 +9359,7 @@
         {
             "card_name": "Swamp",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2013 Swamp",
             "number": 274,
             "color_identity": "B",
@@ -9379,7 +9379,7 @@
         {
             "card_name": "Mountain",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2013 Mountain",
             "number": 275,
             "color_identity": "R",
@@ -9399,7 +9399,7 @@
         {
             "card_name": "Forest",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2013 Forest",
             "number": 276,
             "color_identity": "G",
@@ -9411,7 +9411,7 @@
             "shape": "normal",
             "set": "FRT",
             "loyalty": "",
-            "artist": "",
+            "artist": "BluePhoenix234",
             "alias": "",
             "notes": "",
             "image_type": "jpg"
