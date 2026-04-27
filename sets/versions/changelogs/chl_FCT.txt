@@ -1,4 +1,55 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+MM02 — WUB CMD 1 added.
+MM03 — BGU CMD 1 added.
+MM10 — GUR CMD 2 added.
+MM12 — WUB CMD 3 added.
+MM15 — GUR CMD 3 added.
+
+MM09 — RWB CMD 2 removed.
+MM14 — RWB CMD 3 removed.
+Deck 4 — RWB removed.
+
+CA02 — Arcane Signet
+
+CL01 — Command Tower
+
+CL02 — Path of Ancestry
+
+CL03 — Terramorphic Expanse
+
+UA03 — Sol Ring
+
+RW13 — New
+
+RW14 — Badlands Surveyor
+
+RB14 — New
+
+MR11 — New
+
+RR12 — New
+
+MX04 — New
+
+RM03 — Dual Cat 3
+
+RL02 — Exotic Orchard
+rules_text:  => {T}: Add one mana of any color that a land an opponent controls could produce.
+
+MM01 — RGW CMD 1
+
+MM04 — RWB CMD 1
+
+MM05 — GUR CMD 1
+
+MM06 — RGW CMD 2
+
+MM11 — RGW CMD 3
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -123,6 +123,20 @@
         "position": ""
     },
     {
+        "card_name": "MM02 \u2014 WUB CMD 1",
+        "number": 245,
+        "shape": "normal",
+        "set": "FCT",
+        "position": ""
+    },
+    {
+        "card_name": "MM03 \u2014 BGU CMD 1",
+        "number": 246,
+        "shape": "normal",
+        "set": "FCT",
+        "position": ""
+    },
+    {
         "card_name": "MM04 \u2014 RWB CMD 1",
         "number": 247,
         "shape": "normal",
@@ -144,8 +158,21 @@
         "position": ""
     },
     {
-        "card_name": "MM09 \u2014 RWB CMD 2",
-        "number": 252,
+        "card_name": "MM12 \u2014 WUB CMD 3",
+        "number": 255,
+        "shape": "normal",
+        "set": "FCT",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "MM10 \u2014 GUR CMD 2",
+        "number": 253,
         "shape": "normal",
         "set": "FCT",
         "position": ""
@@ -158,20 +185,20 @@
         "position": ""
     },
     {
-        "card_name": "MM14 \u2014 RWB CMD 3",
-        "number": 257,
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "MM15 \u2014 GUR CMD 3",
+        "number": 258,
         "shape": "normal",
         "set": "FCT",
         "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -187,13 +214,6 @@
     },
     "a->colorless",
     {
-        "card_name": "CA02 \u2014 Arcane Signet",
-        "number": 288,
-        "shape": "normal",
-        "set": "FCT",
-        "position": ""
-    },
-    {
         "card_name": "UA03 \u2014 Sol Ring",
         "number": 301,
         "shape": "normal",
@@ -201,7 +221,11 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "CA02 \u2014 Arcane Signet",
+        "number": 288,
+        "shape": "normal",
+        "set": "FCT",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -210,7 +234,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -223,6 +247,16 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL02 \u2014 Exotic Orchard",
+        "number": 328,
+        "shape": "normal",
+        "set": "FCT",
+        "position": ""
     },
     {
         "card_name": "CL01 \u2014 Command Tower",
@@ -244,45 +278,6 @@
         "shape": "normal",
         "set": "FCT",
         "position": ""
-    },
-    {
-        "card_name": "RL02 \u2014 Exotic Orchard",
-        "number": 328,
-        "shape": "normal",
-        "set": "FCT",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    "a->token",
-    {
-        "card_name": "Deck 4 \u2014 RWB",
-        "number": 1,
-        "shape": "token",
-        "set": "FCT",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
