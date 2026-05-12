@@ -1,4 +1,61 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+RW13 — Arms Handler added.
+RM01 — Dual Cat 1 added.
+RM02 — Dual Cat 2 added.
+RM03 — Deadland Scavenger added.
+RM04 — Dual Cat 4 added.
+RM05 — Dual Cat 5 added.
+MM07 — WUB CMD 2 added.
+MM08 — BGU CMD 2 added.
+MM09 — RWB CMD 2 added.
+MM13 — BGU CMD 3 added.
+MM14 — RWB CMD 3 added.
+Deck 5 — GUR added.
+Deck 4 — RWB added.
+Deck 3 — BGU added.
+Deck 2 — WUB added.
+Deck 1 — RGW added.
+
+CA02 — Arcane Signet removed.
+CL01 — Command Tower removed.
+CL02 — Path of Ancestry removed.
+CL03 — Terramorphic Expanse removed.
+UA03 — Sol Ring removed.
+RW13 — New removed.
+RM03 — Dual Cat 3 removed.
+
+MX04 — New
+
+MM02 — WUB CMD 1
+rules_text: Flying
+[i]Devout[/i] — At the beginning of your upkeep, if you control three or more enchantments, each opponent exiles the top card of their library. You may play those cards until your next turn by discarding a card or sacrificing a nonland permanent instead of paying their mana costs. => Flying
+Ward—Discard a card
+[i]Devout[/i] — At the beginning of your upkeep, if you control three or more enchantments, each opponent exiles the top card of their library. You may play those cards until your next turn by discarding a card or sacrificing a nonland permanent instead of paying their mana costs.
+
+MM03 — BGU CMD 1
+rules_text: Vigilance, menace
+Other rangers you control have vigilance and menace.
+[i]Ferocious[/i] — At the beginning of your upkeep, if you control a creature with power 4 or greater, you may cast an instant or sorcery spell from your graveyard. => Vigilance, menace
+Other rangers you control have vigilance and menace.
+[i]Ferocious[/i] — During your turn, you may cast a spell from you graveyard for each creature you control with power 4 or greater. If you cast a permanent spell this way, it enters with a finality counter on it. If you cast an instant or sorcery spell this way, exile it after it resolves.
+pt: 3/3 => 3/5
+
+MM12 — WUB CMD 3
+rules_text: Enchantment spells you cast cost {1} less to cast.
+[i]Devout[/i] — At the beginning of your upkeep, if you control three or more enchantments, creatures you control gain hexproof until the beginning of your next turn. => Enchantment spells you cast cost {1} less to cast.
+Whenever this creature becomes tapped, create a Blessing token attached to another target permanent. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i]
+[i]Devout[/i] — At the beginning of your upkeep, if you control three or more enchantments, creatures you control with Blessings attached to them gain indestructible until end of turn.
+pt: 2/2 => 3/3
+
+MM15 — GUR CMD 3
+rules_text: Whenever you create one or more tokens with base power and toughness 1/1 , create that many tokens plus one instead.
+{2}{G}{U}{R}, {T}: Deal X damage to target creature an opponent controls where X is the number of creatures you control with base power and toughness 1/1. => If you would create one or more 1/1 tokens, instead choose one of them. You create those tokens plus an additional one of the chosen token.
+{2}{G}{U}{R}, {T}: GUR CMD 3 deals X damage to target creature an opponent controls, where X is the number of creatures you control with base power and toughness 1/1.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 MM02 — WUB CMD 1 added.
