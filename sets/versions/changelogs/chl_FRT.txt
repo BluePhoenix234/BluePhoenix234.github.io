@@ -1,4 +1,567 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Scoured Barrens added.
+Feathered Acolyte added.
+Battlefront Scrounger added.
+Streetwise Nomad added.
+Bolstered Veteran added.
+Horned Beligerent added.
+Blessings Mystic added.
+Undaunted Avenger added.
+Sturdy Advancer added.
+Courageous Rallier added.
+Holy Holding added.
+Nomadic Defense added.
+Might-Wrought Boon added.
+Blessed Talon Sigil added.
+Glorious Stampede added.
+Reckless Inventory added.
+Frontline Rejuvinator added.
+Dusktouched Seeker added.
+Dagger-Bite Stalker added.
+Blood-Bound Mercenaries added.
+Holy Site Watcher added.
+Clever Swiper added.
+Bright-Eyed Adept added.
+Mind-Focused Warden added.
+Patient Trapper added.
+Downpour Leviathan added.
+Shimmer Guard Blessing added.
+Rune-Carved Guardian added.
+Graceful Intervention added.
+Guardian Instinct added.
+Jaw-Lock Glyph added.
+Wayfinder's Meditation added.
+Marsh Sifting added.
+Holy Gust added.
+River-Hunter's Cloak added.
+Grove Warden Rager added.
+Tusked Reinforcements added.
+Night-Veiled Font added.
+Marsh-Lurker Ambush added.
+Ruin-Wander Watch added.
+Wound Wielder added.
+Muck-Wield Stalker added.
+Night-Blessed Inquisitor added.
+Strixan Siphon Priest added.
+Battlefield Finisher added.
+Greedy Poacher added.
+Death-Wreathed Terror added.
+Horn Bore added.
+Purge the Heresy added.
+Death Roll added.
+Wander-Rite Offering added.
+Call the Once Blessed added.
+Dark River Hiss added.
+Might-Marauder Helm added.
+Marauder's Fee added.
+Nature Surge added.
+Night-Tuned Etchings added.
+Night-Wind Spirits added.
+Eager-Horn Rookie added.
+Front-Wander Scout added.
+Rune-Charged Striker added.
+Dauntless Recruits added.
+Frenzy-Kin Reinforcer added.
+Rune-Guard Sharpshooter added.
+Battlefield Pilferer added.
+Rage-Legion Charger added.
+Enraged Blast added.
+Cleanse with Fire added.
+Trample the Opposition added.
+Trade In added.
+Claw-Striker Bracers added.
+Distraction Strike added.
+Unstoppable Force added.
+Grove-Guard Sigils added.
+High-Eyed Spirits added.
+Battle-Tithe Priest added.
+Vigor-Cloak Spirits added.
+Bright-Tusk Recruit added.
+Protective Charger added.
+Far-Wander Shaman added.
+Brighthollow Guard added.
+Marshland Hunter added.
+Watchful Game Tracker added.
+Mighty Deserter added.
+Surge-Seeker Wurm added.
+Venemous Repurpose added.
+Surge of Might added.
+Rally-Legion Requisition added.
+Stomper-Legion Hammer added.
+Prepare an Ambush added.
+Nurturing Nature added.
+Feline Instinct added.
+Raid Lieutenant added.
+Quick-Arm Spirits added.
+Wilderness Cultivator added.
+Wild-Might Spirits added.
+Solid-Hoof Veteran added.
+Elephon Frontliner added.
+Blasphemer Detainer added.
+Brightlight Paladin added.
+Great-Horn Knight added.
+Pride-Heart Lieutenant added.
+Righteous Restoration added.
+Rallier's Boon added.
+Honorable Exile added.
+Great-Grove Guardian added.
+Elder Wood-Warden added.
+Bright-Grove Watcher added.
+River-Cloak Thief added.
+Stream-Warden Guide added.
+Dusk-Touched Pacifier added.
+Current-Wield Warden added.
+Mind-Wander Acolyte added.
+Enshrinement added.
+Drowned Efforts added.
+Ursaeic Repurposing added.
+Tanus' Observants added.
+Moonbound Prophet added.
+Glorymarked Returner added.
+Tithe Enforcer added.
+Fear-Tuned Mauler added.
+Feared River-Lurker added.
+Night-Feather Inquisitor added.
+Bog-Wander Poisoner added.
+Pull from the Bogs added.
+Foul Tactics added.
+Fell the Blasphemer added.
+Serene Veteran added.
+Core-Legion Wildguard added.
+Wild Energy Apprentice added.
+Bovidian Barkeep added.
+Front-Legion Strategist added.
+Bold-Grove Elder added.
+Range-Legion Flanker added.
+Wander-Heart Mercenary added.
+Forced Conscription added.
+Fury of the Desperate added.
+Natural Pushback added.
+Leuric's Highwayman added.
+Battleground Assailant added.
+Elephon Vanguard added.
+Marshland Trawler added.
+Grovetown Mentor added.
+Equalizing Hunter added.
+Might-Legion Champion added.
+Wild-Wander Shepherd added.
+Chart the Game Trails added.
+Fostered Might added.
+Stampede of the Legion added.
+Greathunt Champion added.
+Tenoc's Huntguard added.
+Front-Legion Surveyor added.
+Bishop of Persistence added.
+Stalwart Representative added.
+Gracious Wanderer added.
+Might of Faith added.
+Twilight Cleansing added.
+The Paths of the Rivers added.
+Sacred Shrine Mason added.
+Riverbound Seer added.
+Mind-Honed Mentor added.
+Pathbound Mystic added.
+Beckon the Starlight Forms added.
+Channeling of Moonlight added.
+Elephon Charger added.
+Scaled Dusk-Blade added.
+Priest of the Damned added.
+Ambitious Saboteur added.
+Lone-Wander Resurrector added.
+Twilight Reckoning added.
+Skills of the Shadowed added.
+Shine-Horn Lieutenant added.
+Blaze-Wield Bandit added.
+Wildfire Tamer added.
+Rage-Legion Brute added.
+Virtuous Vagabond added.
+Desperate Assault added.
+Gold and Glory added.
+First Dance of Twilight added.
+Grovebound Tender added.
+Trumpeting Captain added.
+Lurking Huntkeeper added.
+Far-Wander Ranger added.
+Blessings of Strength added.
+Primal Summons added.
+Rise of the Stampedes added.
+Bask in Glory added.
+Quirrellus, Prophet of the Phases added.
+Phasebound Emergence added.
+Rites of Twilight added.
+Imperial Shadowhand added.
+Might of the Elephon added.
+Tactical Gamble added.
+Tenoc, Huntcaller added.
+Grovekeeper Monument added.
+Neurevin, Herald of the Legions added.
+Mercenary Inquisitor added.
+Fanatical Heretic added.
+Siphon Technique added.
+Unyielding Resilience added.
+Naturalist Enhancements added.
+Balance of Dusk and Dawn added.
+Battleground Improviser added.
+Wild-Legion Deserter added.
+Support of the Legion added.
+Wildland Guardian added.
+Emnian, Legion Commander added.
+Dusk-Veiled Professional added.
+Ellevena, Rambunctious Heir added.
+Wild-Surge Beckoner added.
+Tanus, Eye of the Heavens added.
+Duskrite Priest added.
+Cian, Earth Whisperer added.
+Oremen, Wild-Keeper added.
+Garrison-Legion Quatemaster added.
+Clever Skywatcher added.
+Strixan Banner added.
+Elephon Banner added.
+Crocdilid Banner added.
+Bovidian Banner added.
+Ursaeic Banner added.
+The Might of Tanabon added.
+The Trials of Saint Mornus added.
+The First Hunt of Roag added.
+The Tale of Ol Barrot added.
+The Teachings of Aodhan added.
+Felidian Guidestone added.
+Mighty Fort Town added.
+Bustling Monastery added.
+Quaint Marsh Village added.
+Bannerless Town added.
+Woodland Hamlet added.
+Elephon Representative added.
+Strixan Representative added.
+Crocodilid Representative added.
+Bovidian Representative added.
+Ursaeic Representative added.
+Outskirts Inquisitor added.
+Twilight Reinforcer added.
+Decay Specialist added.
+Marshland Witch added.
+Dusk-Blessed Brutalist added.
+Bovidian Brutalist added.
+Rallying Turncoat added.
+Grizzled Rallier added.
+Ade, Heir to Nothing added.
+Elefetik, Wary Watcher added.
+Gifts of the Bayou added.
+Leuric, Glory Profiteer added.
+Aoife, the Warden Mother added.
+Tranquil Cove added.
+Blossoming Sands added.
+Rugged Highlands added.
+Bloodfell Caves added.
+Dismal Backwater added.
+Swiftwater Cliffs added.
+Jungle Hollow added.
+Wind-scarred Crag added.
+Thornwood Falls added.
+Bloodboiling Retribution added.
+Rhythms of the World added.
+Ways of the Wanderers added.
+The Path of Promise added.
+The Wild's First Whisper added.
+Mighty Strike added.
+Blessings of Moon and Star added.
+Riverbound Surge added.
+Shared Earnings added.
+Roar of the Wilds added.
+Avia, Imperial Capital added.
+The Book of Names added.
+
+CL06 — Scoured Barrens removed.
+CW01 — Feathered Acolyte removed.
+CW02 — Battlefront Scrounger removed.
+CW03 — Streetwise Nomad removed.
+CW04 — Bolstered Veteran removed.
+CW05 — Horned Beligerent removed.
+CW06 — Blessings Mystic removed.
+CW07 — Undaunted Avenger removed.
+CW08 — Sturdy Advancer removed.
+CW09 — Courageous Rallier removed.
+CW10 — Holy Holding removed.
+CW11 — Nomadic Defense removed.
+CW12 —Might-Wrought Boon removed.
+CW13 — Blessed Talon Sigil removed.
+CW14 — Glorious Stampede removed.
+CW15 — Reckless Inventory removed.
+CZ01 — Frontline Rejuvinator removed.
+CZ02 — Dusktouched Seeker removed.
+CZ03 — Dagger-Bite Stalker removed.
+CZ04 — Blood-Bound Mercenaries removed.
+CU01 — Holy Site Watcher removed.
+CU02 — Clever Swiper removed.
+CU03 — Bright-Eyed Adept removed.
+RU03 — Mind-Focused Warden removed.
+CU05 — Patient Trapper removed.
+CU06 — Downpour Leviathan removed.
+CU07 — Shimmer Guard Blessing removed.
+CU08 — Rune-Carved Guardian removed.
+CU09 — Graceful Intervention removed.
+CU10 — Guardian Instinct removed.
+CU11 — Jaw-Lock Glyph (Croc) removed.
+CU12 — Wayfinder's Meditation removed.
+CU13 — Marsh Sifting removed.
+CU14 — Holy Gust removed.
+CU15 — River-Hunter's Cloak removed.
+CZ05 — Grove Warden Rager removed.
+CZ06 — Tusked Reinforcements removed.
+CZ07 — Night-Veiled Font removed.
+CZ08 — Marsh-Lurker Ambush removed.
+CB01 — Ruin-Wander Watch removed.
+CB02 — Wound Wielder removed.
+CB03 — Muck-Wield Stalker removed.
+CB05 — Night-Blessed Inquisitor removed.
+CB04 — Strixan Siphon Priest removed.
+CB06 — Battlefield Finisher removed.
+CB07 — Greedy Poacher removed.
+CB08 — Death-Wreathed Terror removed.
+CB09 — Horn Bore removed.
+CB10 — Purge the Heresy removed.
+CB11 — Death Roll removed.
+CB12 — Wander-Rite Offering removed.
+CB13 — Call the Once Blessed removed.
+CB14 — Dark River Hiss removed.
+CB15 — Might-Marauder Helm removed.
+CZ09 — Marauder's Fee removed.
+CZ10 — Nature Surge removed.
+CZ12 — Night-Tuned Etchings removed.
+CZ11 — Night-Wind Spirits removed.
+CR01 — Eager-Horn Rookie removed.
+CR02 — Front-Wander Scout removed.
+CR03 — Rune-Charged Striker removed.
+CR04 — Dauntless Recruits removed.
+CR05 — Frenzy-Kin Reinforcer removed.
+CR06 — Rune-Guard Sharpshooter removed.
+CR07 — Battlefield Pilferer removed.
+CR08 — Rage-Legion Charger removed.
+CR09 — Enraged Blast removed.
+CR10 — Cleanse with Fire removed.
+CR11 — Trample the Opposition removed.
+CR12 — Trade In removed.
+CR13 — Claw-Striker Bracers removed.
+CR14 — Distraction Strike removed.
+CR15 — Unstoppable Force removed.
+CZ14 — Grove-Guard Sigils removed.
+CZ13 — High-Eyed Spirits removed.
+CZ16 — Battle-Tithe Priest removed.
+CZ15 — Vigor-Cloak Spirits removed.
+CG01 — Bright-Tusk Recruit removed.
+CG02 —Protective Charger removed.
+CG03 — Far-Wander Shaman removed.
+CG04 — Brighthollow Guard removed.
+CG05 — Marshland Hunter removed.
+CG06 — Watchful Game Tracker removed.
+CG07 — Mighty Deserter removed.
+CG08 — Surge-Seeker Wurm removed.
+CG09 — Venemous Repurpose (Bear) removed.
+CG10 — Surge of Might removed.
+CG11 — Rally-Legion Requisition removed.
+CG12 — Stomper-Legion Hammer removed.
+CG13 — Prepare an Ambush removed.
+CG14 — Nurturing Nature removed.
+CG15 — Feline Instinct removed.
+CZ18 — Raid Lieutenant removed.
+CZ18 — Quick-Arm Spirits removed.
+CZ20 — Wilderness Cultivator removed.
+CZ19 — Wild-Might Spirits removed.
+UW01 — Solid-Hoof Veteran removed.
+UW02 — Elephon Frontliner removed.
+UW03 — Blasphemer Detainer removed.
+UW04 — Brightlight Paladin removed.
+UW05 — Great-Horn Knight removed.
+UW06 — Pride-Heart Lieutenant removed.
+UW07 — Righteous Restoration removed.
+UW08 — Rallier's Boon removed.
+UW09 — Honorable Exile removed.
+UZ19 — GUR Arcun 1 removed.
+UZ20 — GUR Arcun 2 removed.
+UU01 — Bright-Grove Watcher removed.
+UU02 — River-Cloak Thief removed.
+UU03 — Stream-Warden Guide removed.
+UU04 — Dusk-Touched Pacifier removed.
+UU05 — Current-Wield Warden removed.
+UU06 — Mind-Wander Acolyte removed.
+UU07 — Enshrinement removed.
+UU08 — Drowned Efforts removed.
+UU09 — Ursaeic Repurposing removed.
+UZ14 — WUB Arcun 2 removed.
+UZ13 — WUB Arcun 1 removed.
+UB01 — Glorymarked Returner removed.
+UB02 — Tithe Enforcer removed.
+UB03 — Fear-Tuned Mauler removed.
+UB04 — Feared River-Lurker removed.
+UB05 — Night-Feather Inquisitor removed.
+UB06 — Bog-Wander Poisoner removed.
+UB07 — Pull from the Bogs removed.
+UB08 — Foul Tactics removed.
+UB09 — Fell the Blasphemer removed.
+UZ12 — RGW Arcun 2 removed.
+UZ11 — RGW Arcun 1 removed.
+UR01 — Wild Energy Apprentice removed.
+UR02 — Bovidian Barkeep removed.
+UR03 — Front-Legion Strategist removed.
+UR04 — Bold-Grove Elder removed.
+UR05 — Range-Legion Flanker removed.
+UR06 — Wander-Heart Mercenary removed.
+UR07 — Forced Conscription removed.
+UR08 — Fury of the Desperate removed.
+UR09 — Natural Pushback removed.
+UZ18 — RWB Arcun 2 removed.
+UZ17 — RWB Arcun 1 removed.
+UG01 — Elephon Vanguard removed.
+UG02 — Marshland Trawler removed.
+UG03 — Grovetown Mentor removed.
+UG04 — Equalizing Hunter removed.
+UG05 — Might-Legion Champion removed.
+UG06 — Wild-Wander Shepherd removed.
+UG07 — Chart the Game Trails removed.
+UG08 — Fostered Might removed.
+UG09 — Stampede of the Legion removed.
+UZ15 — BGU Arcun 1 removed.
+UZ16 — BGU Arcun 2 removed.
+RW01 — Front-Legion Surveyor removed.
+RW02 — Bishop of Persistence removed.
+RW03 — Stalwart Representative removed.
+RW04 — Gracious Wanderer removed.
+RW05 — Might of Faith removed.
+RW06 — Twilight Cleansing removed.
+RZ23 — The Paths of the Rivers removed.
+RU01 — Sacred Shrine Mason removed.
+RU02 — Riverbound Seer removed.
+CU04 — Mind-Honed Mentor removed.
+RU04 — Pathbound Mystic removed.
+RU05 — Beckon the Starlight Forms removed.
+RU06 — Channeling of Moonlight removed.
+UZ21 — Elephon Charger removed.
+RB01 — Scaled Dusk-Blade removed.
+RB02 — Priest of the Damned removed.
+RB03 — Ambitious Saboteur removed.
+RB04 — Lone-Wander Resurrector removed.
+RB05 — Twilight Reckoning removed.
+RB06 — Skills of the Shadowed removed.
+RZ07 — Shine-Horn Lieutenant removed.
+RR01 — Blaze-Wield Bandit removed.
+RR02 — Wildfire Tamer removed.
+RR03 — Rage-Legion Brute removed.
+RR04 — Virtuous Vagabond removed.
+RR05 — Desperate Assault removed.
+RR06 — Gold and Glory removed.
+RZ22 — First Dance of Twilight removed.
+RG01 — Grovebound Tender removed.
+RG02 —Trumpeting Captain removed.
+RG03 — Lurking Huntkeeper removed.
+RG04 — Far-Wander Ranger removed.
+RG05 — Blessings of Strength removed.
+RG06 — Primal Summons removed.
+RZ21 — Rise of the Stampedes removed.
+MW01 — Bask in Glory removed.
+MZ02 — Quirrellus, Prophet of the Phases removed.
+MU01 — Phasebound Emergence removed.
+MZ07 — Rites of Twilight removed.
+MB01 — Imperial Shadowhand removed.
+MZ06 — Might of the Elephon removed.
+MR01 — Tactical Gamble removed.
+MZ03 — Tenoc, Huntcaller removed.
+MG01 — Grovekeeper Monument removed.
+MZ01 — Neurevin, Herald of the Legions removed.
+UZ05 — WB Arcun 1 removed.
+UZ01 — UB Arcun 1 removed.
+UZ02 — UB Arcun 2 removed.
+UZ04 — RG Arcun 2 removed.
+UZ10 — GU Arcun 2 removed.
+UZ06 — WB Arcun 2 removed.
+UZ08 — Battleground Improviser removed.
+UZ03 — RG Arcun 1 removed.
+UZ07 — Support of the Legion removed.
+UZ09 — GU Arcun 1 removed.
+RZ06 — Emnian, Legion Commander removed.
+RZ01 — Dusk-Veiled Professional removed.
+RZ15 — Ellevena, Rambunctious Heir removed.
+RZ02 — Wild-Surge Beckoner removed.
+RZ09 — Tanus, Eye of the Heavens removed.
+RZ03 — Duskrite Priest removed.
+RZ18 — Cian, Earth Whisperer removed.
+RZ12 — Oremen, Wild-Keeper removed.
+RZ04 — Garrison-Legion Quatemaster removed.
+RZ05 — Clever Skywatcher removed.
+CA02 — Strixan Banner removed.
+CA01 — Elephon Banner removed.
+CA03 — Crocdilid Banner removed.
+CA04 — Bovidian Banner removed.
+CA05 — Ursaeic Banner removed.
+UZ26 — The Might of Tanabon removed.
+UZ27 — The Trials of Saint Mornus removed.
+UZ28 — The First Hunt of Roag removed.
+UZ29 — The Tale of Ol Barrot removed.
+UZ30 — The Teachings of Aodhan removed.
+CA06 — Felidian Guidestone removed.
+UL01 — Mighty Fort Town removed.
+UL02 — Bustling Monastery removed.
+UL03 — Quaint Marsh Village removed.
+UL04 — Bannerless Town removed.
+UL05 — Woodland Hamlet removed.
+RZ08 — Elephon Representative removed.
+RZ11 — Strixan Representative removed.
+RZ14 — Crocodilid Representative removed.
+RZ17 — Bovidian Representative removed.
+RZ20 — Ursaeic Representative removed.
+RZ10 — Outskirts Inquisitor removed.
+UZ22 — Twilight Reinforcer removed.
+RZ13 — Decay Specialist removed.
+UZ23 — Marshland Witch removed.
+RZ16 — Dusk-Blessed Brutalist removed.
+UZ24 — Bovidian Brutalist removed.
+RZ19 — Rallying Turncoat removed.
+UZ25 — Grizzled Rallier removed.
+MZ11 — Ade, Heir to Nothing removed.
+MX01 — Elefetik, Wary Watcher removed.
+MZ08 — Gifts of the Bayou removed.
+MZ04 — Leuric, Glory Profiteer removed.
+MZ05 — Aoife, the Warden Mother removed.
+CL01 — Tranquil Cove removed.
+CL05 — Blossoming Sands removed.
+CL04 — Rugged Highlands removed.
+CL03 — Bloodfell Caves removed.
+CL02 — Dismal Backwater removed.
+CL07 — Swiftwater Cliffs removed.
+CL08 — Jungle Hollow removed.
+CL09 — Wind-scarred Crag removed.
+CL10 — Thornwood Falls removed.
+MZ09 — Bloodboiling Retribution removed.
+MZ10 — Rhythms of the World removed.
+MZ12 — Ways of the Wanderers removed.
+RZ24 — The Path of Promise removed.
+RZ25 — The Wild's First Whisper removed.
+RZ26 — Mighty Strike removed.
+RZ27 — Blessings of Moon and Star removed.
+RZ28 — Riverbound Surge removed.
+RZ29 — Shared Earnings removed.
+RZ30 — Roar of the Wilds removed.
+ML01 — _, Imperial Capital removed.
+MA01 — The Book of Names removed.
+
+Food
+
+Treasure
+
+Elemental
+
+Clue
+
+Elemental
+
+Shrine
+type:  => Token Enchantment Artifact — Shrine
+
+Spirit Illusion
+
+
+VERSION 31 CHANGELOG
 ====================
 
 No changes.
