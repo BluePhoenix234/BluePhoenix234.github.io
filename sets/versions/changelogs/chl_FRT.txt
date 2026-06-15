@@ -1,4 +1,61 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+
+
+Elephon Frontliner
+rules_text: Whenever one or more tokens enter under your control, put a +1/+1 counter on this creature. => Whenever one or more tokens you control enter, put a +1/+1 counter on this creature.
+pt: 1/1 => 2/2
+
+Greathunt Champion
+rules_text: [i]Ferocious[/i] — At the beginning of combat on your turn, if you control a creature with power 4 or greater, put a menace counter on target creature you control.
+Spells you cast with mana value 4 or greater cost {1} less to cast => [i]Ferocious[/i] — At the beginning of combat on your turn, if you control a creature with power 4 or greater, put a menace counter on target creature you control.
+Spells you cast with mana value 4 or greater cost {1} less to cast.
+
+Dusk-Veiled Professional
+rules_text: Deathtouch
+Whenever this creature deals damage to a player, that player may discard half their hand rounded up. If they don't, they lose half their life rounded down. => Deathtouch
+Whenever this creature deals damage to a player, that player may discard half their hand rounded up. If they don't, they lose half their life rounded down. [i](If they have no cards in hand, they cannot discard any cards.)[/i]
+
+The Trials of Saint Mornus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+The Tale of Ol Barrot
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+II — Whenever a creature you control enters this turn, it gains haste.
+III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+II — Whenever a creature you control enters this turn, it gains haste.
+III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+
+Elephon Representative
+rules_text: Elephant and Soldier spells you cast cost {1} less to cast.
+Whenever a token you control enters, you may pay {1}. If you do, create an additional token of the same type. You may do this only once each turn. => Elephant and Soldier spells you cast cost {1} less to cast.
+Whenever a token you control enters, you may pay {1}. If you do, create an additional token of the same type. Do this only once each turn.
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Garrison-Legion Quartermaster added.
