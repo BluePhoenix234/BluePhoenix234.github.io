@@ -1,4 +1,408 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Ash Barrens added.
+
+
+Sturdy Advancer
+rules_text: Vigilance
+Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i] => Vigilance
+Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Courageous Rallier
+rules_text: When this creature enters, create a 1/1 blue Bird Cleric token with flying, and a 2/2 red Minotaur Warrior token.
+Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i] => When this creature enters, create a 1/1 blue Bird Cleric token with flying, and a 2/2 red Minotaur Warrior token.
+Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Frontline Rejuvinator
+rules_text: Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+When this creature enters, untap up to three target creatures. => Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+When this creature enters, untap up to three target creatures.
+
+Dauntless Recruits
+rules_text: Trample
+Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i] => Trample
+Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Rage-Legion Charger
+rules_text: Menace
+Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i] => Menace
+Stampede 2 [i](Whenever this creature attacks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Mighty Deserter
+rules_text: Flash
+Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i] => Flash
+Stampede 2 [i](Whenever this creature attacks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Stomper-Legion Hammer
+rules_text: Equipped creature gets +2/+2 and has stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+Equip {3} => Equipped creature gets +2/+2 and has stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+Equip {3}
+
+Core-Legion Wildguard
+rules_text: Vigilance
+Stampede 3 [i](Whenever this creature atracks, create a tapped and attacking 3/3 white Elephant Soldier creature token with a stun counter on it.)[/i] => Vigilance
+Stampede 3 [i](Whenever this creature attacks, create a tapped and attacking 3/3 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Range-Legion Flanker
+rules_text: Haste, reach
+Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i] => Haste, reach
+Stampede 2 [i](Whenever this creature attacks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Elephon Vanguard
+rules_text: Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i]
+When this creature enters, if you control three or more other creatures, draw a card. => Stampede 2 [i](Whenever this creature attacks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i]
+When this creature enters, if you control three or more other creatures, draw a card.
+
+Might-Legion Champion
+rules_text: Trample, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Stampede 3 [i](Whenever this creature atracks, create a tapped and attacking 3/3 white Elephant Soldier creature token with a stun counter on it.)[/i] => Trample, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Stampede 3 [i](Whenever this creature attacks, create a tapped and attacking 3/3 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Front-Legion Surveyor
+rules_text: Stampede 2 [i](Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i]
+When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card, put it into your hand, then shuffle. Otherwise, gain 3 life. => Stampede 2 [i](Whenever this creature attacks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter on it.)[/i]
+When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle. Otherwise, gain 4 life.
+pt: 2/2 => 3/3
+
+Stalwart Representative
+cost: {4}{W} => {3}{W}
+rules_text: Vigilance
+Boast — {2}{W}: Put a +1/+1 counter on each creature you control. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+Whenever an opponent casts their second spell each turn, create a Treasure token. => Boast — {4}{W}{W}: Put a +1/+1 counter on each creature you control. Creatures you control gain double strike until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+Whenever an opponent casts a spell, they may pay {1}. If they don't, create a Treasure token.
+
+Might of Faith
+cost: {3}{W} => {1}{W}
+rules_text: Enchanted creatures you control get +1/+1 for each enchantment attached to that creature.
+If you would create one or more tokens, instead create those tokens plus a Blessing token attached to a permanent you control. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i] => Enchanted creatures you control get +1/+1.
+Whenever a creature enters under your control create a Blessing token attached to that creature. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i]
+
+Twilight Cleansing
+cost: {4}{W}{W} => {3}{W}{W}
+rules_text: Choose one:
+• Exile all nonenchantment creatures.
+• Exile all nonenchanted creatures. => Choose one —
+• Exile all nonenchantment creatures.
+• Exile all nonenchanted creatures.
+
+The Paths of the Rivers
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+Draw a card for each creature card in your graveyard.
+Creatures you control can't be blocked until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+II — Until end of turn, whenever a land you control becomes tapped, you may surveil 1.
+III — Creatures you control can't be blocked until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+Draw a card for each creature card in your graveyard.
+Creatures you control can't be blocked until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+II — Until end of turn, whenever a land you control becomes tapped, you may surveil 1.
+III — Creatures you control can't be blocked until end of turn.
+
+Sacred Shrine Mason
+cost: {1}{U} => {U}
+rules_text: [i]Devout[/i] — At the beginning of your upkeep, if you control three or more enchantments, draw a card.
+{1}{U}, {T}: Create a colorless Shrine enchantment artifact token with “{T}: Add {C}. Spend this mana only to cast enchantment, instant, or sorcery spells.” => Flying
+[i]Devout[/i] — At the beginning of your upkeep, if you control three or more enchantments, draw a card.
+{1}{U}, {T}: Create a colorless Shrine enchantment artifact token with “{T}: Add {C}. Spend this mana only to cast enchantment, instant, or sorcery spells.”
+pt: 1/3 => 0/3
+
+Riverbound Seer
+rules_text: Whenever one or more counters are put on a creature you control, scry 2.
+{3}{U}: Draw X cards, where X is the number of different kinds of counters among permanents you control. => Whenever one or more counters are put on a creature you control, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{2}{U}, Remove X counters from among creatures you control: Draw X cards.
+
+Pathbound Mystic
+cost: {2}{U} => {1}{U}
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control. => {1}, Discard a card: This creature gains hexproof until end of turn.
+Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control.
+
+Beckon the Starlight Forms
+rules_text: Create X tokens that are copies of target creature you control and are enchantment Spirits in addition to their other types. => Create X tokens that are copies of target creature you control except they are enchantment Spirits in addition to their other types.
+
+Channeling of Moonlight
+rules_text: Whenever you tap an enchanted creature you control, scry 2.
+Whenever you activate an ability of an enchanted creature you control, you may pay {1}. If you do, draw a card. => When this enchantment enters, draw a card.
+Whenever an enchanted creature you control deals combat damage to a player, draw a card.
+
+Scaled Dusk-Blade
+rules_text: Deathtouch
+[i]Ferocious[/i] — At the beginning of your end step, if you control a creature with power 4 or greater, put a bounty counter on target creature an opponent controls.
+Whenever a creature with a bounty counter on it dies, draw a card and put a +1/+1 counter on target creature you control. => Deathtouch
+[i]Ferocious[/i] — Whenever a creature dies, if you control a creature with power 4 or greater, draw a card and put a +1/+1 counter on target creature you control.
+
+Priest of the Damned
+cost: {4}{B} => {2}{B}{B}
+
+Lone-Wander Resurrector
+cost: {3}{B} => {2}{B}
+rules_text: Whenever you cast a noncreature spell, put a bounty counter on target creature an opponent controls.
+Whenever a creature with a bounty counter on it dies, exile a card from your graveyard.
+You may cast creature cards exiled with this creature. They enter with a finality counter on them. => When this creature enters and whenever you cast a noncreature spell, you may exile a card from your graveyard.
+You may cast creature cards exiled with this creature. They enter with a finality counter on them.
+
+Twilight Reckoning
+cost: {5}{B}{B} => {4}{B}{B}
+
+Skills of the Shadowed
+cost: {3}{B}{B} => {2}{B}{B}
+rules_text: When this enchantment enters create two 2/2 black Crocodile Assassin creature tokens with deathtouch.
+At the beginning of your upkeep you may sacrifice a nonland permanent. If you do draw a card and put a deathtouch counter on target creature you control. => When this enchantment enters create two 1/2 black Crocodile Assassin creature tokens with deathtouch.
+At the beginning of your upkeep you may sacrifice a nonland permanent. If you do draw a card and put a deathtouch counter on target creature you control.
+
+Blaze-Wield Bandit
+rules_text: First strike, haste
+Boast — {X}{X}{R}: This creature deals X damage to target creature an opponent controls. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => First strike, haste
+Boast — {X}{R}{R}: This creature deals X damage to target creature an opponent controls. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Rage-Legion Brute
+rules_text: Stampede 1 [i](Whenever this creature atracks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+At the beginning of your second main phase, if you control two or more other Elephants, sacrifice this creature and add {R}. => Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+At the beginning of your second main phase, if you control two or more other Elephants, you may sacrifice this creature and add {R}.
+
+Virtuous Vagabond
+rules_text: Haste, menace
+At the beginning of your upkeep, exile the top card of your library. You may cast that card until end of turn. If you cast a creature spell this way, it gains haste. If you cast a permanent this way, return it to your hand at the beginning of your end step. => Menace, haste
+At the beginning of your upkeep, exile the top card of your library. You may cast that card until end of turn. If you cast a creature spell this way, it gains haste. If you cast a permanent this way, return it to your hand at the beginning of your end step.
+
+Desperate Assault
+rules_text: Untap all creatures you control. After this main phase, there is an additional combat phase.
+Attacking creatures get +1/+0 until end of turn. => Cast this spell only during a combat phase or a main phase.
+After this phase, there is an additional combat phase.
+At the beginning of each combat this turn, untap each creature that has attacked this turn.
+Whenever a creature attacks this turn, it gets +1/+0 until end of turn.
+
+First Dance of Twilight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each other player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each other player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types and gain flying.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each other player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each other player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types and gain flying.
+
+Grovebound Tender
+rules_text: Vigilance
+[i]Guardian[/i] — At the beginning of your end step, if you control a creature with power less than this creature's power, gain 3 life. => Vigilance, ward {1} 
+This spell can't be countered.
+[i]Guardian[/i] — At the beginning of your end step, if you control a creature with power less than this creature's power, gain 3 life.
+
+Lurking Huntkeeper
+cost: {3}{G}{G} => {1}{G}
+rules_text: Flash
+Trample
+When this creature enters, create a Food token.
+{1}{G}, Forage: Put three +1/+1 counters on this creature. Activate this ability only if it isn't combat. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i] => Trample
+This creature enters tapped with three stun counters on it.
+Whenever a stun counter is removed from this creature, if there are no other stun counters on it, you may have this creature fight target creature you don't control.
+pt: 4/4 => 6/6
+
+Far-Wander Ranger
+rules_text: You may play an additional land on each of your turns.
+{1}{G}: This creature gets +1/+3 until end of turn. => Reach
+You may play an additional land on each of your turns.
+{1}{G}: This creature gets +2/+2 until end of turn.
+pt: 2/2 => 2/4
+
+Primal Summons
+rules_text: Look at the top seven cards of your library. Put any number of creature cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order. => Look at the top seven cards of your library. Put any number of creature and/or enchantment cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+Rise of the Stampedes
+cost: {R}{G}{W} => {1}{R}{G}{W}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, creatures cost {1} less to cast.
+II — Draw X cards, where X is the number of creatures you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Elephant Soldier creature tokens.
+II — Draw a card for each creature you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, creatures cost {1} less to cast.
+II — Draw X cards, where X is the number of creatures you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Elephant Soldier creature tokens.
+II — Draw a card for each creature you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn.
+
+Bask in Glory
+cost: {1}{W}{W}{W} => {1}{W}{W}
+
+Quirrellus, Prophet of the Phases
+
+Phasebound Emergence
+cost: {6}{U}{U} => {5}{U}{U}
+rules_text: If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+The first spell you cast on each of your turns may be cast without paying it's mana cost. => If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Once during each of your turns, you may cast a spell without paying it's mana cost.
+
+Might of the Elephon
+rules_text: Creatures you control get +2/+2.
+When this enchantment enters, creatures you control gain vigilance until end of turn. If it's your second main phase, there is an additional combat phase after this phase, followed by an additional main phase. => Creatures you control get +2/+2.
+When this enchantment enters, untap all creatures you control, they gain vigilance until end of turn. If it's your second main phase, there is an additional combat phase after this phase, followed by an additional main phase.
+
+Tenoc, Huntcaller
+
+Grovekeeper Monument
+cost: {4}{G}{G} => {3}{G}{G}
+
+Neurevin, Herald of the Legions
+
+Emnian, Legion Commander
+
+Ellevena, Rambunctious Heir
+
+Wild-Surge Beckoner
+rules_text: Haste
+Whenever this creature becomes tapped, you may put a permanent card from your hand onto the battlefield tapped. => Haste
+Whenever this creature becomes tapped, mill a card. If a permanent card is milled this way, you may play it until end of turn. Spells cast this way cost {2} less to cast.
+
+Tanus, Eye of the Heavens
+rules_text: Flying
+If you would create one or more enchantment tokens, instead, you may create those tokens plus an additional token of the same type under your control.
+Whenever an enchantment you control leaves the battlefield, draw a card. => Flying
+If you would create one or more enchantment tokens, you may instead create that many tokens plus one.
+Whenever an enchantment you control leaves the battlefield, draw a card.
+
+Cian, Earth Whisperer
+
+Oremen, Wild-Keeper
+
+Clever Skywatcher
+rules_text: Reach
+Whenever one or more counters are put on this creature, draw a card. => Reach
+If one or more counters would be put on a creature you control, put that many counters on it plus a +1/+1 counter on it instead.
+Whenever one or more counters are put on this creature, draw a card.
+
+The Might of Tanabon
+
+The Trials of Saint Mornus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+II, III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+II, III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+The First Hunt of Roag
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Draw three cards, then discard two cards.
+Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Draw three cards, then discard two cards.
+II, III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Draw three cards, then discard two cards.
+Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Draw three cards, then discard two cards.
+II, III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls.
+
+The Tale of Ol Barrot
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+II — Whenever a creature you control enters this turn, it gains haste.
+III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+II, III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+II — Whenever a creature you control enters this turn, it gains haste.
+III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+II, III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+
+The Teachings of Aodhan
+
+Bovidian Representative
+rules_text: Haste
+Minotaur and Warrior spells you cast cost {1} less to cast.
+{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of vigilance or menace until end of turn. => Haste
+Minotaur and Warrior spells you cast cost {1} less to cast.
+{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of first strike or menace until end of turn.
+
+Decay Specialist
+rules_text: Whenever one or more cards are put into your graveyard from anywhere, gain 2 life and put a +1/+1 counter on target creature you control. => Whenever one or more cards are put into your graveyard from anywhere, gain 2 life and put a +1/+1 counter on target creature you control. This ability triggers only once per turn.
+
+Dusk-Blessed Brutalist
+rules_text: Flying, lifelink
+Boast — {1}{W}{B}{R}: Until end of turn, when this creature deals combat damage to a player, that player sacrifices a creature with the least power among creatures they control. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => Flying, lifelink
+Boast — {1}{W}{B}{R}: Target player sacrifices a creature with the least power among creatures they control. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Gifts of the Bayou
+rules_text: You may play lands and cast creature spells from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it.
+Whenever you cast an instant or sorcery spell, target player mills two cards. => You may play lands and cast creature spells from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it.
+Whenever you cast a spell, target player mills two cards.
+
+Leuric, Glory Profiteer
+
+Aoife, the Warden Mother
+
+Bloodboiling Retribution
+rules_text: When this enchantment enters, you may destroy up to one target creature.
+Whenever a creature you control dies, untap target creature you control. It gains +2/+0 and first strike until the end of your next turn. => When this enchantment enters, you may destroy up to one target creature.
+Whenever a creature you control dies, untap target creature you control. It gains +2/+0 and first strike until the end of your turn.
+
+Rhythms of the World
+rules_text: Whenever you cast a noncreature spell, this enchantment deals 2 damage to target player or planeswalker.
+Whenever a creature you control enters, draw a card.
+[i][i]Landfall[/i] — [/i]Whenever a land enters under your control, put a +1/+1 counter on up to two target creatures you control. => Whenever you cast a noncreature spell, this enchantment deals 2 damage to target player or planeswalker.
+Whenever a creature you control enters, draw a card.
+[i][i]Landfall[/i] — [/i]Whenever a land enters under your control, put a +1/+1 counter on each of up to two target creatures you control.
+
+The Path of Promise
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a menace counter on up to three creatures you control.
+II — Until end of turn, you may activate boast abilities as though they haven't been activated unless that ability has been activated two or more times this turn.
+III — Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, attacking creatures you control get +2/+0.
+II — Until end of turn, creatures you control can boast twice rather than once.
+III — Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a menace counter on up to three creatures you control.
+II — Until end of turn, you may activate boast abilities as though they haven't been activated unless that ability has been activated two or more times this turn.
+III — Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, attacking creatures you control get +2/+0.
+II — Until end of turn, creatures you control can boast twice rather than once.
+III — Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard.
+
+The Wild's First Whisper
+
+Mighty Strike
+type: Sorcery => Instant
+cost: {1}{R}{G}{W} => {R}{G}{W}
+rules_text: Deal 5 damage to any target creature. If that creature would die this turn exile it instead.
+Until end of turn, whenever a creature you control deals damage to an opponent, gain 1 life. => Mighty Strike deals 5 damage to any target creature. If that creature would die this turn exile it instead.
+Until end of turn, whenever a creature you control deals damage to an opponent, gain 1 life.
+
+Riverbound Surge
+rules_text: Creatures you control get +X/+X until end of turn, where X is the number of creature cards in your graveyard. => [i]Ferocious[/i] — If you control a creature with power 4 or greater, surveil 3.
+Creatures you control get +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+
+
+VERSION 37 CHANGELOG
 ====================
 
 
