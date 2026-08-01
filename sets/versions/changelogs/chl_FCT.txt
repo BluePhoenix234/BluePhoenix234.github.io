@@ -1,4 +1,146 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CG01 — Ilysian Caryatid added.
+CG02 — Snapping Creeper added.
+CA02 — Arcane Signet added.
+CL01 — Command Tower added.
+CL02 — Path of Ancestry added.
+CL03 — Terramorphic Expanse added.
+CL05 — Sheltering Landscape added.
+CL06 — Contaminated Landscape added.
+CL07 — Foreboding Landscape added.
+CL08 — Shattered Landscape added.
+CL09 — Bountiful Landscape added.
+CL04 — Evolving Wilds added.
+UA03 — Sol Ring added.
+UL02 — Arcane Sanctum added.
+UL01 — Jungle Shrine added.
+UL03 — Opulent Palace added.
+UL04 — Nomad Outpost added.
+UL05 — Frontier Bivouac added.
+RU08 — Curiosity Crafter added.
+RR02 — Agate Instigator added.
+RR06 — Scourge of the Throne added.
+RR04 — Deathbellow War Cry added.
+RR05 — Neheb, Dreadhorde Champion added.
+MR11 — Bovidian Raid-Caller added.
+MX04 — Roadbound added.
+RX39 — Storm-Tuned Striker added.
+RG03 — Floral Evoker added.
+RG04 — Rampart Architect added.
+RG05 — Tender Wildguide added.
+RG06 — Conclave Sledge-Captain added.
+RG07 — Jedit Ojanen of Efrava added.
+RG08 — Brightcap Badger added.
+RG12 — New added.
+RM07 — Octomancer added.
+RL05 — Mono Rare 1 added.
+RL06 — Glacial Fortress added.
+RL07 — Drowned Catacomb added.
+RL08 — Dragonskull Summit added.
+RL09 — Rootbound Crag added.
+RL10 — Sunpetal Grove added.
+RL11 — Isolated Chapel added.
+RL12 — Sulfur Falls added.
+RL13 — Woodland Cemetary added.
+RL14 — Clifftop Retreat added.
+RL15 — Hinterland Harbor added.
+RL16 — Tango Land 1 added.
+RL17 — Tango Land 2 added.
+RL18 — Tango Land 3 added.
+RL19 — Tango Land 4 added.
+RL20 — Tango Land 5 added.
+RL21 — Battlebond Land 1 added.
+RL22 — Battlebond Land 2 added.
+RL23 — Battlebond Land 3 added.
+RL24 — Battlebond Land 4 added.
+RL25 — Battlebond Land 5 added.
+RL26 — Filter Dual 1 added.
+RL27 — Filter Dual 2 added.
+RL28 — Filter Dual 3 added.
+RL29 — Filter Dual 4 added.
+RL30 — Filter Dual 5 added.
+RL31 — Filter Dual 6 added.
+RL32 — Filter Dual 7 added.
+RL33 — Filter Dual 8 added.
+RL34 — Filter Dual 9 added.
+RL35 — Filter Dual 10 added.
+RL36 — Pain Land 1 added.
+RL37 — Pain Land 2 added.
+RL38 — Pain Land 3 added.
+RL39 — Pain Land 4 added.
+RL40 — Pain Land 5 added.
+RL41 — Slow Land 1 added.
+RL42 — Slow Land 2 added.
+RL43 — Slow Land 3 added.
+RL44 — Slow Land 4 added.
+RL45 — Slow Land 5 added.
+RL46 — Bi-Cycle Land 1 added.
+RL47 — Bi-Cycle Land 2 added.
+RL48 — Bi-Cycle Land 3 added.
+RL49 — Bi-Cycle Land 4 added.
+RL50 — Bi-Cycle Land 5 added.
+RL51 — Misc. Dual 1 added.
+RL52 — Misc Dual 2 added.
+RL53 — Misc. Dual 3 added.
+RL54 — Misc Dual 4 added.
+RL55 — Misc Dual 5 added.
+RL56 — Mono Rare 2 added.
+RL57 — Mono Rare 3 added.
+RL58 — Mono Rare 4 added.
+RL59 — Mono Rare 5 added.
+MR07 — Moraug, Fury of Akoum added.
+MR08 — Neheb, the Eternal added.
+MG02 — Avatar of Growth added.
+MM02 — Archbishop Mysteron added.
+MM04 — _, the Raider King added.
+MM08 — RWB CMD 2 added.
+MM09 — BGU CMD 2 added.
+MM17 MediumWall Creature added.
+Tender Wildguide added.
+
+MR11 — New removed.
+MX04 — New removed.
+MM02 — WUB CMD 1 removed.
+MM04 — RWB CMD 1 removed.
+MM08 — BGU CMD 2 removed.
+MM09 — RWB CMD 2 removed.
+
+RM02 — Dual Cat 2
+rules_text:  => Offspring cost [i](You may cost in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+
+RM05 — Dual Cat 5
+
+MM03 — BGU CMD 1
+
+MM07 — WUB CMD 2
+type: Legendary Creature => Legendary Creature — Bird Artificer
+cost: {W}{U}{B} => {1}{W}{U}{B}
+rules_text: Bird [i](Crow, coast bird, or other non-Owl)[/i], or another creature type from the doc that has WUB.
+Enchantments but differ from the other two. => Flying, vigilance, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+You may cast enchantment spells from your graveyard by paying {2} in addition to their other costs. If you cast an enchantment spell this way, it enters with a finality counter on it and becomes an artifact Shrine in addition to its other types. [i](If a permanent with a finality counter on it would be put into a graveyard, exile it instead.)[/i]
+pt:  => 2/4
+
+MM13 — BGU CMD 3
+
+MM14 — RWB CMD 3
+cost: {R}{W}{B} => {1}{R}{W}{B}
+rules_text: Maybe spellslingery, can have boast [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => Whenever this creature attacks, add {R}, {W}, or {B} for each other attacking creature you control. This mana can only be spent to cast noncreature spells and activate boast abilities
+Whenever you cast an instant or sorcery spell, or activate an ability during combat, target opponent loses 1 life and you gain 1 life.
+pt:  => 3/3
+
+Deck 3 — BGU
+rules_text: - Crocodiles
+- [/i][i]Ferocious[/i][i]
+- _
+- _ => - Crocodiles
+- [/i][i]Ferocious[/i][i]
+- Rangers
+- _
+
+
+VERSION 3 CHANGELOG
 ====================
 
 RW13 — Arms Handler added.

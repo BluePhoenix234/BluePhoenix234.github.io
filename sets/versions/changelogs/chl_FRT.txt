@@ -1,4 +1,243 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+Marsh-Lurker Ambush
+rules_text: Put a +1/+1 counter on target creature you control. Then, that creature deals damage equal to its power to target creature an opponent controls. If an opponent's creature would die this way, scry 4. => Put a +1/+1 counter on target creature you control. Then, that creature deals damage equal to its power to target creature an opponent controls. When the creature you don't control dies this turn, scry 4.
+
+Battle-Tithe Priest
+pt: 1/2 => 2/3
+
+Marshland Hunter
+rules_text: Reach
+[i]Ferocious[/i] — When this creature enters, if you control a creature with power 4 or greater, this creature gets +0/+1 until end of turn and fights target creature you don't control.. => Reach
+[i]Ferocious[/i] — {2}{G}: This creature gets +0/+1 until end of turn and fights target creature you don't control. Activate this ability only if you control a creature with power 4 or greater
+
+Raid Lieutenant
+pt: 2/2 => 3/3
+
+Pride-Heart Lieutenant
+rules_text: Stampede 2, stampede 2 [i](Whenever this creature atracks, create two tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)[/i] => Stampede 2, stampede 2 [i](Whenever this creature attacks, create two tapped and attacking 2/2 white Elephant Soldier creature tokens with a stun counter on them.)[/i]
+
+Fear-Tuned Mauler
+rules_text: Boast — {2}{B}, Sacrifice a nonland permanent: Creatures target opponent controls get -1/-1 until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+Whenever one or more creatures you control die or a card leave your graveyard, each opponent loses 1 life and you gain 1 life. => Boast — {2}{B}, Sacrifice a nonland permanent: Creatures target opponent controls get -1/-1 until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+Whenever one or more creatures you control die or a card leaves your graveyard, each opponent loses 1 life and you gain 1 life.
+
+Grovetown Mentor
+rules_text: Reach
+{2}: Distribute up to two +1/+1 counters among tapped creatures you control. Activate this ability only as a sorcery. => Reach
+{3}: Distribute up to two +1/+1 counters among tapped creatures you control. Activate this ability only as a sorcery.
+
+The Paths of the Rivers
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+II — Until end of turn, whenever a land you control becomes tapped, you may surveil 1.
+III — Creatures you control can't be blocked until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+Until end of turn, whenever a land you control becomes tapped, you may surveil 1.
+Creatures you control can't be blocked until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+II — Until end of turn, whenever a land you control becomes tapped, you may surveil 1.
+III — Creatures you control can't be blocked until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for an Island, Swamp, or Forest card, put it onto the battlefield then shuffle.
+Until end of turn, whenever a land you control becomes tapped, you may surveil 1.
+Creatures you control can't be blocked until end of turn.
+
+First Dance of Twilight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each other player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types and gain flying. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player may draw a card. You gain 2 life for each player that draws a card this way.
+You may discard a card. If you do, each other player discards a card and loses 2 life.
+Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types and gain flying.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may draw a card. You gain 2 life for each player that draws a card this way.
+II — You may discard a card. If you do, each other player discards a card and loses 2 life.
+III — Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types and gain flying. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player may draw a card. You gain 2 life for each player that draws a card this way.
+You may discard a card. If you do, each other player discards a card and loses 2 life.
+Until end of turn, enchantments you control become 3/3 Spirit creatures in addition to their other types and gain flying.
+
+Rise of the Stampedes
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Elephant Soldier creature tokens.
+II — Draw a card for each creature you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 1/1 white Elephant Soldier creature tokens.
+Draw a card for each creature you control.
+Creatures you control get +1/+1 for each creature you control until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Elephant Soldier creature tokens.
+II — Draw a card for each creature you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 1/1 white Elephant Soldier creature tokens.
+Draw a card for each creature you control.
+Creatures you control get +1/+1 for each creature you control until end of turn.
+
+Balance of Dusk and Dawn
+rules_text: Whenever another nonland permanent leaves the battlefield or a nonland permanent card leaves your graveyard, you may pay {1}. If you do, target opponent discards a card or loses 2 life. => Whenever another nonland permanent leaves the battlefield or a nonland permanent card leaves your graveyard, target opponent discards a card or loses 2 life.
+
+Strixan Banner
+rules_text: {T}: Add {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this artifact: Draw a card. => As this land enters, you may behold a Bird or a Cleric. If you do, draw a card. [i](To behold a Bird or a Cleric, choose a Bird or a Cleric you control or reveal a Bird or a Cleric card from your hand.)[/i]
+{T}: Add {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this artifact: Draw a card.
+
+Elephon Banner
+rules_text: {T}: Add {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this artifact: Draw a card. => As this land enters, you may behold an Elephant or a Soldier. If you do, draw a card. [i](To behold an Elephant or a Soldier, choose an Elephant or a Soldier you control or reveal an Elephant or a Soldier card from your hand.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this artifact: Draw a card.
+
+Crocdilid Banner
+rules_text: {T}: Add {B}, {G}, or {U}.
+{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card. => As this land enters, you may behold a Crocodile or a Ranger. If you do, draw a card. [i](To behold a Crocodile or a Ranger, choose a Crocodile or a Ranger you control or reveal a Crocodile or a Ranger card from your hand.)[/i]
+{T}: Add {B}, {G}, or {U}.
+{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card.
+
+Bovidian Banner
+rules_text: {T}: Add {R}, {W}, or {B}.
+{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card. => As this land enters, you may behold a Minotaur or a Warrior. If you do, draw a card. [i](To behold a Minotaur or a Warrior, choose a Minotaur or a Warrior you control or reveal a Minotaur or a Warrior card from your hand.)[/i]
+{T}: Add {R}, {W}, or {B}.
+{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card.
+
+Ursaeic Banner
+rules_text: {T}: Add {G}, {U}, or {R}.
+{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card. => As this land enters, you may behold a Bear or a Druid. If you do, draw a card. [i](To behold a Bear or a Druid, choose a Bear or a Druid you control or reveal a Bear or a Druid card from your hand.)[/i]
+{T}: Add {G}, {U}, or {R}.
+{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card.
+
+The Might of Tanabon
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier creature tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier creature tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+II — Create two 2/2 white Elephant Soldier creature tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, whenever you cast a creature spell, gain 1 life.
+Create two 2/2 white Elephant Soldier creature tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+
+The Trials of Saint Mornus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+II, III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+II, III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+The First Hunt of Roag
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Draw three cards, then discard two cards.
+II, III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Draw three cards, then discard two cards.
+Target creature you control gets +2/+2 until end of turn. It fights target creature an opponent controls.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Draw three cards, then discard two cards.
+II, III — Double the power and toughness of target creature you control until end of turn. It fights target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and your choice of a reach or deathtouch counter on target creature you control.
+Draw three cards, then discard two cards.
+Target creature you control gets +2/+2 until end of turn. It fights target creature an opponent controls.
+
+The Tale of Ol Barrot
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+II, III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+II, III — Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Weapon token and attach it to target creature you control. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.)[/i]
+Whenever a creature you control enters this turn, it gains haste.
+Choose a creature you control. That creature deals damage equal to its power to each creature you don't control. Sacrifice the chosen creature.
+
+The Teachings of Aodhan
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+II — Put a +1/+1 counter on each creature you control.
+III — Creatures you control gain vigilance and menace until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+Put a +1/+1 counter on each creature you control.
+Creatures you control gain vigilance and menace until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+II — Put a +1/+1 counter on each creature you control.
+III — Creatures you control gain vigilance and menace until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+Put a +1/+1 counter on each creature you control.
+Creatures you control gain vigilance and menace until end of turn.
+
+Crocodilid Representative
+rules_text: Crocodile and Ranger spells you cast cost {1} less to cast.
+Whenever you put one or more counters on a creature you control, you may put the same number of counters of the same types on another creature you control. This ability triggers only once each turn. => Crocodile and Ranger spells you cast cost {1} less to cast.
+Whenever you put one or more counters on a creature you control, you may put the same number of counters of the same types on another creature you control. Do this only once each turn.
+pt: 3/3 => 2/3
+
+The Path of Promise
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, attacking creatures you control get +2/+0.
+II — Until end of turn, creatures you control can boast twice rather than once.
+III — Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, attacking creatures you control get +2/+0.
+Until end of turn, creatures you control can boast twice rather than once.
+Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — As long as you control this saga, attacking creatures you control get +2/+0.
+II — Until end of turn, creatures you control can boast twice rather than once.
+III — Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+As long as you control this saga, attacking creatures you control get +2/+0.
+Until end of turn, creatures you control can boast twice rather than once.
+Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard.
+
+The Wild's First Whisper
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Distribute X +1/+1 counters among creatures and lands you control, where X is the number of lands you control.
+II — Put up to two land cards from your hand onto the battlefield tapped.
+III — Draw cards equal to half the number of lands you control rounded up. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Distribute X +1/+1 counters among creatures and lands you control, where X is the number of lands you control.
+Put up to two land cards from your hand onto the battlefield tapped.
+Draw cards equal to half the number of lands you control rounded up.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Distribute X +1/+1 counters among creatures and lands you control, where X is the number of lands you control.
+II — Put up to two land cards from your hand onto the battlefield tapped.
+III — Draw cards equal to half the number of lands you control rounded up. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Distribute X +1/+1 counters among creatures and lands you control, where X is the number of lands you control.
+Put up to two land cards from your hand onto the battlefield tapped.
+Draw cards equal to half the number of lands you control rounded up.
+
+Crocodile Assassin
+pt: 2/2 => 1/2
+
+Ash Barrens
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Ash Barrens added.
