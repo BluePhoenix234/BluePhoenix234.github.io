@@ -1,4 +1,34 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+MM03 — Syr Conma, of Second Chances added.
+MM09 — _, Tired Ol' Roamer added.
+
+CL04 — Evolving Wilds removed.
+MM03 — BGU CMD 1 removed.
+MM09 — BGU CMD 2 removed.
+MM17 MediumWall Creature removed.
+Deck 5 — GUR removed.
+Deck 4 — RWB removed.
+Deck 3 — BGU removed.
+Deck 2 — WUB removed.
+Deck 1 — RGW removed.
+
+MM13 — BGU CMD 3
+type: Legendary Creature => Legendary Creature — Snake Assassin
+rules_text: Bird, Snake, or other type from doc. [i](try to avoid a canine there are two other canine commanders)[/i]
+Maybe something with sneaky or espionage vibes? => Deathtouch
+{2}{U}: Target creature can't be blocked this turn.
+Whenever a creature you control with deathtouch deals combat damage to a player, you may untap target creature you control and surveil 2.
+pt:  => 3/3
+
+MM14 — RWB CMD 3
+rules_text: Whenever this creature attacks, add {R}, {W}, or {B} for each other attacking creature you control. This mana can only be spent to cast noncreature spells and activate boast abilities
+Whenever you cast an instant or sorcery spell, or activate an ability during combat, target opponent loses 1 life and you gain 1 life. => Whenever this creature attacks, add {R}, {W}, or {B} for each other attacking creature you control. You don't lose this mana as steps and phases end. This mana can only be spent to cast noncreature spells and activate boast abilities.
+Whenever you cast an instant or sorcery spell, or activate an ability that isn't a mana ability during combat, target opponent loses 1 life and you gain 1 life.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 CG01 — Ilysian Caryatid added.
