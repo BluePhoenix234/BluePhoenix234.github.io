@@ -12,7 +12,7 @@
 		<card>
 			<name>CG01 — Ilysian Caryatid</name>
 			<text>{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.</text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/199_CG01 — Ilysian Caryatid.jpg" num="199">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/19.jpg" num="199">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -29,7 +29,7 @@
 		<card>
 			<name>CG02 — Snapping Creeper</name>
 			<text>Landfall — Whenever a land you control enters, this creature gains vigilance until end of turn.</text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/200_CG02 — Snapping Creeper.jpg" num="200">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/20.jpg" num="200">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -46,7 +46,7 @@
 		<card>
 			<name>CA02 — Arcane Signet</name>
 			<text></text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/284_CA02 — Arcane Signet.jpg" num="284">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/34.jpg" num="284">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -60,7 +60,7 @@
 		<card>
 			<name>CL01 — Command Tower</name>
 			<text></text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/310_CL01 — Command Tower.jpg" num="310">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/38.jpg" num="310">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -74,7 +74,7 @@
 		<card>
 			<name>CL02 — Path of Ancestry</name>
 			<text></text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/311_CL02 — Path of Ancestry.jpg" num="311">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/39.jpg" num="311">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -88,7 +88,7 @@
 		<card>
 			<name>CL03 — Terramorphic Expanse</name>
 			<text></text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/312_CL03 — Terramorphic Expanse.jpg" num="312">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/40.jpg" num="312">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.
 Cycling {R}{G}{W} ({R}{G}{W}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/314_CL05 — Sheltering Landscape.jpg" num="314">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/41.jpg" num="314">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -121,7 +121,7 @@ Cycling {R}{G}{W} ({R}{G}{W}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.
 Cycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/315_CL06 — Contaminated Landscape.jpg" num="315">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/42.jpg" num="315">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -138,7 +138,7 @@ Cycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Swamp, Forest, or Island card, put it onto the battlefield tapped, then shuffle.
 Cycling {B}{G}{U} ({B}{G}{U}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/316_CL07 — Foreboding Landscape.jpg" num="316">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/43.jpg" num="316">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -155,7 +155,7 @@ Cycling {B}{G}{U} ({B}{G}{U}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Mountain, Plains, or Swamp card, put it onto the battlefield tapped, then shuffle.
 Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/317_CL08 — Shattered Landscape.jpg" num="317">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/44.jpg" num="317">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -172,7 +172,7 @@ Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Forest, Island, or Mountain card, put it onto the battlefield tapped, then shuffle.
 Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/318_CL09 — Bountiful Landscape.jpg" num="318">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/45.jpg" num="318">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -187,7 +187,7 @@ Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>UA03 — Sol Ring</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/297_UA03 — Sol Ring.jpg" num="297">FCT</set>
+			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/110.jpg" num="297">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -201,7 +201,7 @@ Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>UL02 — Arcane Sanctum</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/383_UL02 — Arcane Sanctum.jpg" num="383">FCT</set>
+			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/123.jpg" num="383">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -215,7 +215,7 @@ Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>UL01 — Jungle Shrine</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/382_UL01 — Jungle Shrine.jpg" num="382">FCT</set>
+			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/124.jpg" num="382">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -229,7 +229,7 @@ Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>UL03 — Opulent Palace</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/384_UL03 — Opulent Palace.jpg" num="384">FCT</set>
+			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/125.jpg" num="384">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -243,7 +243,7 @@ Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>UL04 — Nomad Outpost</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/385_UL04 — Nomad Outpost.jpg" num="385">FCT</set>
+			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/126.jpg" num="385">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -257,7 +257,7 @@ Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>UL05 — Frontier Bivouac</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/386_UL05 — Frontier Bivouac.jpg" num="386">FCT</set>
+			<set rarity="uncommon" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/127.jpg" num="386">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -272,7 +272,7 @@ Cycling {G}{U}{R} ({G}{U}{R}, Discard this card: Draw a card.)</text>
 			<name>RW13 — Arms Handler</name>
 			<text>When this creature enters, create three Weapon tokens. (They&apos;re equipment artifacts with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
 Boast — {0}: Attach target Equipment you control to this creature. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/85_RW13 — Arms Handler.jpg" num="85">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/142.jpg" num="85">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -290,7 +290,7 @@ Boast — {0}: Attach target Equipment you control to this creature. (Activate o
 			<name>RW14 — Badlands Surveyor</name>
 			<text>First strike
 Boast — {1}: If an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped, then shuffle. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/86_RW14 — Badlands Surveyor.jpg" num="86">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/143.jpg" num="86">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -309,7 +309,7 @@ Boast — {1}: If an opponent controls more lands than you, you may search your 
 			<text>Flying
 You have no maximum hand size.
 Whenever a creature token you control deals combat damage to a player, draw a card.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/116_RU08 — Curiosity Crafter.jpg" num="116">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/164.jpg" num="116">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -327,7 +327,7 @@ Whenever a creature token you control deals combat damage to a player, draw a ca
 			<name>RB14 — New</name>
 			<text>When this artifact enters, create a Weapon token. (It&apos;s an equipment artifacts with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
 Whenever one or more equipped creatures you control deal combat damage to a player, you draw a card and lose 1 life.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/149_RB14 — New.jpg" num="149">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/188.jpg" num="149">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -344,7 +344,7 @@ Whenever one or more equipped creatures you control deal combat damage to a play
 			<name>RR02 — Agate Instigator</name>
 			<text>Offspring {1}{R} (You may pay an additional {1}{R} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 Whenever another creature you control enters, this creature deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/175_RR02 — Agate Instigator.jpg" num="175">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/198.jpg" num="175">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -361,7 +361,7 @@ Whenever another creature you control enters, this creature deals 1 damage to ea
 		<card>
 			<name>RR06 — Scourge of the Throne</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/179_RR06 — Scourge of the Throne.jpg" num="179">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/202.jpg" num="179">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -377,7 +377,7 @@ Whenever another creature you control enters, this creature deals 1 damage to ea
 		<card>
 			<name>RR04 — Deathbellow War Cry</name>
 			<text>Search your library for up to four Minotaur creature cards with different names, put them onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/177_RR04 — Deathbellow War Cry.jpg" num="177">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/203.jpg" num="177">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -394,7 +394,7 @@ Whenever another creature you control enters, this creature deals 1 damage to ea
 			<name>RR05 — Neheb, Dreadhorde Champion</name>
 			<text>Trample
 Whenever Neheb deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much . Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/178_RR05 — Neheb, Dreadhorde Champion.jpg" num="178">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/204.jpg" num="178">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -411,7 +411,7 @@ Whenever Neheb deals combat damage to a player or planeswalker, you may discard 
 		<card>
 			<name>MR11 — Bovidian Raid-Caller</name>
 			<text>Whenever you activate a boast ability during combat, untap all creatures you control that attacked this phase. After this phase, there is an additional combat phase.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/173_MR11 — Bovidian Raid-Caller.jpg" num="173">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/207.jpg" num="173">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -428,7 +428,7 @@ Whenever Neheb deals combat damage to a player or planeswalker, you may discard 
 		<card>
 			<name>RR12 — New</name>
 			<text>Whenever a creature you control deals combat damage to an opponent, create a Treasure token.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/185_RR12 — New.jpg" num="185">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/208.jpg" num="185">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -446,7 +446,7 @@ Whenever Neheb deals combat damage to a player or planeswalker, you may discard 
 			<text>Vigilance, lifelink
 At the beginning of combat on your turn, each creature you control gains all boast abilities of other creatures you control until end of turn.
 Boast abilities you activate cost {1} less to activate.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/72_MX04 — Roadbound.jpg" num="72">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/213.jpg" num="72">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -464,7 +464,7 @@ Boast abilities you activate cost {1} less to activate.</text>
 			<name>RX39 — Storm-Tuned Striker</name>
 			<text>At the beginning of combat on your turn, add an amount of {R} equal to this creature&apos;s power. Until end of combat, you don&apos;t lose mana as steps and phases end.
 Boast — {2}{R}{R}: This creature gains double strike and trample until end of turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/188_RX39 — Storm-Tuned Striker.jpg" num="188">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/214.jpg" num="188">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -482,7 +482,7 @@ Boast — {2}{R}{R}: This creature gains double strike and trample until end of 
 			<name>RG03 — Floral Evoker</name>
 			<text>Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.
 {G}, Discard a creature card: Return target land card from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/217_RG03 — Floral Evoker.jpg" num="217">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/228.jpg" num="217">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -500,7 +500,7 @@ Boast — {2}{R}{R}: This creature gains double strike and trample until end of 
 			<name>RG04 — Rampart Architect</name>
 			<text>Whenever this creature enters or attacks, create a 1/3 white Wall creature token with defender.
 Whenever a creature you control with defender dies, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/218_RG04 — Rampart Architect.jpg" num="218">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/229.jpg" num="218">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -519,7 +519,7 @@ Whenever a creature you control with defender dies, you may search your library 
 			<text>Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 {T}: Add one mana of any color.
 {T}: Put a +1/+1 counter on this creature.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/219_RG05 — Tender Wildguide.jpg" num="219">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/230.jpg" num="219">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -538,7 +538,7 @@ Whenever a creature you control with defender dies, you may search your library 
 			<text>Backup 1, backup 1, backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn. Each backup ability triggers separately.)
 Trample
 Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/220_RG06 — Conclave Sledge-Captain.jpg" num="220">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/231.jpg" num="220">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -556,7 +556,7 @@ Whenever this creature deals combat damage to a player, put that many +1/+1 coun
 			<name>RG07 — Jedit Ojanen of Efrava</name>
 			<text>Forestwalk (This creature can&apos;t be blocked as long as defending player controls a Forest.)
 Whenever Jedit Ojanen attacks or blocks, create a 2/2 green Cat Warrior creature token with forestwalk.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/221_RG07 — Jedit Ojanen of Efrava.jpg" num="221">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/232.jpg" num="221">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -578,7 +578,7 @@ At the beginning of your end step, create a 1/1 green Saproling creature token.
 ---
 
 Create two 1/1 green Saproling creature tokens. (Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/222_RG08 — Brightcap Badger.jpg" num="222">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/233.jpg" num="222">FCT</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -593,29 +593,9 @@ Create two 1/1 green Saproling creature tokens. (Then exile this card. You may c
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RG12 — New</name>
-			<text>Flash
-Trample
-When this creature enters create a food token.
-{1}{G}, Forage: Put three +1/+1 counters on this creature. Activate this ability only if it isn&apos;t combat. (To forage, exile three cards from your graveyard or sacrifice a Food.)</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/226_RG12 — New.jpg" num="226">FCT</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>3GG</manacost>
-				<cmc>5</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>RM01 — Dual Cat 1</name>
 			<text>Whenever a creature enters your graveyard you may tap this creature and another creature you control. If you do, create a Blessing token attached to target permanent you control. (It&apos;s a colorless Aura token with, &quot;Enchanted permanent has ward {1}.&quot;)</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/263_RM01 — Dual Cat 1.jpg" num="263">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/244.jpg" num="263">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -632,7 +612,7 @@ When this creature enters create a food token.
 		<card>
 			<name>RM02 — Dual Cat 2</name>
 			<text>Offspring cost (You may cost in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/264_RM02 — Dual Cat 2.jpg" num="264">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/245.jpg" num="264">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -649,7 +629,7 @@ When this creature enters create a food token.
 			<name>RM03 — Deadland Scavenger</name>
 			<text>When this creature enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 Whenever an equipped creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/265_RM03 — Deadland Scavenger.jpg" num="265">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/246.jpg" num="265">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -666,7 +646,7 @@ Whenever an equipped creature you control dies, each opponent loses 1 life and y
 		<card>
 			<name>RM04 — Dual Cat 4</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/266_RM04 — Dual Cat 4.jpg" num="266">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/247.jpg" num="266">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -682,7 +662,7 @@ Whenever an equipped creature you control dies, each opponent loses 1 life and y
 		<card>
 			<name>RM05 — Dual Cat 5</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/267_RM05 — Dual Cat 5.jpg" num="267">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/248.jpg" num="267">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -699,7 +679,7 @@ Whenever an equipped creature you control dies, each opponent loses 1 life and y
 			<name>RM07 — Octomancer</name>
 			<text>Gift an Octopus (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create an 8/8 blue Octopus creature token.)
 At the beginning of each end step, create a token that&apos;s a copy of target creature token that entered the battlefield this turn.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/269_RM07 — Octomancer.jpg" num="269">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/250.jpg" num="269">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -716,7 +696,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL02 — Exotic Orchard</name>
 			<text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/324_RL02 — Exotic Orchard.jpg" num="324">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/266.jpg" num="324">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -730,7 +710,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL05 — Mono Rare 1</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/327_RL05 — Mono Rare 1.jpg" num="327">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/269.jpg" num="327">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -744,7 +724,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL06 — Glacial Fortress</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/328_RL06 — Glacial Fortress.jpg" num="328">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/270.jpg" num="328">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -758,7 +738,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL07 — Drowned Catacomb</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/329_RL07 — Drowned Catacomb.jpg" num="329">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/271.jpg" num="329">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -772,7 +752,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL08 — Dragonskull Summit</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/330_RL08 — Dragonskull Summit.jpg" num="330">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/272.jpg" num="330">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -786,7 +766,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL09 — Rootbound Crag</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/331_RL09 — Rootbound Crag.jpg" num="331">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/273.jpg" num="331">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -800,7 +780,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL10 — Sunpetal Grove</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/332_RL10 — Sunpetal Grove.jpg" num="332">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/274.jpg" num="332">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -814,7 +794,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL11 — Isolated Chapel</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/333_RL11 — Isolated Chapel.jpg" num="333">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/275.jpg" num="333">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -828,7 +808,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL12 — Sulfur Falls</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/334_RL12 — Sulfur Falls.jpg" num="334">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/276.jpg" num="334">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -842,7 +822,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL13 — Woodland Cemetary</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/335_RL13 — Woodland Cemetary.jpg" num="335">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/277.jpg" num="335">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -856,7 +836,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL14 — Clifftop Retreat</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/336_RL14 — Clifftop Retreat.jpg" num="336">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/278.jpg" num="336">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -870,7 +850,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL15 — Hinterland Harbor</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/337_RL15 — Hinterland Harbor.jpg" num="337">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/279.jpg" num="337">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -884,7 +864,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL16 — Tango Land 1</name>
 			<text>Prob UB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/338_RL16 — Tango Land 1.jpg" num="338">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/280.jpg" num="338">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -898,7 +878,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL17 — Tango Land 2</name>
 			<text>Prob RG</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/339_RL17 — Tango Land 2.jpg" num="339">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/281.jpg" num="339">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -912,7 +892,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL18 — Tango Land 3</name>
 			<text>Prob WB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/340_RL18 — Tango Land 3.jpg" num="340">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/282.jpg" num="340">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -926,7 +906,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL19 — Tango Land 4</name>
 			<text>Prob RW</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/341_RL19 — Tango Land 4.jpg" num="341">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/283.jpg" num="341">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -940,7 +920,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL20 — Tango Land 5</name>
 			<text>Prob GU</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/342_RL20 — Tango Land 5.jpg" num="342">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/284.jpg" num="342">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -954,7 +934,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL21 — Battlebond Land 1</name>
 			<text>UB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/343_RL21 — Battlebond Land 1.jpg" num="343">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/285.jpg" num="343">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -968,7 +948,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL22 — Battlebond Land 2</name>
 			<text>RG</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/344_RL22 — Battlebond Land 2.jpg" num="344">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/286.jpg" num="344">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -982,7 +962,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL23 — Battlebond Land 3</name>
 			<text>WB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/345_RL23 — Battlebond Land 3.jpg" num="345">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/287.jpg" num="345">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -996,7 +976,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL24 — Battlebond Land 4</name>
 			<text>RW</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/346_RL24 — Battlebond Land 4.jpg" num="346">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/288.jpg" num="346">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1010,7 +990,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 		<card>
 			<name>RL25 — Battlebond Land 5</name>
 			<text>GU</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/347_RL25 — Battlebond Land 5.jpg" num="347">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/289.jpg" num="347">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1025,7 +1005,7 @@ At the beginning of each end step, create a token that&apos;s a copy of target c
 			<name>RL26 — Filter Dual 1</name>
 			<text>Shadowmoor filter vs Odyssey filter
 Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/348_RL26 — Filter Dual 1.jpg" num="348">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/290.jpg" num="348">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1039,7 +1019,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL27 — Filter Dual 2</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/349_RL27 — Filter Dual 2.jpg" num="349">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/291.jpg" num="349">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1053,7 +1033,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL28 — Filter Dual 3</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/350_RL28 — Filter Dual 3.jpg" num="350">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/292.jpg" num="350">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1067,7 +1047,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL29 — Filter Dual 4</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/351_RL29 — Filter Dual 4.jpg" num="351">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/293.jpg" num="351">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1081,7 +1061,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL30 — Filter Dual 5</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/352_RL30 — Filter Dual 5.jpg" num="352">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/294.jpg" num="352">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1095,7 +1075,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL31 — Filter Dual 6</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/353_RL31 — Filter Dual 6.jpg" num="353">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/295.jpg" num="353">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1109,7 +1089,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL32 — Filter Dual 7</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/354_RL32 — Filter Dual 7.jpg" num="354">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/296.jpg" num="354">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1123,7 +1103,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL33 — Filter Dual 8</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/355_RL33 — Filter Dual 8.jpg" num="355">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/297.jpg" num="355">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1137,7 +1117,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL34 — Filter Dual 9</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/356_RL34 — Filter Dual 9.jpg" num="356">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/298.jpg" num="356">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1151,7 +1131,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL35 — Filter Dual 10</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/357_RL35 — Filter Dual 10.jpg" num="357">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/299.jpg" num="357">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1165,7 +1145,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL36 — Pain Land 1</name>
 			<text>UB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/358_RL36 — Pain Land 1.jpg" num="358">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/300.jpg" num="358">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1179,7 +1159,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL37 — Pain Land 2</name>
 			<text>RG</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/359_RL37 — Pain Land 2.jpg" num="359">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/301.jpg" num="359">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1193,7 +1173,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL38 — Pain Land 3</name>
 			<text>WB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/360_RL38 — Pain Land 3.jpg" num="360">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/302.jpg" num="360">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1207,7 +1187,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL39 — Pain Land 4</name>
 			<text>RW</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/361_RL39 — Pain Land 4.jpg" num="361">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/303.jpg" num="361">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1221,7 +1201,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL40 — Pain Land 5</name>
 			<text>GU</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/362_RL40 — Pain Land 5.jpg" num="362">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/304.jpg" num="362">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1235,7 +1215,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL41 — Slow Land 1</name>
 			<text>UB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/363_RL41 — Slow Land 1.jpg" num="363">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/305.jpg" num="363">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1249,7 +1229,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL42 — Slow Land 2</name>
 			<text>RG</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/364_RL42 — Slow Land 2.jpg" num="364">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/306.jpg" num="364">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1263,7 +1243,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL43 — Slow Land 3</name>
 			<text>WB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/365_RL43 — Slow Land 3.jpg" num="365">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/307.jpg" num="365">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1277,7 +1257,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL44 — Slow Land 4</name>
 			<text>RW</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/366_RL44 — Slow Land 4.jpg" num="366">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/308.jpg" num="366">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1291,7 +1271,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL45 — Slow Land 5</name>
 			<text>GU</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/367_RL45 — Slow Land 5.jpg" num="367">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/309.jpg" num="367">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1305,7 +1285,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL46 — Bi-Cycle Land 1</name>
 			<text>UB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/368_RL46 — Bi-Cycle Land 1.jpg" num="368">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/310.jpg" num="368">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1319,7 +1299,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL47 — Bi-Cycle Land 2</name>
 			<text>RG</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/369_RL47 — Bi-Cycle Land 2.jpg" num="369">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/311.jpg" num="369">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1333,7 +1313,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL48 — Bi-Cycle Land 3</name>
 			<text>WB</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/370_RL48 — Bi-Cycle Land 3.jpg" num="370">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/312.jpg" num="370">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1347,7 +1327,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL49 — Bi-Cycle Land 4</name>
 			<text>RW</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/371_RL49 — Bi-Cycle Land 4.jpg" num="371">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/313.jpg" num="371">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1361,7 +1341,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL50 — Bi-Cycle Land 5</name>
 			<text>GU</text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/372_RL50 — Bi-Cycle Land 5.jpg" num="372">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/314.jpg" num="372">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1375,7 +1355,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL51 — Misc. Dual 1</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/373_RL51 — Misc. Dual 1.jpg" num="373">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/315.jpg" num="373">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1389,7 +1369,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL52 — Misc Dual 2</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/374_RL52 — Misc Dual 2.jpg" num="374">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/316.jpg" num="374">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1403,7 +1383,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL53 — Misc. Dual 3</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/375_RL53 — Misc. Dual 3.jpg" num="375">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/317.jpg" num="375">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1417,7 +1397,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL54 — Misc Dual 4</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/376_RL54 — Misc Dual 4.jpg" num="376">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/318.jpg" num="376">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1431,7 +1411,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL55 — Misc Dual 5</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/377_RL55 — Misc Dual 5.jpg" num="377">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/319.jpg" num="377">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1445,7 +1425,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL56 — Mono Rare 2</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/378_RL56 — Mono Rare 2.jpg" num="378">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/320.jpg" num="378">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1459,7 +1439,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL57 — Mono Rare 3</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/379_RL57 — Mono Rare 3.jpg" num="379">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/321.jpg" num="379">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1473,7 +1453,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL58 — Mono Rare 4</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/380_RL58 — Mono Rare 4.jpg" num="380">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/322.jpg" num="380">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1487,7 +1467,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>RL59 — Mono Rare 5</name>
 			<text></text>
-			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/381_RL59 — Mono Rare 5.jpg" num="381">FCT</set>
+			<set rarity="rare" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/323.jpg" num="381">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1501,7 +1481,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 		<card>
 			<name>MR07 — Moraug, Fury of Akoum</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/171_MR07 — Moraug, Fury of Akoum.jpg" num="171">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/343.jpg" num="171">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1518,7 +1498,7 @@ Maybe do the shared duals as shadowmoor and the solo duals as odyssey.</text>
 			<name>MR08 — Neheb, the Eternal</name>
 			<text>Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
 At the beginning of each of your postcombat main phases, add for each 1 life your opponents have lost this turn.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/172_MR08 — Neheb, the Eternal.jpg" num="172">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/344.jpg" num="172">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1537,7 +1517,7 @@ At the beginning of each of your postcombat main phases, add for each 1 life you
 			<text>This spell costs {1} less to cast for each opponent you have.
 Trample
 When this creature enters, each player searches their library for up to two basic land cards, puts them onto the battlefield, then shuffles.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/212_MG02 — Avatar of Growth.jpg" num="212">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/347.jpg" num="212">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1556,7 +1536,7 @@ When this creature enters, each player searches their library for up to two basi
 			<text>Vigilance, haste
 Stampede 2 (Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)
 If a modified creature you control would deal damage to a permanent or player, it deals double that damage instead.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/240_MM01 — RGW CMD 1.jpg" num="240">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/350.jpg" num="240">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1575,7 +1555,7 @@ If a modified creature you control would deal damage to a permanent or player, i
 			<text>Flying
 Ward—Discard a card
 Devout — At the beginning of your upkeep, if you control three or more enchantments, each opponent exiles the top card of their library. You may play those cards until your next turn by discarding a card or sacrificing a nonland permanent instead of paying their mana costs.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/241_MM02 — Archbishop Mysteron.jpg" num="241">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/351.jpg" num="241">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1594,7 +1574,7 @@ Devout — At the beginning of your upkeep, if you control three or more enchant
 			<text>Vigilance, menace
 Other rangers you control have vigilance and menace.
 Ferocious — During your turn, you may cast a spell from you graveyard for each creature you control with power 4 or greater. If you cast a permanent spell this way, it enters with a finality counter on it. If you cast an instant or sorcery spell this way, exile it after it resolves.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/242_MM03 — Syr Conma, of Second Chances.jpg" num="242">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/352.jpg" num="242">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1612,7 +1592,7 @@ Ferocious — During your turn, you may cast a spell from you graveyard for each
 			<name>MM04 — _, the Raider King</name>
 			<text>Equipped creatures you control have haste and dethrone. (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
 Whenever another creature you control enters, you may attach target equipment you control to that creature.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/243_MM04 — _, the Raider King.jpg" num="243">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/353.jpg" num="243">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1630,7 +1610,7 @@ Whenever another creature you control enters, you may attach target equipment yo
 			<name>MM05 — GUR CMD 1</name>
 			<text>Vigilance, reach, ward {1}
 Guardian — At the beginning of your end step, you may draw a card for each creature you control with power less than this creature&apos;s power, and untap each of those creatures.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/244_MM05 — GUR CMD 1.jpg" num="244">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/354.jpg" num="244">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1648,7 +1628,7 @@ Guardian — At the beginning of your end step, you may draw a card for each cre
 			<name>MM06 — RGW CMD 2</name>
 			<text>Attacking tokens you control have first strike and trample.
 Whenever this creature attacks, choose a token creature you control and create a token that&apos;s a copy of it. If the chosen creature is attacking, that token enters tapped and attacking.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/245_MM06 — RGW CMD 2.jpg" num="245">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/355.jpg" num="245">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1666,7 +1646,7 @@ Whenever this creature attacks, choose a token creature you control and create a
 			<name>MM07 — WUB CMD 2</name>
 			<text>Flying, vigilance, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 You may cast enchantment spells from your graveyard by paying {2} in addition to their other costs. If you cast an enchantment spell this way, it enters with a finality counter on it and becomes an artifact Shrine in addition to its other types. (If a permanent with a finality counter on it would be put into a graveyard, exile it instead.)</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/246_MM07 — WUB CMD 2.jpg" num="246">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/356.jpg" num="246">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1684,7 +1664,7 @@ You may cast enchantment spells from your graveyard by paying {2} in addition to
 			<name>MM08 — RWB CMD 2</name>
 			<text>Flying, first strike
 Whenever this creature attacks, you may activate a boast ability of another target attacking creature you control without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/247_MM08 — RWB CMD 2.jpg" num="247">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/357.jpg" num="247">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1702,7 +1682,7 @@ Whenever this creature attacks, you may activate a boast ability of another targ
 			<name>MM09 — _, Tired Ol&apos; Roamer</name>
 			<text>When _ enters, mill four cards. (To mill a card, put the top card of your library into your graveyard.)
 {2}{B}{G}{U}, {T}: Create a colorless enchantment token named Tall Tale with, &quot;When this enchantment enters, exile target permanent card from your graveyard,&quot; and &quot;This enchantment has all abilities of cards exiled with it.&quot;</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/248_MM09 — _, Tired Ol&apos; Roamer.jpg" num="248">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/358.jpg" num="248">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1720,7 +1700,7 @@ Whenever this creature attacks, you may activate a boast ability of another targ
 			<name>MM10 — GUR CMD 2</name>
 			<text>Whenever GUR CMD 2 attacks, reveal the top card of your library. If it&apos;s a land card, put it onto the battlefield tapped, otherwise put it into your hand.
 Each creature you control enters with an additional +1/+1 counter on it for each land that entered the battlefield under your control this turn.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/249_MM10 — GUR CMD 2.jpg" num="249">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/359.jpg" num="249">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1739,7 +1719,7 @@ Each creature you control enters with an additional +1/+1 counter on it for each
 			<text>Trample, menace
 Whenever this creature attacks you may tap it and put a stun counter on it. When you do, prevent all damage that would be dealt to creatures you control this turn.
 At the beginning of your end step, untap each other creature you control.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/250_MM11 — RGW CMD 3.jpg" num="250">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/360.jpg" num="250">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1758,7 +1738,7 @@ At the beginning of your end step, untap each other creature you control.</text>
 			<text>Enchantment spells you cast cost {1} less to cast.
 Whenever this creature becomes tapped, create a Blessing token attached to another target permanent. (It&apos;s a colorless Aura token with, &quot;Enchanted permanent has ward {1}.&quot;)
 Devout — At the beginning of your upkeep, if you control three or more enchantments, creatures you control with Blessings attached to them gain indestructible until end of turn.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/251_MM12 — WUB CMD 3.jpg" num="251">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/361.jpg" num="251">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1777,7 +1757,7 @@ Devout — At the beginning of your upkeep, if you control three or more enchant
 			<text>Deathtouch
 {2}{U}: Target creature can&apos;t be blocked this turn.
 Whenever a creature you control with deathtouch deals combat damage to a player, you may untap target creature you control and surveil 2.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/252_MM13 — BGU CMD 3.jpg" num="252">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/362.jpg" num="252">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1795,7 +1775,7 @@ Whenever a creature you control with deathtouch deals combat damage to a player,
 			<name>MM14 — RWB CMD 3</name>
 			<text>Whenever this creature attacks, add {R}, {W}, or {B} for each other attacking creature you control. You don&apos;t lose this mana as steps and phases end. This mana can only be spent to cast noncreature spells and activate boast abilities.
 Whenever you cast an instant or sorcery spell, or activate an ability that isn&apos;t a mana ability during combat, target opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/253_MM14 — RWB CMD 3.jpg" num="253">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/363.jpg" num="253">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1813,7 +1793,7 @@ Whenever you cast an instant or sorcery spell, or activate an ability that isn&a
 			<name>MM15 — GUR CMD 3</name>
 			<text>If you would create one or more 1/1 tokens, instead choose one of them. You create those tokens plus an additional one of the chosen token.
 {2}{G}{U}{R}, {T}: GUR CMD 3 deals X damage to target creature an opponent controls, where X is the number of creatures you control with base power and toughness 1/1.</text>
-			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/254_MM15 — GUR CMD 3.jpg" num="254">FCT</set>
+			<set rarity="mythic" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/364.jpg" num="254">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1828,11 +1808,116 @@ Whenever you cast an instant or sorcery spell, or activate an ability that isn&a
 			<tablerow>2</tablerow>
 		</card>
 		<card>
+			<name>Deck 5 — GUR FCT</name>
+			<text>- Bears
+- Druids
+- Guardian
+- Lands Entered
+- Offspring and 1/1</text>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/382.jpg" num="6">FCT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>This deck features these themes.</type>
+				<maintype>themes.</maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Deck 4 — RWB FCT</name>
+			<text>- Minotaurs
+- Warriors
+- Boast
+- Extra Combat
+- Equipment</text>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/384.jpg" num="5">FCT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>This deck features these themes.</type>
+				<maintype>themes.</maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Deck 3 — BGU FCT</name>
+			<text>- Crocodiles
+- Rangers
+- Ferocious
+- Reanimation
+- Stealthy Stuff</text>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/386.jpg" num="4">FCT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>This deck features these themes.</type>
+				<maintype>themes.</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Deck 2 — WUB FCT</name>
+			<text>- Owls
+- Clerics
+- Devout
+- Enchantments
+- Theft</text>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/388.jpg" num="3">FCT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>This deck features these themes.</type>
+				<maintype>themes.</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Deck 1 — RGW FCT</name>
+			<text>- Elephants
+- Soldiers
+- Stampede
+- Modified
+- Tokens</text>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/390.jpg" num="2">FCT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>This deck features these themes.</type>
+				<maintype>themes.</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
 			<name>Tender Wildguide FCT</name>
 			<text>{T}: Add one mana of any color.
 {T}: Put a +1/+1 counter on this creature.
 (This token&apos;s mana cost is {1}{G}.)</text>
-			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/1t_Tender Wildguide.jpg" num="1">FCT</set>
+			<set rarity="common" picurl="https://BluePhoenix234.github.io/sets/FCT-files/img/393.jpg" num="1">FCT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

@@ -1,4 +1,248 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Deck 5 — GUR added.
+Deck 4 — RWB added.
+Deck 3 — BGU added.
+Deck 2 — WUB added.
+Deck 1 — RGW added.
+
+RG12 — New removed.
+
+CG01 — Ilysian Caryatid
+
+CG02 — Snapping Creeper
+
+CA02 — Arcane Signet
+
+CL01 — Command Tower
+
+CL02 — Path of Ancestry
+
+CL03 — Terramorphic Expanse
+
+CL05 — Sheltering Landscape
+
+CL06 — Contaminated Landscape
+
+CL07 — Foreboding Landscape
+
+CL08 — Shattered Landscape
+
+CL09 — Bountiful Landscape
+
+UA03 — Sol Ring
+
+UL02 — Arcane Sanctum
+
+UL01 — Jungle Shrine
+
+UL03 — Opulent Palace
+
+UL04 — Nomad Outpost
+
+UL05 — Frontier Bivouac
+
+RW13 — Arms Handler
+
+RW14 — Badlands Surveyor
+
+RU08 — Curiosity Crafter
+
+RB14 — New
+
+RR02 — Agate Instigator
+
+RR06 — Scourge of the Throne
+
+RR04 — Deathbellow War Cry
+
+RR05 — Neheb, Dreadhorde Champion
+
+MR11 — Bovidian Raid-Caller
+
+RR12 — New
+
+MX04 — Roadbound
+
+RX39 — Storm-Tuned Striker
+
+RG03 — Floral Evoker
+
+RG04 — Rampart Architect
+
+RG05 — Tender Wildguide
+
+RG06 — Conclave Sledge-Captain
+
+RG07 — Jedit Ojanen of Efrava
+
+RG08 — Brightcap Badger
+
+RM01 — Dual Cat 1
+
+RM02 — Dual Cat 2
+
+RM03 — Deadland Scavenger
+
+RM04 — Dual Cat 4
+
+RM05 — Dual Cat 5
+
+RM07 — Octomancer
+
+RL02 — Exotic Orchard
+
+RL05 — Mono Rare 1
+
+RL06 — Glacial Fortress
+
+RL07 — Drowned Catacomb
+
+RL08 — Dragonskull Summit
+
+RL09 — Rootbound Crag
+
+RL10 — Sunpetal Grove
+
+RL11 — Isolated Chapel
+
+RL12 — Sulfur Falls
+
+RL13 — Woodland Cemetary
+
+RL14 — Clifftop Retreat
+
+RL15 — Hinterland Harbor
+
+RL16 — Tango Land 1
+
+RL17 — Tango Land 2
+
+RL18 — Tango Land 3
+
+RL19 — Tango Land 4
+
+RL20 — Tango Land 5
+
+RL21 — Battlebond Land 1
+
+RL22 — Battlebond Land 2
+
+RL23 — Battlebond Land 3
+
+RL24 — Battlebond Land 4
+
+RL25 — Battlebond Land 5
+
+RL26 — Filter Dual 1
+
+RL27 — Filter Dual 2
+
+RL28 — Filter Dual 3
+
+RL29 — Filter Dual 4
+
+RL30 — Filter Dual 5
+
+RL31 — Filter Dual 6
+
+RL32 — Filter Dual 7
+
+RL33 — Filter Dual 8
+
+RL34 — Filter Dual 9
+
+RL35 — Filter Dual 10
+
+RL36 — Pain Land 1
+
+RL37 — Pain Land 2
+
+RL38 — Pain Land 3
+
+RL39 — Pain Land 4
+
+RL40 — Pain Land 5
+
+RL41 — Slow Land 1
+
+RL42 — Slow Land 2
+
+RL43 — Slow Land 3
+
+RL44 — Slow Land 4
+
+RL45 — Slow Land 5
+
+RL46 — Bi-Cycle Land 1
+
+RL47 — Bi-Cycle Land 2
+
+RL48 — Bi-Cycle Land 3
+
+RL49 — Bi-Cycle Land 4
+
+RL50 — Bi-Cycle Land 5
+
+RL51 — Misc. Dual 1
+
+RL52 — Misc Dual 2
+
+RL53 — Misc. Dual 3
+
+RL54 — Misc Dual 4
+
+RL55 — Misc Dual 5
+
+RL56 — Mono Rare 2
+
+RL57 — Mono Rare 3
+
+RL58 — Mono Rare 4
+
+RL59 — Mono Rare 5
+
+MR07 — Moraug, Fury of Akoum
+
+MR08 — Neheb, the Eternal
+
+MG02 — Avatar of Growth
+
+MM01 — RGW CMD 1
+
+MM02 — Archbishop Mysteron
+
+MM03 — Syr Conma, of Second Chances
+
+MM04 — _, the Raider King
+
+MM05 — GUR CMD 1
+
+MM06 — RGW CMD 2
+
+MM07 — WUB CMD 2
+
+MM08 — RWB CMD 2
+
+MM09 — _, Tired Ol' Roamer
+
+MM10 — GUR CMD 2
+
+MM11 — RGW CMD 3
+
+MM12 — WUB CMD 3
+
+MM13 — BGU CMD 3
+
+MM14 — RWB CMD 3
+
+MM15 — GUR CMD 3
+
+Tender Wildguide
+
+
+VERSION 5 CHANGELOG
 ====================
 
 MM03 — Syr Conma, of Second Chances added.
