@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "213"
+        "position": ""
     },
     {
         "card_name": "RU08 \u2014 Curiosity Crafter",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "164"
+        "position": ""
     },
     {
         "card_name": "RB14 \u2014 New",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "188"
+        "position": ""
     },
     {
         "card_name": "MR07 \u2014 Moraug, Fury of Akoum",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "343"
+        "position": ""
     },
     {
         "card_name": "MG02 \u2014 Avatar of Growth",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "347"
+        "position": ""
     },
     {
         "card_name": "RW13 \u2014 Arms Handler",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "142"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -59,7 +59,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "344"
+        "position": ""
     },
     {
         "card_name": "RG03 \u2014 Floral Evoker",
@@ -67,7 +67,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "228"
+        "position": ""
     },
     {
         "card_name": "RW14 \u2014 Badlands Surveyor",
@@ -75,7 +75,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "143"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -89,7 +89,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "207"
+        "position": ""
     },
     {
         "card_name": "RG04 \u2014 Rampart Architect",
@@ -97,7 +97,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "229"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -114,7 +114,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "198"
+        "position": ""
     },
     {
         "card_name": "RG05 \u2014 Tender Wildguide",
@@ -122,7 +122,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "230"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -139,7 +139,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "203"
+        "position": ""
     },
     {
         "card_name": "RG06 \u2014 Conclave Sledge-Captain",
@@ -147,7 +147,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "231"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -164,7 +164,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "204"
+        "position": ""
     },
     {
         "card_name": "RG07 \u2014 Jedit Ojanen of Efrava",
@@ -172,7 +172,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "232"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "202"
+        "position": ""
     },
     {
         "card_name": "RG08 \u2014 Brightcap Badger",
@@ -197,7 +197,7 @@
         "shape": "adventure",
         "set": "FCT",
         "rotated": false,
-        "position": "233"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -214,15 +214,15 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "208"
+        "position": ""
     },
     {
-        "card_name": "CG01 \u2014 Ilysian Caryatid",
-        "number": 199,
+        "card_name": "RG12 \u2014 New",
+        "number": 226,
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "19"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -239,7 +239,27 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "214"
+        "position": ""
+    },
+    {
+        "card_name": "CG01 \u2014 Ilysian Caryatid",
+        "number": 199,
+        "shape": "normal",
+        "set": "FCT",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "CG02 \u2014 Snapping Creeper",
@@ -247,7 +267,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "20"
+        "position": ""
     },
     {
         "card_name": "er"
@@ -268,7 +288,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "244"
+        "position": ""
     },
     {
         "card_name": "RM02 \u2014 Dual Cat 2",
@@ -276,7 +296,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "245"
+        "position": ""
     },
     {
         "card_name": "RM03 \u2014 Deadland Scavenger",
@@ -284,7 +304,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "246"
+        "position": ""
     },
     {
         "card_name": "RM04 \u2014 Dual Cat 4",
@@ -292,7 +312,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "247"
+        "position": ""
     },
     {
         "card_name": "RM05 \u2014 Dual Cat 5",
@@ -300,7 +320,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "248"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -320,7 +340,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "250"
+        "position": ""
     },
     {
         "card_name": "er"
@@ -343,7 +363,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "350"
+        "position": ""
     },
     {
         "card_name": "MM02 \u2014 Archbishop Mysteron",
@@ -351,7 +371,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "351"
+        "position": ""
     },
     {
         "card_name": "MM03 \u2014 Syr Conma, of Second Chances",
@@ -359,7 +379,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "352"
+        "position": ""
     },
     {
         "card_name": "MM04 \u2014 _, the Raider King",
@@ -367,7 +387,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "353"
+        "position": ""
     },
     {
         "card_name": "MM05 \u2014 GUR CMD 1",
@@ -375,7 +395,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "354"
+        "position": ""
     },
     {
         "card_name": "MM06 \u2014 RGW CMD 2",
@@ -383,7 +403,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "355"
+        "position": ""
     },
     {
         "card_name": "MM07 \u2014 WUB CMD 2",
@@ -391,7 +411,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "356"
+        "position": ""
     },
     {
         "card_name": "MM09 \u2014 _, Tired Ol' Roamer",
@@ -399,7 +419,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "358"
+        "position": ""
     },
     {
         "card_name": "MM08 \u2014 RWB CMD 2",
@@ -407,7 +427,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "357"
+        "position": ""
     },
     {
         "card_name": "MM10 \u2014 GUR CMD 2",
@@ -415,7 +435,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "359"
+        "position": ""
     },
     {
         "card_name": "MM11 \u2014 RGW CMD 3",
@@ -423,7 +443,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "360"
+        "position": ""
     },
     {
         "card_name": "MM12 \u2014 WUB CMD 3",
@@ -431,7 +451,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "361"
+        "position": ""
     },
     {
         "card_name": "MM13 \u2014 BGU CMD 3",
@@ -439,7 +459,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "362"
+        "position": ""
     },
     {
         "card_name": "MM14 \u2014 RWB CMD 3",
@@ -447,7 +467,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "363"
+        "position": ""
     },
     {
         "card_name": "MM15 \u2014 GUR CMD 3",
@@ -455,7 +475,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "364"
+        "position": ""
     },
     {
         "card_name": "er"
@@ -476,7 +496,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "110"
+        "position": ""
     },
     {
         "card_name": "CA02 \u2014 Arcane Signet",
@@ -484,7 +504,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "34"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -516,7 +536,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "266"
+        "position": ""
     },
     {
         "card_name": "RL05 \u2014 Mono Rare 1",
@@ -524,7 +544,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "269"
+        "position": ""
     },
     {
         "card_name": "RL06 \u2014 Glacial Fortress",
@@ -532,7 +552,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "270"
+        "position": ""
     },
     {
         "card_name": "RL07 \u2014 Drowned Catacomb",
@@ -540,7 +560,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "271"
+        "position": ""
     },
     {
         "card_name": "RL08 \u2014 Dragonskull Summit",
@@ -548,7 +568,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "272"
+        "position": ""
     },
     {
         "card_name": "RL09 \u2014 Rootbound Crag",
@@ -556,7 +576,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "273"
+        "position": ""
     },
     {
         "card_name": "RL10 \u2014 Sunpetal Grove",
@@ -564,7 +584,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "274"
+        "position": ""
     },
     {
         "card_name": "RL11 \u2014 Isolated Chapel",
@@ -572,7 +592,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "275"
+        "position": ""
     },
     {
         "card_name": "RL12 \u2014 Sulfur Falls",
@@ -580,7 +600,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "276"
+        "position": ""
     },
     {
         "card_name": "RL13 \u2014 Woodland Cemetary",
@@ -588,7 +608,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "277"
+        "position": ""
     },
     {
         "card_name": "RL14 \u2014 Clifftop Retreat",
@@ -596,7 +616,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "278"
+        "position": ""
     },
     {
         "card_name": "RL15 \u2014 Hinterland Harbor",
@@ -604,7 +624,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "279"
+        "position": ""
     },
     {
         "card_name": "RL16 \u2014 Tango Land 1",
@@ -612,7 +632,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "280"
+        "position": ""
     },
     {
         "card_name": "RL17 \u2014 Tango Land 2",
@@ -620,7 +640,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "281"
+        "position": ""
     },
     {
         "card_name": "RL18 \u2014 Tango Land 3",
@@ -628,7 +648,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "282"
+        "position": ""
     },
     {
         "card_name": "RL19 \u2014 Tango Land 4",
@@ -636,7 +656,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "283"
+        "position": ""
     },
     {
         "card_name": "RL20 \u2014 Tango Land 5",
@@ -644,7 +664,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "284"
+        "position": ""
     },
     {
         "card_name": "RL21 \u2014 Battlebond Land 1",
@@ -652,7 +672,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "285"
+        "position": ""
     },
     {
         "card_name": "RL22 \u2014 Battlebond Land 2",
@@ -660,7 +680,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "286"
+        "position": ""
     },
     {
         "card_name": "RL23 \u2014 Battlebond Land 3",
@@ -668,7 +688,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "287"
+        "position": ""
     },
     {
         "card_name": "RL24 \u2014 Battlebond Land 4",
@@ -676,7 +696,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "288"
+        "position": ""
     },
     {
         "card_name": "RL25 \u2014 Battlebond Land 5",
@@ -684,7 +704,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "289"
+        "position": ""
     },
     {
         "card_name": "RL26 \u2014 Filter Dual 1",
@@ -692,7 +712,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "290"
+        "position": ""
     },
     {
         "card_name": "RL27 \u2014 Filter Dual 2",
@@ -700,7 +720,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "291"
+        "position": ""
     },
     {
         "card_name": "RL28 \u2014 Filter Dual 3",
@@ -708,7 +728,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "292"
+        "position": ""
     },
     {
         "card_name": "RL29 \u2014 Filter Dual 4",
@@ -716,7 +736,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "293"
+        "position": ""
     },
     {
         "card_name": "RL30 \u2014 Filter Dual 5",
@@ -724,7 +744,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "294"
+        "position": ""
     },
     {
         "card_name": "RL31 \u2014 Filter Dual 6",
@@ -732,7 +752,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "295"
+        "position": ""
     },
     {
         "card_name": "RL32 \u2014 Filter Dual 7",
@@ -740,7 +760,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "296"
+        "position": ""
     },
     {
         "card_name": "RL33 \u2014 Filter Dual 8",
@@ -748,7 +768,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "297"
+        "position": ""
     },
     {
         "card_name": "RL34 \u2014 Filter Dual 9",
@@ -756,7 +776,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "298"
+        "position": ""
     },
     {
         "card_name": "RL35 \u2014 Filter Dual 10",
@@ -764,7 +784,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "299"
+        "position": ""
     },
     {
         "card_name": "RL36 \u2014 Pain Land 1",
@@ -772,7 +792,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "300"
+        "position": ""
     },
     {
         "card_name": "RL37 \u2014 Pain Land 2",
@@ -780,7 +800,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "301"
+        "position": ""
     },
     {
         "card_name": "RL38 \u2014 Pain Land 3",
@@ -788,7 +808,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "302"
+        "position": ""
     },
     {
         "card_name": "RL39 \u2014 Pain Land 4",
@@ -796,7 +816,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "303"
+        "position": ""
     },
     {
         "card_name": "RL40 \u2014 Pain Land 5",
@@ -804,7 +824,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "304"
+        "position": ""
     },
     {
         "card_name": "RL41 \u2014 Slow Land 1",
@@ -812,7 +832,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "305"
+        "position": ""
     },
     {
         "card_name": "RL42 \u2014 Slow Land 2",
@@ -820,7 +840,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "306"
+        "position": ""
     },
     {
         "card_name": "RL43 \u2014 Slow Land 3",
@@ -828,7 +848,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "307"
+        "position": ""
     },
     {
         "card_name": "RL44 \u2014 Slow Land 4",
@@ -836,7 +856,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "308"
+        "position": ""
     },
     {
         "card_name": "RL45 \u2014 Slow Land 5",
@@ -844,7 +864,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "309"
+        "position": ""
     },
     {
         "card_name": "RL46 \u2014 Bi-Cycle Land 1",
@@ -852,7 +872,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "310"
+        "position": ""
     },
     {
         "card_name": "RL47 \u2014 Bi-Cycle Land 2",
@@ -860,7 +880,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "311"
+        "position": ""
     },
     {
         "card_name": "RL48 \u2014 Bi-Cycle Land 3",
@@ -868,7 +888,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "312"
+        "position": ""
     },
     {
         "card_name": "RL49 \u2014 Bi-Cycle Land 4",
@@ -876,7 +896,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "313"
+        "position": ""
     },
     {
         "card_name": "RL50 \u2014 Bi-Cycle Land 5",
@@ -884,7 +904,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "314"
+        "position": ""
     },
     {
         "card_name": "RL51 \u2014 Misc. Dual 1",
@@ -892,7 +912,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "315"
+        "position": ""
     },
     {
         "card_name": "RL52 \u2014 Misc Dual 2",
@@ -900,7 +920,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "316"
+        "position": ""
     },
     {
         "card_name": "RL53 \u2014 Misc. Dual 3",
@@ -908,7 +928,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "317"
+        "position": ""
     },
     {
         "card_name": "RL54 \u2014 Misc Dual 4",
@@ -916,7 +936,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "318"
+        "position": ""
     },
     {
         "card_name": "RL55 \u2014 Misc Dual 5",
@@ -924,7 +944,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "319"
+        "position": ""
     },
     {
         "card_name": "RL56 \u2014 Mono Rare 2",
@@ -932,7 +952,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "320"
+        "position": ""
     },
     {
         "card_name": "RL57 \u2014 Mono Rare 3",
@@ -940,7 +960,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "321"
+        "position": ""
     },
     {
         "card_name": "RL58 \u2014 Mono Rare 4",
@@ -948,7 +968,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "322"
+        "position": ""
     },
     {
         "card_name": "RL59 \u2014 Mono Rare 5",
@@ -956,7 +976,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "323"
+        "position": ""
     },
     {
         "card_name": "UL01 \u2014 Jungle Shrine",
@@ -964,7 +984,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "124"
+        "position": ""
     },
     {
         "card_name": "UL02 \u2014 Arcane Sanctum",
@@ -972,7 +992,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "123"
+        "position": ""
     },
     {
         "card_name": "UL03 \u2014 Opulent Palace",
@@ -980,7 +1000,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "125"
+        "position": ""
     },
     {
         "card_name": "UL04 \u2014 Nomad Outpost",
@@ -988,7 +1008,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "126"
+        "position": ""
     },
     {
         "card_name": "UL05 \u2014 Frontier Bivouac",
@@ -996,7 +1016,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "127"
+        "position": ""
     },
     {
         "card_name": "CL01 \u2014 Command Tower",
@@ -1004,7 +1024,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "38"
+        "position": ""
     },
     {
         "card_name": "CL02 \u2014 Path of Ancestry",
@@ -1012,7 +1032,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "39"
+        "position": ""
     },
     {
         "card_name": "CL03 \u2014 Terramorphic Expanse",
@@ -1020,7 +1040,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "40"
+        "position": ""
     },
     {
         "card_name": "CL05 \u2014 Sheltering Landscape",
@@ -1028,7 +1048,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "41"
+        "position": ""
     },
     {
         "card_name": "CL06 \u2014 Contaminated Landscape",
@@ -1036,7 +1056,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "42"
+        "position": ""
     },
     {
         "card_name": "CL07 \u2014 Foreboding Landscape",
@@ -1044,7 +1064,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "43"
+        "position": ""
     },
     {
         "card_name": "CL08 \u2014 Shattered Landscape",
@@ -1052,7 +1072,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "44"
+        "position": ""
     },
     {
         "card_name": "CL09 \u2014 Bountiful Landscape",
@@ -1060,7 +1080,7 @@
         "shape": "normal",
         "set": "FCT",
         "rotated": false,
-        "position": "45"
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1084,47 +1104,7 @@
         "shape": "token",
         "set": "FCT",
         "rotated": false,
-        "position": "393"
-    },
-    {
-        "card_name": "Deck 1 \u2014 RGW",
-        "number": 2,
-        "shape": "token",
-        "set": "FCT",
-        "rotated": false,
-        "position": "390"
-    },
-    {
-        "card_name": "Deck 2 \u2014 WUB",
-        "number": 3,
-        "shape": "token",
-        "set": "FCT",
-        "rotated": false,
-        "position": "388"
-    },
-    {
-        "card_name": "Deck 3 \u2014 BGU",
-        "number": 4,
-        "shape": "token",
-        "set": "FCT",
-        "rotated": false,
-        "position": "386"
-    },
-    {
-        "card_name": "Deck 4 \u2014 RWB",
-        "number": 5,
-        "shape": "token",
-        "set": "FCT",
-        "rotated": false,
-        "position": "384"
-    },
-    {
-        "card_name": "Deck 5 \u2014 GUR",
-        "number": 6,
-        "shape": "token",
-        "set": "FCT",
-        "rotated": false,
-        "position": "382"
+        "position": ""
     },
     {
         "card_name": "e"

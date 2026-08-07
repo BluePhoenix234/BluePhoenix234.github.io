@@ -1,11 +1,10 @@
 ﻿{
     "name": "Felidea: Rising Tensions Commander",
-    "formats": "BluePhoenix Eternal",
+    "formats": "BluePhoenix Standard",
+    "trimmed": "y",
     "image_type": "jpg",
     "draft_structure": "none",
     "unpreviewed": "card back",
-    "image_name": "position",
-    "v_mana": "",
     "cards": [
         {
             "card_name": "CG01 \u2014 Ilysian Caryatid",
@@ -24,8 +23,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "19",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -45,8 +42,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "20",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -66,8 +61,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "34",
-            "rotated": false,
             "notes": "All Decks List"
         },
         {
@@ -87,8 +80,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "38",
-            "rotated": false,
             "notes": "All Decks List"
         },
         {
@@ -108,8 +99,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "39",
-            "rotated": false,
             "notes": "All Decks List"
         },
         {
@@ -129,8 +118,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "40",
-            "rotated": false,
             "notes": "All Decks List"
         },
         {
@@ -150,8 +137,6 @@
             "loyalty": "",
             "artist": "Erikas Perl",
             "alias": "",
-            "position": "41",
-            "rotated": false,
             "notes": "Deck 1 \u2014 List Elephants, Reprint"
         },
         {
@@ -171,8 +156,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "42",
-            "rotated": false,
             "notes": "Deck 2 \u2014 List Owls, Reprint"
         },
         {
@@ -192,8 +175,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "43",
-            "rotated": false,
             "notes": "Deck 3 \u2014 List Crocs, Reprint"
         },
         {
@@ -213,8 +194,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "44",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, Reprint"
         },
         {
@@ -234,8 +213,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "45",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
         },
         {
@@ -255,8 +232,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "110",
-            "rotated": false,
             "notes": "All Decks List"
         },
         {
@@ -276,8 +251,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "123",
-            "rotated": false,
             "notes": "Deck 2 \u2014 List Owls, Reprint"
         },
         {
@@ -297,8 +270,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "124",
-            "rotated": false,
             "notes": "Deck 1 \u2014 List Elephants, Reprint"
         },
         {
@@ -318,8 +289,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "125",
-            "rotated": false,
             "notes": "Deck 3 \u2014 List Crocs, Reprint"
         },
         {
@@ -339,8 +308,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "126",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, Reprint"
         },
         {
@@ -360,8 +327,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "127",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
         },
         {
@@ -381,8 +346,6 @@
             "loyalty": "",
             "artist": "Jack-Kaiser",
             "alias": "",
-            "position": "142",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -402,8 +365,6 @@
             "loyalty": "",
             "artist": "LindseyWArt",
             "alias": "",
-            "position": "143",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -423,8 +384,6 @@
             "loyalty": "",
             "artist": "Rudy Siswanto",
             "alias": "",
-            "position": "164",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
         },
         {
@@ -444,8 +403,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "188",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -465,8 +422,6 @@
             "loyalty": "",
             "artist": "Quintin Gleim",
             "alias": "",
-            "position": "198",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
         },
         {
@@ -486,8 +441,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "202",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, Reprint"
         },
         {
@@ -507,8 +460,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "203",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, Reprint"
         },
         {
@@ -528,8 +479,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "204",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, Reprint"
         },
         {
@@ -549,8 +498,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "207",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -570,8 +517,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "208",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -591,8 +536,6 @@
             "loyalty": "",
             "artist": "binkari",
             "alias": "",
-            "position": "213",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -612,8 +555,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "214",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -633,8 +574,6 @@
             "loyalty": "",
             "artist": "Monztre",
             "alias": "",
-            "position": "228",
-            "rotated": false,
             "notes": "Deck 3 \u2014 List Crocs, Reprint"
         },
         {
@@ -654,8 +593,6 @@
             "loyalty": "",
             "artist": "Eelis Kyttanen",
             "alias": "",
-            "position": "229",
-            "rotated": false,
             "notes": "Deck 1 \u2014 List Elephants, Reprint"
         },
         {
@@ -675,8 +612,6 @@
             "loyalty": "",
             "artist": "Jakob Eirich",
             "alias": "",
-            "position": "230",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
         },
         {
@@ -696,8 +631,6 @@
             "loyalty": "",
             "artist": "Ilse Gort",
             "alias": "",
-            "position": "231",
-            "rotated": false,
             "notes": "Deck 1 \u2014 List Elephants, Reprint"
         },
         {
@@ -717,8 +650,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "232",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
         },
         {
@@ -738,7 +669,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "233",
             "card_name2": "Fungus Frolic",
             "color2": "G",
             "type2": "Instant \u2014 Adventure",
@@ -750,9 +680,26 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "rules_text3": "",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
+        },
+        {
+            "card_name": "RG12 \u2014 New",
+            "color": "G",
+            "rarity": "rare",
+            "type": "Creature",
+            "number": 226,
+            "color_identity": "G",
+            "cost": "{3}{G}{G}",
+            "rules_text": "Flash\nTrample\nWhen this creature enters create a food token.\n{1}{G}, Forage: Put three +1/+1 counters on this creature. Activate this ability only if it isn't combat. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "5/5",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FCT",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "notes": "Deck 3 \u2014 List Crocs, New"
         },
         {
             "card_name": "RM01 \u2014 Dual Cat 1",
@@ -771,8 +718,6 @@
             "loyalty": "",
             "artist": "Mirko Failoni",
             "alias": "",
-            "position": "244",
-            "rotated": false,
             "notes": "Deck 2 \u2014 List Owls"
         },
         {
@@ -792,8 +737,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "245",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears"
         },
         {
@@ -813,8 +756,6 @@
             "loyalty": "",
             "artist": "Julia Mato",
             "alias": "",
-            "position": "246",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -834,8 +775,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "247",
-            "rotated": false,
             "notes": "Deck 1 \u2014 List Elephants"
         },
         {
@@ -855,8 +794,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "248",
-            "rotated": false,
             "notes": "Deck 3 \u2014 List Crocs, New"
         },
         {
@@ -876,8 +813,6 @@
             "loyalty": "",
             "artist": "Justin Gerard",
             "alias": "",
-            "position": "250",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
         },
         {
@@ -897,8 +832,6 @@
             "loyalty": "",
             "artist": "Steven Huang",
             "alias": "",
-            "position": "266",
-            "rotated": false,
             "notes": "All Decks List"
         },
         {
@@ -918,8 +851,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "269",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -939,8 +870,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "270",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -960,8 +889,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "271",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -981,8 +908,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "272",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1002,8 +927,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "273",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1023,8 +946,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "274",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1044,8 +965,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "275",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1065,8 +984,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "276",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1086,8 +1003,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "277",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1107,8 +1022,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "278",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1128,8 +1041,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "279",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1149,8 +1060,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "280",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1170,8 +1079,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "281",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1191,8 +1098,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "282",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1212,8 +1117,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "283",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1233,8 +1136,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "284",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1254,8 +1155,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "285",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1275,8 +1174,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "286",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1296,8 +1193,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "287",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1317,8 +1212,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "288",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1338,8 +1231,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "289",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1359,8 +1250,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "290",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1380,8 +1269,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "291",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1401,8 +1288,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "292",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1422,8 +1307,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "293",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1443,8 +1326,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "294",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1464,8 +1345,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "295",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1485,8 +1364,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "296",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1506,8 +1383,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "297",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1527,8 +1402,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "298",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1548,8 +1421,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "299",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1569,8 +1440,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "300",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1590,8 +1459,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "301",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1611,8 +1478,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "302",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1632,8 +1497,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "303",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1653,8 +1516,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "304",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1674,8 +1535,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "305",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1695,8 +1554,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "306",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1716,8 +1573,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "307",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1737,8 +1592,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "308",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1758,8 +1611,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "309",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1779,8 +1630,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "310",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1800,8 +1649,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "311",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1821,8 +1668,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "312",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1842,8 +1687,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "313",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1863,8 +1706,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "314",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1884,8 +1725,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "315",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1905,8 +1744,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "316",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1926,8 +1763,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "317",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1947,8 +1782,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "318",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1968,8 +1801,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "319",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -1989,8 +1820,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "320",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -2010,8 +1839,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "321",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -2031,8 +1858,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "322",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -2052,8 +1877,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "323",
-            "rotated": false,
             "notes": "Reprint"
         },
         {
@@ -2073,8 +1896,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "343",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, Reprint"
         },
         {
@@ -2094,8 +1915,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "344",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, Reprint"
         },
         {
@@ -2115,8 +1934,6 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "347",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint"
         },
         {
@@ -2136,8 +1953,6 @@
             "loyalty": "",
             "artist": "Rudiindra4",
             "alias": "",
-            "position": "350",
-            "rotated": false,
             "notes": "Deck 1 \u2014 List Elephants"
         },
         {
@@ -2157,8 +1972,6 @@
             "loyalty": "",
             "artist": "Igor Krstic",
             "alias": "",
-            "position": "351",
-            "rotated": false,
             "notes": "Deck 2 \u2014 List Owls"
         },
         {
@@ -2178,8 +1991,6 @@
             "loyalty": "",
             "artist": "Josh Corpuz",
             "alias": "",
-            "position": "352",
-            "rotated": false,
             "notes": "Deck 3 \u2014 List Crocs, New"
         },
         {
@@ -2199,8 +2010,6 @@
             "loyalty": "",
             "artist": "pentatree",
             "alias": "",
-            "position": "353",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -2220,8 +2029,6 @@
             "loyalty": "",
             "artist": "Lily Curtis",
             "alias": "",
-            "position": "354",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears"
         },
         {
@@ -2241,8 +2048,6 @@
             "loyalty": "",
             "artist": "IIme Mosoueda Bherenk",
             "alias": "",
-            "position": "355",
-            "rotated": false,
             "notes": "Deck 1 \u2014 List Elephants"
         },
         {
@@ -2262,8 +2067,6 @@
             "loyalty": "",
             "artist": "madnessdemon",
             "alias": "",
-            "position": "356",
-            "rotated": false,
             "notes": "Deck 2 \u2014 List Owls"
         },
         {
@@ -2283,8 +2086,6 @@
             "loyalty": "",
             "artist": "SaryDragon",
             "alias": "",
-            "position": "357",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -2304,8 +2105,6 @@
             "loyalty": "",
             "artist": "Agatan",
             "alias": "",
-            "position": "358",
-            "rotated": false,
             "notes": "Deck 3 \u2014 List Crocs, New"
         },
         {
@@ -2325,8 +2124,6 @@
             "loyalty": "",
             "artist": "zix72",
             "alias": "",
-            "position": "359",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears"
         },
         {
@@ -2346,8 +2143,6 @@
             "loyalty": "",
             "artist": "Bachzim",
             "alias": "",
-            "position": "360",
-            "rotated": false,
             "notes": "Deck 1 \u2014 List Elephants"
         },
         {
@@ -2367,8 +2162,6 @@
             "loyalty": "",
             "artist": "Mirko Failoni",
             "alias": "",
-            "position": "361",
-            "rotated": false,
             "notes": "Deck 2 \u2014 List Owls"
         },
         {
@@ -2388,8 +2181,6 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "362",
-            "rotated": false,
             "notes": "Deck 3 \u2014 List Crocs, New"
         },
         {
@@ -2409,8 +2200,6 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "363",
-            "rotated": false,
             "notes": "Deck 4 \u2014 List Minotaurs, New"
         },
         {
@@ -2430,114 +2219,7 @@
             "loyalty": "",
             "artist": "Leesha Hannigan",
             "alias": "",
-            "position": "364",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears"
-        },
-        {
-            "card_name": "Deck 5 \u2014 GUR",
-            "color": "URG",
-            "rarity": "common",
-            "type": "This deck features these themes.",
-            "number": 6,
-            "color_identity": "URG",
-            "cost": "{G}{U}{R}",
-            "rules_text": "- Bears\n- Druids\n- [/i][i]Guardian[/i][i]\n- Lands Entered\n- Offspring and 1/1",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "FCT",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "382",
-            "rotated": false,
-            "notes": "Deck 5 \u2014 Header 2"
-        },
-        {
-            "card_name": "Deck 4 \u2014 RWB",
-            "color": "WBR",
-            "rarity": "common",
-            "type": "This deck features these themes.",
-            "number": 5,
-            "color_identity": "WBR",
-            "cost": "{R}{W}{B}",
-            "rules_text": "- Minotaurs\n- Warriors\n- Boast\n- Extra Combat\n- Equipment",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "FCT",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "384",
-            "rotated": false,
-            "notes": "Deck 4 \u2014 Header 2"
-        },
-        {
-            "card_name": "Deck 3 \u2014 BGU",
-            "color": "UBG",
-            "rarity": "common",
-            "type": "This deck features these themes.",
-            "number": 4,
-            "color_identity": "UBG",
-            "cost": "{B}{G}{U}",
-            "rules_text": "- Crocodiles\n- Rangers\n- [/i][i]Ferocious[/i]\n- Reanimation[i]\n- Stealthy Stuff",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "FCT",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "386",
-            "rotated": false,
-            "notes": "Deck 3 \u2014 Header 2"
-        },
-        {
-            "card_name": "Deck 2 \u2014 WUB",
-            "color": "WUB",
-            "rarity": "common",
-            "type": "This deck features these themes.",
-            "number": 3,
-            "color_identity": "WUB",
-            "cost": "{W}{U}{B}",
-            "rules_text": "- Owls\n- Clerics\n- [/i][i]Devout[/i]\n- Enchantments\n- Theft[i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "FCT",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "388",
-            "rotated": false,
-            "notes": "Deck 2 \u2014 Header 2"
-        },
-        {
-            "card_name": "Deck 1 \u2014 RGW",
-            "color": "WRG",
-            "rarity": "common",
-            "type": "This deck features these themes.",
-            "number": 2,
-            "color_identity": "WRG",
-            "cost": "{R}{G}{W}",
-            "rules_text": "- Elephants\n- Soldiers\n- Stampede\n- Modified\n- Tokens",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "FCT",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "390",
-            "rotated": false,
-            "notes": "Deck 1 \u2014 Header 2"
         },
         {
             "card_name": "Tender Wildguide",
@@ -2556,10 +2238,8 @@
             "loyalty": "",
             "artist": "Jakob Eirich",
             "alias": "",
-            "position": "393",
-            "rotated": false,
             "notes": "Deck 5 \u2014 List Bears, Reprint, Token"
         }
     ],
-    "version": 6
+    "version": 5
 }
