@@ -7,7 +7,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/73_Agronak gro-Malog.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/73_Agronak gro-Malog.jpg"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Creature — Orc Warrior Noble",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/102_Gortwog gro-Nagorm.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/102_Gortwog gro-Nagorm.jpg"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Legendary Creature — Orc Cleric",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/72_Abbot Durak.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/72_Abbot Durak.jpg"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Legendary Creature — Orc Shaman",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/75_Atub, Largashbur Wise-Woman.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/75_Atub, Largashbur Wise-Woman.jpg"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/74_Aid of the Seventh and Fifteenth.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/74_Aid of the Seventh and Fifteenth.jpg"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Legendary Creature — Orc Citizen",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/76_Balagog gro-Nolob.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/76_Balagog gro-Nolob.jpg"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/77_Baloth Bloodtusk.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/77_Baloth Bloodtusk.jpg"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/78_Barkbite Champion.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/78_Barkbite Champion.jpg"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Legendary Creature — Orc Warrior Noble",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/79_Bazrag gro-Fharun.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/79_Bazrag gro-Fharun.jpg"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Legendary Creature — Orc Rogue",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/80_Bazul, the River Snake.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/80_Bazul, the River Snake.jpg"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Orc Soldier",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/81_Bear Rider Vanguard.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/81_Bear Rider Vanguard.jpg"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/84_Chief Yamarz.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/84_Chief Yamarz.jpg"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Orc Shaman",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/85_Clan Shaman.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/85_Clan Shaman.jpg"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Legendary Snow Creature — Bear Noble",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/86_Coldwind, Might of Wrothgar.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/86_Coldwind, Might of Wrothgar.jpg"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/89_Courageous Champion.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/89_Courageous Champion.jpg"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Orc Soldier",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/90_Covenant Captain.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/90_Covenant Captain.jpg"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Legendary Creature — Orc Wizard",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/91_Curator Umutha.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/91_Curator Umutha.jpg"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Creature — Orc Wizard",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/92_Determined Initiate.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/92_Determined Initiate.jpg"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Creature — Orc Citizen",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/93_Eager Commis.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/93_Eager Commis.jpg"
 			}
 		},
 		{
@@ -200,11 +200,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/94_Emmeg gro-Kayra_back.jpg"
+					"en": "https://bluephoenix234.github.io/sets/ESO-files/img/94_Emmeg gro-Kayra_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/94_Emmeg gro-Kayra_front.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/94_Emmeg gro-Kayra_front.jpg"
 			}
 		},
 		{
@@ -214,7 +214,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/95_Exarch Braadoth.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/95_Exarch Braadoth.jpg"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			"type": "Legendary Creature — Orc Advisor",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/96_Forge-Mother Alga.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/96_Forge-Mother Alga.jpg"
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 			"type": "Legendary Creature — Orc Artificer",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/97_Forge-Wife Nuzava.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/97_Forge-Wife Nuzava.jpg"
 			}
 		},
 		{
@@ -244,7 +244,7 @@
 			"type": "Legendary Creature — Orc Assassin",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/100_Garnag, Brotherhood Survivor.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/100_Garnag, Brotherhood Survivor.jpg"
 			}
 		},
 		{
@@ -254,7 +254,7 @@
 			"type": "Legendary Creature — Orc Noble",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/101_Golkar gro-Igrun.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/101_Golkar gro-Igrun.jpg"
 			}
 		},
 		{
@@ -264,7 +264,7 @@
 			"type": "Legendary Creature — Orc Advisor",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/103_Guthrag Stone-Talker.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/103_Guthrag Stone-Talker.jpg"
 			}
 		},
 		{
@@ -274,7 +274,7 @@
 			"type": "Legendary Creature — Orc Cleric",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/105_High Priestess Solgra.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/105_High Priestess Solgra.jpg"
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 			"type": "Creature — Orc Druid",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/106_Iron-Orc Beast Tamer.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/106_Iron-Orc Beast Tamer.jpg"
 			}
 		},
 		{
@@ -294,7 +294,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/107_Iron-Orc Thundermaul.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/107_Iron-Orc Thundermaul.jpg"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 			"type": "Legendary Creature — Orc Rogue",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/108_Kepkajna gra-Minfang.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/108_Kepkajna gra-Minfang.jpg"
 			}
 		},
 		{
@@ -317,11 +317,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/109_Kepkajna's Wedding Dowry_back.jpg"
+					"en": "https://bluephoenix234.github.io/sets/ESO-files/img/109_Kepkajna's Wedding Dowry_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/109_Kepkajna's Wedding Dowry_front.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/109_Kepkajna's Wedding Dowry_front.jpg"
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 			"type": "Legendary Creature — Orc Monk",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/110_Khargol gro-Boguk.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/110_Khargol gro-Boguk.jpg"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 			"type": "Legendary Creature — Orc Warlock",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/112_Khralek gro-Vortag.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/112_Khralek gro-Vortag.jpg"
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 			"type": "Legendary Creature — Orc Warrior Soldier",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/111_Khartag, Freedom Smuggler.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/111_Khartag, Freedom Smuggler.jpg"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 			"type": "Legendary Creature — Orc Soldier Noble",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/113_King Durak gro-Batul.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/113_King Durak gro-Batul.jpg"
 			}
 		},
 		{
@@ -371,7 +371,7 @@
 			"type": "Legendary Creature — Orc Warrior Noble",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/114_King Kurog gro-Bagrakh.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/114_King Kurog gro-Bagrakh.jpg"
 			}
 		},
 		{
@@ -381,7 +381,7 @@
 			"type": "Legendary Creature — Orc Pirate",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/115_Lambur, Seamount Sailor.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/115_Lambur, Seamount Sailor.jpg"
 			}
 		},
 		{
@@ -391,7 +391,7 @@
 			"type": "Legendary Creature — Orc Bard",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/116_Luzrah gro-Shar.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/116_Luzrah gro-Shar.jpg"
 			}
 		},
 		{
@@ -401,7 +401,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/117_Mask of the Stone-Talker.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/117_Mask of the Stone-Talker.jpg"
 			}
 		},
 		{
@@ -411,7 +411,7 @@
 			"type": "Legendary Creature — Orc Advisor",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/118_Maugh, Loyal Oaf.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/118_Maugh, Loyal Oaf.jpg"
 			}
 		},
 		{
@@ -421,7 +421,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/119_Morkul Enforcer.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/119_Morkul Enforcer.jpg"
 			}
 		},
 		{
@@ -431,7 +431,7 @@
 			"type": "Creature — Orc Soldier",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/121_Orsinium Captain.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/121_Orsinium Captain.jpg"
 			}
 		},
 		{
@@ -441,7 +441,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/122_Orsinium Joins the Covenant.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/122_Orsinium Joins the Covenant.jpg"
 			}
 		},
 		{
@@ -451,7 +451,7 @@
 			"type": "Creature — Orc Cleric",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/123_Priest of Trinimac.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/123_Priest of Trinimac.jpg"
 			}
 		},
 		{
@@ -461,7 +461,7 @@
 			"type": "Creature — Orc Noble",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/124_Raucous Noble.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/124_Raucous Noble.jpg"
 			}
 		},
 		{
@@ -471,7 +471,7 @@
 			"type": "Legendary Creature — Orc Bard",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/125_Razotha Tale-Teller.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/125_Razotha Tale-Teller.jpg"
 			}
 		},
 		{
@@ -481,7 +481,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/126_Relentless Marauder.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/126_Relentless Marauder.jpg"
 			}
 		},
 		{
@@ -491,7 +491,7 @@
 			"type": "Creature — Orc Rogue Advisor",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/127_Rugged Operative.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/127_Rugged Operative.jpg"
 			}
 		},
 		{
@@ -501,7 +501,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/128_Seamount Chief.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/128_Seamount Chief.jpg"
 			}
 		},
 		{
@@ -511,7 +511,7 @@
 			"type": "Snow Creature — Orc Shaman",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/129_Shatul Shaman.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/129_Shatul Shaman.jpg"
 			}
 		},
 		{
@@ -521,7 +521,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/131_Skordo the Knife.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/131_Skordo the Knife.jpg"
 			}
 		},
 		{
@@ -534,11 +534,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/82_The Birth of Malacath_back.jpg"
+					"en": "https://bluephoenix234.github.io/sets/ESO-files/img/82_The Birth of Malacath_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/82_The Birth of Malacath_front.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/82_The Birth of Malacath_front.jpg"
 			}
 		},
 		{
@@ -548,7 +548,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/83_The Blood Price.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/83_The Blood Price.jpg"
 			}
 		},
 		{
@@ -558,7 +558,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/87_The Conquering of Betnikh.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/87_The Conquering of Betnikh.jpg"
 			}
 		},
 		{
@@ -568,7 +568,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/88_The Corruption of the Stones.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/88_The Corruption of the Stones.jpg"
 			}
 		},
 		{
@@ -578,7 +578,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/98_The Founding of Orsinium.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/98_The Founding of Orsinium.jpg"
 			}
 		},
 		{
@@ -588,7 +588,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/99_The Funeral of Kurog.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/99_The Funeral of Kurog.jpg"
 			}
 		},
 		{
@@ -598,7 +598,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/104_The Helm of Uzdabikh.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/104_The Helm of Uzdabikh.jpg"
 			}
 		},
 		{
@@ -608,7 +608,7 @@
 			"type": "Legendary Creature — Orc Warrior Knight",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/120_The One Who Wields Umbra.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/120_The One Who Wields Umbra.jpg"
 			}
 		},
 		{
@@ -621,11 +621,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/130_The Siege of Orsinium_back.jpg"
+					"en": "https://bluephoenix234.github.io/sets/ESO-files/img/130_The Siege of Orsinium_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/130_The Siege of Orsinium_front.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/130_The Siege of Orsinium_front.jpg"
 			}
 		},
 		{
@@ -635,7 +635,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/133_Thulgeg's Exodus.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/133_Thulgeg's Exodus.jpg"
 			}
 		},
 		{
@@ -645,7 +645,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/132_Thulgeg, Exodus Warlord.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/132_Thulgeg, Exodus Warlord.jpg"
 			}
 		},
 		{
@@ -655,7 +655,7 @@
 			"type": "Legendary Creature — Orc Warrior Noble",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/134_Torug gro-Igron.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/134_Torug gro-Igron.jpg"
 			}
 		},
 		{
@@ -665,7 +665,7 @@
 			"type": "Creature — Orc Pirate",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/135_Tusked Cutthroat.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/135_Tusked Cutthroat.jpg"
 			}
 		},
 		{
@@ -675,7 +675,7 @@
 			"type": "Legendary Creature — Orc Wizard",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/136_Ulliceta gra-Kogg.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/136_Ulliceta gra-Kogg.jpg"
 			}
 		},
 		{
@@ -685,7 +685,7 @@
 			"type": "Creature — Orc Soldier",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/137_Unyielding Legate.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/137_Unyielding Legate.jpg"
 			}
 		},
 		{
@@ -695,7 +695,7 @@
 			"type": "Legendary Creature — Orc Wizard",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/138_Urag gro-Shub.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/138_Urag gro-Shub.jpg"
 			}
 		},
 		{
@@ -705,7 +705,7 @@
 			"type": "Legendary Creature — Orc Warrior Noble",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/139_Urzoga gra-Batul.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/139_Urzoga gra-Batul.jpg"
 			}
 		},
 		{
@@ -715,7 +715,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/140_Usunok, Enraged Hunter.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/140_Usunok, Enraged Hunter.jpg"
 			}
 		},
 		{
@@ -725,7 +725,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/141_Uzdabikh, Relentless Defender.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/141_Uzdabikh, Relentless Defender.jpg"
 			}
 		},
 		{
@@ -735,7 +735,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/143_Vaia's Golden Ash.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/143_Vaia's Golden Ash.jpg"
 			}
 		},
 		{
@@ -745,7 +745,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/142_Vaia, Courageous Shield.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/142_Vaia, Courageous Shield.jpg"
 			}
 		},
 		{
@@ -755,7 +755,7 @@
 			"type": "Creature — Orc Cleric",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/144_Vosh Rakh Taskmaster.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/144_Vosh Rakh Taskmaster.jpg"
 			}
 		},
 		{
@@ -765,7 +765,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/145_Wulfharth Requests Aid.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/145_Wulfharth Requests Aid.jpg"
 			}
 		},
 		{
@@ -775,7 +775,7 @@
 			"type": "Legendary Creature — Orc Artificer",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/146_Yagak gro-Gluk.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/146_Yagak gro-Gluk.jpg"
 			}
 		},
 		{
@@ -785,7 +785,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/147_Yashnag Carves a Kingdom.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/147_Yashnag Carves a Kingdom.jpg"
 			}
 		},
 		{
@@ -795,7 +795,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/148_Yashnag gro-Yazgu.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/148_Yashnag gro-Yazgu.jpg"
 			}
 		},
 		{
@@ -805,7 +805,7 @@
 			"type": "Legendary Creature — Orc Warlock",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/149_Zumog Phoom.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/149_Zumog Phoom.jpg"
 			}
 		},
 		{
@@ -815,7 +815,7 @@
 			"type": "Legendary Artifact Creature — Wall",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/152_Hammer, Middle Gate of Orsinium.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/152_Hammer, Middle Gate of Orsinium.jpg"
 			}
 		},
 		{
@@ -825,7 +825,7 @@
 			"type": "Artifact — Fortification",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/153_Orc Stronghold.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/153_Orc Stronghold.jpg"
 			}
 		},
 		{
@@ -835,7 +835,7 @@
 			"type": "Artifact",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/154_Orcish Forge.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/154_Orcish Forge.jpg"
 			}
 		},
 		{
@@ -845,7 +845,7 @@
 			"type": "Legendary Artifact Creature — Wall",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/155_Smelter, Outer Gate of Orsinium.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/155_Smelter, Outer Gate of Orsinium.jpg"
 			}
 		},
 		{
@@ -855,7 +855,7 @@
 			"type": "Legendary Artifact Creature — Wall",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/156_Temper, Inner Gate of Orsinium.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/156_Temper, Inner Gate of Orsinium.jpg"
 			}
 		},
 		{
@@ -865,7 +865,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/150_The Armlet of Torug.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/150_The Armlet of Torug.jpg"
 			}
 		},
 		{
@@ -875,7 +875,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/151_The Black Quill.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/151_The Black Quill.jpg"
 			}
 		},
 		{
@@ -885,7 +885,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/158_The Vengeful Eye.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/158_The Vengeful Eye.jpg"
 			}
 		},
 		{
@@ -895,7 +895,7 @@
 			"type": "Artifact — Tome",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/157_Uncommon Taste.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/157_Uncommon Taste.jpg"
 			}
 		},
 		{
@@ -905,7 +905,7 @@
 			"type": "Land",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/159_Coastal Stronghold.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/159_Coastal Stronghold.jpg"
 			}
 		},
 		{
@@ -915,7 +915,7 @@
 			"type": "Land",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/162_Steppe Stronghold.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/162_Steppe Stronghold.jpg"
 			}
 		},
 		{
@@ -925,7 +925,7 @@
 			"type": "Land",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/160_Mangrove Stronghold.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/160_Mangrove Stronghold.jpg"
 			}
 		},
 		{
@@ -935,7 +935,7 @@
 			"type": "Land",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/163_Valley Stronghold.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/163_Valley Stronghold.jpg"
 			}
 		},
 		{
@@ -945,7 +945,7 @@
 			"type": "Land",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/164_Woodland Stronghold.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/164_Woodland Stronghold.jpg"
 			}
 		},
 		{
@@ -955,7 +955,7 @@
 			"type": "Legendary Land",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/161_Orsinium.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/161_Orsinium.jpg"
 			}
 		},
 		{
@@ -965,7 +965,7 @@
 			"type": "Enchantment — Aura Title",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/3_Blood-kin.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/3_Blood-kin.jpg"
 			}
 		},
 		{
@@ -975,7 +975,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/2_Blessings of the Forge.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/2_Blessings of the Forge.jpg"
 			}
 		},
 		{
@@ -985,7 +985,7 @@
 			"type": "Enchantment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/4_Brave the Sands.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/4_Brave the Sands.jpg"
 			}
 		},
 		{
@@ -995,7 +995,7 @@
 			"type": "Creature — Orc Knight",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/5_Covenant Guardian.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/5_Covenant Guardian.jpg"
 			}
 		},
 		{
@@ -1005,7 +1005,7 @@
 			"type": "Creature — Orc Knight",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/6_Devoted Paladin.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/6_Devoted Paladin.jpg"
 			}
 		},
 		{
@@ -1015,7 +1015,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/7_Durak, Dawnguard Avenger.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/7_Durak, Dawnguard Avenger.jpg"
 			}
 		},
 		{
@@ -1025,7 +1025,7 @@
 			"type": "Creature — Orc Soldier",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/8_Legion Bulwark.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/8_Legion Bulwark.jpg"
 			}
 		},
 		{
@@ -1035,7 +1035,7 @@
 			"type": "Legendary Creature — Orc Noble",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/9_Lord Rugdumph gro-Shurgak.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/9_Lord Rugdumph gro-Shurgak.jpg"
 			}
 		},
 		{
@@ -1045,7 +1045,7 @@
 			"type": "Creature — Orc Soldier",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/10_Murtag Officer.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/10_Murtag Officer.jpg"
 			}
 		},
 		{
@@ -1055,7 +1055,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/11_Orcish Craftsmanship.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/11_Orcish Craftsmanship.jpg"
 			}
 		},
 		{
@@ -1065,7 +1065,7 @@
 			"type": "Creature — Orc Soldier",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/12_Orsinium Guard.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/12_Orsinium Guard.jpg"
 			}
 		},
 		{
@@ -1075,7 +1075,7 @@
 			"type": "Instant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/13_Path to Exile.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/13_Path to Exile.jpg"
 			}
 		},
 		{
@@ -1085,7 +1085,7 @@
 			"type": "Creature — Orc Artificer",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/14_Proud Crafter.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/14_Proud Crafter.jpg"
 			}
 		},
 		{
@@ -1095,7 +1095,7 @@
 			"type": "Creature — Orc Noble",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/15_Shurgak Noble.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/15_Shurgak Noble.jpg"
 			}
 		},
 		{
@@ -1105,7 +1105,7 @@
 			"type": "Enchantment",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/16_Urzoga's Investigation.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/16_Urzoga's Investigation.jpg"
 			}
 		},
 		{
@@ -1115,7 +1115,7 @@
 			"type": "Creature — Orc Knight",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/17_Vosh-Rakh Penitent.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/17_Vosh-Rakh Penitent.jpg"
 			}
 		},
 		{
@@ -1125,7 +1125,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/18_Witness Our Deeds.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/18_Witness Our Deeds.jpg"
 			}
 		},
 		{
@@ -1135,7 +1135,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/19_Brainstorm.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/19_Brainstorm.jpg"
 			}
 		},
 		{
@@ -1145,7 +1145,7 @@
 			"type": "Creature — Orc Peasant",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/20_Brawny Fisher.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/20_Brawny Fisher.jpg"
 			}
 		},
 		{
@@ -1155,7 +1155,7 @@
 			"type": "Creature — Orc Wizard",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/21_Dedicated Scholar.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/21_Dedicated Scholar.jpg"
 			}
 		},
 		{
@@ -1165,7 +1165,7 @@
 			"type": "Creature — Orc Pirate",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/22_Gruff Barrelman.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/22_Gruff Barrelman.jpg"
 			}
 		},
 		{
@@ -1175,7 +1175,7 @@
 			"type": "Creature — Orc Rogue",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/23_Guild Thief.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/23_Guild Thief.jpg"
 			}
 		},
 		{
@@ -1185,7 +1185,7 @@
 			"type": "Creature — Orc Wizard",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/24_Hearty Historian.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/24_Hearty Historian.jpg"
 			}
 		},
 		{
@@ -1195,7 +1195,7 @@
 			"type": "Creature — Orc Shaman",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/25_Iron Orc Runescriber.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/25_Iron Orc Runescriber.jpg"
 			}
 		},
 		{
@@ -1205,7 +1205,7 @@
 			"type": "Legendary Creature — Orc Wizard",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/26_Nazdura, Star-gazer.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/26_Nazdura, Star-gazer.jpg"
 			}
 		},
 		{
@@ -1215,7 +1215,7 @@
 			"type": "Legendary Creature — Orc Cleric",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/27_Priest Uugus.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/27_Priest Uugus.jpg"
 			}
 		},
 		{
@@ -1225,7 +1225,7 @@
 			"type": "Creature — Orc Scout",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/30_Seamount Scout.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/30_Seamount Scout.jpg"
 			}
 		},
 		{
@@ -1235,7 +1235,7 @@
 			"type": "Snow Creature — Orc Wizard Scout",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/32_Wrothgar Field Scholar.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/32_Wrothgar Field Scholar.jpg"
 			}
 		},
 		{
@@ -1245,7 +1245,7 @@
 			"type": "Legendary Creature — Orc Shaman",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/34_Agganor, Scaled Shaman.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/34_Agganor, Scaled Shaman.jpg"
 			}
 		},
 		{
@@ -1255,7 +1255,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/35_Ancestral Venegeance.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/35_Ancestral Venegeance.jpg"
 			}
 		},
 		{
@@ -1265,7 +1265,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/36_Battle Brawler.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/36_Battle Brawler.jpg"
 			}
 		},
 		{
@@ -1275,7 +1275,7 @@
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/37_Cut Down.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/37_Cut Down.jpg"
 			}
 		},
 		{
@@ -1285,7 +1285,7 @@
 			"type": "Legendary Creature — Orc Assassin",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/38_Gogron, Brutish Assassin.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/38_Gogron, Brutish Assassin.jpg"
 			}
 		},
 		{
@@ -1295,7 +1295,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/39_Greedy Marauder.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/39_Greedy Marauder.jpg"
 			}
 		},
 		{
@@ -1305,7 +1305,7 @@
 			"type": "Creature — Orc Berserker",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/40_Iron Orc Slaughterer.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/40_Iron Orc Slaughterer.jpg"
 			}
 		},
 		{
@@ -1315,7 +1315,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/41_Malacath's Ire.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/41_Malacath's Ire.jpg"
 			}
 		},
 		{
@@ -1325,7 +1325,7 @@
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/42_Mauloch's Scorn.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/42_Mauloch's Scorn.jpg"
 			}
 		},
 		{
@@ -1335,7 +1335,7 @@
 			"type": "Creature — Orc Berserker",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/43_Merciless Marauder.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/43_Merciless Marauder.jpg"
 			}
 		},
 		{
@@ -1345,7 +1345,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/44_Vengeful Warchief.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/44_Vengeful Warchief.jpg"
 			}
 		},
 		{
@@ -1355,7 +1355,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/45_Armory Veteran.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/45_Armory Veteran.jpg"
 			}
 		},
 		{
@@ -1365,7 +1365,7 @@
 			"type": "Enchantment",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/46_Blessings of Malacath.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/46_Blessings of Malacath.jpg"
 			}
 		},
 		{
@@ -1375,7 +1375,7 @@
 			"type": "Creature — Orc Scout",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/48_Daring Delver.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/48_Daring Delver.jpg"
 			}
 		},
 		{
@@ -1385,7 +1385,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/50_Fireball.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/50_Fireball.jpg"
 			}
 		},
 		{
@@ -1395,7 +1395,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/51_Flash Fry.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/51_Flash Fry.jpg"
 			}
 		},
 		{
@@ -1405,7 +1405,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/52_Hungry Marauder.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/52_Hungry Marauder.jpg"
 			}
 		},
 		{
@@ -1415,7 +1415,7 @@
 			"type": "Creature — Orc Knight",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/53_Lion-Guard Charger.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/53_Lion-Guard Charger.jpg"
 			}
 		},
 		{
@@ -1425,7 +1425,7 @@
 			"type": "Legendary Creature — Orc Knight",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/54_Mazoga the Orc.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/54_Mazoga the Orc.jpg"
 			}
 		},
 		{
@@ -1435,7 +1435,7 @@
 			"type": "Legendary Creature — Orc Warrior",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/55_Mighty Mordra, Undaunted.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/55_Mighty Mordra, Undaunted.jpg"
 			}
 		},
 		{
@@ -1445,7 +1445,7 @@
 			"type": "Creature — Orc Berserker",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/56_Murtag Bruiser.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/56_Murtag Bruiser.jpg"
 			}
 		},
 		{
@@ -1455,7 +1455,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/59_Rugged Dungeoneer.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/59_Rugged Dungeoneer.jpg"
 			}
 		},
 		{
@@ -1465,7 +1465,7 @@
 			"type": "Creature — Orc Pirate Wizard",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/60_Seafaring Fire-Mage.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/60_Seafaring Fire-Mage.jpg"
 			}
 		},
 		{
@@ -1475,7 +1475,7 @@
 			"type": "Creature — Orc Berserker",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/61_Warbringer.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/61_Warbringer.jpg"
 			}
 		},
 		{
@@ -1485,7 +1485,7 @@
 			"type": "Creature — Orc Bear Warrior",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/62_Bear Rider Heavy.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/62_Bear Rider Heavy.jpg"
 			}
 		},
 		{
@@ -1495,7 +1495,7 @@
 			"type": "Creature — Orc Peasant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/63_Burly Herder.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/63_Burly Herder.jpg"
 			}
 		},
 		{
@@ -1505,7 +1505,7 @@
 			"type": "Legendary Creature — Orc Archer",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/64_Elsarel, Colossal Slayer.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/64_Elsarel, Colossal Slayer.jpg"
 			}
 		},
 		{
@@ -1515,7 +1515,7 @@
 			"type": "Creature — Orc Ranger",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/65_Intrepid Outlander.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/65_Intrepid Outlander.jpg"
 			}
 		},
 		{
@@ -1525,7 +1525,7 @@
 			"type": "Creature — Orc Ranger",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/66_Narzulbur Hunters.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/66_Narzulbur Hunters.jpg"
 			}
 		},
 		{
@@ -1535,7 +1535,7 @@
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/67_No One Bests an Orc.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/67_No One Bests an Orc.jpg"
 			}
 		},
 		{
@@ -1545,7 +1545,7 @@
 			"type": "Creature — Orc Scout",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/68_Orcish Guide.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/68_Orcish Guide.jpg"
 			}
 		},
 		{
@@ -1555,7 +1555,7 @@
 			"type": "Legendary Creature — Orc Citizen",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/69_Orzorga, Traditional Chef.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/69_Orzorga, Traditional Chef.jpg"
 			}
 		},
 		{
@@ -1565,7 +1565,7 @@
 			"type": "Instant",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/70_Ram Through.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/70_Ram Through.jpg"
 			}
 		},
 		{
@@ -1575,7 +1575,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/71_Vitalize.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/71_Vitalize.jpg"
 			}
 		},
 		{
@@ -1585,7 +1585,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/49_Desecrate the Stones.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/49_Desecrate the Stones.jpg"
 			}
 		},
 		{
@@ -1595,7 +1595,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/58_Promise Riches.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/58_Promise Riches.jpg"
 			}
 		},
 		{
@@ -1605,7 +1605,7 @@
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/57_Orcish Fury.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/57_Orcish Fury.jpg"
 			}
 		},
 		{
@@ -1615,7 +1615,7 @@
 			"type": "Enchantment — Aura Title",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/47_Chieftain.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/47_Chieftain.jpg"
 			}
 		},
 		{
@@ -1625,7 +1625,7 @@
 			"type": "Snow Enchantment — Aura",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/28_Proven Unworthy.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/28_Proven Unworthy.jpg"
 			}
 		},
 		{
@@ -1635,7 +1635,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/33_Zumog's Disappointment.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/33_Zumog's Disappointment.jpg"
 			}
 		},
 		{
@@ -1645,7 +1645,7 @@
 			"type": "Instant",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/31_Tusk Off.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/31_Tusk Off.jpg"
 			}
 		},
 		{
@@ -1655,7 +1655,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/29_Scour the Pages.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/29_Scour the Pages.jpg"
 			}
 		},
 		{
@@ -1665,7 +1665,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://BluePhoenix234.github.io/sets/ESO-files/img/1_.jpg"
+				"en": "https://bluephoenix234.github.io/sets/ESO-files/img/1_.jpg"
 			}
 		}
 	]

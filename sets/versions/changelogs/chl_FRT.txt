@@ -1,4 +1,644 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+
+
+Scoured Barrens
+
+Feathered Acolyte
+
+Battlefront Scrounger
+
+Streetwise Nomad
+
+Bolstered Veteran
+
+Horned Beligerent
+
+Blessings Mystic
+
+Undaunted Avenger
+
+Sturdy Advancer
+
+Courageous Rallier
+
+Holy Holding
+
+Nomadic Defense
+
+Might-Wrought Boon
+
+Blessed Talon Sigil
+
+Glorious Stampede
+
+Reckless Inventory
+
+Frontline Rejuvinator
+
+Dusktouched Seeker
+
+Dagger-Bite Stalker
+
+Blood-Bound Mercenaries
+
+Holy Site Watcher
+
+Clever Swiper
+
+Bright-Eyed Adept
+
+Mind-Focused Warden
+
+Patient Trapper
+
+Downpour Leviathan
+
+Shimmer Guard Blessing
+
+Rune-Carved Guardian
+
+Graceful Intervention
+
+Guardian Instinct
+
+Jaw-Lock Glyph
+
+Wayfinder's Meditation
+
+Marsh Sifting
+
+Holy Gust
+
+River-Hunter's Cloak
+
+Grove Warden Rager
+
+Tusked Reinforcements
+
+Night-Veiled Font
+
+Marsh-Lurker Ambush
+
+Ruin-Wander Watch
+rules_text: {1}{B}: This creature gets +1/+1 and deathtouch until end of turn. => {1}{B}: This creature gets +1/+1 and gains deathtouch until end of turn.
+
+Wound Wielder
+
+Muck-Wield Stalker
+
+Night-Blessed Inquisitor
+
+Strixan Siphon Priest
+
+Battlefield Finisher
+
+Greedy Poacher
+
+Death-Wreathed Terror
+rules_text: This spell costs {1} less to cast for each nonland permanent in your graveyard.
+Whenever this creature becomes blocked, target opponent loses 2 life and you gain 2 life. => This spell costs {1} less to cast for each nonland permanent card in your graveyard.
+Whenever this creature becomes blocked, target opponent loses 2 life and you gain 2 life.
+
+Horn Bore
+
+Purge the Heresy
+
+Death Roll
+
+Wander-Rite Offering
+
+Call the Once Blessed
+
+Dark River Hiss
+
+Might-Marauder Helm
+
+Marauder's Fee
+
+Nature Surge
+
+Night-Tuned Etchings
+
+Night-Wind Spirits
+
+Eager-Horn Rookie
+
+Front-Wander Scout
+
+Rune-Charged Striker
+
+Dauntless Recruits
+
+Frenzy-Kin Reinforcer
+
+Rune-Guard Sharpshooter
+
+Battlefield Pilferer
+
+Rage-Legion Charger
+
+Enraged Blast
+rules_text: As an additional cost to cast this spell you may sacrifice a nonland permanent
+Enraged Blast deals 2 damage to target creature. If a permanent was sacrificed, Enraged Blast deals 4 damage instead. => As an additional cost to cast this spell you may sacrifice a nonland permanent.
+Enraged Blast deals 2 damage to target creature. If a permanent was sacrificed, Enraged Blast deals 4 damage instead.
+
+Cleanse with Fire
+
+Trample the Opposition
+
+Trade In
+
+Claw-Striker Bracers
+
+Distraction Strike
+rules_text: Target creature you control gets +2/+0 and first strike until end of turn.
+If you control a Cat, draw a card. => Target creature you control gets +2/+0 and gains first strike until end of turn.
+If you control a Cat, draw a card.
+
+Unstoppable Force
+rules_text: Enchant creature
+When this enchantment enters, destroy target artifact.
+Enchanted creature gets +2/+0 and has trample. => Enchant creature
+When this enchantment enters, destroy up to one target artifact.
+Enchanted creature gets +2/+0 and has trample.
+
+Grove-Guard Sigils
+
+High-Eyed Spirits
+
+Battle-Tithe Priest
+
+Vigor-Cloak Spirits
+
+Bright-Tusk Recruit
+
+Protective Charger
+
+Far-Wander Shaman
+
+Brighthollow Guard
+
+Marshland Hunter
+
+Watchful Game Tracker
+
+Mighty Deserter
+
+Surge-Seeker Wurm
+
+Venemous Repurpose
+
+Surge of Might
+
+Rally-Legion Requisition
+
+Stomper-Legion Hammer
+
+Prepare an Ambush
+
+Nurturing Nature
+
+Feline Instinct
+
+Raid Lieutenant
+
+Quick-Arm Spirits
+
+Wilderness Cultivator
+rules_text: When this creature enters, if you control a creature with a counter on it, surveil 2. Then, you may put a land card from your graveyard into your hand. => When this creature enters, if you control a creature with a counter on it, surveil 2. Then you may return a land card from your graveyard into your hand.
+
+Wild-Might Spirits
+
+Solid-Hoof Veteran
+
+Elephon Frontliner
+
+Blasphemer Detainer
+
+Brightlight Paladin
+
+Great-Horn Knight
+
+Pride-Heart Lieutenant
+
+Righteous Restoration
+
+Rallier's Boon
+
+Honorable Exile
+
+Great-Grove Guardian
+
+Elder Wood-Warden
+
+Bright-Grove Watcher
+
+River-Cloak Thief
+
+Stream-Warden Guide
+
+Dusk-Touched Pacifier
+
+Current-Wield Warden
+
+Mind-Wander Acolyte
+
+Enshrinement
+
+Drowned Efforts
+
+Ursaeic Repurposing
+
+Tanus' Observants
+
+Moonbound Prophet
+
+Glorymarked Returner
+
+Tithe Enforcer
+
+Fear-Tuned Mauler
+
+Feared River-Lurker
+
+Night-Feather Inquisitor
+
+Bog-Wander Poisoner
+
+Pull from the Bogs
+
+Foul Tactics
+rules_text: As an additional cost to cast this spell, you may sacrifice two nonland permanents.
+Return up to two target creature cards from your graveyard to your hand. If you paid the additional cost, instead return those creatures to the battlefield. => As an additional cost to cast this spell, you may sacrifice two nonland permanents.
+Return up to two target creature cards from your graveyard to your hand. If you paid the additional cost, instead return those creature cards to the battlefield.
+
+Fell the Blasphemer
+
+Serene Veteran
+
+Core-Legion Wildguard
+
+Wild Energy Apprentice
+
+Bovidian Barkeep
+
+Front-Legion Strategist
+
+Bold-Grove Elder
+
+Range-Legion Flanker
+
+Wander-Heart Mercenary
+
+Forced Conscription
+
+Fury of the Desperate
+
+Natural Pushback
+
+Leuric's Highwayman
+
+Battleground Assailant
+
+Elephon Vanguard
+
+Marshland Trawler
+rules_text: When this creature enters, return target permanent card from your graveyard to your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead you may return that permanent to the battlefield. => When this creature enters, return target permanent card from your graveyard to your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead you may return that permanent card to the battlefield.
+
+Grovetown Mentor
+
+Equalizing Hunter
+
+Might-Legion Champion
+
+Wild-Wander Shepherd
+
+Chart the Game Trails
+
+Fostered Might
+
+Stampede of the Legion
+
+Greathunt Champion
+
+Tenoc's Huntguard
+
+Front-Legion Surveyor
+
+Bishop of Persistence
+rules_text: Flying, vigilance
+When this creature enters, create a Blessing token attached to target permanent. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i]
+{W}{W}{1}, Sacrifice two enchantments: Return this creature from your graveyard to the battlefield tapped with a +1/+1 counter on it. It's a Spirit in addition to its other types. Activate only as a sorcery. => Flying, vigilance
+When this creature enters, create a Blessing token attached to target permanent. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i]
+{W}{W}{1}, Sacrifice two enchantments: Return this card from your graveyard to the battlefield tapped with a +1/+1 counter on it. It's a Spirit in addition to its other types. Activate only as a sorcery.
+
+Stalwart Representative
+
+Gracious Wanderer
+
+Might of Faith
+
+Twilight Cleansing
+
+The Paths of the Rivers
+
+Sacred Shrine Mason
+
+Riverbound Seer
+
+Mind-Honed Mentor
+
+Pathbound Mystic
+
+Beckon the Starlight Forms
+
+Channeling of Moonlight
+
+Elephon Charger
+
+Scaled Dusk-Blade
+
+Priest of the Damned
+
+Ambitious Saboteur
+
+Lone-Wander Resurrector
+
+Twilight Reckoning
+rules_text: Destroy all creatures. If six or more creatures were put into a graveyard this way, return a creature from a graveyard to the battlefield under your control. It's a Spirit in addition to its other types. => Destroy all creatures. If six or more creatures were put into a graveyard this way, return a creature card from a graveyard to the battlefield under your control. It's a Spirit in addition to its other types.
+
+Skills of the Shadowed
+
+Shine-Horn Lieutenant
+
+Blaze-Wield Bandit
+
+Wildfire Tamer
+
+Rage-Legion Brute
+
+Virtuous Vagabond
+
+Desperate Assault
+
+Gold and Glory
+
+First Dance of Twilight
+
+Grovebound Tender
+
+Trumpeting Captain
+
+Lurking Huntkeeper
+
+Far-Wander Ranger
+
+Blessings of Strength
+
+Primal Summons
+
+Rise of the Stampedes
+
+Bask in Glory
+
+Quirrellus, Prophet of the Phases
+
+Phasebound Emergence
+
+Rites of Twilight
+
+Imperial Shadowhand
+
+Might of the Elephon
+
+Tactical Gamble
+
+Tenoc, Huntcaller
+
+Grovekeeper Monument
+
+Neurevin, Herald of the Legions
+
+Mercenary Inquisitor
+
+Fanatical Heretic
+
+Siphon Technique
+
+Unyielding Resilience
+
+Naturalist Enhancements
+
+Balance of Dusk and Dawn
+
+Battleground Improviser
+
+Wild-Legion Deserter
+
+Support of the Legion
+
+Wildland Guardian
+
+Emnian, Legion Commander
+
+Dusk-Veiled Professional
+
+Ellevena, Rambunctious Heir
+
+Wild-Surge Beckoner
+
+Tanus, Eye of the Heavens
+
+Duskrite Priest
+
+Cian, Earth Whisperer
+
+Oremen, Wild-Keeper
+
+Garrison-Legion Quartermaster
+
+Clever Skywatcher
+
+Strixan Banner
+
+Elephon Banner
+
+Crocdilid Banner
+
+Bovidian Banner
+
+Ursaeic Banner
+
+The Might of Tanabon
+
+The Trials of Saint Mornus
+rules_text: Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+The First Hunt of Roag
+
+The Tale of Ol Barrot
+
+The Teachings of Aodhan
+
+Felidian Guidestone
+
+Mighty Fort Town
+
+Bustling Monastery
+
+Quaint Marsh Village
+
+Bannerless Town
+
+Woodland Hamlet
+
+Elephon Representative
+
+Strixan Representative
+
+Crocodilid Representative
+
+Bovidian Representative
+
+Ursaeic Representative
+
+Outskirts Inquisitor
+
+Twilight Reinforcer
+
+Decay Specialist
+
+Marshland Witch
+
+Dusk-Blessed Brutalist
+
+Bovidian Brutalist
+
+Rallying Turncoat
+
+Grizzled Rallier
+
+Ade, Heir to Nothing
+
+Elefetik, Wary Watcher
+
+Gifts of the Bayou
+
+Leuric, Glory Profiteer
+
+Aoife, the Warden Mother
+
+Tranquil Cove
+
+Blossoming Sands
+
+Rugged Highlands
+
+Bloodfell Caves
+
+Dismal Backwater
+
+Swiftwater Cliffs
+
+Jungle Hollow
+
+Wind-scarred Crag
+
+Thornwood Falls
+
+Elephant Soldier
+
+Weapon
+
+Blessing
+
+Bloodboiling Retribution
+rules_text: When this enchantment enters, you may destroy up to one target creature.
+Whenever a creature you control dies, untap target creature you control. It gains +2/+0 and first strike until the end of your turn. => When this enchantment enters, you may destroy up to one target creature.
+Whenever a creature you control dies, untap target creature you control. It gets +2/+0 and gains first strike until the end of your turn.
+
+Rhythms of the World
+
+Ways of the Wanderers
+
+The Path of Promise
+
+The Wild's First Whisper
+
+Mighty Strike
+
+Blessings of Moon and Star
+rules_text: Creatures can't attack you unless their controller pays {2} for each of those creatures.
+{1}{W}, Sacrifice this enchantment: You may exile each creature you control. Return those creature to the battlefield tapped under their owner's control at the beginning of the next end step. => Creatures can't attack you unless their controller pays {2} for each of those creatures.
+{1}{W}, Sacrifice this enchantment: You may exile each creature you control. Return those creatures to the battlefield tapped under their owner's control at the beginning of the next end step.
+
+Riverbound Surge
+
+Shared Earnings
+
+Roar of the Wilds
+
+Avia, Imperial Capital
+
+The Book of Names
+
+Weapon
+
+Weapon
+
+Crocodile Assassin
+
+Food
+
+Treasure
+
+Minotaur Warrior
+
+Bird Cleric
+
+Elemental
+
+Clue
+
+Elemental
+
+Shrine
+
+Bear Druid
+
+Spirit Illusion
+
+Elefetik, Wary Watcher
+
+Elephant Soldier
+
+Elephant Soldier
+
+Ash Barrens
+
+
+VERSION 39 CHANGELOG
 ====================
 
 

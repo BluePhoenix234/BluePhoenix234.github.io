@@ -5524,8 +5524,11 @@
             "loyalty": "",
             "artist": "umbatman",
             "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Feathered Acolyte",
@@ -5544,8 +5547,11 @@
             "loyalty": "",
             "artist": "Luckart",
             "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Battlefront Scrounger",
@@ -5564,8 +5570,11 @@
             "loyalty": "",
             "artist": "Irbeus",
             "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Streetwise Nomad",
@@ -5584,8 +5593,11 @@
             "loyalty": "",
             "artist": "Olaffson",
             "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bolstered Veteran",
@@ -5604,8 +5616,11 @@
             "loyalty": "",
             "artist": "gielczynski",
             "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Horned Beligerent",
@@ -5624,8 +5639,11 @@
             "loyalty": "",
             "artist": "butterfrog",
             "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blessings Mystic",
@@ -5644,8 +5662,11 @@
             "loyalty": "",
             "artist": "Mister-Nintendo",
             "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Undaunted Avenger",
@@ -5664,8 +5685,11 @@
             "loyalty": "",
             "artist": "Brian Vadell",
             "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sturdy Advancer",
@@ -5684,8 +5708,11 @@
             "loyalty": "",
             "artist": "Arte Desastre",
             "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Courageous Rallier",
@@ -5704,8 +5731,11 @@
             "loyalty": "",
             "artist": "Lipatov",
             "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Holy Holding",
@@ -5724,8 +5754,11 @@
             "loyalty": "",
             "artist": "Himmis",
             "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nomadic Defense",
@@ -5744,8 +5777,11 @@
             "loyalty": "",
             "artist": "cha4os",
             "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Might-Wrought Boon",
@@ -5764,8 +5800,11 @@
             "loyalty": "",
             "artist": "Matt Forsyth",
             "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blessed Talon Sigil",
@@ -5784,8 +5823,11 @@
             "loyalty": "",
             "artist": "TheTundraGhost",
             "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Glorious Stampede",
@@ -5804,8 +5846,11 @@
             "loyalty": "",
             "artist": "Gaudi Buendia",
             "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Reckless Inventory",
@@ -5824,8 +5869,11 @@
             "loyalty": "",
             "artist": "Finras",
             "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Frontline Rejuvinator",
@@ -5844,8 +5892,11 @@
             "loyalty": "",
             "artist": "Quantzz",
             "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dusktouched Seeker",
@@ -5864,8 +5915,11 @@
             "loyalty": "",
             "artist": "Cindy Avelino",
             "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dagger-Bite Stalker",
@@ -5884,8 +5938,11 @@
             "loyalty": "",
             "artist": "Quantzz",
             "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blood-Bound Mercenaries",
@@ -5904,8 +5961,11 @@
             "loyalty": "",
             "artist": "Robin-Boer",
             "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Holy Site Watcher",
@@ -5924,8 +5984,11 @@
             "loyalty": "",
             "artist": "Forger Of Fantasies",
             "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Clever Swiper",
@@ -5944,8 +6007,11 @@
             "loyalty": "",
             "artist": "Royzilya",
             "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bright-Eyed Adept",
@@ -5964,8 +6030,11 @@
             "loyalty": "",
             "artist": "MAtheus",
             "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mind-Focused Warden",
@@ -5984,8 +6053,11 @@
             "loyalty": "",
             "artist": "Hattonslayden",
             "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Patient Trapper",
@@ -6004,8 +6076,11 @@
             "loyalty": "",
             "artist": "slshimerdla",
             "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Downpour Leviathan",
@@ -6024,8 +6099,11 @@
             "loyalty": "",
             "artist": "Leliumoj",
             "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shimmer Guard Blessing",
@@ -6044,8 +6122,11 @@
             "loyalty": "",
             "artist": "Spoops13",
             "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rune-Carved Guardian",
@@ -6064,8 +6145,11 @@
             "loyalty": "",
             "artist": "Olieart",
             "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Graceful Intervention",
@@ -6084,8 +6168,11 @@
             "loyalty": "",
             "artist": "Djake",
             "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Guardian Instinct",
@@ -6104,8 +6191,11 @@
             "loyalty": "",
             "artist": "Jocarra",
             "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Jaw-Lock Glyph",
@@ -6124,8 +6214,11 @@
             "loyalty": "",
             "artist": "VilaEmme",
             "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wayfinder's Meditation",
@@ -6144,8 +6237,11 @@
             "loyalty": "",
             "artist": "rajewel",
             "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Marsh Sifting",
@@ -6164,8 +6260,11 @@
             "loyalty": "",
             "artist": "izidro",
             "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Holy Gust",
@@ -6184,8 +6283,11 @@
             "loyalty": "",
             "artist": "Himmis",
             "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "River-Hunter's Cloak",
@@ -6204,8 +6306,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Grove Warden Rager",
@@ -6224,8 +6329,11 @@
             "loyalty": "",
             "artist": "Motolog",
             "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tusked Reinforcements",
@@ -6244,8 +6352,11 @@
             "loyalty": "",
             "artist": "Yanmao Zhang",
             "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Night-Veiled Font",
@@ -6264,8 +6375,11 @@
             "loyalty": "",
             "artist": "windfalcon",
             "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Marsh-Lurker Ambush",
@@ -6284,8 +6398,11 @@
             "loyalty": "",
             "artist": "ChrisSetra",
             "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ruin-Wander Watch",
@@ -6295,7 +6412,7 @@
             "number": 87,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "{1}{B}: This creature gets +1/+1 and deathtouch until end of turn.",
+            "rules_text": "{1}{B}: This creature gets +1/+1 and gains deathtouch until end of turn.",
             "flavor_text": "[i]My people have tasked me with keeping watch at night. I only pray to the lost that I will have the ability to protect them.[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -6304,8 +6421,11 @@
             "loyalty": "",
             "artist": "Matkraken",
             "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wound Wielder",
@@ -6324,8 +6444,11 @@
             "loyalty": "",
             "artist": "Pablo Fernandez",
             "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Muck-Wield Stalker",
@@ -6344,8 +6467,11 @@
             "loyalty": "",
             "artist": "vladgheneli",
             "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Night-Blessed Inquisitor",
@@ -6364,8 +6490,11 @@
             "loyalty": "",
             "artist": "Shabazik",
             "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Strixan Siphon Priest",
@@ -6384,8 +6513,11 @@
             "loyalty": "",
             "artist": "Istrandar",
             "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Battlefield Finisher",
@@ -6404,8 +6536,11 @@
             "loyalty": "",
             "artist": "Bradly Van Camp",
             "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Greedy Poacher",
@@ -6424,8 +6559,11 @@
             "loyalty": "",
             "artist": "Dhiego Cristofolini",
             "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Death-Wreathed Terror",
@@ -6435,7 +6573,7 @@
             "number": 70,
             "color_identity": "B",
             "cost": "{5}{B}",
-            "rules_text": "This spell costs {1} less to cast for each nonland permanent in your graveyard.\nWhenever this creature becomes blocked, target opponent loses 2 life and you gain 2 life.",
+            "rules_text": "This spell costs {1} less to cast for each nonland permanent card in your graveyard.\nWhenever this creature becomes blocked, target opponent loses 2 life and you gain 2 life.",
             "flavor_text": "[i]\u201cYou're telling me that you even saw a croc run from these things? This truly is a matter of dire importance then.\u201d \u2014 _, Strixan Abbot[/i]",
             "pt": "5/4",
             "special_text": "",
@@ -6444,8 +6582,11 @@
             "loyalty": "",
             "artist": "Maquenda",
             "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Horn Bore",
@@ -6464,8 +6605,11 @@
             "loyalty": "",
             "artist": "Sabwise",
             "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Purge the Heresy",
@@ -6484,8 +6628,11 @@
             "loyalty": "",
             "artist": "Matt Barley",
             "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Death Roll",
@@ -6504,8 +6651,11 @@
             "loyalty": "",
             "artist": "Rachuyin",
             "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wander-Rite Offering",
@@ -6524,8 +6674,11 @@
             "loyalty": "",
             "artist": "Lunaotic",
             "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Call the Once Blessed",
@@ -6544,8 +6697,11 @@
             "loyalty": "",
             "artist": "Secret-S",
             "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dark River Hiss",
@@ -6564,8 +6720,11 @@
             "loyalty": "",
             "artist": "StaplesART",
             "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Might-Marauder Helm",
@@ -6584,8 +6743,11 @@
             "loyalty": "",
             "artist": "Illogical-Lynx",
             "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Marauder's Fee",
@@ -6604,8 +6766,11 @@
             "loyalty": "",
             "artist": "Norapotwpra",
             "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nature Surge",
@@ -6624,8 +6789,11 @@
             "loyalty": "",
             "artist": "Patrisska",
             "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Night-Tuned Etchings",
@@ -6644,8 +6812,11 @@
             "loyalty": "",
             "artist": "AndreJZT",
             "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Night-Wind Spirits",
@@ -6664,8 +6835,11 @@
             "loyalty": "",
             "artist": "Grox Himmel",
             "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Eager-Horn Rookie",
@@ -6684,8 +6858,11 @@
             "loyalty": "",
             "artist": "Brian Luk",
             "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Front-Wander Scout",
@@ -6704,8 +6881,11 @@
             "loyalty": "",
             "artist": "Francell Garrote",
             "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rune-Charged Striker",
@@ -6724,8 +6904,11 @@
             "loyalty": "",
             "artist": "Kasai",
             "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dauntless Recruits",
@@ -6744,8 +6927,11 @@
             "loyalty": "",
             "artist": "EleMont",
             "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Frenzy-Kin Reinforcer",
@@ -6764,8 +6950,11 @@
             "loyalty": "",
             "artist": "tarkheki",
             "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rune-Guard Sharpshooter",
@@ -6784,8 +6973,11 @@
             "loyalty": "",
             "artist": "Alena Schlotz",
             "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Battlefield Pilferer",
@@ -6804,8 +6996,11 @@
             "loyalty": "",
             "artist": "Matt Cowdery",
             "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rage-Legion Charger",
@@ -6824,8 +7019,11 @@
             "loyalty": "",
             "artist": "digitalmakoy",
             "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Enraged Blast",
@@ -6835,7 +7033,7 @@
             "number": 105,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "As an additional cost to cast this spell you may sacrifice a nonland permanent\nEnraged Blast deals 2 damage to target creature. If a permanent was sacrificed, Enraged Blast deals 4 damage instead.",
+            "rules_text": "As an additional cost to cast this spell you may sacrifice a nonland permanent.\nEnraged Blast deals 2 damage to target creature. If a permanent was sacrificed, Enraged Blast deals 4 damage instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6844,8 +7042,11 @@
             "loyalty": "",
             "artist": "ArtDeepMind",
             "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cleanse with Fire",
@@ -6864,8 +7065,11 @@
             "loyalty": "",
             "artist": "LuisBentoArt",
             "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Trample the Opposition",
@@ -6884,8 +7088,11 @@
             "loyalty": "",
             "artist": "Richard Suwono",
             "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Trade In",
@@ -6904,8 +7111,11 @@
             "loyalty": "",
             "artist": "Manabreakfast",
             "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Claw-Striker Bracers",
@@ -6924,8 +7134,11 @@
             "loyalty": "",
             "artist": "EGOR-URSUS",
             "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Distraction Strike",
@@ -6935,7 +7148,7 @@
             "number": 103,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Target creature you control gets +2/+0 and first strike until end of turn.\nIf you control a Cat, draw a card.",
+            "rules_text": "Target creature you control gets +2/+0 and gains first strike until end of turn.\nIf you control a Cat, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6944,8 +7157,11 @@
             "loyalty": "",
             "artist": "The-SixthLeafClover",
             "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unstoppable Force",
@@ -6955,7 +7171,7 @@
             "number": 121,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Enchant creature\nWhen this enchantment enters, destroy target artifact.\nEnchanted creature gets +2/+0 and has trample.",
+            "rules_text": "Enchant creature\nWhen this enchantment enters, destroy up to one target artifact.\nEnchanted creature gets +2/+0 and has trample.",
             "flavor_text": "[i]\u201cTheir numbers matter not, push through them all!\u201d \u2014 _, Legion Captain.[/i]",
             "pt": "",
             "special_text": "",
@@ -6964,8 +7180,11 @@
             "loyalty": "",
             "artist": "Jan Drenovec",
             "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Grove-Guard Sigils",
@@ -6984,8 +7203,11 @@
             "loyalty": "",
             "artist": "AdanyaCroft",
             "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "High-Eyed Spirits",
@@ -7004,8 +7226,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Battle-Tithe Priest",
@@ -7024,8 +7249,11 @@
             "loyalty": "",
             "artist": "Arian Silver",
             "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Vigor-Cloak Spirits",
@@ -7044,8 +7272,11 @@
             "loyalty": "",
             "artist": "AlvaroFernaG",
             "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bright-Tusk Recruit",
@@ -7064,8 +7295,11 @@
             "loyalty": "",
             "artist": "SilkyNoire",
             "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Protective Charger",
@@ -7084,8 +7318,11 @@
             "loyalty": "",
             "artist": "Misha Khomchenkov",
             "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Far-Wander Shaman",
@@ -7104,8 +7341,11 @@
             "loyalty": "",
             "artist": "Vorueg",
             "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Brighthollow Guard",
@@ -7124,8 +7364,11 @@
             "loyalty": "",
             "artist": "Dioskyr",
             "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Marshland Hunter",
@@ -7144,8 +7387,11 @@
             "loyalty": "",
             "artist": "Black Awader",
             "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Watchful Game Tracker",
@@ -7164,8 +7410,11 @@
             "loyalty": "",
             "artist": "Inkary",
             "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mighty Deserter",
@@ -7184,8 +7433,11 @@
             "loyalty": "",
             "artist": "Carlos Bentacourt",
             "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Surge-Seeker Wurm",
@@ -7204,8 +7456,11 @@
             "loyalty": "",
             "artist": "Markoo9",
             "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Venemous Repurpose",
@@ -7224,8 +7479,11 @@
             "loyalty": "",
             "artist": "Drinke94",
             "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Surge of Might",
@@ -7244,8 +7502,11 @@
             "loyalty": "",
             "artist": "Gus-L",
             "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rally-Legion Requisition",
@@ -7264,8 +7525,11 @@
             "loyalty": "",
             "artist": "Adamant356",
             "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stomper-Legion Hammer",
@@ -7284,8 +7548,11 @@
             "loyalty": "",
             "artist": "BluePhoenix234",
             "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Prepare an Ambush",
@@ -7304,8 +7571,11 @@
             "loyalty": "",
             "artist": "Pavelbuckovski",
             "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nurturing Nature",
@@ -7324,8 +7594,11 @@
             "loyalty": "",
             "artist": "SalamanDra-s",
             "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Feline Instinct",
@@ -7344,8 +7617,11 @@
             "loyalty": "",
             "artist": "KenKet",
             "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Raid Lieutenant",
@@ -7364,8 +7640,11 @@
             "loyalty": "",
             "artist": "inhyuklee",
             "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Quick-Arm Spirits",
@@ -7384,8 +7663,11 @@
             "loyalty": "",
             "artist": "Tomas Mora",
             "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wilderness Cultivator",
@@ -7395,7 +7677,7 @@
             "number": 236,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "When this creature enters, if you control a creature with a counter on it, surveil 2. Then, you may put a land card from your graveyard into your hand.",
+            "rules_text": "When this creature enters, if you control a creature with a counter on it, surveil 2. Then you may return a land card from your graveyard into your hand.",
             "flavor_text": "[i]\u201cStronger prey, stronger predators, stronger ecosystem. These make for much more thrilling hunts.\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -7404,8 +7686,11 @@
             "loyalty": "",
             "artist": "BarghestDesign",
             "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wild-Might Spirits",
@@ -7424,8 +7709,11 @@
             "loyalty": "",
             "artist": "Morph Design",
             "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Solid-Hoof Veteran",
@@ -7444,8 +7732,11 @@
             "loyalty": "",
             "artist": "PTimm",
             "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elephon Frontliner",
@@ -7464,8 +7755,11 @@
             "loyalty": "",
             "artist": "Izzy Medrano",
             "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blasphemer Detainer",
@@ -7484,8 +7778,11 @@
             "loyalty": "",
             "artist": "Llythium_art",
             "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Brightlight Paladin",
@@ -7504,8 +7801,11 @@
             "loyalty": "",
             "artist": "Varis Art",
             "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Great-Horn Knight",
@@ -7524,8 +7824,11 @@
             "loyalty": "",
             "artist": "Rylan Woodrow",
             "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pride-Heart Lieutenant",
@@ -7544,8 +7847,11 @@
             "loyalty": "",
             "artist": "Yacrical",
             "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Righteous Restoration",
@@ -7564,8 +7870,11 @@
             "loyalty": "",
             "artist": "Brandon Crampton",
             "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rallier's Boon",
@@ -7584,8 +7893,11 @@
             "loyalty": "",
             "artist": "Iromonik",
             "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Honorable Exile",
@@ -7604,8 +7916,11 @@
             "loyalty": "",
             "artist": "LuxDani",
             "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Great-Grove Guardian",
@@ -7624,8 +7939,11 @@
             "loyalty": "",
             "artist": "Cryptos13",
             "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elder Wood-Warden",
@@ -7644,8 +7962,11 @@
             "loyalty": "",
             "artist": "Henrique Gomes",
             "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bright-Grove Watcher",
@@ -7664,8 +7985,11 @@
             "loyalty": "",
             "artist": "Angela S",
             "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "River-Cloak Thief",
@@ -7684,8 +8008,11 @@
             "loyalty": "",
             "artist": "RAPHTOR",
             "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stream-Warden Guide",
@@ -7704,8 +8031,11 @@
             "loyalty": "",
             "artist": "Wolfdog-ArtCorner",
             "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dusk-Touched Pacifier",
@@ -7724,8 +8054,11 @@
             "loyalty": "",
             "artist": "HIBBARY",
             "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Current-Wield Warden",
@@ -7744,8 +8077,11 @@
             "loyalty": "",
             "artist": "KrankArt",
             "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mind-Wander Acolyte",
@@ -7764,8 +8100,11 @@
             "loyalty": "",
             "artist": "Himmis",
             "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Enshrinement",
@@ -7784,8 +8123,11 @@
             "loyalty": "",
             "artist": "snokepaint",
             "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Drowned Efforts",
@@ -7804,8 +8146,11 @@
             "loyalty": "",
             "artist": "J Edward Neill",
             "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ursaeic Repurposing",
@@ -7824,8 +8169,11 @@
             "loyalty": "",
             "artist": "darknatasha",
             "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tanus' Observants",
@@ -7844,8 +8192,11 @@
             "loyalty": "",
             "artist": "Gaudi Buendia",
             "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Moonbound Prophet",
@@ -7864,8 +8215,11 @@
             "loyalty": "",
             "artist": "Sieskja",
             "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Glorymarked Returner",
@@ -7884,8 +8238,11 @@
             "loyalty": "",
             "artist": "Justin Gerard",
             "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tithe Enforcer",
@@ -7904,8 +8261,11 @@
             "loyalty": "",
             "artist": "Kartoniq",
             "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fear-Tuned Mauler",
@@ -7924,8 +8284,11 @@
             "loyalty": "",
             "artist": "Mariana-Vieira",
             "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Feared River-Lurker",
@@ -7944,8 +8307,11 @@
             "loyalty": "",
             "artist": "L3monJuic3",
             "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Night-Feather Inquisitor",
@@ -7964,8 +8330,11 @@
             "loyalty": "",
             "artist": "Spinejackel",
             "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bog-Wander Poisoner",
@@ -7984,8 +8353,11 @@
             "loyalty": "",
             "artist": "raptozs",
             "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pull from the Bogs",
@@ -8004,8 +8376,11 @@
             "loyalty": "",
             "artist": "N-ossandon-Nezt",
             "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Foul Tactics",
@@ -8015,7 +8390,7 @@
             "number": 74,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "As an additional cost to cast this spell, you may sacrifice two nonland permanents.\nReturn up to two target creature cards from your graveyard to your hand. If you paid the additional cost, instead return those creatures to the battlefield.",
+            "rules_text": "As an additional cost to cast this spell, you may sacrifice two nonland permanents.\nReturn up to two target creature cards from your graveyard to your hand. If you paid the additional cost, instead return those creature cards to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8024,8 +8399,11 @@
             "loyalty": "",
             "artist": "Hazelgee",
             "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fell the Blasphemer",
@@ -8044,8 +8422,11 @@
             "loyalty": "",
             "artist": "SamwisDidier",
             "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Serene Veteran",
@@ -8064,8 +8445,11 @@
             "loyalty": "",
             "artist": "Sony-Shock",
             "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Core-Legion Wildguard",
@@ -8084,8 +8468,11 @@
             "loyalty": "",
             "artist": "Manguinha",
             "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wild Energy Apprentice",
@@ -8104,8 +8491,11 @@
             "loyalty": "",
             "artist": "James Bousema",
             "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bovidian Barkeep",
@@ -8124,8 +8514,11 @@
             "loyalty": "",
             "artist": "Herringbonnes (2943)",
             "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Front-Legion Strategist",
@@ -8144,8 +8537,11 @@
             "loyalty": "",
             "artist": "Aymeric Thevenot",
             "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bold-Grove Elder",
@@ -8164,8 +8560,11 @@
             "loyalty": "",
             "artist": "Leopreston",
             "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Range-Legion Flanker",
@@ -8184,8 +8583,11 @@
             "loyalty": "",
             "artist": "Leksa Art",
             "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wander-Heart Mercenary",
@@ -8204,8 +8606,11 @@
             "loyalty": "",
             "artist": "TitusW-Archive",
             "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forced Conscription",
@@ -8224,8 +8629,11 @@
             "loyalty": "",
             "artist": "Ninja-Turtles",
             "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fury of the Desperate",
@@ -8244,8 +8652,11 @@
             "loyalty": "",
             "artist": "Hecto Betancur",
             "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Natural Pushback",
@@ -8264,8 +8675,11 @@
             "loyalty": "",
             "artist": "ZeeJayWong",
             "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Leuric's Highwayman",
@@ -8284,8 +8698,11 @@
             "loyalty": "",
             "artist": "Mitchellnolte",
             "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Battleground Assailant",
@@ -8304,8 +8721,11 @@
             "loyalty": "",
             "artist": "Vagamonkey",
             "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elephon Vanguard",
@@ -8324,8 +8744,11 @@
             "loyalty": "",
             "artist": "Gintaras \u0160e\u0161kus",
             "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Marshland Trawler",
@@ -8335,7 +8758,7 @@
             "number": 141,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When this creature enters, return target permanent card from your graveyard to your hand.\n[i]Ferocious[/i] \u2013 If you control a creature with power 4 or greater, instead you may return that permanent to the battlefield.",
+            "rules_text": "When this creature enters, return target permanent card from your graveyard to your hand.\n[i]Ferocious[/i] \u2013 If you control a creature with power 4 or greater, instead you may return that permanent card to the battlefield.",
             "flavor_text": "[i]\u201cWe find all sorts of things in the marshes. Some of the things yearn for a second wind, not yet ready to let go.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -8344,8 +8767,11 @@
             "loyalty": "",
             "artist": "ThemeFinland",
             "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Grovetown Mentor",
@@ -8364,8 +8790,11 @@
             "loyalty": "",
             "artist": "Mirko Failoni",
             "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Equalizing Hunter",
@@ -8384,8 +8813,11 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Might-Legion Champion",
@@ -8404,8 +8836,11 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wild-Wander Shepherd",
@@ -8424,8 +8859,11 @@
             "loyalty": "",
             "artist": "apricotjackal",
             "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Chart the Game Trails",
@@ -8444,8 +8882,11 @@
             "loyalty": "",
             "artist": "Theme Finland",
             "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fostered Might",
@@ -8464,8 +8905,11 @@
             "loyalty": "",
             "artist": "sandara",
             "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stampede of the Legion",
@@ -8484,8 +8928,11 @@
             "loyalty": "",
             "artist": "Keronetex",
             "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Greathunt Champion",
@@ -8504,8 +8951,11 @@
             "loyalty": "",
             "artist": "ThemeFinland",
             "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tenoc's Huntguard",
@@ -8524,8 +8974,11 @@
             "loyalty": "",
             "artist": "Julien Vandois",
             "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Front-Legion Surveyor",
@@ -8544,8 +8997,11 @@
             "loyalty": "",
             "artist": "Buddy R",
             "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bishop of Persistence",
@@ -8555,7 +9011,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flying, vigilance\nWhen this creature enters, create a Blessing token attached to target permanent. [i](It's a colorless Aura token with, \u201cEnchanted permanent has ward {1}.\u201d)[/i]\n{W}{W}{1}, Sacrifice two enchantments: Return this creature from your graveyard to the battlefield tapped with a +1/+1 counter on it. It's a Spirit in addition to its other types. Activate only as a sorcery.",
+            "rules_text": "Flying, vigilance\nWhen this creature enters, create a Blessing token attached to target permanent. [i](It's a colorless Aura token with, \u201cEnchanted permanent has ward {1}.\u201d)[/i]\n{W}{W}{1}, Sacrifice two enchantments: Return this card from your graveyard to the battlefield tapped with a +1/+1 counter on it. It's a Spirit in addition to its other types. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -8564,8 +9020,11 @@
             "loyalty": "",
             "artist": "Matthew Spencer",
             "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stalwart Representative",
@@ -8584,8 +9043,11 @@
             "loyalty": "",
             "artist": "Jonny Hall",
             "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gracious Wanderer",
@@ -8604,8 +9066,11 @@
             "loyalty": "",
             "artist": "kenket",
             "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Might of Faith",
@@ -8624,8 +9089,11 @@
             "loyalty": "",
             "artist": "Mateus Barandas",
             "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Twilight Cleansing",
@@ -8644,8 +9112,11 @@
             "loyalty": "",
             "artist": "NasaychArt",
             "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Paths of the Rivers",
@@ -8664,8 +9135,11 @@
             "loyalty": "",
             "artist": "LPSDC",
             "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "!sort raresaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sacred Shrine Mason",
@@ -8684,8 +9158,11 @@
             "loyalty": "",
             "artist": "Timoth\u00e9e MATHON",
             "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Riverbound Seer",
@@ -8704,8 +9181,11 @@
             "loyalty": "",
             "artist": "Fire Drakoshka",
             "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mind-Honed Mentor",
@@ -8724,8 +9204,11 @@
             "loyalty": "",
             "artist": "Bear-Hybrid",
             "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pathbound Mystic",
@@ -8744,8 +9227,11 @@
             "loyalty": "",
             "artist": "LunarFerns",
             "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Beckon the Starlight Forms",
@@ -8764,8 +9250,11 @@
             "loyalty": "",
             "artist": "Kieral",
             "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Channeling of Moonlight",
@@ -8784,8 +9273,11 @@
             "loyalty": "",
             "artist": "LocalMushroom",
             "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elephon Charger",
@@ -8804,8 +9296,11 @@
             "loyalty": "",
             "artist": "Anderson Lovato",
             "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Scaled Dusk-Blade",
@@ -8824,8 +9319,11 @@
             "loyalty": "",
             "artist": "Bavarii",
             "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Priest of the Damned",
@@ -8844,8 +9342,11 @@
             "loyalty": "",
             "artist": "VanderBurg",
             "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ambitious Saboteur",
@@ -8864,8 +9365,11 @@
             "loyalty": "",
             "artist": "JakubJagoda",
             "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lone-Wander Resurrector",
@@ -8884,8 +9388,11 @@
             "loyalty": "",
             "artist": "mannequin-atelier",
             "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Twilight Reckoning",
@@ -8895,7 +9402,7 @@
             "number": 92,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "Destroy all creatures. If six or more creatures were put into a graveyard this way, return a creature from a graveyard to the battlefield under your control. It's a Spirit in addition to its other types.",
+            "rules_text": "Destroy all creatures. If six or more creatures were put into a graveyard this way, return a creature card from a graveyard to the battlefield under your control. It's a Spirit in addition to its other types.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8904,8 +9411,11 @@
             "loyalty": "",
             "artist": "Geoffrey Ernault",
             "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skills of the Shadowed",
@@ -8924,8 +9434,11 @@
             "loyalty": "",
             "artist": "BonkiHart",
             "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shine-Horn Lieutenant",
@@ -8944,8 +9457,11 @@
             "loyalty": "",
             "artist": "Blazbaros",
             "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blaze-Wield Bandit",
@@ -8964,8 +9480,11 @@
             "loyalty": "",
             "artist": "RaV89",
             "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wildfire Tamer",
@@ -8984,8 +9503,11 @@
             "loyalty": "",
             "artist": "MoonPixArt",
             "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rage-Legion Brute",
@@ -9004,8 +9526,11 @@
             "loyalty": "",
             "artist": "Yevhen Bodrenko",
             "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Virtuous Vagabond",
@@ -9024,8 +9549,11 @@
             "loyalty": "",
             "artist": "Denis Zhbankov",
             "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Desperate Assault",
@@ -9044,8 +9572,11 @@
             "loyalty": "",
             "artist": "Amberdrop",
             "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gold and Glory",
@@ -9064,8 +9595,11 @@
             "loyalty": "",
             "artist": "nvalchemist",
             "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "First Dance of Twilight",
@@ -9084,8 +9618,11 @@
             "loyalty": "",
             "artist": "Lucy Anori",
             "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "!sort raresaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Grovebound Tender",
@@ -9104,8 +9641,11 @@
             "loyalty": "",
             "artist": "Tuonenkalla",
             "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Trumpeting Captain",
@@ -9124,8 +9664,11 @@
             "loyalty": "",
             "artist": "NestledNaga",
             "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lurking Huntkeeper",
@@ -9144,8 +9687,11 @@
             "loyalty": "",
             "artist": "Kerem Biyet",
             "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Far-Wander Ranger",
@@ -9164,8 +9710,11 @@
             "loyalty": "",
             "artist": "NukeRooster",
             "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blessings of Strength",
@@ -9184,8 +9733,11 @@
             "loyalty": "",
             "artist": "Jack Kirby Crosby",
             "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Primal Summons",
@@ -9204,8 +9756,11 @@
             "loyalty": "",
             "artist": "Linnys Art",
             "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rise of the Stampedes",
@@ -9224,8 +9779,11 @@
             "loyalty": "",
             "artist": "Gaudi Buendia",
             "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "!sort raresaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bask in Glory",
@@ -9244,8 +9802,11 @@
             "loyalty": "",
             "artist": "BongTuoi",
             "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Quirrellus, Prophet of the Phases",
@@ -9264,8 +9825,11 @@
             "loyalty": "",
             "artist": "Ametat",
             "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "!sort mythiclegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Phasebound Emergence",
@@ -9284,8 +9848,11 @@
             "loyalty": "",
             "artist": "wolfgryph",
             "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rites of Twilight",
@@ -9304,8 +9871,11 @@
             "loyalty": "",
             "artist": "longestdistance",
             "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Imperial Shadowhand",
@@ -9324,8 +9894,11 @@
             "loyalty": "",
             "artist": "WhiteRaven90",
             "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Might of the Elephon",
@@ -9344,8 +9917,11 @@
             "loyalty": "",
             "artist": "Markoo9",
             "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tactical Gamble",
@@ -9364,8 +9940,11 @@
             "loyalty": "",
             "artist": "Montjart",
             "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tenoc, Huntcaller",
@@ -9384,8 +9963,11 @@
             "loyalty": "",
             "artist": "ZimtHandmade",
             "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "!sort mythiclegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Grovekeeper Monument",
@@ -9404,8 +9986,11 @@
             "loyalty": "",
             "artist": "Anna Sz",
             "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Neurevin, Herald of the Legions",
@@ -9424,8 +10009,11 @@
             "loyalty": "",
             "artist": "Willian (We.Willdraw)",
             "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "!sort mythiclegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mercenary Inquisitor",
@@ -9444,8 +10032,11 @@
             "loyalty": "",
             "artist": "Z-Bender",
             "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fanatical Heretic",
@@ -9464,8 +10055,11 @@
             "loyalty": "",
             "artist": "Suzanne-Helmigh",
             "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Siphon Technique",
@@ -9484,8 +10078,11 @@
             "loyalty": "",
             "artist": "Angel Ganev",
             "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unyielding Resilience",
@@ -9504,8 +10101,11 @@
             "loyalty": "",
             "artist": "Wiloberdier",
             "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Naturalist Enhancements",
@@ -9524,8 +10124,11 @@
             "loyalty": "",
             "artist": "Angela Rizza",
             "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Balance of Dusk and Dawn",
@@ -9544,8 +10147,11 @@
             "loyalty": "",
             "artist": "Sunima",
             "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Battleground Improviser",
@@ -9564,8 +10170,11 @@
             "loyalty": "",
             "artist": "SolidSake",
             "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wild-Legion Deserter",
@@ -9584,8 +10193,11 @@
             "loyalty": "",
             "artist": "furball891",
             "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Support of the Legion",
@@ -9604,8 +10216,11 @@
             "loyalty": "",
             "artist": "Mike Faille",
             "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wildland Guardian",
@@ -9624,8 +10239,11 @@
             "loyalty": "",
             "artist": "Steve Sykes",
             "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Emnian, Legion Commander",
@@ -9644,8 +10262,11 @@
             "loyalty": "",
             "artist": "skelliet0n",
             "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "!sort rarelegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dusk-Veiled Professional",
@@ -9664,8 +10285,11 @@
             "loyalty": "",
             "artist": "Nadine Sch\u00e4kel",
             "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ellevena, Rambunctious Heir",
@@ -9684,8 +10308,11 @@
             "loyalty": "",
             "artist": "Deo101",
             "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "!sort rarelegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wild-Surge Beckoner",
@@ -9704,8 +10331,11 @@
             "loyalty": "",
             "artist": "Fredrik Eriksson",
             "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tanus, Eye of the Heavens",
@@ -9724,8 +10354,11 @@
             "loyalty": "",
             "artist": "Onyksaa",
             "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "!sort rarelegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Duskrite Priest",
@@ -9744,8 +10377,11 @@
             "loyalty": "",
             "artist": "Rowynn Ellis",
             "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cian, Earth Whisperer",
@@ -9764,8 +10400,11 @@
             "loyalty": "",
             "artist": "AshesDrawn",
             "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "!sort rarelegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Oremen, Wild-Keeper",
@@ -9784,8 +10423,11 @@
             "loyalty": "",
             "artist": "Taran Fiddler",
             "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "!sort rarelegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Garrison-Legion Quartermaster",
@@ -9804,8 +10446,11 @@
             "loyalty": "",
             "artist": "Brainfog",
             "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "!renameof Garrison-Legion Quatemaster",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Clever Skywatcher",
@@ -9824,8 +10469,11 @@
             "loyalty": "",
             "artist": "Mancartti",
             "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Strixan Banner",
@@ -9844,8 +10492,11 @@
             "loyalty": "",
             "artist": "Collette Curran",
             "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elephon Banner",
@@ -9864,8 +10515,11 @@
             "loyalty": "",
             "artist": "BluePhoenix234",
             "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crocdilid Banner",
@@ -9884,8 +10538,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen (Theme Finland)",
             "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bovidian Banner",
@@ -9904,8 +10561,11 @@
             "loyalty": "",
             "artist": "SINHO",
             "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ursaeic Banner",
@@ -9924,8 +10584,11 @@
             "loyalty": "",
             "artist": "Roger Vila Porta",
             "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Might of Tanabon",
@@ -9944,8 +10607,11 @@
             "loyalty": "",
             "artist": "Surajit Sen",
             "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "!sort uncosaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Trials of Saint Mornus",
@@ -9955,17 +10621,20 @@
             "number": 229,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "Flash\n[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Exile target creature you control. Creatures you control gain indestructible until end of turn.\nII \u2013 Draw a card for each player that controls an enchantment.\nIII \u2013 Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.",
+            "rules_text": "Flash\n[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nExile target creature you control. Creatures you control gain indestructible until end of turn.\nDraw a card for each player that controls an enchantment.\nReturn the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Flash\n[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Exile target creature you control. Creatures you control gain indestructible until end of turn.\nII \u2013 Draw a card for each player that controls an enchantment.\nIII \u2013 Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.",
+            "special_text": "Flash\n[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nExile target creature you control. Creatures you control gain indestructible until end of turn.\nDraw a card for each player that controls an enchantment.\nReturn the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.",
             "shape": "saga",
             "set": "FRT",
             "loyalty": "",
             "artist": "iiOTA",
             "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "!sort uncosaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The First Hunt of Roag",
@@ -9984,8 +10653,11 @@
             "loyalty": "",
             "artist": "amorousdino",
             "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "!sort uncosaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Tale of Ol Barrot",
@@ -10004,8 +10676,11 @@
             "loyalty": "",
             "artist": "WoodEngravMKAP & Iana Venge",
             "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "!sort uncosaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Teachings of Aodhan",
@@ -10024,8 +10699,11 @@
             "loyalty": "",
             "artist": "Flind",
             "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "!sort uncosaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Felidian Guidestone",
@@ -10044,8 +10722,11 @@
             "loyalty": "",
             "artist": "HikaruTheWolf",
             "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mighty Fort Town",
@@ -10064,8 +10745,11 @@
             "loyalty": "",
             "artist": "Daniel Rosa Dur\u00e1n",
             "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bustling Monastery",
@@ -10084,8 +10768,11 @@
             "loyalty": "",
             "artist": "Anna",
             "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Quaint Marsh Village",
@@ -10104,8 +10791,11 @@
             "loyalty": "",
             "artist": "ScalesForLife",
             "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bannerless Town",
@@ -10124,8 +10814,11 @@
             "loyalty": "",
             "artist": "Jerome Jacuinto",
             "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Woodland Hamlet",
@@ -10144,8 +10837,11 @@
             "loyalty": "",
             "artist": "Jules Darriulat",
             "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elephon Representative",
@@ -10164,8 +10860,11 @@
             "loyalty": "",
             "artist": "axemeagain",
             "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Strixan Representative",
@@ -10184,8 +10883,11 @@
             "loyalty": "",
             "artist": "Alkuuda",
             "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crocodilid Representative",
@@ -10204,8 +10906,11 @@
             "loyalty": "",
             "artist": "DubiousArtiste004",
             "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bovidian Representative",
@@ -10224,8 +10929,11 @@
             "loyalty": "",
             "artist": "blanclecnalb",
             "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ursaeic Representative",
@@ -10244,8 +10952,11 @@
             "loyalty": "",
             "artist": "atananuk",
             "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Outskirts Inquisitor",
@@ -10264,8 +10975,11 @@
             "loyalty": "",
             "artist": "Sebastian Horosz",
             "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Twilight Reinforcer",
@@ -10284,8 +10998,11 @@
             "loyalty": "",
             "artist": "Kerimakyuz",
             "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Decay Specialist",
@@ -10304,8 +11021,11 @@
             "loyalty": "",
             "artist": "Mr-Jack",
             "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Marshland Witch",
@@ -10324,8 +11044,11 @@
             "loyalty": "",
             "artist": "Gon",
             "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dusk-Blessed Brutalist",
@@ -10344,8 +11067,11 @@
             "loyalty": "",
             "artist": "Taran Fiddler",
             "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bovidian Brutalist",
@@ -10364,8 +11090,11 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rallying Turncoat",
@@ -10384,8 +11113,11 @@
             "loyalty": "",
             "artist": "Jan Drenovec",
             "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Grizzled Rallier",
@@ -10404,8 +11136,11 @@
             "loyalty": "",
             "artist": "BlackSeaFoam",
             "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ade, Heir to Nothing",
@@ -10424,8 +11159,11 @@
             "loyalty": "",
             "artist": "mangamie",
             "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elefetik, Wary Watcher",
@@ -10444,8 +11182,11 @@
             "loyalty": "4",
             "artist": "BluePhoenix234",
             "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gifts of the Bayou",
@@ -10464,8 +11205,11 @@
             "loyalty": "",
             "artist": "RedPandaAnimations",
             "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Leuric, Glory Profiteer",
@@ -10484,8 +11228,11 @@
             "loyalty": "",
             "artist": "Lothrean",
             "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "!sort mythiclegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Aoife, the Warden Mother",
@@ -10504,8 +11251,11 @@
             "loyalty": "",
             "artist": "Kristen Plescow",
             "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": "!sort mythiclegend",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tranquil Cove",
@@ -10524,8 +11274,11 @@
             "loyalty": "",
             "artist": "Wildweasel339",
             "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blossoming Sands",
@@ -10544,8 +11297,11 @@
             "loyalty": "",
             "artist": "SELONUS",
             "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rugged Highlands",
@@ -10564,8 +11320,11 @@
             "loyalty": "",
             "artist": "Narholt",
             "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodfell Caves",
@@ -10584,8 +11343,11 @@
             "loyalty": "",
             "artist": "FrostieGreen",
             "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dismal Backwater",
@@ -10604,8 +11366,11 @@
             "loyalty": "",
             "artist": "Kalberoos",
             "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swiftwater Cliffs",
@@ -10624,8 +11389,11 @@
             "loyalty": "",
             "artist": "chateaugrief",
             "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Jungle Hollow",
@@ -10644,8 +11412,11 @@
             "loyalty": "",
             "artist": "Alexvanderlinde",
             "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wind-scarred Crag",
@@ -10664,8 +11435,11 @@
             "loyalty": "",
             "artist": "HazPainting",
             "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Thornwood Falls",
@@ -10684,8 +11458,11 @@
             "loyalty": "",
             "artist": "Vadim Koval",
             "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": "landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elephant Soldier",
@@ -10704,8 +11481,11 @@
             "loyalty": "",
             "artist": "Trollfeetwalker",
             "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Weapon",
@@ -10724,8 +11504,11 @@
             "loyalty": "",
             "artist": "Darkcloud013",
             "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": "Token",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blessing",
@@ -10744,8 +11527,11 @@
             "loyalty": "",
             "artist": "TomTC",
             "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": "Token",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodboiling Retribution",
@@ -10755,7 +11541,7 @@
             "number": 165,
             "color_identity": "WBR",
             "cost": "{1}{R}{W}{B}",
-            "rules_text": "When this enchantment enters, you may destroy up to one target creature.\nWhenever a creature you control dies, untap target creature you control. It gains +2/+0 and first strike until the end of your turn.",
+            "rules_text": "When this enchantment enters, you may destroy up to one target creature.\nWhenever a creature you control dies, untap target creature you control. It gets +2/+0 and gains first strike until the end of your turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -10764,8 +11550,11 @@
             "loyalty": "",
             "artist": "Vooron",
             "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rhythms of the World",
@@ -10784,8 +11573,11 @@
             "loyalty": "",
             "artist": "Vorueg",
             "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ways of the Wanderers",
@@ -10804,8 +11596,11 @@
             "loyalty": "",
             "artist": "SilentShans",
             "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Path of Promise",
@@ -10824,8 +11619,11 @@
             "loyalty": "",
             "artist": "Astrocat",
             "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": "!sort raresaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Wild's First Whisper",
@@ -10844,8 +11642,11 @@
             "loyalty": "",
             "artist": "whiteskech",
             "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": "!sort raresaga",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mighty Strike",
@@ -10864,8 +11665,11 @@
             "loyalty": "",
             "artist": "Leonardo Giordano",
             "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blessings of Moon and Star",
@@ -10875,7 +11679,7 @@
             "number": 163,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "Creatures can't attack you unless their controller pays {2} for each of those creatures.\n{1}{W}, Sacrifice this enchantment: You may exile each creature you control. Return those creature to the battlefield tapped under their owner's control at the beginning of the next end step.",
+            "rules_text": "Creatures can't attack you unless their controller pays {2} for each of those creatures.\n{1}{W}, Sacrifice this enchantment: You may exile each creature you control. Return those creatures to the battlefield tapped under their owner's control at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -10884,8 +11688,11 @@
             "loyalty": "",
             "artist": "Andrei-Sitari",
             "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Riverbound Surge",
@@ -10904,8 +11711,11 @@
             "loyalty": "",
             "artist": "Eugenio Frosali",
             "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shared Earnings",
@@ -10924,8 +11734,11 @@
             "loyalty": "",
             "artist": "Aranberi",
             "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Roar of the Wilds",
@@ -10944,8 +11757,11 @@
             "loyalty": "",
             "artist": "yanaghyana",
             "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Avia, Imperial Capital",
@@ -10964,8 +11780,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The Book of Names",
@@ -10984,8 +11803,11 @@
             "loyalty": "",
             "artist": "MangoMeowie",
             "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Weapon",
@@ -11004,8 +11826,11 @@
             "loyalty": "",
             "artist": "blewzen",
             "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": "Token",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Weapon",
@@ -11024,8 +11849,11 @@
             "loyalty": "",
             "artist": "Prospass",
             "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": "Token",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crocodile Assassin",
@@ -11044,8 +11872,11 @@
             "loyalty": "",
             "artist": "Lukasz Jaskolski",
             "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Food",
@@ -11064,8 +11895,11 @@
             "loyalty": "",
             "artist": "Zenoya",
             "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -11084,8 +11918,11 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Minotaur Warrior",
@@ -11104,8 +11941,11 @@
             "loyalty": "",
             "artist": "SickJoe",
             "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bird Cleric",
@@ -11124,8 +11964,11 @@
             "loyalty": "",
             "artist": "DonFuchs",
             "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental",
@@ -11144,8 +11987,11 @@
             "loyalty": "",
             "artist": "JAN DITLEV",
             "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Clue",
@@ -11164,8 +12010,11 @@
             "loyalty": "",
             "artist": "Xilus-Alex",
             "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental",
@@ -11184,8 +12033,11 @@
             "loyalty": "",
             "artist": "Marthe Jonkers",
             "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shrine",
@@ -11204,8 +12056,11 @@
             "loyalty": "",
             "artist": "OndrejHrdina",
             "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bear Druid",
@@ -11224,8 +12079,11 @@
             "loyalty": "",
             "artist": "Nicholas03",
             "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit Illusion",
@@ -11244,8 +12102,11 @@
             "loyalty": "",
             "artist": "Adrian Bara",
             "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -11264,8 +12125,11 @@
             "loyalty": "",
             "artist": "BluePhoenix234",
             "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -11284,8 +12148,11 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "288",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -11304,8 +12171,11 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "289",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -11324,8 +12194,11 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -11344,8 +12217,11 @@
             "loyalty": "",
             "artist": "BluePhoenix234",
             "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elefetik, Wary Watcher",
@@ -11364,8 +12240,11 @@
             "loyalty": "",
             "artist": "BluePhoenix234",
             "alias": "",
+            "position": "292",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elephant Soldier",
@@ -11384,8 +12263,11 @@
             "loyalty": "",
             "artist": "Trollfeetwalker",
             "alias": "",
+            "position": "293",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elephant Soldier",
@@ -11404,8 +12286,11 @@
             "loyalty": "",
             "artist": "Trollfeetwalker",
             "alias": "",
+            "position": "294",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ash Barrens",
@@ -11424,8 +12309,11 @@
             "loyalty": "",
             "artist": "Rocky Chen",
             "alias": "",
-            "notes": "",
-            "image_type": "jpg"
+            "position": "295",
+            "rotated": false,
+            "notes": "landslot",
+            "image_type": "jpg",
+            "v_mana": ""
         }
     ]
 }
