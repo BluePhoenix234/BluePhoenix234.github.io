@@ -1,4 +1,296 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+Scoured Barrens added.
+Feathered Acolyte added.
+Battlefront Scrounger added.
+Streetwise Nomad added.
+Bolstered Veteran added.
+Horned Beligerent added.
+Undaunted Avenger added.
+Sturdy Advancer added.
+Courageous Rallier added.
+Holy Holding added.
+Nomadic Defense added.
+Might-Wrought Boon added.
+Blessed Talon Sigil added.
+Glorious Stampede added.
+Reckless Inventory added.
+Frontline Rejuvinator added.
+Dusktouched Seeker added.
+Dagger-Bite Stalker added.
+Blood-Bound Mercenaries added.
+Holy Site Watcher added.
+Clever Swiper added.
+Bright-Eyed Adept added.
+Mind-Focused Warden added.
+Patient Trapper added.
+Downpour Leviathan added.
+Shimmer Guard Blessing added.
+Rune-Carved Guardian added.
+Graceful Intervention added.
+Guardian Instinct added.
+Jaw-Lock Glyph added.
+Wayfinder's Meditation added.
+Marsh Sifting added.
+Holy Gust added.
+River-Hunter's Cloak added.
+Grove Warden Rager added.
+Tusked Reinforcements added.
+Night-Veiled Font added.
+Marsh-Lurker Ambush added.
+Ruin-Wander Watch added.
+Wound Wielder added.
+Muck-Wield Stalker added.
+Night-Blessed Inquisitor added.
+Strixan Siphon Priest added.
+Battlefield Finisher added.
+Greedy Poacher added.
+Death-Wreathed Terror added.
+Horn Bore added.
+Purge the Heresy added.
+Death Roll added.
+Wander-Rite Offering added.
+Call the Once Blessed added.
+Dark River Hiss added.
+Might-Marauder Helm added.
+Marauder's Fee added.
+Nature Surge added.
+Night-Tuned Etchings added.
+Night-Wind Spirits added.
+Eager-Horn Rookie added.
+Front-Wander Scout added.
+Rune-Charged Striker added.
+Dauntless Recruits added.
+Frenzy-Kin Reinforcer added.
+Rune-Guard Sharpshooter added.
+Battlefield Pilferer added.
+Rage-Legion Charger added.
+Enraged Blast added.
+Cleanse with Fire added.
+Trample the Opposition added.
+Trade In added.
+Claw-Striker Bracers added.
+Distraction Strike added.
+Unstoppable Force added.
+Grove-Guard Sigils added.
+High-Eyed Spirits added.
+Battle-Tithe Priest added.
+Vigor-Cloak Spirits added.
+Bright-Tusk Recruit added.
+Protective Charger added.
+Far-Wander Shaman added.
+Brighthollow Guard added.
+Marshland Hunter added.
+Watchful Game Tracker added.
+Mighty Deserter added.
+Surge-Seeker Wurm added.
+Venemous Repurpose added.
+Surge of Might added.
+Rally-Legion Requisition added.
+Stomper-Legion Hammer added.
+Prepare an Ambush added.
+Nurturing Nature added.
+Feline Instinct added.
+Raid Lieutenant added.
+Quick-Arm Spirits added.
+Wilderness Cultivator added.
+Wild-Might Spirits added.
+Solid-Hoof Veteran added.
+Elephon Frontliner added.
+Blasphemer Detainer added.
+Brightlight Paladin added.
+Great-Horn Knight added.
+Pride-Heart Lieutenant added.
+Righteous Restoration added.
+Rallier's Boon added.
+Honorable Exile added.
+Great-Grove Guardian added.
+Elder Wood-Warden added.
+Bright-Grove Watcher added.
+River-Cloak Thief added.
+Stream-Warden Guide added.
+Dusk-Touched Pacifier added.
+Current-Wield Warden added.
+Mind-Wander Acolyte added.
+Enshrinement added.
+Drowned Efforts added.
+Ursaeic Repurposing added.
+Tanus' Observants added.
+Moonbound Prophet added.
+Glorymarked Returner added.
+Tithe Enforcer added.
+Fear-Tuned Mauler added.
+Feared River-Lurker added.
+Night-Feather Inquisitor added.
+Bog-Wander Poisoner added.
+Pull from the Bogs added.
+Foul Tactics added.
+Fell the Blasphemer added.
+Serene Veteran added.
+Core-Legion Wildguard added.
+Wild Energy Apprentice added.
+Bovidian Barkeep added.
+Front-Legion Strategist added.
+Bold-Grove Elder added.
+Range-Legion Flanker added.
+Wander-Heart Mercenary added.
+Forced Conscription added.
+Fury of the Desperate added.
+Natural Pushback added.
+Leuric's Highwayman added.
+Battleground Assailant added.
+Elephon Vanguard added.
+Marshland Trawler added.
+Grovetown Mentor added.
+Equalizing Hunter added.
+Might-Legion Champion added.
+Wild-Wander Shepherd added.
+Chart the Game Trails added.
+Fostered Might added.
+Stampede of the Legion added.
+Greathunt Champion added.
+Tenoc's Huntguard added.
+Front-Legion Surveyor added.
+Stalwart Representative added.
+Gracious Wanderer added.
+Twilight Cleansing added.
+The Paths of the Rivers added.
+Sacred Shrine Mason added.
+Riverbound Seer added.
+Mind-Honed Mentor added.
+Pathbound Mystic added.
+Beckon the Starlight Forms added.
+Channeling of Moonlight added.
+Elephon Charger added.
+Scaled Dusk-Blade added.
+Priest of the Damned added.
+Ambitious Saboteur added.
+Lone-Wander Resurrector added.
+Twilight Reckoning added.
+Skills of the Shadowed added.
+Shine-Horn Lieutenant added.
+Blaze-Wield Bandit added.
+Wildfire Tamer added.
+Rage-Legion Brute added.
+Virtuous Vagabond added.
+Desperate Assault added.
+Gold and Glory added.
+First Dance of Twilight added.
+Grovebound Tender added.
+Trumpeting Captain added.
+Lurking Huntkeeper added.
+Far-Wander Ranger added.
+Blessings of Strength added.
+Primal Summons added.
+Rise of the Stampedes added.
+Bask in Glory added.
+Quirrellus, Prophet of the Phases added.
+Phasebound Emergence added.
+Rites of Twilight added.
+Imperial Shadowhand added.
+Might of the Elephon added.
+Tactical Gamble added.
+Tenoc, Huntcaller added.
+Grovekeeper Monument added.
+Neurevin, Herald of the Legions added.
+Mercenary Inquisitor added.
+Fanatical Heretic added.
+Siphon Technique added.
+Unyielding Resilience added.
+Naturalist Enhancements added.
+Balance of Dusk and Dawn added.
+Battleground Improviser added.
+Wild-Legion Deserter added.
+Support of the Legion added.
+Wildland Guardian added.
+Emnian, Legion Commander added.
+Dusk-Veiled Professional added.
+Ellevena, Rambunctious Heir added.
+Wild-Surge Beckoner added.
+Tanus, Eye of the Heavens added.
+Cian, Earth Whisperer added.
+Oremen, Wild-Keeper added.
+Garrison-Legion Quartermaster added.
+Clever Skywatcher added.
+Strixan Banner added.
+Elephon Banner added.
+Crocdilid Banner added.
+Bovidian Banner added.
+Ursaeic Banner added.
+The Might of Tanabon added.
+The Trials of Saint Mornus added.
+The First Hunt of Roag added.
+The Tale of Ol Barrot added.
+The Teachings of Aodhan added.
+Felidian Guidestone added.
+Mighty Fort Town added.
+Bustling Monastery added.
+Quaint Marsh Village added.
+Bannerless Town added.
+Woodland Hamlet added.
+Elephon Representative added.
+Crocodilid Representative added.
+Bovidian Representative added.
+Ursaeic Representative added.
+Outskirts Inquisitor added.
+Twilight Reinforcer added.
+Decay Specialist added.
+Marshland Witch added.
+Dusk-Blessed Brutalist added.
+Bovidian Brutalist added.
+Rallying Turncoat added.
+Grizzled Rallier added.
+Ade, Heir to Nothing added.
+Elefetik, Wary Watcher added.
+Gifts of the Bayou added.
+Leuric, Glory Profiteer added.
+Aoife, the Warden Mother added.
+Tranquil Cove added.
+Blossoming Sands added.
+Rugged Highlands added.
+Bloodfell Caves added.
+Dismal Backwater added.
+Swiftwater Cliffs added.
+Jungle Hollow added.
+Wind-scarred Crag added.
+Thornwood Falls added.
+Elephant Soldier added.
+Weapon added.
+Blessing added.
+Bloodboiling Retribution added.
+Rhythms of the World added.
+Ways of the Wanderers added.
+The Path of Promise added.
+The Wild's First Whisper added.
+Mighty Strike added.
+Blessings of Moon and Star added.
+Riverbound Surge added.
+Shared Earnings added.
+Roar of the Wilds added.
+Avia, Imperial Capital added.
+The Book of Names added.
+Weapon added.
+Weapon added.
+Crocodile Assassin added.
+Food added.
+Treasure added.
+Minotaur Warrior added.
+Bird Cleric added.
+Elemental added.
+Clue added.
+Elemental added.
+Shrine added.
+Bear Druid added.
+Spirit Illusion added.
+Elefetik, Wary Watcher added.
+Elephant Soldier added.
+Elephant Soldier added.
+Ash Barrens added.
+
+
+
+VERSION 42 CHANGELOG
 ====================
 
 
