@@ -1,4 +1,565 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+
+Scoured Barrens removed.
+Feathered Acolyte removed.
+Battlefront Scrounger removed.
+Streetwise Nomad removed.
+Bolstered Veteran removed.
+Horned Beligerent removed.
+Undaunted Avenger removed.
+Sturdy Advancer removed.
+Courageous Rallier removed.
+Holy Holding removed.
+Nomadic Defense removed.
+Might-Wrought Boon removed.
+Blessed Talon Sigil removed.
+Glorious Stampede removed.
+Reckless Inventory removed.
+Frontline Rejuvinator removed.
+Dusktouched Seeker removed.
+Dagger-Bite Stalker removed.
+Blood-Bound Mercenaries removed.
+Holy Site Watcher removed.
+Clever Swiper removed.
+Bright-Eyed Adept removed.
+Mind-Focused Warden removed.
+Patient Trapper removed.
+Downpour Leviathan removed.
+Shimmer Guard Blessing removed.
+Rune-Carved Guardian removed.
+Graceful Intervention removed.
+Guardian Instinct removed.
+Jaw-Lock Glyph removed.
+Wayfinder's Meditation removed.
+Marsh Sifting removed.
+Holy Gust removed.
+River-Hunter's Cloak removed.
+Grove Warden Rager removed.
+Tusked Reinforcements removed.
+Night-Veiled Font removed.
+Marsh-Lurker Ambush removed.
+Ruin-Wander Watch removed.
+Wound Wielder removed.
+Muck-Wield Stalker removed.
+Night-Blessed Inquisitor removed.
+Strixan Siphon Priest removed.
+Battlefield Finisher removed.
+Greedy Poacher removed.
+Death-Wreathed Terror removed.
+Horn Bore removed.
+Purge the Heresy removed.
+Death Roll removed.
+Wander-Rite Offering removed.
+Call the Once Blessed removed.
+Dark River Hiss removed.
+Might-Marauder Helm removed.
+Marauder's Fee removed.
+Nature Surge removed.
+Night-Tuned Etchings removed.
+Night-Wind Spirits removed.
+Eager-Horn Rookie removed.
+Front-Wander Scout removed.
+Rune-Charged Striker removed.
+Dauntless Recruits removed.
+Frenzy-Kin Reinforcer removed.
+Rune-Guard Sharpshooter removed.
+Battlefield Pilferer removed.
+Rage-Legion Charger removed.
+Enraged Blast removed.
+Cleanse with Fire removed.
+Trample the Opposition removed.
+Trade In removed.
+Claw-Striker Bracers removed.
+Distraction Strike removed.
+Unstoppable Force removed.
+Grove-Guard Sigils removed.
+High-Eyed Spirits removed.
+Battle-Tithe Priest removed.
+Vigor-Cloak Spirits removed.
+Bright-Tusk Recruit removed.
+Protective Charger removed.
+Far-Wander Shaman removed.
+Brighthollow Guard removed.
+Marshland Hunter removed.
+Watchful Game Tracker removed.
+Mighty Deserter removed.
+Surge-Seeker Wurm removed.
+Venemous Repurpose removed.
+Surge of Might removed.
+Rally-Legion Requisition removed.
+Stomper-Legion Hammer removed.
+Prepare an Ambush removed.
+Nurturing Nature removed.
+Feline Instinct removed.
+Raid Lieutenant removed.
+Quick-Arm Spirits removed.
+Wilderness Cultivator removed.
+Wild-Might Spirits removed.
+Solid-Hoof Veteran removed.
+Elephon Frontliner removed.
+Blasphemer Detainer removed.
+Brightlight Paladin removed.
+Great-Horn Knight removed.
+Pride-Heart Lieutenant removed.
+Righteous Restoration removed.
+Rallier's Boon removed.
+Honorable Exile removed.
+Great-Grove Guardian removed.
+Elder Wood-Warden removed.
+Bright-Grove Watcher removed.
+River-Cloak Thief removed.
+Stream-Warden Guide removed.
+Dusk-Touched Pacifier removed.
+Current-Wield Warden removed.
+Mind-Wander Acolyte removed.
+Enshrinement removed.
+Drowned Efforts removed.
+Ursaeic Repurposing removed.
+Tanus' Observants removed.
+Moonbound Prophet removed.
+Glorymarked Returner removed.
+Tithe Enforcer removed.
+Fear-Tuned Mauler removed.
+Feared River-Lurker removed.
+Night-Feather Inquisitor removed.
+Bog-Wander Poisoner removed.
+Pull from the Bogs removed.
+Foul Tactics removed.
+Fell the Blasphemer removed.
+Serene Veteran removed.
+Core-Legion Wildguard removed.
+Wild Energy Apprentice removed.
+Bovidian Barkeep removed.
+Front-Legion Strategist removed.
+Bold-Grove Elder removed.
+Range-Legion Flanker removed.
+Wander-Heart Mercenary removed.
+Forced Conscription removed.
+Fury of the Desperate removed.
+Natural Pushback removed.
+Leuric's Highwayman removed.
+Battleground Assailant removed.
+Elephon Vanguard removed.
+Marshland Trawler removed.
+Grovetown Mentor removed.
+Equalizing Hunter removed.
+Might-Legion Champion removed.
+Wild-Wander Shepherd removed.
+Chart the Game Trails removed.
+Fostered Might removed.
+Stampede of the Legion removed.
+Greathunt Champion removed.
+Tenoc's Huntguard removed.
+Front-Legion Surveyor removed.
+Stalwart Representative removed.
+Gracious Wanderer removed.
+Twilight Cleansing removed.
+The Paths of the Rivers removed.
+Sacred Shrine Mason removed.
+Riverbound Seer removed.
+Mind-Honed Mentor removed.
+Pathbound Mystic removed.
+Beckon the Starlight Forms removed.
+Channeling of Moonlight removed.
+Elephon Charger removed.
+Scaled Dusk-Blade removed.
+Priest of the Damned removed.
+Ambitious Saboteur removed.
+Lone-Wander Resurrector removed.
+Twilight Reckoning removed.
+Skills of the Shadowed removed.
+Shine-Horn Lieutenant removed.
+Blaze-Wield Bandit removed.
+Wildfire Tamer removed.
+Rage-Legion Brute removed.
+Virtuous Vagabond removed.
+Desperate Assault removed.
+Gold and Glory removed.
+First Dance of Twilight removed.
+Grovebound Tender removed.
+Trumpeting Captain removed.
+Lurking Huntkeeper removed.
+Far-Wander Ranger removed.
+Blessings of Strength removed.
+Primal Summons removed.
+Rise of the Stampedes removed.
+Bask in Glory removed.
+Quirrellus, Prophet of the Phases removed.
+Phasebound Emergence removed.
+Rites of Twilight removed.
+Imperial Shadowhand removed.
+Might of the Elephon removed.
+Tactical Gamble removed.
+Tenoc, Huntcaller removed.
+Grovekeeper Monument removed.
+Neurevin, Herald of the Legions removed.
+Mercenary Inquisitor removed.
+Fanatical Heretic removed.
+Siphon Technique removed.
+Unyielding Resilience removed.
+Naturalist Enhancements removed.
+Balance of Dusk and Dawn removed.
+Battleground Improviser removed.
+Wild-Legion Deserter removed.
+Support of the Legion removed.
+Wildland Guardian removed.
+Emnian, Legion Commander removed.
+Dusk-Veiled Professional removed.
+Ellevena, Rambunctious Heir removed.
+Wild-Surge Beckoner removed.
+Tanus, Eye of the Heavens removed.
+Cian, Earth Whisperer removed.
+Oremen, Wild-Keeper removed.
+Garrison-Legion Quartermaster removed.
+Clever Skywatcher removed.
+Strixan Banner removed.
+Elephon Banner removed.
+Crocdilid Banner removed.
+Bovidian Banner removed.
+Ursaeic Banner removed.
+The Might of Tanabon removed.
+The Trials of Saint Mornus removed.
+The First Hunt of Roag removed.
+The Tale of Ol Barrot removed.
+The Teachings of Aodhan removed.
+Felidian Guidestone removed.
+Mighty Fort Town removed.
+Bustling Monastery removed.
+Quaint Marsh Village removed.
+Bannerless Town removed.
+Woodland Hamlet removed.
+Elephon Representative removed.
+Crocodilid Representative removed.
+Bovidian Representative removed.
+Ursaeic Representative removed.
+Outskirts Inquisitor removed.
+Twilight Reinforcer removed.
+Decay Specialist removed.
+Marshland Witch removed.
+Dusk-Blessed Brutalist removed.
+Bovidian Brutalist removed.
+Rallying Turncoat removed.
+Grizzled Rallier removed.
+Ade, Heir to Nothing removed.
+Elefetik, Wary Watcher removed.
+Gifts of the Bayou removed.
+Leuric, Glory Profiteer removed.
+Aoife, the Warden Mother removed.
+Tranquil Cove removed.
+Blossoming Sands removed.
+Rugged Highlands removed.
+Bloodfell Caves removed.
+Dismal Backwater removed.
+Swiftwater Cliffs removed.
+Jungle Hollow removed.
+Wind-scarred Crag removed.
+Thornwood Falls removed.
+Elephant Soldier removed.
+Weapon removed.
+Blessing removed.
+Bloodboiling Retribution removed.
+Rhythms of the World removed.
+Ways of the Wanderers removed.
+The Path of Promise removed.
+The Wild's First Whisper removed.
+Mighty Strike removed.
+Blessings of Moon and Star removed.
+Riverbound Surge removed.
+Shared Earnings removed.
+Roar of the Wilds removed.
+Avia, Imperial Capital removed.
+The Book of Names removed.
+Weapon removed.
+Weapon removed.
+Crocodile Assassin removed.
+Food removed.
+Treasure removed.
+Minotaur Warrior removed.
+Bird Cleric removed.
+Elemental removed.
+Clue removed.
+Elemental removed.
+Shrine removed.
+Bear Druid removed.
+Spirit Illusion removed.
+Elefetik, Wary Watcher removed.
+Elephant Soldier removed.
+Elephant Soldier removed.
+Ash Barrens removed.
+
+Blessings Mystic
+rules_text: Flying, ward {1}
+When this creature enters, create a Blessing token attached to another target permanent. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i] => Flying, ward {1}
+When this creature enters, create a Blessing token attached to another target permanent. [i](It's a colorless Aura enchantment token with, “Enchanted permanent has ward {1}.”)[/i]
+
+Bishop of Persistence
+rules_text: Flying, vigilance
+When this creature enters, create a Blessing token attached to target permanent. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i]
+{W}{W}{1}, Sacrifice two enchantments: Return this card from your graveyard to the battlefield tapped with a +1/+1 counter on it. It's a Spirit in addition to its other types. Activate only as a sorcery. => Flying, vigilance
+When this creature enters, create a Blessing token attached to target permanent. [i](It's a colorless Aura enchantment token with, “Enchanted permanent has ward {1}.”)[/i]
+{W}{W}{1}, Sacrifice two enchantments: Return this card from your graveyard to the battlefield tapped with a +1/+1 counter on it. It's a Spirit in addition to its other types. Activate only as a sorcery.
+
+Might of Faith
+rules_text: Enchanted creatures you control get +1/+1.
+Whenever a creature enters under your control create a Blessing token attached to that creature. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i] => Enchanted creatures you control get +1/+1.
+Whenever a creature enters under your control create a Blessing token attached to that creature. [i](It's a colorless Aura enchantment token with, “Enchanted permanent has ward {1}.”)[/i]
+
+Duskrite Priest
+rules_text: Flying
+Whenever another creature dies or a creature card leaves your graveyard, create a Blessing token attached to target creature. [i](It's a colorless Aura token with, “enchanted creature has ward {1}.)[/i] => Flying
+Whenever another creature dies or a creature card leaves your graveyard, create a Blessing token attached to target creature. [i](It's a colorless Aura enchantment token with, “enchanted creature has ward {1}.)[/i]
+
+
+VERSION 41 CHANGELOG
+====================
+
+
+
+Courageous Rallier
+rules_text: When this creature enters, create a 1/1 blue Bird Cleric token with flying, and a 2/2 red Minotaur Warrior token.
+Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i] => When this creature enters, create a 1/1 blue Bird Cleric creature token with flying, and a 2/2 red Minotaur Warrior creature token.
+Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+
+Glorious Stampede
+rules_text: Creatures you control get +1/+1 until end of turn. If you control three or more attacking creatures, instead creatures you control get +2/+2 until end of turn. => Creatures you control get +1/+1 until end of turn. If you control three or more attacking creatures, those creatures get +2/+2 until end of turn instead.
+
+Dusktouched Seeker
+rules_text: Flying
+When this creature enters, return target enchantment card from your graveyard to your hand.
+[i]Devout[/i] — As long as you control three or more enchantments, this creature has ward {2}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => Flying
+When this creature enters, return target noncreature enchantment card from your graveyard to your hand.
+[i]Devout[/i] — As long as you control three or more enchantments, this creature has ward {2}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+Blood-Bound Mercenaries
+rules_text: When this creature enters, create a 2/2 red Minotaur Warrior token.
+Boast — {4}: Up to two target attacking creatures get +2/+0 until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => When this creature enters, create a 2/2 red Minotaur Warrior creature token.
+Boast — {4}: Up to two target attacking creatures get +2/+0 until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Graceful Intervention
+rules_text: Counter target spell unless its controller pays {2}. If you control two enchantments, counter that spell unless its controller pays {4} instead. => Counter target spell unless its controller pays {2}. If you control two or more enchantments, counter that spell unless its controller pays {4} instead.
+
+Holy Gust
+rules_text: Return target creature to its owner's hand.
+[i]Devout[/i] — If you control three or more enchantments, instead, put that creature on top of its owner's library. => Return target creature to its owner's hand.
+[i]Devout[/i] — If you control three or more enchantments, instead put that creature on top of its owner's library.
+
+Strixan Siphon Priest
+rules_text: Flying
+When this creature enters, target opponent loses 1 life and you gain 1 life.
+[i]Devout[/i] — If you control 3 or more enchantments, this creature gets +1/+0 and has lifelink. => Flying
+When this creature enters, target opponent loses 1 life and you gain 1 life.
+[i]Devout[/i] — If you control three or more enchantments, this creature gets +1/+0 and has lifelink.
+
+Night-Tuned Etchings
+cost: {1}{U}{B} => {U}{B}
+
+Enraged Blast
+rules_text: As an additional cost to cast this spell you may sacrifice a nonland permanent.
+Enraged Blast deals 2 damage to target creature. If a permanent was sacrificed, Enraged Blast deals 4 damage instead. => As an additional cost to cast this spell, you may sacrifice a nonland permanent.
+Enraged Blast deals 2 damage to target creature. If a permanent was sacrificed, Enraged Blast deals 4 damage instead.
+
+Distraction Strike
+cost: {R} => {1}{R}
+
+Grove-Guard Sigils
+rules_text: Enchant land
+Enchanted land has, “{T}: Add {R}{G}{G} or {R}{R}{G}. Spend this Mana only to cast creature spells or activate abilities of creatures.” => Enchant land
+Enchanted land has, “{T}: Add {R}{G}{G} or {R}{R}{G}. Spend this mana only to cast creature spells or activate abilities of creatures.”
+
+Marshland Hunter
+rules_text: Reach
+[i]Ferocious[/i] — {2}{G}: This creature gets +0/+1 until end of turn and fights target creature you don't control. Activate this ability only if you control a creature with power 4 or greater => Reach
+[i]Ferocious[/i] — {2}{G}: This creature gets +0/+1 until end of turn and fights target creature you don't control. Activate this ability only if you control a creature with power 4 or greater.
+
+Stomper-Legion Hammer
+rules_text: Equipped creature gets +2/+2 and has stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+Equip {3} => Equipped creature gets +2/+2 and has stampede 1. [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+Equip {3}
+
+Prepare an Ambush
+rules_text: Put a +1/+1 counter on target creature. It gains hexproof until end of turn
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, put an additional +1/+1 counter on that creature. => Put a +1/+1 counter on target creature. It gains hexproof until end of turn.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, put an additional +1/+1 counter on that creature.
+
+Righteous Restoration
+rules_text: Return target creature or enchantment card with mana value 3 or less from the graveyard to the battlefield.
+[i]Devout[/i] — When you cast this spell, if you control three or more enchantments, copy it. You may choose new targets for the copy. => Return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield.
+[i]Devout[/i] — When you cast this spell, if you control three or more enchantments, copy it. You may choose new targets for the copy.
+
+Honorable Exile
+rules_text: Exile target creature. It's controller may create their choice of a Food token or a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] => Exile target creature. Its controller may create their choice of a Food token or a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+
+Dusk-Touched Pacifier
+rules_text: Whenever this creature attacks, tap target creature.
+{2}{U}: Put a stun counter on target tapped creature. => Flying
+Whenever this creature attacks, tap target creature.
+{2}{U}: Put a stun counter on target tapped creature.
+
+Ursaeic Repurposing
+cost: {2}{U} => {1}{U}
+rules_text: Return target instant or sorcery from your graveyard to your hand. If you control a creature with power less than that spells mana value, scry 2. => Return target instant or sorcery card from your graveyard to your hand. If you control a creature with power less than that spells mana value, scry 2.
+
+Feared River-Lurker
+rules_text: Menace
+Whenever this creature deals combat damage to a player, you may cast a creature card from your graveyard. It enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => Menace
+Whenever this creature deals combat damage to a player, you may cast a creature card from your graveyard. If you do, it enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+Night-Feather Inquisitor
+rules_text: Flying
+When this creature enters, target creature an opponent controls gets -2/-2 until end of turn.
+[i]Devout[/i] — When this creature enters, if you control three or more enchantments, instead target creature an opponent controls gets -13/-13 until end of turn. => Flying
+When this creature enters, target creature an opponent controls gets -2/-2 until end of turn.
+[i]Devout[/i] — When this creature enters, if you control three or more enchantments, target creature an opponent controls gets -13/-13 until end of turn instead.
+
+Foul Tactics
+rules_text: As an additional cost to cast this spell, you may sacrifice two nonland permanents.
+Return up to two target creature cards from your graveyard to your hand. If you paid the additional cost, instead return those creature cards to the battlefield. => As an additional cost to cast this spell, you may sacrifice two nonland permanents.
+Return up to two target creature cards from your graveyard to your hand. If you paid the additional cost, return those cards to the battlefield instead.
+
+Marshland Trawler
+rules_text: When this creature enters, return target permanent card from your graveyard to your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead you may return that permanent card to the battlefield. => When this creature enters, return target permanent card from your graveyard to your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, you may return that permanent card to the battlefield instead.
+
+Chart the Game Trails
+rules_text: Search your library for a basic land card and put it into your hand.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead, search your library for up to two basic land cards and put one onto the battlefield tapped and the other in your hand. => Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead, search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other in your hand, then shuffle.
+
+Ambitious Saboteur
+rules_text: Menace
+Whenever this creature deals combat damage to a player, each player mills a card. If a permanent card enters an opponents graveyard this way, that opponent loses 2 life. If an instant or sorcery card enters an opponent's graveyard this way, draw a card. => Menace
+Whenever this creature deals combat damage to a player, each player mills a card. If a permanent card enters an opponent's graveyard this way, that opponent loses 2 life. If an instant or sorcery card enters an opponent's graveyard this way, draw a card.
+
+Skills of the Shadowed
+rules_text: When this enchantment enters create two 1/2 black Crocodile Assassin creature tokens with deathtouch.
+At the beginning of your upkeep you may sacrifice a nonland permanent. If you do draw a card and put a deathtouch counter on target creature you control. => When this enchantment enters, create two 1/2 black Crocodile Assassin creature tokens with deathtouch.
+At the beginning of your upkeep, you may sacrifice a nonland permanent. If you do, draw a card and put a deathtouch counter on target creature you control.
+
+Lurking Huntkeeper
+
+Phasebound Emergence
+rules_text: If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Once during each of your turns, you may cast a spell without paying it's mana cost. => If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Once during each of your turns, you may cast a spell without paying its mana cost.
+
+Rites of Twilight
+rules_text: At the beginning of your upkeep, surveil 1.
+Whenever one or more creature cards are put into your graveyard from the battlefield or your library, choose one:
+• You draw a card and lose 2 life.
+• Each opponent loses 2 life.
+• You gain 2 life. => At the beginning of your upkeep, surveil 1.
+Whenever one or more creature cards are put into your graveyard from the battlefield or your library, choose one —
+• You draw a card and lose 2 life.
+• Each opponent loses 2 life.
+• You gain 2 life.
+
+Tactical Gamble
+rules_text: Discard your hand. Choose one —
+• Draw three cards.
+• Draw cards equal to the number of attacking creatures you control.
+• Draw cards equal to the amount of damage sources you control dealt to players this turn. => Choose one —
+• Discard your hand, then draw three cards.
+• Discard your hand, then draw cards equal to the number of attacking creatures you control.
+• Discard your hand, then draw cards equal to the amount of damage sources you control dealt to players this turn.
+
+Grovekeeper Monument
+rules_text: At the beginning of your upkeep, you may put a creature card with mana value less than or equal to the number of lands you control from your hand onto the battlefield.
+{1}{G}, {T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of lands you control. => At the beginning of your upkeep, you may put a creature card with mana value less than or equal to the number of lands you control from your hand onto the battlefield.
+{1}{G}, {T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of lands you control. It's still a land.
+
+Strixan Banner
+rules_text: As this land enters, you may behold a Bird or a Cleric. If you do, draw a card. [i](To behold a Bird or a Cleric, choose a Bird or a Cleric you control or reveal a Bird or a Cleric card from your hand.)[/i]
+{T}: Add {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this artifact: Draw a card. => As this artifact enters, you may behold a Bird or a Cleric. If you do, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] [i](To behold a Bird or a Cleric, choose a Bird or a Cleric you control or reveal a Bird or a Cleric card from your hand.)[/i]
+{T}: Add {W}, {U}, or {B}.
+{W}{U}{B}, {T}, Sacrifice this artifact: Draw a card.
+
+Elephon Banner
+rules_text: As this land enters, you may behold an Elephant or a Soldier. If you do, draw a card. [i](To behold an Elephant or a Soldier, choose an Elephant or a Soldier you control or reveal an Elephant or a Soldier card from your hand.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this artifact: Draw a card. => As this artifact enters, you may behold an Elephant or a Soldier. If you do, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] [i](To behold an Elephant or a Soldier, choose an Elephant or a Soldier you control or reveal an Elephant or a Soldier card from your hand.)[/i]
+{T}: Add {R}, {G}, or {W}.
+{R}{G}{W}, {T}, Sacrifice this artifact: Draw a card.
+
+Crocdilid Banner
+rules_text: As this land enters, you may behold a Crocodile or a Ranger. If you do, draw a card. [i](To behold a Crocodile or a Ranger, choose a Crocodile or a Ranger you control or reveal a Crocodile or a Ranger card from your hand.)[/i]
+{T}: Add {B}, {G}, or {U}.
+{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card. => As this artifact enters, you may behold a Crocodile or a Ranger. If you do, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] [i](To behold a Crocodile or a Ranger, choose a Crocodile or a Ranger you control or reveal a Crocodile or a Ranger card from your hand.)[/i]
+{T}: Add {B}, {G}, or {U}.
+{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card.
+
+Bovidian Banner
+rules_text: As this land enters, you may behold a Minotaur or a Warrior. If you do, draw a card. [i](To behold a Minotaur or a Warrior, choose a Minotaur or a Warrior you control or reveal a Minotaur or a Warrior card from your hand.)[/i]
+{T}: Add {R}, {W}, or {B}.
+{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card. => As this artifact enters, you may behold a Minotaur or a Warrior. If you do, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] [i](To behold a Minotaur or a Warrior, choose a Minotaur or a Warrior you control or reveal a Minotaur or a Warrior card from your hand.)[/i]
+{T}: Add {R}, {W}, or {B}.
+{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card.
+
+Ursaeic Banner
+rules_text: As this land enters, you may behold a Bear or a Druid. If you do, draw a card. [i](To behold a Bear or a Druid, choose a Bear or a Druid you control or reveal a Bear or a Druid card from your hand.)[/i]
+{T}: Add {G}, {U}, or {R}.
+{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card. => As this artifact enters, you may behold a Bear or a Druid. If you do, create a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] [i](To behold a Bear or a Druid, choose a Bear or a Druid you control or reveal a Bear or a Druid card from your hand.)[/i]
+{T}: Add {G}, {U}, or {R}.
+{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card.
+
+Felidian Guidestone
+rules_text: When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top. If you control a Cat, put that card onto the battlefield tapped instead.
+{1}, {T}: Scry 1 => When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top. If you control a Cat, put that card onto the battlefield tapped instead.
+{1}, {T}: Scry 1.
+
+Mighty Fort Town
+rules_text: As this land enters, you may behold two Elephants and/or Soldiers. If you don't, this land enters tapped. [i](You may choose two Elephants and/or Soldiers you control or reveal two Elephant and/or Soldier cards from your hand.)[/i]
+{T}: Add {R}, {G}, or {W}. => As this land enters, you may behold two Elephants and/or Soldiers. If you don't, this land enters tapped. [i](To behold two Elephants and/or Soldiers you may choose two Elephants and/or Soldiers you control or reveal two Elephant and/or Soldier cards from your hand.)[/i]
+{T}: Add {R}, {G}, or {W}.
+
+Bustling Monastery
+rules_text: As this land enters, you may behold two Birds and/or Clerics. If you don't, this land enters tapped. [i](You may choose two Birds and/or Clerics you control or reveal two Bird and/or Cleric cards from your hand.)[/i]
+{T}: Add {W}, {U}, or {B}. => As this land enters, you may behold two Birds and/or Clerics. If you don't, this land enters tapped. [i](To behold two Birds and/or Clerics you may choose two Birds and/or Clerics you control or reveal two Bird and/or Cleric cards from your hand.)[/i]
+{T}: Add {W}, {U}, or {B}.
+
+Quaint Marsh Village
+rules_text: As this land enters, you may behold two Crocodiles and/or Rangers. If you don't, this land enters tapped. [i](You may choose two Crocodiles and/or Rangers you control or reveal two Crocodile and/or Ranger cards from your hand.)[/i]
+{T}: Add {B}, {G}, or {U}. => As this land enters, you may behold two Crocodiles and/or Rangers. If you don't, this land enters tapped. [i](To behold two Crocodiles and/or Rangers you may choose two Crocodiles and/or Rangers you control or reveal two Crocodile and/or Ranger cards from your hand.)[/i]
+{T}: Add {B}, {G}, or {U}.
+
+Bannerless Town
+rules_text: As this land enters, you may behold two Minotaurs and/or Warriors. If you don't, this land enters tapped. [i](You may choose two Minotaurs and/or Warriors you control or reveal two Minotaur and/or Warrior cards from your hand.)[/i]
+{T}: Add {R}, {W}, or {B}. => As this land enters, you may behold two Minotaurs and/or Warriors. If you don't, this land enters tapped. [i](To behold two Minotaurs and/or Warriors you may choose two Minotaurs and/or Warriors you control or reveal two Minotaur and/or Warrior cards from your hand.)[/i]
+{T}: Add {R}, {W}, or {B}.
+
+Woodland Hamlet
+rules_text: As this land enters, you may behold two Bears and/or Druids. If you don't, this land enters tapped. [i](You may choose two Bears and/or Druids you control or reveal two Bear and/or Druid cards from your hand.)[/i]
+{T}: Add {G}, {U}, or {R} => As this land enters, you may behold two Bears and/or Druids. If you don't, this land enters tapped. [i](To behold two Bears and/or Druids, you may choose two Bears and/or Druids you control or reveal two Bear and/or Druid cards from your hand.)[/i]
+{T}: Add {G}, {U}, or {R}
+
+Strixan Representative
+rules_text: Flying
+Bird and Cleric spells you cast cost {1} less to cast.
+{1}, {T}: Create a Blessing token attached to target creature. Activate only as a sorcery. [i](It's a colorless Aura token with, “Enchanted permanent has ward {1}.”)[/i] => Flying
+Bird and Cleric spells you cast cost {1} less to cast.
+{1}, {T}: Create a Blessing token attached to target creature. Activate only as a sorcery. [i](It's a colorless Aura enchantment token with, “Enchanted permanent has ward {1}.”)[/i]
+
+Twilight Reinforcer
+rules_text: Flying
+When this creature enters create a Blessing token attached to each of up to two target permanents. [i](They're colorless Aura tokens with, “Enchanted permanent has ward {1}.”)[/i] => Flying
+When this creature enters, create a Blessing token attached to each of up to two target permanents. [i](They're colorless Aura enchantment tokens with, “Enchanted permanent has ward {1}.”)[/i]
+
+Decay Specialist
+rules_text: Whenever one or more cards are put into your graveyard from anywhere, gain 2 life and put a +1/+1 counter on target creature you control. This ability triggers only once per turn. => Whenever one or more cards are put into your graveyard from anywhere, gain 2 life and put a +1/+1 counter on target creature you control. This ability triggers only once each turn.
+
+Rallying Turncoat
+
+Blessing
+type: Enchantment — Aura => Token Enchantment — Aura
+
+Elemental
+pt: 2/2 => */*
+
+
+VERSION 40 CHANGELOG
 ====================
 
 
