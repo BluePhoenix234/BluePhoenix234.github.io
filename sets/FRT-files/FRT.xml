@@ -5,7 +5,7 @@
 			<name>FRT</name>
 			<longname>Felidea: Rising Tensions</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-14</releasedate>
+			<releasedate>2026-09-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2678,7 +2678,7 @@ When this creature enters, if an opponent controls more lands than you, you may 
 			<name>Bishop of Persistence</name>
 			<text>Flying, vigilance
 When this creature enters, create a Blessing token attached to target permanent. (It&apos;s a colorless Aura enchantment token with, &quot;Enchanted permanent has ward {1}.&quot;)
-{W}{W}{1}, Sacrifice two enchantments: Return this card from your graveyard to the battlefield tapped with a +1/+1 counter on it. It&apos;s a Spirit in addition to its other types. Activate only as a sorcery.</text>
+{1}{W}{W}, Sacrifice two enchantments: Return this card from your graveyard to the battlefield tapped with a +1/+1 counter on it. It&apos;s a Spirit in addition to its other types. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/152.jpg" num="4">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -3061,14 +3061,14 @@ As long as you control three or more Elementals, this creature has double strike
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/3</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Rage-Legion Brute</name>
 			<text>Stampede 1 (Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)
-At the beginning of your second main phase, if you control two or more other Elephants, you may sacrifice this creature and add {R}.</text>
+Whenever this creature attacks, put a stun counter on it.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/174.jpg" num="113">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -3198,7 +3198,7 @@ At the beginning of your upkeep, if this creature has a vigilance, trample, and 
 			<name>Lurking Huntkeeper</name>
 			<text>Trample
 This creature enters tapped with three stun counters on it.
-Whenever the last stun counter is removed from this creature, you may have it fight target creature you don&apos;t control.</text>
+Whenever the last stun counter is removed from this creature, until end of turn, whenever a creature an opponent controls dies, put a +1/+1 counter on another target creature you control.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/181.jpg" num="139">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -3209,7 +3209,7 @@ Whenever the last stun counter is removed from this creature, you may have it fi
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>6/6</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3554,7 +3554,7 @@ The first noncreature spell you cast on each of your turns costs {1} less to cas
 		</card>
 		<card>
 			<name>Balance of Dusk and Dawn</name>
-			<text>Whenever another nonland permanent leaves the battlefield or a nonland permanent card leaves your graveyard, target opponent discards a card or loses 2 life.</text>
+			<text>Whenever another nonland permanent you control leaves the battlefield or a nonland permanent card leaves your graveyard, target opponent discards a card or loses 2 life. This ability triggers only once each turn.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/201.jpg" num="159">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -3912,9 +3912,9 @@ Whenever one or more counters are put on this creature, draw a card.</text>
 		<card>
 			<name>The Might of Tanabon</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-As long as you control this saga, whenever you cast a creature spell, gain 1 life.
-Create two 2/2 white Elephant Soldier creature tokens. They gain haste until end of turn.
-Target creature gets +X/+X until end of turn, where X is the number of creatures you control.</text>
+I — This Saga gains &quot;Whenever you cast a creature spell, gain 1 life.&quot;
+II — Create two 2/2 white Elephant Soldier creature tokens. They gain haste until end of turn.
+III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/221.jpg" num="197">FRT</set>
 			<prop>
 				<layout>saga</layout>
@@ -3989,9 +3989,9 @@ Choose a creature you control. That creature deals damage equal to its power to 
 		<card>
 			<name>The Teachings of Aodhan</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
-Put a +1/+1 counter on each creature you control.
-Creatures you control gain vigilance and menace until end of turn.</text>
+I — Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+II — Put a +1/+1 counter on each creature you control.
+III — Creatures you control gain vigilance and menace until end of turn.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/225.jpg" num="226">FRT</set>
 			<prop>
 				<layout>saga</layout>
@@ -4683,9 +4683,9 @@ Whenever you tap a land with one or more basic land types for mana, target creat
 		<card>
 			<name>The Path of Promise</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-As long as you control this saga, attacking creatures you control get +2/+0.
-Until end of turn, creatures you control can boast twice rather than once.
-Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard.</text>
+I — This saga gains &quot;Attacking creatures you control get +2/+0.&quot;
+II — Until end of turn, creatures you control can boast twice rather than once.
+III — Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/265.jpg" num="208">FRT</set>
 			<prop>
 				<layout>saga</layout>
@@ -4702,9 +4702,9 @@ Distribute X +1/+1 counters among creatures you control where X equals the numbe
 		<card>
 			<name>The Wild&apos;s First Whisper</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Distribute X +1/+1 counters among creatures and lands you control, where X is the number of lands you control.
-Put up to two land cards from your hand onto the battlefield tapped.
-Draw cards equal to half the number of lands you control rounded up.</text>
+I — Distribute X +1/+1 counters among creatures and lands you control, where X is the number of lands you control.
+II — Put up to two land cards from your hand onto the battlefield tapped.
+III — Draw cards equal to half the number of lands you control rounded up.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/266.jpg" num="238">FRT</set>
 			<prop>
 				<layout>saga</layout>
