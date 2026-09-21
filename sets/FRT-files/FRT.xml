@@ -5,7 +5,7 @@
 			<name>FRT</name>
 			<longname>Felidea: Rising Tensions</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-17</releasedate>
+			<releasedate>2026-09-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3061,7 +3061,7 @@ As long as you control three or more Elementals, this creature has double strike
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3268,9 +3268,9 @@ Remove three +1/+1 counters from among creatures you control: Add {G}{G}{G}.</te
 		<card>
 			<name>Rise of the Stampedes</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Create two 1/1 white Elephant Soldier creature tokens.
-Draw a card for each creature you control.
-Creatures you control get +1/+1 for each creature you control until end of turn.</text>
+I — Create two 1/1 white Elephant Soldier creature tokens.
+II — Draw a card for each creature you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/185.jpg" num="214">FRT</set>
 			<prop>
 				<layout>saga</layout>
@@ -3554,7 +3554,7 @@ The first noncreature spell you cast on each of your turns costs {1} less to cas
 		</card>
 		<card>
 			<name>Balance of Dusk and Dawn</name>
-			<text>Whenever another nonland permanent you control leaves the battlefield or a nonland permanent card leaves your graveyard, target opponent discards a card or loses 2 life. This ability triggers only once each turn.</text>
+			<text>Whenever another nonland permanent you control leaves the battlefield or a nonland permanent card leaves your graveyard, target opponent discards a card or loses 2 life. This ability triggers only once on each of your turns.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/201.jpg" num="159">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -3912,9 +3912,9 @@ Whenever one or more counters are put on this creature, draw a card.</text>
 		<card>
 			<name>The Might of Tanabon</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — This Saga gains &quot;Whenever you cast a creature spell, gain 1 life.&quot;
-II — Create two 2/2 white Elephant Soldier creature tokens. They gain haste until end of turn.
-III — Target creature gets +X/+X until end of turn, where X is the number of creatures you control.</text>
+This Saga gains &quot;Whenever you cast a creature spell, gain 1 life.&quot;
+Create two 2/2 white Elephant Soldier creature tokens. They gain haste until end of turn.
+Target creature gets +X/+X until end of turn, where X is the number of creatures you control.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/221.jpg" num="197">FRT</set>
 			<prop>
 				<layout>saga</layout>
@@ -3932,9 +3932,9 @@ III — Target creature gets +X/+X until end of turn, where X is the number of c
 			<name>The Trials of Saint Mornus</name>
 			<text>Flash
 (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Exile target creature you control. Creatures you control gain indestructible until end of turn.
-Draw a card for each player that controls an enchantment.
-Return the exiled creature to the battlefield with a +1/+1 counter. It&apos;s an enchantment in addition to its other types.</text>
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It&apos;s an enchantment in addition to its other types.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/222.jpg" num="229">FRT</set>
 			<prop>
 				<layout>saga</layout>
@@ -3989,9 +3989,9 @@ Choose a creature you control. That creature deals damage equal to its power to 
 		<card>
 			<name>The Teachings of Aodhan</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
-II — Put a +1/+1 counter on each creature you control.
-III — Creatures you control gain vigilance and menace until end of turn.</text>
+Reveal cards from the top of your library until you reveal a Forest, Island, or Mountain card. Put it onto the battlefield tapped, then shuffle.
+Put a +1/+1 counter on each creature you control.
+Creatures you control gain vigilance and menace until end of turn.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/225.jpg" num="226">FRT</set>
 			<prop>
 				<layout>saga</layout>
@@ -4683,9 +4683,9 @@ Whenever you tap a land with one or more basic land types for mana, target creat
 		<card>
 			<name>The Path of Promise</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — This saga gains &quot;Attacking creatures you control get +2/+0.&quot;
-II — Until end of turn, creatures you control can boast twice rather than once.
-III — Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard.</text>
+This saga gains &quot;Attacking creatures you control get +2/+0.&quot;
+Until end of turn, creatures you control can boast twice rather than once.
+Distribute X +1/+1 counters among creatures you control where X equals the number of creature cards in your graveyard.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/265.jpg" num="208">FRT</set>
 			<prop>
 				<layout>saga</layout>
@@ -4702,9 +4702,9 @@ III — Distribute X +1/+1 counters among creatures you control where X equals t
 		<card>
 			<name>The Wild&apos;s First Whisper</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Distribute X +1/+1 counters among creatures and lands you control, where X is the number of lands you control.
-II — Put up to two land cards from your hand onto the battlefield tapped.
-III — Draw cards equal to half the number of lands you control rounded up.</text>
+Distribute X +1/+1 counters among creatures and lands you control, where X is the number of lands you control.
+Put up to two land cards from your hand onto the battlefield tapped.
+Draw cards equal to half the number of lands you control rounded up.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/266.jpg" num="238">FRT</set>
 			<prop>
 				<layout>saga</layout>
