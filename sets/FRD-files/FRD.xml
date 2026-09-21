@@ -1,0 +1,1930 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>FRD</name>
+			<longname>Felidea: Rising Dissent</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-21</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>CL06 —</name>
+			<text>This land enters tapped.
+{T}: Add {W} or {B}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/0.jpg" num="261">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CW01 — Raucous Enspiriter</name>
+			<text>Flying
+{2}{W}: Creatures you control get +0/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/1.jpg" num="2">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 — W Elk Card 1</name>
+			<text>When this creature enters, create a food token.
+Concord —</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/2.jpg" num="3">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03 — W Canidon Card 1</name>
+			<text></text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/3.jpg" num="4">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 — W Canidon Card 2</name>
+			<text>Immortalize {2}{W} (You may cast this creature from your graveyard for it&apos;s Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)
+Whenever you attack with three or more creatures, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/4.jpg" num="6">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 — W Misc Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/5.jpg" num="5">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 — W Peacock Card 2</name>
+			<text>Flying
+Whenever a card leaves your graveyard, tap target creature an opponent controls. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/6.jpg" num="7">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 — W Elk Card 2</name>
+			<text></text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/7.jpg" num="8">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 — W Misc Creature 2</name>
+			<text></text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/8.jpg" num="9">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 — Motley Escort (Canidon)</name>
+			<text>When this creature enters, create a 1/1 green Elk Citizen, and a 2/2 red Bird Bard token with flying.
+Immortalize cost (You may cast this creature from your graveyard for it&apos;s Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/9.jpg" num="10">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 —</name>
+			<text>Enchant artifact or creature
+Enchanted permanent can&apos;t attack or block, and its activated abilities can&apos;t be activated.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/10.jpg" num="11">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW11 — W Peacock Card 3</name>
+			<text>Destroy target tapped creature or creature with power 4 or greater.
+Harmonize {3}{W}{W} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/11.jpg" num="12">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW12 —</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has first strike.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/12.jpg" num="13">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW15 — Elk Equipment</name>
+			<text>Equipped creature gets +1/+1.
+Concord — As long as there are four or more card types among permanents you control, equipped creature has lifelink.
+Equip {1}</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/13.jpg" num="16">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW14 —</name>
+			<text>Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/14.jpg" num="15">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW13 — W Elk Card 3</name>
+			<text>Concord — Choose one. As long as there are four or more card types among permanents you control, you may choose both instead. 
+• Destroy target artifact.
+• Destroy target enchantment.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/15.jpg" num="14">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU01 — U Elk Card 1</name>
+			<text>Vigilance
+When this creature enters, if you control a Town, draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/20.jpg" num="33">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Citizen Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 — U Peacock Card 1</name>
+			<text>Flying
+Whenever this creature deals combat damage to a permanent or player, draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/21.jpg" num="34">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bard Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 — U Corvid Card 1</name>
+			<text>Flying
+{T}: Add {U}. Spend this mana only to cast an artifact spell or activate an ability of an artifact.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/22.jpg" num="35">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 — U Elk Card 2</name>
+			<text>Defender
+Concord — As long as there are four or more card types among permanents you control, this creature can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/24.jpg" num="37">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 — Melodic Subduer</name>
+			<text>Flying
+When this creature enters, tap target creature and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/25.jpg" num="38">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 — U Corvid Card 2 (Maybe)</name>
+			<text>Flying, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+{2}{U}, {T}: Create a Part token. (It&apos;s a 2/1 artifact with &quot;{2}, Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a Sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/26.jpg" num="39">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 — U Misc Card 2</name>
+			<text>Trample
+As an additional cast to cast this spell you may sacrifice any number of artifacts you control. This spell costs {1} less to cast for each artifact sacrificed this way.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/27.jpg" num="40">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Leviathan Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7UU</manacost>
+				<cmc>9</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU09 — U Corvid Card 3</name>
+			<text>Target creature&apos;s owner puts it on their choice of the top or bottom of their library.
+Produce. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/28.jpg" num="41">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU10 — Imperial Order</name>
+			<text>As an additional cost to cast this spell, behold a Noble or an Advisor, or pay {1}. (To behold a Noble or an Advisor, or pay 1, choose a Noble or an Advisor, or pay 1 you control or reveal a Noble or an Advisor, or pay 1 card from your hand.)
+Counter target spell.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/29.jpg" num="42">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU11 — Forced Retirement</name>
+			<text>Enchant creature
+Enchanted creature has base power and toughness 1/1 , loses all other abilities, and becomes a Citizen in addition to its other types.
+Concord — As long as there are four or more card types among permanents you control, enchanted creature can&apos;t attack or block.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/30.jpg" num="43">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU12 — Vigilant Citzenry</name>
+			<text>Target creature gets +0/+3 and gains hexproof until end of turn. Untap it.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/31.jpg" num="44">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 — U Peacock Card 3</name>
+			<text>Draw two cards.
+Harmonize {6}{U} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/32.jpg" num="45">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU14 — Rigid Intervention</name>
+			<text>Counter target spell unless its controller pays {2}. If you control two artifacts, counter that spell unless its controller pays {4} instead.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/33.jpg" num="46">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU15 — Peacock Equipment</name>
+			<text>Equipped creature has prowess and &quot;Whenever you tap this creature to pay a Harmonize cost, that cost is reduced by {1}.&quot;
+Equip {2}</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/34.jpg" num="47">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB01 —</name>
+			<text>{1}{B}: This creature gets +1/+1 and deathtouch until end of turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/39.jpg" num="64">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 —</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/40.jpg" num="65">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 —</name>
+			<text>Menace
+Ferocious — When this creature enters, if you control a creature with power 4 or greater, target opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/41.jpg" num="66">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 —</name>
+			<text>Flying, deathtouch
+Devout — If you control three or more enchantments, this creature has menace.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/42.jpg" num="68">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bird Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04 —</name>
+			<text>Flying
+When this creature enters, target opponent loses 1 life and you gain 1 life.
+Devout — If you control 3 or more enchantments, this creature gets +1/+0 and has lifelink.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/43.jpg" num="67">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 —</name>
+			<text>Flash
+When this creature enters, destroy target creature that was dealt damage this turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/44.jpg" num="69">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 —</name>
+			<text>Ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+Whenever this creature deals combat damage to a player, that player may discard a card. If they don&apos;t, they lose 2 life.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/45.jpg" num="70">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Rogue Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 —</name>
+			<text>This spell costs {1} less to cast for each nonland permanent in your graveyard.
+Whenever this creature becomes blocked, target opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/46.jpg" num="71">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 —</name>
+			<text>Destroy target creature.
+If you control a Minotaur, target creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/47.jpg" num="72">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB10 —</name>
+			<text>Choose one —
+• Target creature gets -2/-2.
+• Destroy target Aura with mana value 3 or less.
+• Remove up to two counters from target creature.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/48.jpg" num="73">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11 —</name>
+			<text>Ferocious — Destroy target creature if it has mana value 3 or less, or if you controlled a creature with power 4 or greater as you cast this spell.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/49.jpg" num="74">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB12 —</name>
+			<text>As an additional cost to cast this spell, sacrifice a nonland permanent or discard a card.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/50.jpg" num="75">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB13 —</name>
+			<text>When this enchantment enters, return target creature or enchantment card from your graveyard to your hand.
+Whenever you cast an enchantment spell, target player loses 1 life.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/51.jpg" num="76">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB14 —</name>
+			<text>When this enchantment enters target player discards two cards.
+Whenever a creature you control becomes blocked, target blocking creature gets -1/-1 until end of turn. This ability only triggers once each turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/52.jpg" num="77">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB15 — Corvidian Equipment</name>
+			<text>When this Equipment enters, create a Part Token. (Its a 2/1 artifact with &quot;Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a Sorcery)
+Equipped creature has &quot;Whenever this creature deals combat damage to a player, Produce. (Create a token that&apos;s a copy of an artifact token you control.)
+Equip {2}</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/53.jpg" num="78">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR01 — R Boar Card 1</name>
+			<text>Haste
+Spiteful (When this creature dies, if it wasn&apos;t a token, create a tapped and attacking token copy of it during your next declare attackers step. Sacrifice it at the end of combat.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/58.jpg" num="95">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 — R Peacock Card 1</name>
+			<text>Prowess
+When this creature enters, target creature can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/59.jpg" num="96">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Nomad Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 — R Misc. Creature 1</name>
+			<text>Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/60.jpg" num="97">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 — R Corvid Card 1</name>
+			<text>Flying
+When R Corvid Card 1 enters or dies, create a Part token. (Its a 2/1 artifact with &quot;{2}, Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a Sorcery.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/61.jpg" num="98">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR05 — R Peacock Card 2</name>
+			<text>Flying
+{T}: This creature deals 1 damage to target opponent.
+Whenever you cast a noncreature spell you may untap this creature.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/62.jpg" num="99">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 — R Corvid Card 2</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, produce. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/63.jpg" num="100">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 — R Boar Card 2</name>
+			<text>Whenever this creature deals combat damage to a player, create a Treasure token or a Weapon token. (It&apos;s an Equipment artifact with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/64.jpg" num="101">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 — R Misc. Creature 2</name>
+			<text>Menace
+When this creature enters deal 2 damage to any target.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/65.jpg" num="102">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 —</name>
+			<text>As an additional cost to cast this spell you may sacrifice a nonland permanent
+Enraged Blast deals 2 damage to target creature. If a permanent was sacrificed, Enraged Blast deals 4 damage instead.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/66.jpg" num="103">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR10 —</name>
+			<text>Cleanse With Fire deals 3 damage to target creature. If you controlled a Bear as you cast this spell, exile up to one target artifact or enchantment from target opponent&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/67.jpg" num="104">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR11 — Corvid Card 3</name>
+			<text>Corvid Card 3 deals 3 damage to target creature or planeswalker.
+Choose one —
+• Create a Part token. (It&apos;s a 2/1 artifact with &quot;{2}, Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a Sorcery.&quot;)
+• Produce (Create a token copy of an artifact token you control.) (To produce, create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/68.jpg" num="105">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR12 —</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards.
+If you discard an artifact, instead draw three cards.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/69.jpg" num="106">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR15 — Boar Equipment</name>
+			<text>Equipped creature gets +2/+0 and has Spiteful (When this creature dies, if it wasn&apos;t a token, create a tapped and attacking token copy of it during your next declare attackers step. Sacrifice it at the end of combat.)
+Equip {2}</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/70.jpg" num="109">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR14 —</name>
+			<text>Target creature you control gets +2/+0 and first strike until end of turn.
+If you control a Cat, draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/71.jpg" num="108">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR13 —</name>
+			<text>When this enchantment enters, destroy target artifact.
+Enchanted creature gets +2/+0 and has trample.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/72.jpg" num="107">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG01 — G Elk Card 1</name>
+			<text>{T}: Add {G}</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/77.jpg" num="126">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Druid Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 — G Boar Card 1</name>
+			<text>Trample
+Spiteful (When this creature dies, if it wasn&apos;t a token, create a tapped and attacking token copy of it during your next declare attackers step. Sacrifice it at the end of combat.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/78.jpg" num="127">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 — G Misc. Creature 1</name>
+			<text></text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/79.jpg" num="129">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03 — G Canidon Card 1</name>
+			<text>When this permanent enters, gain 3 life.
+Immortalize {1}{G} (You may cast this creature from your graveyard for it&apos;s Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/80.jpg" num="128">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Ranger Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 — Brutish Bird-Watcher</name>
+			<text>Reach
+{3}{G}: Another target creature you control gets +0/+2 and gains reach until end of turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/81.jpg" num="130">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Berserker Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 —</name>
+			<text>Vigilance
+When this creature enters, mill three cards. Put a land or creature card from among the milled cards into your hand.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/82.jpg" num="131">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 —</name>
+			<text>Flash
+Stampede 2 (Whenever this creature atracks, create a tapped and attacking 2/2 white Elephant Soldier creature token with a stun counter.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/83.jpg" num="132">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 — G Misc. Creature 2</name>
+			<text>Trample
+Whenever this creature becomes the target of a spell or ability an opponent controls, you may draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/84.jpg" num="133">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 — G Canidon Card 3</name>
+			<text>Choose target creature you control. If its a canine, it gets +2/+2 until end of turn. Then, the chosen creature deals damage equal to its power to target creature you don&apos;t control. (Dogs, Wolves, Jackals, Coyotes, and Foxes are canines.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/85.jpg" num="134">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG10 —</name>
+			<text>Flash
+Enchant creature
+Enchanted creature you control gets +2/+2.
+When this enchantment enters, enchanted creature gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/86.jpg" num="135">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG11 —</name>
+			<text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn&apos;t put a card into your hand this way, or if you control an Elephant, draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/87.jpg" num="136">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG15 — Canidon Equipment</name>
+			<text>Equipped creature has trample and &quot;Sacrifice this creature: Target creature card in your graveyard gains Immortalize {X} until end of turn, where X is it&apos;s mana value plus 1.&quot; (You may cast this creature from your graveyard for it&apos;s Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)
+Equip {2}</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/88.jpg" num="140">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG13 — _ Fury (Boar)</name>
+			<text>Put a +1/+1 counter on target creature. It gains spiteful until end of turn. (It gains, &quot;when this creature dies, if it wasn&apos;t a token, create a tapped and attacking token copy of it during your next declare attackers step. Sacrifice it at the end of combat.&quot;)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/89.jpg" num="138">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG14 —</name>
+			<text>As an additional cost to cast this spell, sacrifice a land you control.
+Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/90.jpg" num="139">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12 —</name>
+			<text>Destroy target artifact, enchantment, or creature with flying.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/91.jpg" num="137">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UZ19 — URW Arcun 1</name>
+			<text>When this creature enters, gain 2 life.
+Creatures you control have +1/+1 and vigilance.</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/105.jpg" num="227">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UZ20 — URW Arcun 2</name>
+			<text>Harmonize cost (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/106.jpg" num="228">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UZ14 — UBR Arcun 2</name>
+			<text>Flying, Menace
+Whenever this creature attacks, Produce. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/116.jpg" num="222">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UZ13 — UBR Arcun 1</name>
+			<text>Flying
+{2}, {T}: Create a Part token. (It&apos;s a 2/1 artifact with &quot;{2}, Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/117.jpg" num="221">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UZ12 — GWU Arcun 2</name>
+			<text>When this creature enters, create a Food token.
+Whenever you sacrifice a noncreature token, target creature gets +0/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/127.jpg" num="220">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UZ11 — GWU Arcun 1</name>
+			<text>Concord — At the beginning/end/when enters, if there a four or more card types among permanents you control, put a +1/+1 counter on another target creature you control and draw a card.</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/128.jpg" num="219">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UZ18 — BRG Arcun 2</name>
+			<text>Whenever a creature you control dies, you may put a +1/+1 counter on another target creature you control. Then, this creature deals 1 damage to target player.</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/138.jpg" num="226">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UZ17 — BRG Arcun 1</name>
+			<text>Haste
+Spiteful (When this creature dies, if it wasn&apos;t a token, create a tapped and attacking token copy of it during your next declare attackers step. Sacrifice it at the end of combat.)</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/139.jpg" num="225">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UZ15 — WBG Arcun 1</name>
+			<text>Other Canines you control get +1/+1 and have Menace. (Dogs, Wolves, Jackals, Coyotes, and Foxes are canines.)
+Immortalize {W}{B}{G} (You may cast this creature from your graveyard for it&apos;s Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/149.jpg" num="223">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UZ16 — WBG Arcun 2</name>
+			<text>Tap target Shrine you control: Target creature you control gains first strike until end of turn. If that creature is a canine, it gains double strike instead. (Dogs, Wolves, Jackals, Coyotes, and Foxes are canines.)</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/150.jpg" num="224">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2WBG</manacost>
+				<cmc>5</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 — Wandering Fishmonger</name>
+			<text>When this creature enters, choose one. If you control two Towns, instead, choose both.
+• Create a Food token.
+• Create a 1/1 blue Fish creature token.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/160.jpg" num="36">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Seal Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA02 — _ Banner</name>
+			<text>As this land enters, you may behold a Bird or a Bard. If you do, draw a card. (To behold a Bird or a Bard, choose a Bird or a Bard you control or reveal a Bird or a Bard card from your hand.)
+{T}: Add {U}, {R}, or {W}.
+{U}{R}{W}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/216.jpg" num="250">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA01 — Canidon Banner</name>
+			<text>As this land enters, you may behold a canine or a Knight. If you do, draw a card. (To behold a canine or a Knight, choose a canine or a Knight you control or reveal a canine or a Knight card from your hand.)
+{T}: Add {W}, {B}, or {G}.
+{W}{B}{G}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/217.jpg" num="249">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA03 — Corvidian Banner</name>
+			<text>As this land enters, you may behold a Bird or an Artificer. If you do, draw a card. (To behold a Bird or an Artificer, choose a Bird or an Artificer you control or reveal a Bird or an Artificer card from your hand.)
+{T}: Add {U}, {B}, or {R}.
+{U}{B}{R}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/218.jpg" num="251">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA04 — _ Banner</name>
+			<text>As this land enters, you may behold a Boar or a Berserker. If you do, draw a card. (To behold a Boar or a Berserker, choose a Boar or a Berserker you control or reveal a Boar or a Berserker card from your hand.)
+{T}: Add {B}, {R}, or {G}.
+{B}{R}{G}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/219.jpg" num="252">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA05 — _ Banner</name>
+			<text>As this land enters, you may behold an Elk or a Citizen. If you do, draw a card. (To behold an Elk or a Citizen, choose an Elk or a Citizen you control or reveal an Elk or a Citizen card from your hand.)
+{T}: Add {G}, {W}, or {U}.
+{G}{W}{U}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/220.jpg" num="253">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA06 — Imperial Scoutcraft</name>
+			<text>Flying
+When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/226.jpg" num="254">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UL01 —</name>
+			<text>As this land enters, you may behold two Birds and/or Bards. If you don&apos;t, this land enters tapped. (To behold two Birds and/or Bards, you may choose two Birds and/or Bards you control or reveal two Bird and/or Bard cards from your hand.)
+{T}: Add {U}, {R}, or {W}.</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/227.jpg" num="267">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL02 —</name>
+			<text>As this land enters, you may behold two canines and/or knights. If you don&apos;t, this land enters tapped. (To behold two canines and/or Knights you may choose two canines and/or knights you control or reveal two canine and/or knight cards from your hand.) (Dogs, Wolves, Jackals, Coyotes, and Foxes are canines.)
+{T}: Add {W}, {B}, or {G}.</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/228.jpg" num="268">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL03 —</name>
+			<text>As this land enters, you may behold two Boars and/or Berserkers. If you don&apos;t, this land enters tapped. (To behold two Boars and or Berserkers, you may choose two Boars and/or Berserkers you control or reveal two Boar and/or Berserker cards from your hand.)
+{T}: Add {B}, {R}, or {G}.</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/229.jpg" num="269">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL04 —</name>
+			<text>As this land enters, you may behold two Birds and/or Artificers. If you don&apos;t, this land enters tapped. (To behold two Birds and/or Artificers, you may choose two Birds and/or Artificers you control or reveal two Bird and/or Artificer cards from your hand.)
+{T}: Add {U}, {B}, or {R}.</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/230.jpg" num="270">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL05 —</name>
+			<text>As this land enters, you may behold two Elk and/or Citizens. If you don&apos;t, this land enters tapped. (To behold two Elk and/or Citizens, you may choose two Elk and/or Citizens you control and/or reveal two Elk and/or Citizen cards from your hand.)
+{T}: Add {G}, {W}, or {U}</text>
+			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/231.jpg" num="271">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RZ08 — Canidon Representative</name>
+			<text>Knight and Canine spells you cast cost {1} less to cast. (Dogs, Wolves, Jackals, Coyotes, and Foxes are canines.)</text>
+			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/232.jpg" num="244">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Knight Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>B/GW</manacost>
+				<cmc>2</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RZ11 — _ Representative</name>
+			<text>Bird and Bard spells you cast cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/233.jpg" num="245">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bard Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>R/WU</manacost>
+				<cmc>2</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RZ14 — _ Representative</name>
+			<text>Bird and Artificer spells you cast cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/234.jpg" num="246">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Artificer Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>U/RB</manacost>
+				<cmc>2</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RZ17 — _ Representative</name>
+			<text>Boar and Berserker spells you cast cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/235.jpg" num="247">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Berserker Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>B/GR</manacost>
+				<cmc>2</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RZ20 — _ Representative</name>
+			<text>Elk and Citizen spells you cast cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/236.jpg" num="248">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Citizen Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>W/UG</manacost>
+				<cmc>2</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CL01 —</name>
+			<text>This land enters tapped.
+{T}: Add {W} or {U}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/250.jpg" num="256">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL05 —</name>
+			<text>This land enters tapped.
+{T}: Add {G} or {W}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/251.jpg" num="260">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL04 —</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {G}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/252.jpg" num="259">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL03 —</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {R}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/253.jpg" num="258">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL02 —</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {B}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/254.jpg" num="257">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL07 —</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {R}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/255.jpg" num="262">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL08 —</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {G}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/256.jpg" num="263">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL09 —</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {W}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/257.jpg" num="264">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL10 —</name>
+			<text>This land enters tapped.
+{T}: Add {G} or {U}
+{4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRD-files/img/258.jpg" num="265">FRD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
