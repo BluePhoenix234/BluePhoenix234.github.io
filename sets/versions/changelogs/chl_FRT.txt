@@ -1,4 +1,123 @@
-﻿VERSION 46 CHANGELOG
+﻿VERSION 47 CHANGELOG
+====================
+
+
+
+Nomadic Defense
+
+Grove-Guard Sigils
+type: Enchantment => Enchantment — Aura
+
+Honorable Exile
+
+Mind-Wander Acolyte
+rules_text: [i]Devout[/i] — At the beginning of your end step, if you control three or more enchantments, create a 1/1 blue Spirit Illusion creature token with flying. => [i]Devout[/i] — At the beginning of your end step, if you control three or more enchantments, create a 1/1 blue Spirit Illusion creature token with flying.
+This creature has +1/+0 for each Illusion you control
+pt: 0/5 => 1/3
+
+Serene Veteran
+flavor_text: [i]“So this is what the Ursaeic hold sacred. This peace is rejuvenating. I think I'll retire here when all is said and done. [/i] => [i]“So this is what the Ursaeic hold sacred. This peace is rejuvenating. I think I'll retire here when all is said and done.” [/i]
+
+Front-Legion Surveyor
+
+Twilight Cleansing
+
+Riverbound Seer
+
+Pathbound Mystic
+
+Priest of the Damned
+
+Twilight Reckoning
+
+Skills of the Shadowed
+
+Wildfire Tamer
+
+Rage-Legion Brute
+rules_text: Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+Whenever this creature attacks, put a stun counter on it. => Stampede 1 [i](Whenever this creature attacks, create a tapped and attacking 1/1 white Elephant Soldier creature token with a stun counter on it.)[/i]
+Whenever this creature attacks, put a stun counter on it.
+At the beginning of your second main phase, if you control three or more other Elephants, put a +1/+1 counter on this creature.
+
+Virtuous Vagabond
+
+Gold and Glory
+
+Lurking Huntkeeper
+rules_text: Trample
+This creature enters tapped with three stun counters on it.
+Whenever the last stun counter is removed from this creature, until end of turn, whenever a creature an opponent controls dies, put a +1/+1 counter on another target creature you control. => Trample
+This creature enters tapped with three stun counters on it.
+Whenever the last stun counter is removed from this creature, put a +1/+1 counter on each other creature you control.
+
+Far-Wander Ranger
+
+Rise of the Stampedes
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Elephant Soldier creature tokens.
+II — Draw a card for each creature you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 1/1 white Elephant Soldier creature tokens.
+Draw a card for each creature you control.
+Creatures you control get +1/+1 for each creature you control until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Elephant Soldier creature tokens.
+II — Draw a card for each creature you control.
+III — Creatures you control get +1/+1 for each creature you control until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 1/1 white Elephant Soldier creature tokens.
+Draw a card for each creature you control.
+Creatures you control get +1/+1 for each creature you control until end of turn.
+
+Balance of Dusk and Dawn
+rules_text: Whenever another nonland permanent you control leaves the battlefield or a nonland permanent card leaves your graveyard, target opponent discards a card or loses 2 life. This ability triggers only once on each of your turns. => Whenever another nonland permanent you control leaves the battlefield or a nonland permanent card leaves your graveyard, target opponent may discard a card. If they don't, they lose 2 life. This ability triggers only once on each of your turns.
+
+The Trials of Saint Mornus
+rules_text: Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+special_text: Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature you control. Creatures you control gain indestructible until end of turn.
+II — Draw a card for each player that controls an enchantment.
+III — Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types. => Flash
+[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature you control. Creatures you control gain indestructible until end of turn.
+Draw a card for each player that controls an enchantment.
+Return the exiled creature to the battlefield with a +1/+1 counter. It's an enchantment in addition to its other types.
+
+Elephon Representative
+
+Strixan Representative
+
+Crocodilid Representative
+
+Bovidian Representative
+
+Ursaeic Representative
+
+Outskirts Inquisitor
+
+Blessing
+rules_text:  => Enchant permanent
+Enchanted permanent has ward {1}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+flavor_text: [i][/i]Enchanted creature has ward 1.[i][/i] => [i][/i]
+
+Avia, Imperial Capital
+rules_text: {T}: Add {C}
+{T}: Add one mana of any color. Activate only if you control three or more creatures.
+{4}, {T}: Create your choice of a Food token, Treasure token, Clue token, Blessing token, or Weapon token. => {T}: Add {C}
+{T}: Add one mana of any color. Activate only if you control three or more creatures.
+{4}, {T}: Create your choice of a Food token, Treasure token, Clue token, Blessing token, or Weapon token. Activate only as a sorcery. [i](A Blessing token is a colorless Aura enchantment token with “Enchant permanent” and “Enchanted permanent has ward {1}.”)[/i]
+
+
+VERSION 46 CHANGELOG
 ====================
 
 

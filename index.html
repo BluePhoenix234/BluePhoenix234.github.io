@@ -221,6 +221,10 @@
 									<a href="previews/FRT"><div class="set-icon"><img src="sets/FRT-files/icon.png" title="Felidea: Rising Tensions"></img></div>
 									<div class="set-icon-name">Felidea: Rising Tensions</div></a>
 								</div>
+				<div class="set-icon-container">
+									<a href="previews/FRD"><div class="set-icon"><img src="sets/FRD-files/icon.png" title="Felidea: Rising Dissent"></img></div>
+									<div class="set-icon-name">Felidea: Rising Dissent</div></a>
+								</div>
 									</div>
 							<div class="set-group">BluePhoenix Eternal</div>
 							<div class="preview-container">
@@ -287,6 +291,12 @@
 
 				let all_tags = new Set();
 				card_list_arrayified.forEach(card => {
+					if (card.card_name) {
+						card.card_name = card.card_name.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.card_name2) {
+						card.card_name2 = card.card_name2.replace(/[\r\n]+/g, '').trim();
+					}
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {

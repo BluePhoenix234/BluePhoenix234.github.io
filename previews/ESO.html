@@ -184,6 +184,7 @@
 	<img class="preload-hidden" src="../img/dot.png" />
 	<img class="preload-hidden" src="../sets/ESO-files/logo.png" />
 	<img class="preload-hidden" src="../sets/FRT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/FRD-files/icon.png" />
 		<img class="preload-hidden" src="../sets/ESO-files/icon.png" />
 		<img class="preload-hidden" src="../sets/FCT-files/icon.png" />
 		<img class="preload-hidden" id="bg" src="../sets/ESO-files/bg.png" />
@@ -236,6 +237,8 @@
 		<a class="set-bar" href="../previews/ESO"><img src="../sets/ESO-files/icon.png">The Elder Scrolls: Osimer</a>
 	
 		<a class="set-bar inactive" href="../previews/FRT"><img src="../sets/FRT-files/icon.png">Felidea: Rising Tensions</a>
+	
+		<a class="set-bar inactive" href="../previews/FRD"><img src="../sets/FRD-files/icon.png">Felidea: Rising Dissent</a>
 	
 		<a class="set-bar inactive" href="../previews/FCT"><img src="../sets/FCT-files/icon.png">Felidea: Rising Tensions Commander</a>
 	
@@ -523,6 +526,12 @@
 
 				let all_tags = new Set();
 				card_list_arrayified.forEach(card => {
+					if (card.card_name) {
+						card.card_name = card.card_name.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.card_name2) {
+						card.card_name2 = card.card_name2.replace(/[\r\n]+/g, '').trim();
+					}
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {

@@ -137,6 +137,13 @@
 				<div>FRT</div>
 				<div>272</div>
 			</a>
+			
+			<a href="sets/FRD" class="set-row"> 
+				<img src="sets/FRD-files/icon.png">
+				<div class="set-title">Felidea: Rising Dissent</div>
+				<div>FRD</div>
+				<div>111</div>
+			</a>
 			</div>
 					<div class="set-group">BluePhoenix Eternal</div>
 		
@@ -185,6 +192,12 @@
 
 				let all_tags = new Set();
 				card_list_arrayified.forEach(card => {
+					if (card.card_name) {
+						card.card_name = card.card_name.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.card_name2) {
+						card.card_name2 = card.card_name2.replace(/[\r\n]+/g, '').trim();
+					}
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {

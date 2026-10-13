@@ -184,6 +184,7 @@
 	<img class="preload-hidden" src="../img/dot.png" />
 	<img class="preload-hidden" src="../sets/FRD-files/logo.png" />
 	<img class="preload-hidden" src="../sets/FRT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/FRD-files/icon.png" />
 		<img class="preload-hidden" src="../sets/ESO-files/icon.png" />
 		<img class="preload-hidden" src="../sets/FCT-files/icon.png" />
 		<div class="header">
@@ -443,6 +444,12 @@
 
 				let all_tags = new Set();
 				card_list_arrayified.forEach(card => {
+					if (card.card_name) {
+						card.card_name = card.card_name.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.card_name2) {
+						card.card_name2 = card.card_name2.replace(/[\r\n]+/g, '').trim();
+					}
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
