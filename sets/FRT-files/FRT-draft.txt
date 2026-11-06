@@ -1533,7 +1533,7 @@
 		{
 			"name": "Stalwart Representative",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Minotaur Warrior Advisor",
 			"collector_number": "28",
 			"image_uris": {
@@ -1583,7 +1583,7 @@
 		{
 			"name": "Sacred Shrine Mason",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird Artificer Cleric",
 			"collector_number": "59",
 			"image_uris": {
@@ -2571,7 +2571,7 @@
 			}
 		},
 		{
-			"name": "Wind-scarred Crag",
+			"name": "Wind-Scarred Crag",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
@@ -3234,6 +3234,6 @@
 	5 Dismal Backwater
 	5 Swiftwater Cliffs
 	5 Jungle Hollow
-	5 Wind-scarred Crag
+	5 Wind-Scarred Crag
 	5 Thornwood Falls
 	5 Ash Barrens

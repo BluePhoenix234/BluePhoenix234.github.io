@@ -1,4 +1,104 @@
-﻿VERSION 47 CHANGELOG
+﻿VERSION 48 CHANGELOG
+====================
+
+Wind-Scarred Crag added.
+
+Wind-scarred Crag removed.
+
+Scoured Barrens
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {W} or {B} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.
+
+Glorymarked Returner
+rules_text: This creature enters tapped. 
+Whenever you activate a boast ability, you may pay {1}{B}. If you do, return this card from your graveyard to the battlefield. => This creature enters tapped. 
+You may cast this card from your graveyard if you've activated a boast ability this turn.
+
+Stalwart Representative
+cost: {3}{W} => {2}{W}
+pt: 4/4 => 3/3
+
+Sacred Shrine Mason
+cost: {U} => {1}{U}
+
+Battleground Improviser
+rules_text: At the beginning of combat, you may sacrifice a noncreature permanent. If you do, target creature gains haste until end of turn.
+Whenever another creature you control attacks, this creature gets +2/+0 until end of turn. => At the beginning of combat, you may sacrifice a nonland permanent. If you do, target creature gains haste until end of turn.
+Whenever another creature you control attacks, this creature gets +2/+0 until end of turn.
+
+Bovidian Representative
+rules_text: Haste
+Minotaur and Warrior spells you cast cost {1} less to cast.
+{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of first strike or menace until end of turn. => Haste
+Minotaur and Warrior spells you cast cost {1} less to cast.
+Whenever this creature attacks, add {R}, {W}, or {B}. This mana lasts until end of combat.
+
+Outskirts Inquisitor
+rules_text: Menace
+[i]Devout[/i] — At the beginning of your end step, if you control three or more enchantments, gain 3 life if this creature is untapped. Each opponent loses 3 life if this creature is tapped. => Menace
+[i]Devout[/i] — At the beginning of your end step, create a Blessing token attached to a nonland permanent you control. If you control three or more enchantments, you may instead gain 3 and have each opponent lose 3 life.
+
+Tranquil Cove
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {W} or {U} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.
+
+Blossoming Sands
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {G} or {W} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.
+
+Rugged Highlands
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {R} or {G} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.
+
+Bloodfell Caves
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {B} or {R} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.
+
+Dismal Backwater
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {U} or {B} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.
+
+Swiftwater Cliffs
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {U} or {R} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.
+
+Jungle Hollow
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {B} or {G} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.
+
+Thornwood Falls
+rules_text: This land enters tapped.
+When this land enters you gain 1 life.
+{T}: Add {G} or {U} => This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.
+
+
+VERSION 47 CHANGELOG
 ====================
 
 

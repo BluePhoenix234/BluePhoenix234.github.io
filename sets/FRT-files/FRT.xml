@@ -5,15 +5,15 @@
 			<name>FRT</name>
 			<longname>Felidea: Rising Tensions</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-13</releasedate>
+			<releasedate>2026-11-06</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Scoured Barrens</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {W} or {B}</text>
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/0.jpg" num="267">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2079,7 +2079,7 @@ Devout — At the beginning of your end step, if you control three or more encha
 		<card>
 			<name>Glorymarked Returner</name>
 			<text>This creature enters tapped. 
-Whenever you activate a boast ability, you may pay {1}{B}. If you do, return this card from your graveyard to the battlefield.</text>
+You may cast this card from your graveyard if you&apos;ve activated a boast ability this turn.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/118.jpg" num="75">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2704,11 +2704,11 @@ Whenever an opponent casts a spell, they may pay {1}. If they don&apos;t, create
 				<side>front</side>
 				<type>Creature — Minotaur Warrior Advisor</type>
 				<maintype>Creature</maintype>
-				<manacost>3W</manacost>
-				<cmc>4</cmc>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2795,8 +2795,8 @@ Devout — At the beginning of your upkeep, if you control three or more enchant
 				<side>front</side>
 				<type>Creature — Bird Artificer Cleric</type>
 				<maintype>Creature</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>0/3</pt>
@@ -3572,7 +3572,7 @@ The first noncreature spell you cast on each of your turns costs {1} less to cas
 		</card>
 		<card>
 			<name>Battleground Improviser</name>
-			<text>At the beginning of combat, you may sacrifice a noncreature permanent. If you do, target creature gains haste until end of turn.
+			<text>At the beginning of combat, you may sacrifice a nonland permanent. If you do, target creature gains haste until end of turn.
 Whenever another creature you control attacks, this creature gets +2/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/202.jpg" num="162">FRT</set>
 			<prop>
@@ -4161,7 +4161,7 @@ Whenever you put one or more counters on a creature you control, you may put the
 			<name>Bovidian Representative</name>
 			<text>Haste
 Minotaur and Warrior spells you cast cost {1} less to cast.
-{3}, Sacrifice a nonland permanent: Creatures you control gain your choice of first strike or menace until end of turn.</text>
+Whenever this creature attacks, add {R}, {W}, or {B}. This mana lasts until end of combat.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/235.jpg" num="239">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4198,7 +4198,7 @@ At the beginning of your end step, you may put a +1/+1 counter on another target
 		<card>
 			<name>Outskirts Inquisitor</name>
 			<text>Menace
-Devout — At the beginning of your end step, if you control three or more enchantments, gain 3 life if this creature is untapped. Each opponent loses 3 life if this creature is tapped.</text>
+Devout — At the beginning of your end step, create a Blessing token attached to a nonland permanent you control. If you control three or more enchantments, you may instead gain 3 and have each opponent lose 3 life.</text>
 			<set rarity="rare" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/237.jpg" num="207">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4431,8 +4431,8 @@ Guardian — Whenever a creature you control with power less than this creature&
 		<card>
 			<name>Tranquil Cove</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {W} or {U}</text>
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/250.jpg" num="270">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4448,8 +4448,8 @@ When this land enters you gain 1 life.
 		<card>
 			<name>Blossoming Sands</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {G} or {W}</text>
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/251.jpg" num="260">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4465,8 +4465,8 @@ When this land enters you gain 1 life.
 		<card>
 			<name>Rugged Highlands</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {R} or {G}</text>
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/252.jpg" num="266">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4482,8 +4482,8 @@ When this land enters you gain 1 life.
 		<card>
 			<name>Bloodfell Caves</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {B} or {R}</text>
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/253.jpg" num="259">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4499,8 +4499,8 @@ When this land enters you gain 1 life.
 		<card>
 			<name>Dismal Backwater</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {U} or {B}</text>
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/254.jpg" num="262">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4516,8 +4516,8 @@ When this land enters you gain 1 life.
 		<card>
 			<name>Swiftwater Cliffs</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {U} or {R}</text>
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/255.jpg" num="268">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4533,8 +4533,8 @@ When this land enters you gain 1 life.
 		<card>
 			<name>Jungle Hollow</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {B} or {G}</text>
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/256.jpg" num="263">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4548,10 +4548,10 @@ When this land enters you gain 1 life.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Wind-scarred Crag</name>
+			<name>Wind-Scarred Crag</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {R} or {W}</text>
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/257.jpg" num="271">FRT</set>
 			<prop>
 				<layout>normal</layout>
@@ -4567,8 +4567,8 @@ When this land enters you gain 1 life.
 		<card>
 			<name>Thornwood Falls</name>
 			<text>This land enters tapped.
-When this land enters you gain 1 life.
-{T}: Add {G} or {U}</text>
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.</text>
 			<set rarity="common" picurl="https://bluephoenix234.github.io/sets/FRT-files/img/258.jpg" num="269">FRT</set>
 			<prop>
 				<layout>normal</layout>
