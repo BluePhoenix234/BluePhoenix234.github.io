@@ -1,4 +1,358 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CL06 — _ Castle added.
+CW10 — Imperial Detainment added.
+CW12 — Uplifting Melody added.
+CW14 — Vigilant Strike added.
+CZ01 — Elk Creature added.
+CZ02 — Corvidian Creature added.
+CZ03 — Canidon Creature added.
+CZ04 — Boar Creature added.
+CU07 — U Corvid Card 2 added.
+CZ05 — Peacock Creature added.
+CZ06 — Elk Spell added.
+CZ07 — Corvidian Spell added.
+CZ08 — Canidon Spell added.
+CB01 — B Canidon Card 1 added.
+CB02 — B Boar Card 1 added.
+CB03 — B Crow Card 1 added.
+CB05 — B Canidon Card 2 added.
+CB04 — B Misc Card 1 added.
+CB06 — Augmented Shopguard added.
+CB07 — B Boar Card 2 added.
+CB08 — B Misc Card 2 added.
+CB09 — Imperial Sentence added.
+CB10 — B Boar Card 3 added.
+CB11 — Cornered Ferocity added.
+CB12 — B Crow Card 3 added.
+CB13 — B Canidon Card 4 added.
+CB14 — B Boar Card 4 added.
+CZ09 — Boar Spell added.
+CZ10 — Peacock Spell added.
+CZ12 — added.
+CZ11 — Wit-Wield Spirits added.
+CR09 — R Boar Card 3 added.
+CR10 — R Peacock Card 3 added.
+CR11 — Cruel Smelting (Crow) added.
+CR12 — Imperial _ added.
+CR14 — R Peacock Card 4 added.
+CR13 — R Corvid Card 4 added.
+CZ14 — 2c Canine Enchant added.
+CZ13 — Great-Pain Spirits added.
+CZ16 — 2c Bird Creature added.
+CZ15 — Day-Shield Spirits added.
+CG06 — G Elk Card 2 added.
+CG07 — G Canidon Card 2 added.
+CG10 — G Elk Card 3 added.
+CG11 — Imperial _ added.
+CG14 — G Boar Card 4 added.
+CG12 — G Elk Card 4 added.
+CZ18 — 2c Boar Creature added.
+CZ18 — Mind-Fear Spirits added.
+CZ20 — 2c Elk Creature added.
+CZ19 — Heart-Watch Spirits added.
+UL04 — Entertainment District added.
+UL01 — Honored Castletown added.
+UL03 — Boisterous Village added.
+UL02 — Industrious Campus added.
+UL05 — Idyllic Hamlet added.
+CL01 — Holy Quarter added.
+CL05 — Farming Hamlet added.
+CL04 — Valley Village added.
+CL03 — Mining Town added.
+CL02 — Riverland Outpost added.
+CL07 — Industrious District added.
+CL09 — Cliffside Fort added.
+Elk Citizen added.
+Weapon added.
+Blessing added.
+Weapon added.
+Weapon added.
+Bird Bard added.
+Dog Knight added.
+
+CL06 — removed.
+CW10 — removed.
+CW12 — removed.
+CW14 — removed.
+CU07 — U Corvid Card 2 (Maybe) removed.
+CB01 — removed.
+CB02 — removed.
+CB03 — removed.
+CB05 — removed.
+CB04 — removed.
+CB06 — removed.
+CB07 — removed.
+CB08 — removed.
+CB09 — removed.
+CB10 — removed.
+CB11 — removed.
+CB12 — removed.
+CB13 — removed.
+CB14 — removed.
+CR09 — removed.
+CR10 — removed.
+CR11 — Corvid Card 3 removed.
+CR12 — removed.
+CR14 — removed.
+CR13 — removed.
+CG06 — removed.
+CG07 — removed.
+CG10 — removed.
+CG11 — removed.
+CG14 — removed.
+CG12 — removed.
+UL01 — removed.
+UL02 — removed.
+UL03 — removed.
+UL04 — removed.
+UL05 — removed.
+RZ08 — Canidon Representative removed.
+RZ11 — _ Representative removed.
+RZ14 — _ Representative removed.
+RZ17 — _ Representative removed.
+RZ20 — _ Representative removed.
+CL01 — removed.
+CL05 — removed.
+CL04 — removed.
+CL03 — removed.
+CL02 — removed.
+CL07 — removed.
+CL09 — removed.
+
+CW01 — Raucous Enspiriter
+rules_text: Flying
+{2}{W}: Creatures you control get +0/+2 until end of turn. => Flying
+{1}{W}, {T}: Creatures you control get +2/+0 until end of turn.
+
+CW02 — W Elk Card 1
+rules_text: When this creature enters, create a food token.
+[i]Concord[/i] — => When this creature enters, create a Food token.
+[i]Contribution[/i] — Whenever another creature you control becomes tapped, if it isn't your combat phase, you may create a Food token. This ability triggers only once each turn.
+artist: Irbeus => SkidarStudios
+
+CW03 — W Canidon Card 1
+cost: {1}{W} => {2}{W}
+rules_text:  => Vigilance
+When this creature enters, put a +1/+1 counter on target creature you control. If that creature is a canine, instead put two +1/+1 counters on it. [i](Dogs, Wolves, Jackals, Coyotes, and Foxes are canines.)[/i]
+flavor_text: [i] [/i] => [i][/i]
+artist: Olaffson => Roukara
+
+CW05 — W Canidon Card 2
+cost: {W} => {3}{W}
+rules_text: Immortalize {2}{W} [i](You may cast this creature from your graveyard for it's Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)[/i]
+Whenever you attack with three or more creatures, put a +1/+1 counter on target creature you control. => Escort [i](Whenever this creature attacks, choose another target attacking creature with lesser power. Until end of turn, that creature gains the following abilities.)[/i]
+At the beginning of your second main phase, untap this creature.
+pt: 2/3 => 4/3
+artist: gielczynski => Mauro Alocci
+
+CW04 — W Misc Creature
+type: Creature => Creature — Hippo Advisor
+rules_text:  => Whenever a creature you control enters, gain 1 life. If you control two or more Towns, you gain 2 life instead.
+pt: 3/1 => 1/2
+artist: butterfrog => Lorrayne Bicalho
+
+CW06 — W Peacock Card 2
+cost: {4}{W} => {3}{W}
+rules_text: Flying
+Whenever a card leaves your graveyard, tap target creature an opponent controls. This ability triggers only once each turn. => Flying
+Whenever a card leaves your graveyard, this creature gets +1/+1 until end of turn.
+pt: 3/3 => 3/4
+artist: Mister-Nintendo => NaraniaYan
+
+CW07 — W Elk Card 2
+type: Creature => Creature — Elk Citizen
+rules_text:  => When this creature enters, draw a card.
+{1}{W}, {T}: Tap target creature.
+pt: 2/3 => 3/1
+artist: Brian Vadell => JTF3
+
+CW08 — W Misc Creature 2
+type: Creature — Elemental => Creature — Elemental Griffin
+cost: {3}{W} => {4}{W}
+rules_text:  => Flying
+Whenever this creature attacks, untap up to two other target creatures.
+pt: 3/3 => 4/4
+artist: Arte Desastre => Damien Mammoliti
+
+CW09 — Motley Escort (Canidon)
+rules_text: When this creature enters, create a 1/1 green Elk Citizen, and a 2/2 red Bird Bard token with flying.
+Immortalize cost [i](You may cast this creature from your graveyard for it's Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)[/i] => When this creature enters, create a 1/1 green Elk Citizen, and a 2/2 red Bird Bard token with flying.
+Escort [i](Whenever this creature attacks, choose another target attacking creature with lesser power. Until end of turn, that creature gains the following abilities.)[/i]
+This creature gets +0/+1 for each other attacking creature you control.
+flavor_text: [i]W Canidon Card 3 (Slot tracking placeholder text.)[/i] => [i]W Canidon Card 3[/i]
+artist: Lipatov => Gorblnblch
+
+CW11 — W Peacock Card 3
+type: Instant => Sorcery
+rules_text: Destroy target tapped creature or creature with power 4 or greater.
+Harmonize {3}{W}{W} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Destroy target tapped creature.
+Harmonize {3}{W}{W} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+artist: cha4os => 
+
+CW15 — Elk Equipment
+rules_text: Equipped creature gets +1/+1.
+[i]Concord[/i] — As long as there are four or more card types among permanents you control, equipped creature has lifelink.
+Equip {1} => Equipped creature gets +1/+1.
+[i]Contribution[/i] — Whenever another creature becomes tapped, if it isn't your combat phase, equipped creature gains lifelink until end of turn.
+Equip {1}
+
+CW13 — W Elk Card 3
+rules_text: [i]Concord[/i] — Choose one. As long as there are four or more card types among permanents you control, you may choose both instead. 
+• Destroy target artifact.
+• Destroy target enchantment. => Choose one. If you control three or more tapped creatures, you may choose both instead. 
+• Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+• Create a 1/1 green Elk Citizen creature token.
+
+CU01 — U Elk Card 1
+rules_text: Vigilance
+When this creature enters, if you control a Town, draw a card. => Vigilance
+When this creature enters, if you control a Town, draw a card.
+{1}{U}, {T}: Scry 2.
+artist: Forger Of Fantasies => 
+
+CU03 — U Corvid Card 1
+artist: MAtheus => 
+
+CU05 — U Elk Card 2
+rules_text: Defender
+[i]Concord[/i] — As long as there are four or more card types among permanents you control, this creature can attack as though it didn't have defender. => Defender
+[i]Contribution[/i] — Whenever another creature you control becomes tapped, if it isn't your combat phase, this creature can attack as though it didn't have defender until end of turn.
+artist: slshimerdla => 
+
+CU06 — Melodic Subduer
+artist: Leliumoj => 
+
+CU08 — U Misc Card 2
+artist: Olieart => 
+
+CU10 — Imperial Order
+cost: {1}{U}{U} => {U}{U}
+rules_text: As an additional cost to cast this spell, behold a Noble or an Advisor, or pay {1}. [i](To behold a Noble or an Advisor, or pay 1, choose a Noble or an Advisor, or pay 1 you control or reveal a Noble or an Advisor, or pay 1 card from your hand.)[/i]
+Counter target spell. => As an additional cost to cast this spell, behold a Noble or an Advisor, or pay {1}. [i](To behold a Noble or an Advisor, choose a Noble or an Advisor you control or reveal a Noble or an Advisor card from your hand.)[/i]
+Counter target spell.
+artist: Jocarra => 
+
+CU11 — Forced Retirement
+rules_text: Enchant creature
+Enchanted creature has base power and toughness 1/1 , loses all other abilities, and becomes a Citizen in addition to its other types.
+[i]Concord[/i] — As long as there are four or more card types among permanents you control, enchanted creature can't attack or block. => Enchant creature
+Enchanted creature has base power and toughness 1/1 , loses all other abilities, and becomes a Citizen in addition to its other types.
+[i]Contribution[/i] — Whenever another creature you control becomes tapped and it isn't your combat phase, enchanted creature can't attack or block until end of turn.
+
+CU12 — Vigilant Citzenry
+artist: rajewel => G_gaios
+
+CU13 — U Peacock Card 3
+artist: izidro => 
+
+CU14 — Rigid Intervention
+artist: Himmis => 
+
+CB15 — Corvidian Equipment
+rules_text: When this Equipment enters, create a Part Token. [i](Its a 2/1 artifact with “Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a Sorcery)[/i]
+Equipped creature has “Whenever this creature deals combat damage to a player, Produce. [i](Create a token that's a copy of an artifact token you control.)[/i]
+Equip {2} => When this Equipment enters, create a Part Token. [i](Its a 2/1 artifact with “Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a Sorcery)[/i]
+Equipped creature has “Whenever this creature deals combat damage to a player, produce.” [i](To produce, create a token that's a copy of an artifact token you control.)[/i]
+Equip {2}
+
+CR02 — R Peacock Card 1
+type: Creature — Cat Nomad Scout => Creature — Bird Bard
+rules_text: Prowess
+When this creature enters, target creature can't block this turn. => {3}{R}: Target creature an opponent controls can't block this turn.
+pt: 1/3 => 3/1
+artist: Francell Garrote => FortunataFox
+
+CR03 — R Misc. Creature 1
+type: Creature — Bear Warrior => Creature — Cat Nomad Peasant
+rules_text: Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent. => As an additional cost to cast this spell, you may behold two Towns.(To behold two Towns you may choose two Towns you control or reveal two Town cards from your hand.)
+When this creature enters, choose one. If a Town was beheld, choose both instead. —
+• Create a Treasure token.
+• Discard a card, then draw a card.
+pt: 1/2 => 1/1
+artist: Kasai => 
+
+CR04 — R Corvid Card 1
+rules_text: Flying
+When R Corvid Card 1 enters or dies, create a Part token. [i](Its a 2/1 artifact with “{2}, Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a Sorcery.)[/i] => Flying
+When this creature enters or dies, create a Part token. [i](Its a 2/1 artifact with “{2}, Sacrifice two or more part tokens: Create a colorless Construct artifact creature token with their combined stats and abilities. Activate only as a Sorcery.)[/i]
+flavor_text: [i][/i] => [i]Corvidian ingenuity is oft applied to develop new tools for the Imperial Legions.[/i]
+pt: 3/2 => 2/2
+artist: EleMont => TheChrisPMan
+
+CR05 — R Peacock Card 2
+artist: tarkheki => 
+
+CR06 — R Corvid Card 2
+artist: Alena Schlotz => Goat-Kid
+
+CR07 — R Boar Card 2
+type: Creature — Minotaur Berserker => Creature — Boar Sorcerer
+rules_text: 
+Whenever this creature deals combat damage to a player, create a Treasure token or a Weapon token. [i](It's an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)[/i] => Reach, prowess
+Whenever a creature an opponent controls dies, if it was dealt noncombat damage this turn, create a black 2/2 Boar Berserker creature token with haste. This ability triggers only once each turn.
+pt: 5/4 => 4/4
+artist: Matt Cowdery => 
+
+CR08 — R Misc. Creature 2
+type: Creature — Elemental => Creature — Elemental Dragon
+rules_text: Menace
+When this creature enters deal 2 damage to any target. => Menace
+When this creature enters, it deals 2 damage to any target.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+artist: digitalmakoy => 
+
+CR15 — Boar Equipment
+artist: EGOR-URSUS => 
+
+CG04 — G Misc. Creature 1
+type: Creature => Creature — Bird Noble Citizen
+rules_text:  => When this creature enters, create a treasure token.
+artist: Vorueg => 
+
+CG03 — G Canidon Card 1
+rules_text: When this permanent enters, gain 3 life.
+Immortalize {1}{G} [i](You may cast this creature from your graveyard for it's Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)[/i] => Vigilance
+Escort [i](Whenever this creature attacks, choose another target attacking creature with lesser power. Until end of turn, that creature gains the following abilities.)[/i]
+artist: Dioskyr => 
+
+CG08 — G Misc. Creature 2
+type: Creature => Creature — Rhino Soldier Advisor
+rules_text: Trample
+Whenever this creature becomes the target of a spell or ability an opponent controls, you may draw a card. => As an additional cost to cast this spell you may behold a Town or a Noble. If you do this spell costs {1} less to cast. [i](To behold a Town or a Noble, choose a Town or a Noble you control or reveal a Town or a Noble card from your hand.)[/i]
+This creature can't be blocked by more than one creature.
+pt: 6/6 => 5/5
+artist: Markoo9 => 
+
+CG15 — Canidon Equipment
+rules_text: Equipped creature has trample and “Sacrifice this creature: Target creature card in your graveyard gains Immortalize {X} until end of turn, where X is it's mana value plus 1.” [i](You may cast this creature from your graveyard for it's Immortalize cost. If you do, it becomes an artifact enchantment Shrine, and loses all other types.)[/i]
+Equip {2} => Equipped creature has escort. [i](Whenever this creature attacks, choose another target attacking creature with lesser power. Until end of turn, that creature gains the following abilities.)[/i]
+Equipped creature has trample.
+Equip {2}
+
+CG13 — _ Fury (Boar)
+flavor_text: [i][/i] => [i]G Boar Card 3[/i]
+
+UZ20 — URW Arcun 2
+rules_text: Harmonize cost [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Harmonize {3}{U}{R}{W} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+CU04 — Wandering Fishmonger
+rules_text: When this creature enters, choose one. If you control two Towns, instead, choose both.
+• Create a Food token.
+• Create a 1/1 blue Fish creature token. => When this creature enters, choose one. If you control two or more Towns, instead, choose both.
+• Draw a card.
+• Create a 1/1 blue Fish creature token.
+artist: Bear-Hybrid => 
+
+CL08 —
+artist: Alexvanderlinde => 
+
+CL10 —
+artist: Vadim Koval => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

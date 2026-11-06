@@ -1,7 +1,7 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "CL06 —",
+			"name": "CL06 — _ Castle",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -33,7 +33,7 @@
 		{
 			"name": "CW03 — W Canidon Card 1",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Wolf Knight",
 			"collector_number": "4",
 			"image_uris": {
@@ -43,7 +43,7 @@
 		{
 			"name": "CW05 — W Canidon Card 2",
 			"rarity": "common",
-			"mana_cost": "{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Dog Knight",
 			"collector_number": "6",
 			"image_uris": {
@@ -54,7 +54,7 @@
 			"name": "CW04 — W Misc Creature",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature",
+			"type": "Creature — Hippo Advisor",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/5.jpg"
@@ -63,7 +63,7 @@
 		{
 			"name": "CW06 — W Peacock Card 2",
 			"rarity": "common",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Bird Bard",
 			"collector_number": "7",
 			"image_uris": {
@@ -74,7 +74,7 @@
 			"name": "CW07 — W Elk Card 2",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature",
+			"type": "Creature — Elk Citizen",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/7.jpg"
@@ -83,8 +83,8 @@
 		{
 			"name": "CW08 — W Misc Creature 2",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Elemental",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Elemental Griffin",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/8.jpg"
@@ -101,10 +101,10 @@
 			}
 		},
 		{
-			"name": "CW10 —",
+			"name": "CW10 — Imperial Detainment",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/10.jpg"
@@ -114,17 +114,17 @@
 			"name": "CW11 — W Peacock Card 3",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/11.jpg"
 			}
 		},
 		{
-			"name": "CW12 —",
+			"name": "CW12 — Uplifting Melody",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/12.jpg"
@@ -141,9 +141,9 @@
 			}
 		},
 		{
-			"name": "CW14 —",
+			"name": "CW14 — Vigilant Strike",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "15",
 			"image_uris": {
@@ -158,6 +158,46 @@
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "CZ01 — Elk Creature",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/G}{2/W}",
+			"type": "Creature — Elk Citizen",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "CZ02 — Corvidian Creature",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/U}{2/B}",
+			"type": "Creature — Bird Artificer Warlock",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "CZ03 — Canidon Creature",
+			"rarity": "common",
+			"mana_cost": "{2/W}{2/B}{2/G}",
+			"type": "Creature — Wolf Knight",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "CZ04 — Boar Creature",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/G}{2/B}",
+			"type": "Creature",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/19.jpg"
 			}
 		},
 		{
@@ -211,7 +251,7 @@
 			}
 		},
 		{
-			"name": "CU07 — U Corvid Card 2 (Maybe)",
+			"name": "CU07 — U Corvid Card 2",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Artificer",
@@ -243,7 +283,7 @@
 		{
 			"name": "CU10 — Imperial Order",
 			"rarity": "common",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{U}{U}",
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
@@ -301,17 +341,57 @@
 			}
 		},
 		{
-			"name": "CB01 —",
+			"name": "CZ05 — Peacock Creature",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/R}{2/W}",
+			"type": "Creature — Bird Bard",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "CZ06 — Elk Spell",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/G}{2/W}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "CZ07 — Corvidian Spell",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/U}{2/B}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "CZ08 — Canidon Spell",
+			"rarity": "common",
+			"mana_cost": "{2/W}{2/B}{2/G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "CB01 — B Canidon Card 1",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature",
+			"type": "Creature — Dog Knight",
 			"collector_number": "64",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/39.jpg"
 			}
 		},
 		{
-			"name": "CB02 —",
+			"name": "CB02 — B Boar Card 1",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Boar Berserker",
@@ -321,67 +401,67 @@
 			}
 		},
 		{
-			"name": "CB03 —",
+			"name": "CB03 — B Crow Card 1",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Crocodile Warlock",
+			"type": "Creature — Bird Artificer",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/41.jpg"
 			}
 		},
 		{
-			"name": "CB05 —",
+			"name": "CB05 — B Canidon Card 2",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Enchantment Creature — Bird Warlock",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Wolf Warlock Knight",
 			"collector_number": "68",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/42.jpg"
 			}
 		},
 		{
-			"name": "CB04 —",
+			"name": "CB04 — B Misc Card 1",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Bird Cleric",
+			"type": "Creature — Snake Rogue Advisor",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/43.jpg"
 			}
 		},
 		{
-			"name": "CB06 —",
+			"name": "CB06 — Augmented Shopguard",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Minotaur Warrior Assassin",
+			"type": "Creature — Bird Artificer Soldier",
 			"collector_number": "69",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/44.jpg"
 			}
 		},
 		{
-			"name": "CB07 —",
+			"name": "CB07 — B Boar Card 2",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Crocodile Rogue Warlock",
+			"type": "Creature — Boar Warlock Berserker",
 			"collector_number": "70",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/45.jpg"
 			}
 		},
 		{
-			"name": "CB08 —",
+			"name": "CB08 — B Misc Card 2",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
-			"type": "Creature — Nightmare Elemental",
+			"type": "Creature — Lizard Noble Soldier",
 			"collector_number": "71",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/46.jpg"
 			}
 		},
 		{
-			"name": "CB09 —",
+			"name": "CB09 — Imperial Sentence",
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
@@ -391,9 +471,9 @@
 			}
 		},
 		{
-			"name": "CB10 —",
+			"name": "CB10 — B Boar Card 3",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "73",
 			"image_uris": {
@@ -401,9 +481,9 @@
 			}
 		},
 		{
-			"name": "CB11 —",
+			"name": "CB11 — Cornered Ferocity",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
@@ -411,9 +491,9 @@
 			}
 		},
 		{
-			"name": "CB12 —",
+			"name": "CB12 — B Crow Card 3",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
@@ -421,20 +501,20 @@
 			}
 		},
 		{
-			"name": "CB13 —",
+			"name": "CB13 — B Canidon Card 4",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Enchantment",
+			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/51.jpg"
 			}
 		},
 		{
-			"name": "CB14 —",
+			"name": "CB14 — B Boar Card 4",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Enchantment",
+			"type": "Enchantment — Aura",
 			"collector_number": "77",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/52.jpg"
@@ -451,6 +531,46 @@
 			}
 		},
 		{
+			"name": "CZ09 — Boar Spell",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/G}{2/B}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "CZ10 — Peacock Spell",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/R}{2/W}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "CZ12 —",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "CZ11 — Wit-Wield Spirits",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Enchantment Creature — Bird Spirit",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/57.jpg"
+			}
+		},
+		{
 			"name": "CR01 — R Boar Card 1",
 			"rarity": "common",
 			"mana_cost": "{R}",
@@ -464,7 +584,7 @@
 			"name": "CR02 — R Peacock Card 1",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Cat Nomad Scout",
+			"type": "Creature — Bird Bard",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/59.jpg"
@@ -474,7 +594,7 @@
 			"name": "CR03 — R Misc. Creature 1",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Bear Warrior",
+			"type": "Creature — Cat Nomad Peasant",
 			"collector_number": "97",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/60.jpg"
@@ -514,7 +634,7 @@
 			"name": "CR07 — R Boar Card 2",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Minotaur Berserker",
+			"type": "Creature — Boar Sorcerer",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/64.jpg"
@@ -524,16 +644,16 @@
 			"name": "CR08 — R Misc. Creature 2",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
-			"type": "Creature — Elemental",
+			"type": "Creature — Elemental Dragon",
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/65.jpg"
 			}
 		},
 		{
-			"name": "CR09 —",
+			"name": "CR09 — R Boar Card 3",
 			"rarity": "common",
-			"mana_cost": "{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "103",
 			"image_uris": {
@@ -541,17 +661,17 @@
 			}
 		},
 		{
-			"name": "CR10 —",
+			"name": "CR10 — R Peacock Card 3",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/67.jpg"
 			}
 		},
 		{
-			"name": "CR11 — Corvid Card 3",
+			"name": "CR11 — Cruel Smelting (Crow)",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
@@ -561,9 +681,9 @@
 			}
 		},
 		{
-			"name": "CR12 —",
+			"name": "CR12 — Imperial _",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "106",
 			"image_uris": {
@@ -581,23 +701,63 @@
 			}
 		},
 		{
-			"name": "CR14 —",
+			"name": "CR14 — R Peacock Card 4",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/71.jpg"
 			}
 		},
 		{
-			"name": "CR13 —",
+			"name": "CR13 — R Corvid Card 4",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura",
+			"type": "Artifact",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "CZ14 — 2c Canine Enchant",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "CZ13 — Great-Pain Spirits",
+			"rarity": "common",
+			"mana_cost": "{3}{B/G}",
+			"type": "Enchantment Creature — Wolf Boar Spirit",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "CZ16 — 2c Bird Creature",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird Noble",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "CZ15 — Day-Shield Spirits",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Enchantment Creature — Bird Elk Spirit",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/76.jpg"
 			}
 		},
 		{
@@ -624,7 +784,7 @@
 			"name": "CG04 — G Misc. Creature 1",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature",
+			"type": "Creature — Bird Noble Citizen",
 			"collector_number": "129",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/79.jpg"
@@ -651,20 +811,20 @@
 			}
 		},
 		{
-			"name": "CG06 —",
+			"name": "CG06 — G Elk Card 2",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature",
+			"type": "Creature — Elk Citizen",
 			"collector_number": "131",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/82.jpg"
 			}
 		},
 		{
-			"name": "CG07 —",
+			"name": "CG07 — G Canidon Card 2",
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature",
+			"type": "Creature — Dog Knight",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/83.jpg"
@@ -674,7 +834,7 @@
 			"name": "CG08 — G Misc. Creature 2",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
-			"type": "Creature",
+			"type": "Creature — Rhino Soldier Advisor",
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/84.jpg"
@@ -691,7 +851,7 @@
 			}
 		},
 		{
-			"name": "CG10 —",
+			"name": "CG10 — G Elk Card 3",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
@@ -701,7 +861,7 @@
 			}
 		},
 		{
-			"name": "CG11 —",
+			"name": "CG11 — Imperial _",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
@@ -731,7 +891,7 @@
 			}
 		},
 		{
-			"name": "CG14 —",
+			"name": "CG14 — G Boar Card 4",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
@@ -741,7 +901,7 @@
 			}
 		},
 		{
-			"name": "CG12 —",
+			"name": "CG12 — G Elk Card 4",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
@@ -751,11 +911,51 @@
 			}
 		},
 		{
+			"name": "CZ18 — 2c Boar Creature",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Boar Shaman",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "CZ18 — Mind-Fear Spirits",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Enchantment Creature — Bird Boar Spirit",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "CZ20 — 2c Elk Creature",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Elk Citizen",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "CZ19 — Heart-Watch Spirits",
+			"rarity": "common",
+			"mana_cost": "{4}{G/W}",
+			"type": "Enchantment Creature — Dog Elk Spirit",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/95.jpg"
+			}
+		},
+		{
 			"name": "UZ19 — URW Arcun 1",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Creature — Bird Bard",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/105.jpg"
 			}
@@ -765,7 +965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/106.jpg"
 			}
@@ -775,7 +975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Creature — Bird Artificer",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/116.jpg"
 			}
@@ -785,7 +985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Creature — Bird Artificer",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/117.jpg"
 			}
@@ -795,7 +995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Creature — Elk Citizen",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/127.jpg"
 			}
@@ -805,7 +1005,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Creature — Elk Citizen",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/128.jpg"
 			}
@@ -815,7 +1015,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Creature — Boar Shaman",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/138.jpg"
 			}
@@ -825,7 +1025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Creature — Boar Berserker",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/139.jpg"
 			}
@@ -835,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Creature — Wolf Knight",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/149.jpg"
 			}
@@ -845,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}{G}",
 			"type": "Creature — Dog Knight",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/150.jpg"
 			}
@@ -921,27 +1121,27 @@
 			}
 		},
 		{
-			"name": "UL01 —",
+			"name": "UL04 — Entertainment District",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "267",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/227.jpg"
 			}
 		},
 		{
-			"name": "UL02 —",
+			"name": "UL01 — Honored Castletown",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/228.jpg"
 			}
 		},
 		{
-			"name": "UL03 —",
+			"name": "UL03 — Boisterous Village",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -951,17 +1151,17 @@
 			}
 		},
 		{
-			"name": "UL04 —",
+			"name": "UL02 — Industrious Campus",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "270",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/230.jpg"
 			}
 		},
 		{
-			"name": "UL05 —",
+			"name": "UL05 — Idyllic Hamlet",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -971,57 +1171,7 @@
 			}
 		},
 		{
-			"name": "RZ08 — Canidon Representative",
-			"rarity": "rare",
-			"mana_cost": "{B/G}{W}",
-			"type": "Creature — Dog Knight Advisor",
-			"collector_number": "244",
-			"image_uris": {
-				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/232.jpg"
-			}
-		},
-		{
-			"name": "RZ11 — _ Representative",
-			"rarity": "rare",
-			"mana_cost": "{R/W}{U}",
-			"type": "Creature — Bird Bard Advisor",
-			"collector_number": "245",
-			"image_uris": {
-				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/233.jpg"
-			}
-		},
-		{
-			"name": "RZ14 — _ Representative",
-			"rarity": "rare",
-			"mana_cost": "{U/R}{B}",
-			"type": "Creature — Bird Artificer Advisor",
-			"collector_number": "246",
-			"image_uris": {
-				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/234.jpg"
-			}
-		},
-		{
-			"name": "RZ17 — _ Representative",
-			"rarity": "rare",
-			"mana_cost": "{B/G}{R}",
-			"type": "Creature — Boar Berserker Advisor",
-			"collector_number": "247",
-			"image_uris": {
-				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/235.jpg"
-			}
-		},
-		{
-			"name": "RZ20 — _ Representative",
-			"rarity": "rare",
-			"mana_cost": "{W/U}{G}",
-			"type": "Creature — Elk Citizen Advisor",
-			"collector_number": "248",
-			"image_uris": {
-				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/236.jpg"
-			}
-		},
-		{
-			"name": "CL01 —",
+			"name": "CL01 — Holy Quarter",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -1031,7 +1181,7 @@
 			}
 		},
 		{
-			"name": "CL05 —",
+			"name": "CL05 — Farming Hamlet",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -1041,7 +1191,7 @@
 			}
 		},
 		{
-			"name": "CL04 —",
+			"name": "CL04 — Valley Village",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -1051,7 +1201,7 @@
 			}
 		},
 		{
-			"name": "CL03 —",
+			"name": "CL03 — Mining Town",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -1061,7 +1211,7 @@
 			}
 		},
 		{
-			"name": "CL02 —",
+			"name": "CL02 — Riverland Outpost",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -1071,7 +1221,7 @@
 			}
 		},
 		{
-			"name": "CL07 —",
+			"name": "CL07 — Industrious District",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -1091,7 +1241,7 @@
 			}
 		},
 		{
-			"name": "CL09 —",
+			"name": "CL09 — Cliffside Fort",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
@@ -1109,15 +1259,80 @@
 			"image_uris": {
 				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/258.jpg"
 			}
+		},
+		{
+			"name": "Elk Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elk Citizen",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Blessing",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Bird Bard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird Bard",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Dog Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dog Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bluephoenix234.github.io/sets/FRD-files/img/277.jpg"
+			}
 		}
 	]
 
 [rare(1)]
-	5 RZ08 — Canidon Representative
-	5 RZ11 — _ Representative
-	5 RZ14 — _ Representative
-	5 RZ17 — _ Representative
-	5 RZ20 — _ Representative
 [uncommon(3)]
 	5 UZ19 — URW Arcun 1
 	5 UZ20 — URW Arcun 2
@@ -1129,13 +1344,13 @@
 	5 UZ17 — BRG Arcun 1
 	5 UZ15 — WBG Arcun 1
 	5 UZ16 — WBG Arcun 2
-	5 UL01 —
-	5 UL02 —
-	5 UL03 —
-	5 UL04 —
-	5 UL05 —
+	5 UL04 — Entertainment District
+	5 UL01 — Honored Castletown
+	5 UL03 — Boisterous Village
+	5 UL02 — Industrious Campus
+	5 UL05 — Idyllic Hamlet
 [common(10)]
-	5 CL06 —
+	5 CL06 — _ Castle
 	5 CW01 — Raucous Enspiriter
 	5 CW02 — W Elk Card 1
 	5 CW03 — W Canidon Card 1
@@ -1145,18 +1360,22 @@
 	5 CW07 — W Elk Card 2
 	5 CW08 — W Misc Creature 2
 	5 CW09 — Motley Escort (Canidon)
-	5 CW10 —
+	5 CW10 — Imperial Detainment
 	5 CW11 — W Peacock Card 3
-	5 CW12 —
+	5 CW12 — Uplifting Melody
 	5 CW15 — Elk Equipment
-	5 CW14 —
+	5 CW14 — Vigilant Strike
 	5 CW13 — W Elk Card 3
+	5 CZ01 — Elk Creature
+	5 CZ02 — Corvidian Creature
+	5 CZ03 — Canidon Creature
+	5 CZ04 — Boar Creature
 	5 CU01 — U Elk Card 1
 	5 CU02 — U Peacock Card 1
 	5 CU03 — U Corvid Card 1
 	5 CU05 — U Elk Card 2
 	5 CU06 — Melodic Subduer
-	5 CU07 — U Corvid Card 2 (Maybe)
+	5 CU07 — U Corvid Card 2
 	5 CU08 — U Misc Card 2
 	5 CU09 — U Corvid Card 3
 	5 CU10 — Imperial Order
@@ -1165,21 +1384,29 @@
 	5 CU13 — U Peacock Card 3
 	5 CU14 — Rigid Intervention
 	5 CU15 — Peacock Equipment
-	5 CB01 —
-	5 CB02 —
-	5 CB03 —
-	5 CB05 —
-	5 CB04 —
-	5 CB06 —
-	5 CB07 —
-	5 CB08 —
-	5 CB09 —
-	5 CB10 —
-	5 CB11 —
-	5 CB12 —
-	5 CB13 —
-	5 CB14 —
+	5 CZ05 — Peacock Creature
+	5 CZ06 — Elk Spell
+	5 CZ07 — Corvidian Spell
+	5 CZ08 — Canidon Spell
+	5 CB01 — B Canidon Card 1
+	5 CB02 — B Boar Card 1
+	5 CB03 — B Crow Card 1
+	5 CB05 — B Canidon Card 2
+	5 CB04 — B Misc Card 1
+	5 CB06 — Augmented Shopguard
+	5 CB07 — B Boar Card 2
+	5 CB08 — B Misc Card 2
+	5 CB09 — Imperial Sentence
+	5 CB10 — B Boar Card 3
+	5 CB11 — Cornered Ferocity
+	5 CB12 — B Crow Card 3
+	5 CB13 — B Canidon Card 4
+	5 CB14 — B Boar Card 4
 	5 CB15 — Corvidian Equipment
+	5 CZ09 — Boar Spell
+	5 CZ10 — Peacock Spell
+	5 CZ12 —
+	5 CZ11 — Wit-Wield Spirits
 	5 CR01 — R Boar Card 1
 	5 CR02 — R Peacock Card 1
 	5 CR03 — R Misc. Creature 1
@@ -1188,28 +1415,36 @@
 	5 CR06 — R Corvid Card 2
 	5 CR07 — R Boar Card 2
 	5 CR08 — R Misc. Creature 2
-	5 CR09 —
-	5 CR10 —
-	5 CR11 — Corvid Card 3
-	5 CR12 —
+	5 CR09 — R Boar Card 3
+	5 CR10 — R Peacock Card 3
+	5 CR11 — Cruel Smelting (Crow)
+	5 CR12 — Imperial _
 	5 CR15 — Boar Equipment
-	5 CR14 —
-	5 CR13 —
+	5 CR14 — R Peacock Card 4
+	5 CR13 — R Corvid Card 4
+	5 CZ14 — 2c Canine Enchant
+	5 CZ13 — Great-Pain Spirits
+	5 CZ16 — 2c Bird Creature
+	5 CZ15 — Day-Shield Spirits
 	5 CG01 — G Elk Card 1
 	5 CG02 — G Boar Card 1
 	5 CG04 — G Misc. Creature 1
 	5 CG03 — G Canidon Card 1
 	5 CG05 — Brutish Bird-Watcher
-	5 CG06 —
-	5 CG07 —
+	5 CG06 — G Elk Card 2
+	5 CG07 — G Canidon Card 2
 	5 CG08 — G Misc. Creature 2
 	5 CG09 — G Canidon Card 3
-	5 CG10 —
-	5 CG11 —
+	5 CG10 — G Elk Card 3
+	5 CG11 — Imperial _
 	5 CG15 — Canidon Equipment
 	5 CG13 — _ Fury (Boar)
-	5 CG14 —
-	5 CG12 —
+	5 CG14 — G Boar Card 4
+	5 CG12 — G Elk Card 4
+	5 CZ18 — 2c Boar Creature
+	5 CZ18 — Mind-Fear Spirits
+	5 CZ20 — 2c Elk Creature
+	5 CZ19 — Heart-Watch Spirits
 	5 CU04 — Wandering Fishmonger
 	5 CA02 — _ Banner
 	5 CA01 — Canidon Banner
@@ -1217,12 +1452,12 @@
 	5 CA04 — _ Banner
 	5 CA05 — _ Banner
 	5 CA06 — Imperial Scoutcraft
-	5 CL01 —
-	5 CL05 —
-	5 CL04 —
-	5 CL03 —
-	5 CL02 —
-	5 CL07 —
+	5 CL01 — Holy Quarter
+	5 CL05 — Farming Hamlet
+	5 CL04 — Valley Village
+	5 CL03 — Mining Town
+	5 CL02 — Riverland Outpost
+	5 CL07 — Industrious District
 	5 CL08 —
-	5 CL09 —
+	5 CL09 — Cliffside Fort
 	5 CL10 —
